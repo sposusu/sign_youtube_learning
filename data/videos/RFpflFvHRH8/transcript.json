@@ -1,0 +1,4556 @@
+[
+  {
+    "start": 0,
+    "duration": 3.5,
+    "text": "看新聞 開視野",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 3.5,
+    "duration": 4.5,
+    "text": "歡迎收看今天 9月10號的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 8,
+    "duration": 2,
+    "text": "首先來關心",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 10,
+    "duration": 2,
+    "text": "高雄新達電廠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 12,
+    "duration": 3,
+    "text": "昨天晚間傳出火警",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 15,
+    "duration": 3,
+    "text": "昨天火事在半個小時左右撲滅",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 18,
+    "duration": 2,
+    "text": "沒有傳出傷亡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 20,
+    "duration": 2,
+    "text": "雖然沒有傳出傷亡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22,
+    "duration": 3,
+    "text": "但昨天早上的電視新聞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 26,
+    "duration": 3,
+    "text": "所幸火事在半個小時左右撲滅",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 29,
+    "duration": 2,
+    "text": "沒有傳出傷亡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 31,
+    "duration": 2,
+    "text": "台電指出",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 33,
+    "duration": 2,
+    "text": "起火的是新建機組",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 35,
+    "duration": 3,
+    "text": "目前正處於測試階段",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 38,
+    "duration": 3,
+    "text": "火災沒有影響既有的機組運轉",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 41,
+    "duration": 3,
+    "text": "也不會影響今年的整體供電狀況",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 44,
+    "duration": 4,
+    "text": "不過這起事故也讓附近民眾嚇壞了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 48,
+    "duration": 3,
+    "text": "地方里長要求台電全面停工",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 51,
+    "duration": 2,
+    "text": "釐清責任",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 53,
+    "duration": 3,
+    "text": "台電董事長曾文生說明",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 56,
+    "duration": 3,
+    "text": "這一場意外應該是天然氣洩漏造成",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 59,
+    "duration": 2,
+    "text": "上午9點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 61,
+    "duration": 2,
+    "text": "會先由施工處",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 63,
+    "duration": 2,
+    "text": "以及新達電廠廠長",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 65,
+    "duration": 2,
+    "text": "來向里長說明",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 71,
+    "duration": 2,
+    "text": "中秋火光照亮夜空",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 73,
+    "duration": 2,
+    "text": "還伴隨農煙不斷竄出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 75,
+    "duration": 2,
+    "text": "不時還傳出爆炸聲響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 77,
+    "duration": 2,
+    "text": "讓場區員工都頻頻後退",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 79,
+    "duration": 2,
+    "text": "火事一發不可收拾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 81,
+    "duration": 3,
+    "text": "幾公里外的民眾都錄下電廠大火的瞬間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 84,
+    "duration": 2,
+    "text": "高雄新達發電廠傳出火警",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 86,
+    "duration": 2,
+    "text": "嚇壞附近民眾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 104,
+    "duration": 2,
+    "text": "9號晚間8點左右",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 106,
+    "duration": 3,
+    "text": "高雄新達發電廠2號新機組要施運轉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 109,
+    "duration": 2,
+    "text": "疑似因為天然氣洩漏",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 111,
+    "duration": 2,
+    "text": "導致現場頻頻傳出爆炸聲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 113,
+    "duration": 2,
+    "text": "也讓場區陷入火海",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 115,
+    "duration": 3,
+    "text": "由於爆炸疑似與天然氣外洩有關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 118,
+    "duration": 2,
+    "text": "地方里長抨擊台電位",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 120,
+    "duration": 2,
+    "text": "及時通報要求立即啟通",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 136,
+    "duration": 2,
+    "text": "新達電廠原本是燃煤電廠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 138,
+    "duration": 4,
+    "text": "1998年增設五部燃氣渦輪發電機組",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 142,
+    "duration": 2,
+    "text": "目前燃煤1號機已經處以",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 144,
+    "duration": 2,
+    "text": "轉為緊急備用電力設施",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 146,
+    "duration": 2,
+    "text": "為了強化供電韌性",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 148,
+    "duration": 2,
+    "text": "台電啟動燃氣機組更新改建計劃",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 150,
+    "duration": 2,
+    "text": "在南側基地新設燃氣機組",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 152,
+    "duration": 2,
+    "text": "9號起伏的位置",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 154,
+    "duration": 3,
+    "text": "就是施工中的新2號燃氣機組",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 168,
+    "duration": 3,
+    "text": "整個運轉測試的過程裡面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 171,
+    "duration": 3,
+    "text": "天然氣的管線甚至有哪個地方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 174,
+    "duration": 1,
+    "text": "有可能有洩漏",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 175,
+    "duration": 2,
+    "text": "因為現在火場還是黑的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 177,
+    "duration": 2,
+    "text": "那也還不能夠收電",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 179,
+    "duration": 2,
+    "text": "所以我們會等明天早上天亮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 181,
+    "duration": 3,
+    "text": "來做一個清除的處理",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 184,
+    "duration": 1,
+    "text": "台電董事長曾文生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 185,
+    "duration": 2,
+    "text": "凌晨到現場了解狀況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 187,
+    "duration": 3,
+    "text": "初步判斷因天然氣外洩導致起火",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 190,
+    "duration": 2,
+    "text": "並排除人為因素",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 192,
+    "duration": 3,
+    "text": "後續將召集相關單位離侵事故原因",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 195,
+    "duration": 2,
+    "text": "公視新聞綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 198,
+    "duration": 3,
+    "text": "獨報時間來看到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 201,
+    "duration": 2,
+    "text": "自由時報報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 203,
+    "duration": 3,
+    "text": "尼泊爾政府封鎖了社群媒體",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 206,
+    "duration": 2,
+    "text": "還有貪腐文化",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 208,
+    "duration": 2,
+    "text": "都引發年輕人不滿",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 210,
+    "duration": 3,
+    "text": "上街抗議",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 213,
+    "duration": 3,
+    "text": "警方涉殺至少19名的抗議者後",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 216,
+    "duration": 4,
+    "text": "首都加德滿都陷入混亂",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 220,
+    "duration": 4,
+    "text": "總理奧利昨天宣布辭職",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 224,
+    "duration": 2,
+    "text": "但是為平行民怨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 226,
+    "duration": 4,
+    "text": "抗議運動持續升級",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 230,
+    "duration": 2,
+    "text": "中國時報是",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 232,
+    "duration": 2,
+    "text": "南韓現代汽車",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 234,
+    "duration": 3,
+    "text": "在美國喬治亞州的電池工廠",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 237,
+    "duration": 5,
+    "text": "遭到美國移民單位大動作查器",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 242,
+    "duration": 2,
+    "text": "逮捕了300多名",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 244,
+    "duration": 3,
+    "text": "涉嫌在美國非法打工的韓國人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 247,
+    "duration": 3,
+    "text": "而此舉震驚國際",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 250,
+    "duration": 2,
+    "text": "目前多家韓國企業",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 252,
+    "duration": 2,
+    "text": "已經暫停了22項",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 254,
+    "duration": 4,
+    "text": "在美國的建廠計劃",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 258,
+    "duration": 2,
+    "text": "聯合報提到了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 260,
+    "duration": 2,
+    "text": "中央統籌分配稅款",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 262,
+    "duration": 4,
+    "text": "與補助款爭議延燒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 266,
+    "duration": 2,
+    "text": "台中市長盧秀燕",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 268,
+    "duration": 3,
+    "text": "召集藍白與五黨籍執政",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 271,
+    "duration": 3,
+    "text": "共15縣市首長",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 274,
+    "duration": 3,
+    "text": "今天將要在台北市開記者會",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 277,
+    "duration": 4,
+    "text": "呼籲中央公平公開分配",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 282,
+    "duration": 3,
+    "text": "而看完了報紙的重點之後",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 285,
+    "duration": 2,
+    "text": "繼續再來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 287,
+    "duration": 3,
+    "text": "台股昨天開紅盤",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 290,
+    "duration": 4,
+    "text": "盤中跟收盤都創歷史新高",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 294,
+    "duration": 5,
+    "text": "中場收在24855點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 299,
+    "duration": 3,
+    "text": "總市值一口氣突破了80兆元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 302,
+    "duration": 4,
+    "text": "即進全球股市規模第十大",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 306,
+    "duration": 3,
+    "text": "北股四大指數全面收紅",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 309,
+    "duration": 2,
+    "text": "9號台股跟著創歷史新高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 311,
+    "duration": 2,
+    "text": "盤中拉高24880點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 313,
+    "duration": 2,
+    "text": "隨後掌勢收斂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 315,
+    "duration": 2,
+    "text": "收在24855點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 317,
+    "duration": 2,
+    "text": "雙雙血歷史記錄",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 319,
+    "duration": 2,
+    "text": "全職股台積電也同樣亮眼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 321,
+    "duration": 1,
+    "text": "收盤1200元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 322,
+    "duration": 2,
+    "text": "觸及歷史高點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 324,
+    "duration": 1,
+    "text": "台股總市值",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 325,
+    "duration": 2,
+    "text": "同時衝破80兆元大關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 327,
+    "duration": 3,
+    "text": "成為全球股市規模第十大市場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 330,
+    "duration": 3,
+    "text": "相關的傳產受到的衝擊影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 333,
+    "duration": 1,
+    "text": "就會比較大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 334,
+    "duration": 3,
+    "text": "當然這就相對凸顯了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 337,
+    "duration": 2,
+    "text": "沒有受到對等關稅",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 339,
+    "duration": 3,
+    "text": "跟232影響的半導體",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 342,
+    "duration": 3,
+    "text": "跟AI供應鏈相對就會比較強勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 345,
+    "duration": 2,
+    "text": "法人分析本週半導體戰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 347,
+    "duration": 1,
+    "text": "蘋果公司新積發表等",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 348,
+    "duration": 1,
+    "text": "斗食利多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 349,
+    "duration": 2,
+    "text": "但美中晶片戰因應之下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 351,
+    "duration": 1,
+    "text": "全球供應鏈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 352,
+    "duration": 2,
+    "text": "重組地緣政治風險加大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 354,
+    "duration": 2,
+    "text": "華碩董事長施崇堂認為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 356,
+    "duration": 2,
+    "text": "今年是主權AI部署轉折點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 358,
+    "duration": 2,
+    "text": "台灣不能缺席",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 360,
+    "duration": 1,
+    "text": "我們不是參與",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 361,
+    "duration": 3,
+    "text": "這場變局的旁觀者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 364,
+    "duration": 2,
+    "text": "更應該成為可信任應用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 366,
+    "duration": 2,
+    "text": "垂直場域導入",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 368,
+    "duration": 3,
+    "text": "與AI治理實踐的貢獻者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 371,
+    "duration": 1,
+    "text": "施崇堂認為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 372,
+    "duration": 1,
+    "text": "台灣擁有供應鏈完整",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 373,
+    "duration": 2,
+    "text": "與系統整合等優勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 375,
+    "duration": 1,
+    "text": "可建立一個",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 376,
+    "duration": 3,
+    "text": "可信賴可落地的國家AI品牌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 379,
+    "duration": 1,
+    "text": "因為主權AI",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 380,
+    "duration": 1,
+    "text": "就是各國或各單位",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 381,
+    "duration": 2,
+    "text": "獨立建立的人工智慧",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 383,
+    "duration": 2,
+    "text": "並使用國民的資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 385,
+    "duration": 2,
+    "text": "國家語言 訓練大型語言模型",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 387,
+    "duration": 2,
+    "text": "符合國家價值觀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 389,
+    "duration": 2,
+    "text": "也保護資訊安全",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 391,
+    "duration": 1,
+    "text": "資料量好像就是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 392,
+    "duration": 1,
+    "text": "到一個瓶頸上不去",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 393,
+    "duration": 2,
+    "text": "大家都努力的投資算力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 395,
+    "duration": 2,
+    "text": "但是跟國際主流的這些",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 397,
+    "duration": 2,
+    "text": "AI的公司來比較之下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 399,
+    "duration": 2,
+    "text": "其實都還是差蠻多的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 401,
+    "duration": 3,
+    "text": "那這個對我們發展主權AI來說的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 404,
+    "duration": 1,
+    "text": "我們就會更實力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 405,
+    "duration": 1,
+    "text": "受惠AI商機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 406,
+    "duration": 1,
+    "text": "財政部公佈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 407,
+    "duration": 1,
+    "text": "8月出口金額統計",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 408,
+    "duration": 3,
+    "text": "達到584.9億美元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 411,
+    "duration": 1,
+    "text": "創立年單月新高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 412,
+    "duration": 2,
+    "text": "更是時尚同一回",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 414,
+    "duration": 2,
+    "text": "單月出口表現超越南韓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 416,
+    "duration": 1,
+    "text": "尤其電子級自通訊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 417,
+    "duration": 3,
+    "text": "產品出口就占比74.8%",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 420,
+    "duration": 2,
+    "text": "出口金額也較去年同期",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 422,
+    "duration": 2,
+    "text": "增加148.6億美元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 424,
+    "duration": 1,
+    "text": "增幅三成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 425,
+    "duration": 2,
+    "text": "不過傳產業包含塑像膠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 427,
+    "duration": 2,
+    "text": "基本金屬礦產品出口",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 429,
+    "duration": 1,
+    "text": "都出現衰退",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 430,
+    "duration": 2,
+    "text": "不排除受美國關稅影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 432,
+    "duration": 1,
+    "text": "高視訊王一廳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 433,
+    "duration": 1,
+    "text": "吳家寶 郭卓玲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 434,
+    "duration": 2,
+    "text": "特別報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 436,
+    "duration": 3,
+    "text": "民眾黨前主席柯文哲",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 439,
+    "duration": 3,
+    "text": "週一才剛以7000萬元交保",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 442,
+    "duration": 3,
+    "text": "但是臺北地景署不服",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 445,
+    "duration": 2,
+    "text": "認為精華懲案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 447,
+    "duration": 1,
+    "text": "還有重要證人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 448,
+    "duration": 3,
+    "text": "尚未調查完畢",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 451,
+    "duration": 2,
+    "text": "而且柯文哲在交保之後",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 453,
+    "duration": 3,
+    "text": "跟證人有所接觸",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 456,
+    "duration": 4,
+    "text": "因此仍然有羈押的必要",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 460,
+    "duration": 2,
+    "text": "所以在總庭傍晚",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 462,
+    "duration": 3,
+    "text": "已經提起抗告",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 466,
+    "duration": 2,
+    "text": "交保後果天再度重回法院",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 468,
+    "duration": 2,
+    "text": "前民眾黨主席柯文哲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 470,
+    "duration": 2,
+    "text": "被起訴的精華懲案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 472,
+    "duration": 1,
+    "text": "上午開庭審理",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 473,
+    "duration": 2,
+    "text": "會擔心解放抗告嗎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 475,
+    "duration": 1,
+    "text": "9號的開庭中體演",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 476,
+    "duration": 1,
+    "text": "同樣是解問證人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 477,
+    "duration": 2,
+    "text": "倒庭作證的前北市",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 479,
+    "duration": 2,
+    "text": "都委會委員徐國成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 481,
+    "duration": 2,
+    "text": "在偵查中曾說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 483,
+    "duration": 1,
+    "text": "大會通過的決議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 484,
+    "duration": 2,
+    "text": "擔任主席的彭政生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 486,
+    "duration": 1,
+    "text": "可以禁字決定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 487,
+    "duration": 2,
+    "text": "委員只是背書",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 489,
+    "duration": 1,
+    "text": "這次出庭說明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 490,
+    "duration": 2,
+    "text": "某種程度上是主席決定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 492,
+    "duration": 1,
+    "text": "但當時有問大家",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 493,
+    "duration": 1,
+    "text": "有無意見",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 494,
+    "duration": 2,
+    "text": "沒人表示反對",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 496,
+    "duration": 2,
+    "text": "而柯文哲僅簡短表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 498,
+    "duration": 1,
+    "text": "對於證人說的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 499,
+    "duration": 1,
+    "text": "如果重來一次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 500,
+    "duration": 2,
+    "text": "不要再當都委會委員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 502,
+    "duration": 2,
+    "text": "讓他感觸很深",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 504,
+    "duration": 2,
+    "text": "北檢這幾個檢察官的臉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 506,
+    "duration": 2,
+    "text": "已經被打到都腫起來了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 508,
+    "duration": 2,
+    "text": "結果他們竟然還有臉面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 510,
+    "duration": 3,
+    "text": "說他們已經善盡的舉證責任",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 513,
+    "duration": 2,
+    "text": "說他們要提抗告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 515,
+    "duration": 3,
+    "text": "結果抗告的理由是什麼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 518,
+    "duration": 2,
+    "text": "到目前為止不知道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 520,
+    "duration": 2,
+    "text": "柯文哲8號交保後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 522,
+    "duration": 1,
+    "text": "質疑檢防專辦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 523,
+    "duration": 2,
+    "text": "根本嘲不法讓北檢發聲明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 525,
+    "duration": 2,
+    "text": "譴責混淆視聽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 527,
+    "duration": 1,
+    "text": "也將競速抗告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 528,
+    "duration": 1,
+    "text": "再被民眾黨批評",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 529,
+    "duration": 2,
+    "text": "檢防爭議說下話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 531,
+    "duration": 2,
+    "text": "但柯文哲不只重劃批檢察官",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 533,
+    "duration": 3,
+    "text": "更把泡口對準總統賴清德",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 536,
+    "duration": 1,
+    "text": "總統怎麼看柯文哲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 537,
+    "duration": 2,
+    "text": "說你讓台灣四分五裂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 540,
+    "duration": 2,
+    "text": "賴清德被點名讓台灣四分五裂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 542,
+    "duration": 2,
+    "text": "總統府重申不評論司法個案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 544,
+    "duration": 3,
+    "text": "但也不接受不是事實的母黑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 547,
+    "duration": 1,
+    "text": "用攻擊元首",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 548,
+    "duration": 2,
+    "text": "或者是污衊司法的方法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 550,
+    "duration": 1,
+    "text": "無助於釐清事實",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 551,
+    "duration": 3,
+    "text": "任何人只要設犯了法律",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 554,
+    "duration": 2,
+    "text": "不論黨派 不論何人 不論身份",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 556,
+    "duration": 2,
+    "text": "我們都支持檢調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 558,
+    "duration": 3,
+    "text": "要依法來釐清事實",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 561,
+    "duration": 2,
+    "text": "也能夠依法就辦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 563,
+    "duration": 1,
+    "text": "柯文哲被控得精華成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 564,
+    "duration": 1,
+    "text": "與政治陷阱案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 565,
+    "duration": 2,
+    "text": "周四將再次開提",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 567,
+    "duration": 2,
+    "text": "民眾黨秘書長周宇修等人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 569,
+    "duration": 1,
+    "text": "多將倒庭作證",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 570,
+    "duration": 2,
+    "text": "全案未完待續",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 572,
+    "duration": 2,
+    "text": "公視新聞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 575,
+    "duration": 3,
+    "text": "運動部昨天正式接牌",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 578,
+    "duration": 2,
+    "text": "最年輕的部長李洋",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 580,
+    "duration": 2,
+    "text": "走馬上任",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 582,
+    "duration": 2,
+    "text": "總統賴清德",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 584,
+    "duration": 4,
+    "text": "行政府長卓榮泰都到場",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 588,
+    "duration": 2,
+    "text": "而李洋強調",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 590,
+    "duration": 3,
+    "text": "深知肩負重大責任",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 593,
+    "duration": 1,
+    "text": "他也提出",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 594,
+    "duration": 2,
+    "text": "運動部未來工作",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 596,
+    "duration": 2,
+    "text": "六大面向",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 598,
+    "duration": 2,
+    "text": "使用全民可以一起來",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 600,
+    "duration": 2,
+    "text": "參與運動",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 604,
+    "duration": 2,
+    "text": "特任李洋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 606,
+    "duration": 2,
+    "text": "為運動部部長",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 608,
+    "duration": 3,
+    "text": "請院長單手任命令",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 611,
+    "duration": 2,
+    "text": "從行政府長卓榮泰手中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 613,
+    "duration": 3,
+    "text": "接下運動部長的任命令和印信",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 616,
+    "duration": 2,
+    "text": "兩屆奧運羽球男雙金牌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 618,
+    "duration": 3,
+    "text": "32歲的李洋正式走馬上任",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 621,
+    "duration": 2,
+    "text": "身為一位運動員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 623,
+    "duration": 2,
+    "text": "我熱愛挑戰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 625,
+    "duration": 3,
+    "text": "也喜歡和團隊一起贏得順利",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 628,
+    "duration": 2,
+    "text": "接下來的每一步",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 630,
+    "duration": 2,
+    "text": "我都會秉持運動精神",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 632,
+    "duration": 3,
+    "text": "用行動和大家一起打造",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 635,
+    "duration": 3,
+    "text": "台灣運動新的里程碑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 638,
+    "duration": 2,
+    "text": "特別能體會運動員新生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 640,
+    "duration": 3,
+    "text": "也清楚台灣運動發展各項挑戰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 643,
+    "duration": 1,
+    "text": "李洋強調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 644,
+    "duration": 2,
+    "text": "未來運動部工作的六個面向",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 646,
+    "duration": 1,
+    "text": "總統賴清德至此",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 647,
+    "duration": 2,
+    "text": "強調李洋已做好準備",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 649,
+    "duration": 1,
+    "text": "行政府長卓榮泰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 650,
+    "duration": 3,
+    "text": "期許李洋是擦亮金字招牌的部長",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 653,
+    "duration": 4,
+    "text": "我本人還有卓院長率領的行政團隊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 657,
+    "duration": 4,
+    "text": "一定頂力支持李洋部長",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 661,
+    "duration": 2,
+    "text": "萬事起頭難",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 663,
+    "duration": 4,
+    "text": "再難都沒有得奧運金牌這麼難",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 672,
+    "duration": 2,
+    "text": "而且他還可以得兩次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 674,
+    "duration": 1,
+    "text": "事實上",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 675,
+    "duration": 3,
+    "text": "李洋從部入會場前就略顯緊張",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 678,
+    "duration": 2,
+    "text": "只要遇到有人向他致意",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 680,
+    "duration": 2,
+    "text": "接以笑臉鞠躬回應",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 682,
+    "duration": 2,
+    "text": "連訪時的狀態輕鬆許多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 684,
+    "duration": 2,
+    "text": "再次強調最先要做的就是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 686,
+    "duration": 2,
+    "text": "落實全民運動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 688,
+    "duration": 1,
+    "text": "我真的非常希望說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 689,
+    "duration": 2,
+    "text": "全民真的有運動的習慣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 691,
+    "duration": 1,
+    "text": "這件事情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 692,
+    "duration": 2,
+    "text": "我覺得像我自己就很喜歡打籃球",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 694,
+    "duration": 1,
+    "text": "很喜歡打桌球",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 695,
+    "duration": 1,
+    "text": "然後我覺得",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 696,
+    "duration": 2,
+    "text": "包含我自己不只是只有羽球",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 698,
+    "duration": 1,
+    "text": "有趣而已",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 699,
+    "duration": 1,
+    "text": "我覺得每一項運動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 700,
+    "duration": 1,
+    "text": "都有它有趣的地方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 701,
+    "duration": 2,
+    "text": "會擠出時間運動以身作則",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 703,
+    "duration": 3,
+    "text": "而自己從國小到高中都是體育班",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 706,
+    "duration": 1,
+    "text": "會和教育部討論",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 707,
+    "duration": 2,
+    "text": "如何完善體育班制度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 709,
+    "duration": 3,
+    "text": "畢竟我當時在參加體育班的時候",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 712,
+    "duration": 3,
+    "text": "確實有遇到相當類似的案例",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 715,
+    "duration": 1,
+    "text": "但我覺得",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 716,
+    "duration": 3,
+    "text": "我們未來會再跟教育部這邊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 719,
+    "duration": 1,
+    "text": "好好去進行溝通",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 720,
+    "duration": 1,
+    "text": "運動部正式接牌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 721,
+    "duration": 3,
+    "text": "明年度編列預算達到248億元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 724,
+    "duration": 3,
+    "text": "李洋說每一分錢都是納稅人的錢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 727,
+    "duration": 2,
+    "text": "一定要用在刀口上會特別把關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 729,
+    "duration": 1.5,
+    "text": "至於要到立院被巡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 730.5,
+    "duration": 1.5,
+    "text": "笑著說自己也沒經驗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 732,
+    "duration": 2,
+    "text": "會和次長們請教",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 734,
+    "duration": 1,
+    "text": "公視新聞一下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 735,
+    "duration": 2,
+    "text": "會審證明SNG臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 739,
+    "duration": 1,
+    "text": "教師節就快到了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 740,
+    "duration": 2,
+    "text": "教育部將首度發放",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 742,
+    "duration": 2,
+    "text": "禁食禮券1000元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 746,
+    "duration": 2,
+    "text": "教育部所俠高中以下的",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 748,
+    "duration": 2,
+    "text": "公私力專任教師",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 750,
+    "duration": 2,
+    "text": "代理教師都使用",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 754,
+    "duration": 1,
+    "text": "相較去年",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 755,
+    "duration": 2,
+    "text": "今年各縣市的",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 757,
+    "duration": 2,
+    "text": "禁食禮幾乎都增加",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 759,
+    "duration": 2,
+    "text": "比如嘉義縣市",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 761,
+    "duration": 2,
+    "text": "去年是送賀卡一張",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 764,
+    "duration": 2,
+    "text": "今年則是600元的禮券",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 770,
+    "duration": 2,
+    "text": "配合禁食活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 772,
+    "duration": 1,
+    "text": "激勵教師士氣急",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 773,
+    "duration": 2,
+    "text": "提升教師工作績效",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 775,
+    "duration": 1,
+    "text": "教育部長珍藝",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 776,
+    "duration": 1,
+    "text": "要8號在教育部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 777,
+    "duration": 2,
+    "text": "內部會議拍板定案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 779,
+    "duration": 2,
+    "text": "比照公務人員激勵辦法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 781,
+    "duration": 2,
+    "text": "發放1000元教師禮券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 783,
+    "duration": 1,
+    "text": "教育部所俠高中以下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 784,
+    "duration": 2,
+    "text": "學校公私力專任教師",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 786,
+    "duration": 1,
+    "text": "代理教師試用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 787,
+    "duration": 2,
+    "text": "預估2400萬經費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 789,
+    "duration": 2,
+    "text": "2.4萬名老師受惠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 791,
+    "duration": 1,
+    "text": "只是一個",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 792,
+    "duration": 3,
+    "text": "寥表我們對老師的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 795,
+    "duration": 1,
+    "text": "一個謝意",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 796,
+    "duration": 1,
+    "text": "因為老師們",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 797,
+    "duration": 2,
+    "text": "我想要利用這個機會說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 799,
+    "duration": 1,
+    "text": "老師們你們在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 800,
+    "duration": 1,
+    "text": "第一線上",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 801,
+    "duration": 1,
+    "text": "所有的付出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 802,
+    "duration": 1,
+    "text": "我們都看見了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 803,
+    "duration": 1,
+    "text": "教育部首次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 804,
+    "duration": 1,
+    "text": "針對俠下學校",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 805,
+    "duration": 1,
+    "text": "發放禁食禮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 806,
+    "duration": 2,
+    "text": "群教總餘醫肯定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 808,
+    "duration": 1,
+    "text": "但也提醒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 809,
+    "duration": 1,
+    "text": "法務部管轄的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 810,
+    "duration": 1,
+    "text": "矯正學校",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 811,
+    "duration": 1,
+    "text": "以及國防部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 812,
+    "duration": 1,
+    "text": "俠下的中正育校",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 813,
+    "duration": 1,
+    "text": "不能被忽略",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 814,
+    "duration": 3,
+    "text": "他面對的這些孩子",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 817,
+    "duration": 1,
+    "text": "他當然是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 818,
+    "duration": 2,
+    "text": "可能跟一般的一個學生來講",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 820,
+    "duration": 1,
+    "text": "他要負擔的一些",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 821,
+    "duration": 2,
+    "text": "教學輔導各方面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 823,
+    "duration": 1,
+    "text": "壓力會更大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 824,
+    "duration": 1,
+    "text": "而今年各縣市的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 825,
+    "duration": 1,
+    "text": "禁食禮六都禮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 826,
+    "duration": 1,
+    "text": "台北市和新北市",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 827,
+    "duration": 1,
+    "text": "維持去年的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 828,
+    "duration": 2,
+    "text": "2000元和1000元禮券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 830,
+    "duration": 2,
+    "text": "桃園台中和高雄",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 832,
+    "duration": 2,
+    "text": "從600條到1000元禮券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 834,
+    "duration": 2,
+    "text": "臺南市從330",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 836,
+    "duration": 1,
+    "text": "條到600元禮券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 837,
+    "duration": 1,
+    "text": "其他縣市",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 838,
+    "duration": 2,
+    "text": "宜蘭縣去年200元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 840,
+    "duration": 1,
+    "text": "今年600元禮券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 841,
+    "duration": 2,
+    "text": "嘉義縣市去年是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 843,
+    "duration": 1,
+    "text": "禁食卡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 844,
+    "duration": 1,
+    "text": "今年是禮券600元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 845,
+    "duration": 1,
+    "text": "幾乎都加碼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 846,
+    "duration": 2,
+    "text": "但有基層教師說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 848,
+    "duration": 1,
+    "text": "更希望教育部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 849,
+    "duration": 1,
+    "text": "和地方政府",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 850,
+    "duration": 2,
+    "text": "解決目前面臨的困境",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 859,
+    "duration": 1,
+    "text": "全教總也指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 860,
+    "duration": 1,
+    "text": "在專屬教師的日子",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 861,
+    "duration": 1,
+    "text": "教育主管機關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 862,
+    "duration": 2,
+    "text": "應有實際政策呼應",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 864,
+    "duration": 2,
+    "text": "對教育專業的支持",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 866,
+    "duration": 2,
+    "text": "而面對肖氏會議亂象",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 868,
+    "duration": 1,
+    "text": "更該扛起責任",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 869,
+    "duration": 2,
+    "text": "才是給現場老師的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 871,
+    "duration": 1,
+    "text": "較大支持",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 872,
+    "duration": 1,
+    "text": "公司新聞立場會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 873,
+    "duration": 2,
+    "text": "沈志明台北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 879,
+    "duration": 1,
+    "text": "為了博愛座",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 880,
+    "duration": 2,
+    "text": "爆發衝突的狀況",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 883,
+    "duration": 1,
+    "text": "在生權法修正",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 884,
+    "duration": 2,
+    "text": "將博愛座證明",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 886,
+    "duration": 2,
+    "text": "為優先席之後",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 888,
+    "duration": 1,
+    "text": "交通部",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 889,
+    "duration": 3,
+    "text": "昨天公佈了統一圖示",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 893,
+    "duration": 2,
+    "text": "個運劇必須要在",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 895,
+    "duration": 3,
+    "text": "今年底前全面更換",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 899,
+    "duration": 1,
+    "text": "否則最高",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 900,
+    "duration": 3,
+    "text": "會開罰5萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 904,
+    "duration": 2,
+    "text": "國中生坐在博愛座上",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 906,
+    "duration": 1,
+    "text": "被婦人要求",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 907,
+    "duration": 1,
+    "text": "要讓座給長者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 908,
+    "duration": 1,
+    "text": "站起讓座後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 909,
+    "duration": 1,
+    "text": "卻還被婦人指責",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 910,
+    "duration": 1,
+    "text": "教育出問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 911,
+    "duration": 1,
+    "text": "學生當場落淚",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 912,
+    "duration": 2,
+    "text": "博愛座爭議時有所聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 914,
+    "duration": 1,
+    "text": "身心障礙者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 915,
+    "duration": 1,
+    "text": "權益保障法修正後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 916,
+    "duration": 2,
+    "text": "已將大眾運輸設置的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 918,
+    "duration": 2,
+    "text": "博愛座改為優先席",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 920,
+    "duration": 1,
+    "text": "適用對象擴大涵蓋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 921,
+    "duration": 2,
+    "text": "其他有實際需要者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 923,
+    "duration": 1,
+    "text": "交通部9號公佈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 924,
+    "duration": 1,
+    "text": "優先席統一圖示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 925,
+    "duration": 2,
+    "text": "優先席中英文字樣下方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 927,
+    "duration": 2,
+    "text": "包含高齡者 孕婦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 929,
+    "duration": 1,
+    "text": "行動不變者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 931,
+    "duration": 2,
+    "text": "攜帶幼童集",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 933,
+    "duration": 1,
+    "text": "其他實際需要者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 934,
+    "duration": 1,
+    "text": "五款圖示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 953,
+    "duration": 1,
+    "text": "交通部要求",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 954,
+    "duration": 1,
+    "text": "各大眾運輸業者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 955,
+    "duration": 1,
+    "text": "於年底前完成更換",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 956,
+    "duration": 2,
+    "text": "若違者且現其位改善",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 958,
+    "duration": 1,
+    "text": "最高可開罰5萬元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 960,
+    "duration": 1,
+    "text": "另外考量有需求者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 961,
+    "duration": 1,
+    "text": "可能不好意思",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 962,
+    "duration": 1,
+    "text": "或難以告訴他人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 963,
+    "duration": 1,
+    "text": "需要座位",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 964,
+    "duration": 1,
+    "text": "這次也設計了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 965,
+    "duration": 1,
+    "text": "優先席需求貼紙",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 966,
+    "duration": 2,
+    "text": "提供業者或旅客",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 968,
+    "duration": 1,
+    "text": "自行下載使用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 971,
+    "duration": 1,
+    "text": "台北捷運公司表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 972,
+    "duration": 2,
+    "text": "近日將進行製作及更新",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 974,
+    "duration": 1,
+    "text": "預計兩個月完成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 975,
+    "duration": 1,
+    "text": "全系統更新",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 976,
+    "duration": 2,
+    "text": "並會加強人員廣播提醒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 978,
+    "duration": 1,
+    "text": "配合月台跑馬燈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 979,
+    "duration": 2,
+    "text": "海報等各種宣導管道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 981,
+    "duration": 2,
+    "text": "強化民眾裡讓精神",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 983,
+    "duration": 1,
+    "text": "與同理心",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 984,
+    "duration": 1,
+    "text": "優先席新制上路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 985,
+    "duration": 1,
+    "text": "台地表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 986,
+    "duration": 1,
+    "text": "新車內部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 987,
+    "duration": 1,
+    "text": "原本就為優先席字樣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 988,
+    "duration": 1,
+    "text": "而到年底前",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 989,
+    "duration": 2,
+    "text": "所有列車可以更新完成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 991,
+    "duration": 1,
+    "text": "而臺灣高鐵先前",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 992,
+    "duration": 1,
+    "text": "就已經將原先博愛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 993,
+    "duration": 1,
+    "text": "做文字標示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 994,
+    "duration": 1,
+    "text": "更換為優先席",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 995,
+    "duration": 2,
+    "text": "配合交通部公告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 997,
+    "duration": 1,
+    "text": "統一的圖示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 998,
+    "duration": 2,
+    "text": "也將儘速更換為新圖示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1000,
+    "duration": 1,
+    "text": "共識新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1001,
+    "duration": 1,
+    "text": "選領先臺報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1004,
+    "duration": 1,
+    "text": "今年秋冬",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1005,
+    "duration": 2,
+    "text": "公費流感疫苗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1007,
+    "duration": 3,
+    "text": "將從10月1號起開打",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1011,
+    "duration": 1,
+    "text": "機關署將依照",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1012,
+    "duration": 3,
+    "text": "世界衛生組織的建議",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1015,
+    "duration": 1,
+    "text": "全面改用",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1016,
+    "duration": 1,
+    "text": "三架疫苗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1019,
+    "duration": 1,
+    "text": "而另外",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1020,
+    "duration": 2,
+    "text": "國內百日殼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1022,
+    "duration": 2,
+    "text": "上週是新增了三例",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1025,
+    "duration": 3,
+    "text": "是北部一起家庭群聚",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1030,
+    "duration": 1,
+    "text": "還要提醒您",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1032,
+    "duration": 2,
+    "text": "南韓政府日前宣布",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1035,
+    "duration": 2,
+    "text": "將逆百病毒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1037,
+    "duration": 2,
+    "text": "列為第一級的傳染病",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1041,
+    "duration": 1,
+    "text": "這是一種",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1042,
+    "duration": 2,
+    "text": "遠處共通的傳染病",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1045,
+    "duration": 2,
+    "text": "目前還沒有疫苗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1047,
+    "duration": 1,
+    "text": "跟特效藥",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1050,
+    "duration": 2,
+    "text": "致死率最高達到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1052,
+    "duration": 1,
+    "text": "75%",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1055,
+    "duration": 3,
+    "text": "目前國內風險相對較低",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1059,
+    "duration": 2,
+    "text": "機關署將會持續觀察",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1063,
+    "duration": 1,
+    "text": "南韓政府日前宣布",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1064,
+    "duration": 1,
+    "text": "將逆百病毒感染症",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1065,
+    "duration": 2,
+    "text": "列為第一級傳染病",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1067,
+    "duration": 2,
+    "text": "所有從印度和孟加拉入境者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1069,
+    "duration": 2,
+    "text": "都必須完成健康申報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1071,
+    "duration": 2,
+    "text": "引發外界高度關注",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1073,
+    "duration": 2,
+    "text": "對此我國機關署表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1075,
+    "duration": 1,
+    "text": "逆百病毒是一種",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1076,
+    "duration": 2,
+    "text": "人處共通傳染病",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1078,
+    "duration": 2,
+    "text": "可能透過蝙蝠等動物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1080,
+    "duration": 2,
+    "text": "傳播給人類也可能人傳人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1082,
+    "duration": 2,
+    "text": "感染初期會出現發燒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1084,
+    "duration": 1,
+    "text": "頭痛等症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1085,
+    "duration": 2,
+    "text": "嚴重時可能會導致",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1087,
+    "duration": 1,
+    "text": "腦炎與癲癇",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1088,
+    "duration": 2,
+    "text": "甚至可能在兩天內",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1090,
+    "duration": 1,
+    "text": "陷入昏迷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1091,
+    "duration": 1,
+    "text": "目前尚無疫苗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1092,
+    "duration": 1,
+    "text": "與特效藥",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1093,
+    "duration": 1,
+    "text": "致死率最高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1094,
+    "duration": 1,
+    "text": "可達7成5",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1095,
+    "duration": 2,
+    "text": "臺灣已經從2018年起",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1097,
+    "duration": 1,
+    "text": "將逆百病毒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1098,
+    "duration": 2,
+    "text": "列為重點監測項目",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1100,
+    "duration": 1,
+    "text": "未來如果疫情升溫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1101,
+    "duration": 1,
+    "text": "不排除提升為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1102,
+    "duration": 1,
+    "text": "法定傳染病",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1103,
+    "duration": 2,
+    "text": "而在國內疫情方面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1105,
+    "duration": 1,
+    "text": "藥署公佈新增",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1106,
+    "duration": 2,
+    "text": "3例百日咳確定病例",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1108,
+    "duration": 1,
+    "text": "指標個案是北部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1109,
+    "duration": 1,
+    "text": "一個月大男嬰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1110,
+    "duration": 2,
+    "text": "8月中旬出現咳嗽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1112,
+    "duration": 1,
+    "text": "呼吸急促等症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1113,
+    "duration": 2,
+    "text": "就醫收治加護病房",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1115,
+    "duration": 2,
+    "text": "經採檢後確診感染",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1117,
+    "duration": 1,
+    "text": "百日咳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1118,
+    "duration": 1,
+    "text": "後續男嬰的媽媽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1119,
+    "duration": 1,
+    "text": "和姐姐採檢後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1120,
+    "duration": 1,
+    "text": "也陽性確診",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1121,
+    "duration": 2,
+    "text": "是一起家庭群聚事件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1123,
+    "duration": 2,
+    "text": "匡列接觸者14人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1125,
+    "duration": 2,
+    "text": "將監測到9月21號為止",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1135,
+    "duration": 1,
+    "text": "所以現在還是在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1136,
+    "duration": 1,
+    "text": "繼續在這個住院",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1137,
+    "duration": 1,
+    "text": "在這個治療當中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1138,
+    "duration": 2,
+    "text": "另外今年公費流感疫苗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1140,
+    "duration": 2,
+    "text": "即將於10月1號開打",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1142,
+    "duration": 1,
+    "text": "疾管署將依照",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1143,
+    "duration": 1,
+    "text": "世衛組織建議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1144,
+    "duration": 2,
+    "text": "全面改用三架疫苗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1146,
+    "duration": 1,
+    "text": "今年總共採購",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1147,
+    "duration": 3,
+    "text": "686萬4千多劑流感疫苗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1150,
+    "duration": 1,
+    "text": "國小到高中職",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1151,
+    "duration": 1,
+    "text": "以及五專一到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1152,
+    "duration": 1,
+    "text": "三年級學生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1153,
+    "duration": 2,
+    "text": "將統一與校園集中接種",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1155,
+    "duration": 2,
+    "text": "不僅節省家長的孩子",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1157,
+    "duration": 2,
+    "text": "外出打疫苗時間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1159,
+    "duration": 1,
+    "text": "也可以提升",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1160,
+    "duration": 1,
+    "text": "整體疫苗接種率",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1161,
+    "duration": 1,
+    "text": "與便利性",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1162,
+    "duration": 3,
+    "text": "公視新聞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1166,
+    "duration": 1,
+    "text": "提醒家長要注意",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1167,
+    "duration": 3,
+    "text": "孩子玩的玩具",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1170,
+    "duration": 3,
+    "text": "宜蘭縣有一名7歲的孩童",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1173,
+    "duration": 1,
+    "text": "不小心把一個",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1174,
+    "duration": 2,
+    "text": "奧特曼模型吊墜",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1176,
+    "duration": 2,
+    "text": "吞到了肚子裡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1178,
+    "duration": 2,
+    "text": "到醫院照X光",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1180,
+    "duration": 4,
+    "text": "發現吊墜已經進入腸道",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1184,
+    "duration": 2,
+    "text": "醫生說先觀察",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1186,
+    "duration": 3,
+    "text": "讓他隨著糞便排出",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1189,
+    "duration": 2,
+    "text": "同時也提醒民眾",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1191,
+    "duration": 2,
+    "text": "如果吞入物較大",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1193,
+    "duration": 2,
+    "text": "表面尖銳或有磁力",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1195,
+    "duration": 4,
+    "text": "就需要馬上就醫開刀取除",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1201,
+    "duration": 1,
+    "text": "幼童拿到東西",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1202,
+    "duration": 2,
+    "text": "時常就會往嘴巴裡塞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1204,
+    "duration": 2,
+    "text": "宜蘭縣有一名7歲男童",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1206,
+    "duration": 2,
+    "text": "邊看電視邊吃餅乾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1208,
+    "duration": 1,
+    "text": "卻不剩把一個",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1209,
+    "duration": 1,
+    "text": "奧特曼模型吊墜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1210,
+    "duration": 1,
+    "text": "吞到肚子裡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1211,
+    "duration": 1,
+    "text": "家長觀察幾天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1212,
+    "duration": 2,
+    "text": "吊墜沒有排出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1214,
+    "duration": 1,
+    "text": "帶到醫院照X光",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1215,
+    "duration": 2,
+    "text": "發現吊墜已經進入腸道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1217,
+    "duration": 1,
+    "text": "這個吊墜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1218,
+    "duration": 2,
+    "text": "現在的確還在身體裡面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1220,
+    "duration": 2,
+    "text": "不過已經順利到達",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1222,
+    "duration": 1,
+    "text": "腸子的部分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1223,
+    "duration": 1,
+    "text": "而且小朋友",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1224,
+    "duration": 2,
+    "text": "目前沒有任何的症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1226,
+    "duration": 1,
+    "text": "大小的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1227,
+    "duration": 2,
+    "text": "看起來也是沒有很大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1229,
+    "duration": 1,
+    "text": "看起來應該是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1230,
+    "duration": 2,
+    "text": "可以順利排出的大小",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1232,
+    "duration": 1,
+    "text": "醫生表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1233,
+    "duration": 2,
+    "text": "如果孩子吞入義務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1235,
+    "duration": 1,
+    "text": "沒有任何劇痛症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1236,
+    "duration": 1,
+    "text": "可以先觀察",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1237,
+    "duration": 1,
+    "text": "如果有劇痛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1238,
+    "duration": 1,
+    "text": "藏組色的狀況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1239,
+    "duration": 2,
+    "text": "就要馬上就醫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1241,
+    "duration": 2,
+    "text": "此案孩子沒有其他異狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1243,
+    "duration": 1,
+    "text": "新評估吊墜大小",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1244,
+    "duration": 1,
+    "text": "可以隨分便排出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1245,
+    "duration": 2,
+    "text": "所以決定先觀察",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1247,
+    "duration": 1,
+    "text": "醫師呼籲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1248,
+    "duration": 1,
+    "text": "如果孩子是吞入",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1249,
+    "duration": 1,
+    "text": "長度超過5公分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1250,
+    "duration": 2,
+    "text": "寬度超過2公分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1252,
+    "duration": 2,
+    "text": "或者物品表面尖銳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1254,
+    "duration": 1,
+    "text": "或者有磁力的物品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1255,
+    "duration": 2,
+    "text": "就須馬上就醫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1257,
+    "duration": 1,
+    "text": "開刀取出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1258,
+    "duration": 1,
+    "text": "公視新聞 林建倫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1259,
+    "duration": 1,
+    "text": "以藍報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1262,
+    "duration": 2,
+    "text": "國際消息來看",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1264,
+    "duration": 2,
+    "text": "德國的威碼藝術節",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1266,
+    "duration": 3,
+    "text": "推出台灣焦點系列活動",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1269,
+    "duration": 3,
+    "text": "從8月底到9月初",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1272,
+    "duration": 3,
+    "text": "共有五個團隊輪番登台",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1275,
+    "duration": 2,
+    "text": "充分展現台灣",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1277,
+    "duration": 3,
+    "text": "當代藝術的活力和多元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1283,
+    "duration": 2,
+    "text": "威碼是德國的藝文重症",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1285,
+    "duration": 2,
+    "text": "每年夏天都會舉辦藝術節",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1287,
+    "duration": 2,
+    "text": "讓這個小鎮熱鬧肥凡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1289,
+    "duration": 2,
+    "text": "今年藝術節的重頭戲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1291,
+    "duration": 2,
+    "text": "是來自台灣的馬戲團",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1293,
+    "duration": 1,
+    "text": "Focasa",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1294,
+    "duration": 1,
+    "text": "夏天的威碼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1295,
+    "duration": 1,
+    "text": "有人如知",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1296,
+    "duration": 2,
+    "text": "到處可以看到藝術節的廣告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1298,
+    "duration": 2,
+    "text": "德國作家戈德和希勒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1300,
+    "duration": 1,
+    "text": "曾在這裡生活",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1301,
+    "duration": 1,
+    "text": "國家劇院的門口",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1302,
+    "duration": 3,
+    "text": "就是這兩位文豪著名的雕像",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1305,
+    "duration": 1,
+    "text": "劇院內Focasa馬戲團",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1306,
+    "duration": 2,
+    "text": "增加緊排練",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1308,
+    "duration": 2,
+    "text": "幫藝術節台灣焦點系列活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1310,
+    "duration": 1,
+    "text": "揭開訊錄",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1311,
+    "duration": 2,
+    "text": "我們團現在至今第十五年了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1313,
+    "duration": 2,
+    "text": "那在五年前",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1315,
+    "duration": 1,
+    "text": "十年前其實",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1316,
+    "duration": 3,
+    "text": "還是很多人對於馬戲有很多的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1319,
+    "duration": 1,
+    "text": "馬戲團這三個字",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1320,
+    "duration": 2,
+    "text": "有很多過去的感滿影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1322,
+    "duration": 2,
+    "text": "可能他以為裡面有動物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1324,
+    "duration": 2,
+    "text": "然後有一些單純",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1326,
+    "duration": 2,
+    "text": "只有娛樂的表演",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1328,
+    "duration": 2,
+    "text": "其實現在已經真的很不一樣了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1330,
+    "duration": 1,
+    "text": "Focasa",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1331,
+    "duration": 1,
+    "text": "是台灣第一個專業的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1332,
+    "duration": 1,
+    "text": "當代馬戲團",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1333,
+    "duration": 2,
+    "text": "以特技結合劇場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1335,
+    "duration": 1,
+    "text": "與舞蹈元素",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1336,
+    "duration": 1,
+    "text": "這次演出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1337,
+    "duration": 2,
+    "text": "是以台北設置島獨耕為背景",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1339,
+    "duration": 2,
+    "text": "講的是一群年輕人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1341,
+    "duration": 1,
+    "text": "成長和離散的故事",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1342,
+    "duration": 3,
+    "text": "獲得觀眾熱烈回想",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1345,
+    "duration": 2,
+    "text": "我發現",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1347,
+    "duration": 2,
+    "text": "這個台灣人的表演",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1349,
+    "duration": 1,
+    "text": "超級 brilliant",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1350,
+    "duration": 1,
+    "text": "表演藝術節",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1351,
+    "duration": 1,
+    "text": "很簡單",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1352,
+    "duration": 1,
+    "text": "他們很值得",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1353,
+    "duration": 1,
+    "text": "在所有的畫面中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1354,
+    "duration": 1,
+    "text": "展現",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1355,
+    "duration": 1,
+    "text": "而且他們也有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1356,
+    "duration": 1,
+    "text": "很大的深刻的深刻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1357,
+    "duration": 1,
+    "text": "台灣成功",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1358,
+    "duration": 1,
+    "text": "為了建立",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1359,
+    "duration": 1,
+    "text": "國際社會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1360,
+    "duration": 2,
+    "text": "而為了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1363,
+    "duration": 3,
+    "text": "威馬藝術節",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1366,
+    "duration": 1,
+    "text": "台灣系列活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1367,
+    "duration": 1,
+    "text": "圓滿落步",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1368,
+    "duration": 1,
+    "text": "互有五個團隊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1369,
+    "duration": 1,
+    "text": "輪返登台",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1370,
+    "duration": 1,
+    "text": "成功地展現",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1371,
+    "duration": 1,
+    "text": "台灣表演藝術的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1372,
+    "duration": 2,
+    "text": "多元與深度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1374,
+    "duration": 1,
+    "text": "公視國際記者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1375,
+    "duration": 1,
+    "text": "林玉莉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1376,
+    "duration": 1,
+    "text": "德國威馬報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1392,
+    "duration": 2,
+    "text": "全球暖化下的夏天",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1394,
+    "duration": 2,
+    "text": "海風也吹不散暑氣",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1396,
+    "duration": 1,
+    "text": "待在室外",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1397,
+    "duration": 1,
+    "text": "越來越難熬",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1398,
+    "duration": 1,
+    "text": "包含",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1399,
+    "duration": 1,
+    "text": "Canada",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1400,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1401,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1402,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1403,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1404,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1405,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1406,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1407,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1408,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1409,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1410,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1411,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1412,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1413,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1414,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1415,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1416,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1417,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1418,
+    "duration": 2,
+    "text": "海風",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1420,
+    "duration": 1,
+    "text": "海風",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1421,
+    "duration": 3,
+    "text": "8號刊登在自然氣候變化期刊的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1424,
+    "duration": 1,
+    "text": "研究發現",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1425,
+    "duration": 2,
+    "text": "在美國高溫帶來的危害",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1427,
+    "duration": 1,
+    "text": "不只中暑風險",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1428,
+    "duration": 2,
+    "text": "還會讓人不知不覺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1430,
+    "duration": 2,
+    "text": "攝取更多糖分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1432,
+    "duration": 1,
+    "text": "一年下來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1433,
+    "duration": 1,
+    "text": "全美多吃盡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1434,
+    "duration": 2,
+    "text": "35.8萬噸",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1446,
+    "duration": 2,
+    "text": "學者比對天氣數據和消費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1448,
+    "duration": 2,
+    "text": "習慣追蹤2004年",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1450,
+    "duration": 1,
+    "text": "2019年",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1451,
+    "duration": 3,
+    "text": "美國4萬到6萬戶家庭的記錄",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1454,
+    "duration": 1,
+    "text": "結果發現",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1455,
+    "duration": 1,
+    "text": "當氣溫落在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1456,
+    "duration": 2,
+    "text": "涉事12到30度之間時",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1458,
+    "duration": 1,
+    "text": "每升高一度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1459,
+    "duration": 1,
+    "text": "平均每人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1460,
+    "duration": 1,
+    "text": "每天就會多攝取",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1461,
+    "duration": 2,
+    "text": "0.7公克的糖",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1463,
+    "duration": 1,
+    "text": "0.7公克",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1464,
+    "duration": 1,
+    "text": "聽起來微不足道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1465,
+    "duration": 1,
+    "text": "但極少成多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1466,
+    "duration": 2,
+    "text": "氣溫逼近30度時",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1468,
+    "duration": 2,
+    "text": "額外攝取量從2公克",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1470,
+    "duration": 2,
+    "text": "飆到15公克左右",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1472,
+    "duration": 2,
+    "text": "而最主要的來源",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1474,
+    "duration": 1,
+    "text": "正是寒糖飲料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1480,
+    "duration": 3,
+    "text": "飲料類型的飲料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1483,
+    "duration": 3,
+    "text": "從國家到國家",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1486,
+    "duration": 2,
+    "text": "從國家到背後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1488,
+    "duration": 1,
+    "text": "比起高收入家庭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1489,
+    "duration": 2,
+    "text": "高溫下低收入者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1491,
+    "duration": 2,
+    "text": "會多吃下好幾倍的糖",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1493,
+    "duration": 2,
+    "text": "這背後是結構性的問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1495,
+    "duration": 1,
+    "text": "寒糖飲料的行銷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1496,
+    "duration": 2,
+    "text": "鎖定低收入族群",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1498,
+    "duration": 1,
+    "text": "貧困地區水質不好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1499,
+    "duration": 2,
+    "text": "便宜飲料就成了替代品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1501,
+    "duration": 2,
+    "text": "此外屋裡沒有冷氣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1503,
+    "duration": 2,
+    "text": "或是長時間勞力工作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1505,
+    "duration": 1,
+    "text": "都讓他們更容易",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1506,
+    "duration": 3,
+    "text": "伸手去拿高糖飲料解渴",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1509,
+    "duration": 1,
+    "text": "短化持續",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1510,
+    "duration": 2,
+    "text": "美國人的糖分攝取量",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1512,
+    "duration": 1,
+    "text": "恐在飆升",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1513,
+    "duration": 2,
+    "text": "放大 健康營養",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1515,
+    "duration": 2,
+    "text": "國史新聞文方已便宜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1518,
+    "duration": 1,
+    "text": "關心天氣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1519,
+    "duration": 3,
+    "text": "接著提供您各地的氣象資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1539,
+    "duration": 3,
+    "text": "感謝您收看這節的公視",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1542,
+    "duration": 1,
+    "text": "手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1543,
+    "duration": 1,
+    "text": "我是扭曲文",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1544,
+    "duration": 2,
+    "text": "明天同一時間再會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1569,
+    "duration": 2,
+    "text": "小明星大跟班",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1599,
+    "duration": 2,
+    "text": "小明星大跟班",
+    "hasSignLanguage": false
+  }
+]

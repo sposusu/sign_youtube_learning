@@ -10,22 +10,12 @@
       "lastUpdated": "2025-09-10T19:44:59.062Z",
       "isNew": true,
       "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-10T20:04:03.971Z",
-      "transcriptSegments": 759
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-09-11T04:04:53.786368",
-      "totalSegments": 759,
-      "signLanguageSegments": 177,
-      "coverage": 27.283950617283953
+      "needsClassification": true
     },
     "stats": {
-      "transcriptSegments": 759,
-      "signLanguageGroups": 10,
-      "hasSignLanguage": true
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
     }
   },
   {

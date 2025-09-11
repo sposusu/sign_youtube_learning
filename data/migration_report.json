@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-09-11T03:22:53.904907",
+  "originalVideoCount": 12,
+  "processedSuccessfully": 12,
+  "errors": 0,
+  "filesCreated": {
+    "videoDirectories": 12,
+    "metadataFiles": 12,
+    "transcriptFiles": 12,
+    "groupFiles": 12,
+    "indexFile": 1
+  },
+  "sizeSavings": {
+    "originalSizeBytes": 297294,
+    "newIndexSizeBytes": 16687,
+    "reductionPercentage": 94.4
+  }
+}

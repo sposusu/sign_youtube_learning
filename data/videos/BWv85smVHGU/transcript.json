@@ -1,0 +1,98 @@
+[
+  {
+    "start": 3,
+    "duration": 2,
+    "text": "各位觀眾大家好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 5.2,
+    "duration": 2.5,
+    "text": "歡迎收看公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 7.9,
+    "duration": 2,
+    "text": "我是手語主播",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 10.100000000000001,
+    "duration": 2.5,
+    "text": "今天是2025年9月8日 星期一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 12.8,
+    "duration": 2,
+    "text": "今天為您報導的新聞有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 15.3,
+    "duration": 1.5,
+    "text": "台積電洩密案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 17.1,
+    "duration": 1.5,
+    "text": "涉案三名工程師",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 18.9,
+    "duration": 1.5,
+    "text": "遭法院裁定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 20.7,
+    "duration": 1.5,
+    "text": "續押禁見三個月",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22.5,
+    "duration": 1.5,
+    "text": "檢方指控三人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 24.3,
+    "duration": 1.5,
+    "text": "將機密資料外洩",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 26.1,
+    "duration": 1.5,
+    "text": "造成公司重大損失",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 27.9,
+    "duration": 1.5,
+    "text": "案件持續偵辦中",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 333.9320675786669,
+    "duration": 2.2,
+    "text": "以上就是今天的新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 336.4320675786669,
+    "duration": 2,
+    "text": "感謝您的收看",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 338.7320675786669,
+    "duration": 1.8,
+    "text": "我們下次見",
+    "hasSignLanguage": false
+  }
+]

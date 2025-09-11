@@ -1,0 +1,92 @@
+[
+  {
+    "start": 3,
+    "duration": 2,
+    "text": "各位觀眾大家好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 5.2,
+    "duration": 2.5,
+    "text": "歡迎收看公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 7.9,
+    "duration": 2,
+    "text": "我是手語主播",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 10.100000000000001,
+    "duration": 2.5,
+    "text": "今天是2025年9月8日 星期一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 12.8,
+    "duration": 2,
+    "text": "今天為您報導的新聞有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 15.3,
+    "duration": 1.5,
+    "text": "中共昨天舉行九三閱兵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 17.1,
+    "duration": 1.5,
+    "text": "俄羅斯總統蒲亭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 18.9,
+    "duration": 1.5,
+    "text": "與北韓領導人金正恩會面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 20.7,
+    "duration": 1.5,
+    "text": "雙方表態將加強合作",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22.5,
+    "duration": 1.5,
+    "text": "外界關注兩國關係發展",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 24.3,
+    "duration": 1.5,
+    "text": "我國政府密切關注",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 26.1,
+    "duration": 1.5,
+    "text": "相關情勢變化",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 178.1116025618791,
+    "duration": 2.2,
+    "text": "以上就是今天的新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 180.6116025618791,
+    "duration": 2,
+    "text": "感謝您的收看",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 182.9116025618791,
+    "duration": 1.8,
+    "text": "我們下次見",
+    "hasSignLanguage": false
+  }
+]
