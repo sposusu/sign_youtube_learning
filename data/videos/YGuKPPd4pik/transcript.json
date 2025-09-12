@@ -1,104 +1,2594 @@
 [
   {
-    "start": 3,
+    "sequence": 1,
+    "start": 0,
+    "duration": 14.68,
+    "text": "看新聞 開視野"
+  },
+  {
+    "sequence": 2,
+    "start": 14.68,
+    "duration": 4.440000000000001,
+    "text": "歡迎收看今天8月25號的公視手語新聞"
+  },
+  {
+    "sequence": 3,
+    "start": 19.12,
+    "duration": 2.5599999999999987,
+    "text": "首先來關心"
+  },
+  {
+    "sequence": 4,
+    "start": 21.68,
+    "duration": 2.719999999999999,
+    "text": "颱風大雨過後"
+  },
+  {
+    "sequence": 5,
+    "start": 24.4,
+    "duration": 2.5600000000000023,
+    "text": "避免到山區玩水"
+  },
+  {
+    "sequence": 6,
+    "start": 26.96,
+    "duration": 7,
+    "text": "昨天早上有7人揪團到屏東霧台玩漂漂河"
+  },
+  {
+    "sequence": 7,
+    "start": 33.96,
+    "duration": 3,
+    "text": "結果撞到了山壁"
+  },
+  {
+    "sequence": 8,
+    "start": 36.96,
+    "duration": 4,
+    "text": "小艇翻覆之後受困在岸邊"
+  },
+  {
+    "sequence": 9,
+    "start": 40.96,
+    "duration": 6,
+    "text": "所幸最後消防人員順利協助他們脫困"
+  },
+  {
+    "sequence": 10,
+    "start": 46.96,
+    "duration": 9,
+    "text": "全數平安"
+  },
+  {
+    "sequence": 11,
+    "start": 55.96,
+    "duration": 3,
+    "text": "滾濁的溪水夾帶泥沙不斷翻湧"
+  },
+  {
+    "sequence": 12,
+    "start": 58.96,
+    "duration": 3,
+    "text": "消防人員冒著被沖走的風險踏進激流"
+  },
+  {
+    "sequence": 13,
+    "start": 61.96,
+    "duration": 6.999999999999993,
+    "text": "直為抵達對岸展開救援行動"
+  },
+  {
+    "sequence": 14,
+    "start": 68.96,
+    "duration": 3,
+    "text": "7名民眾透過通訊軟體相約"
+  },
+  {
+    "sequence": 15,
+    "start": 71.96,
+    "duration": 3,
+    "text": "24號早上到屏東霧台體驗漂漂河"
+  },
+  {
+    "sequence": 16,
+    "start": 74.96,
+    "duration": 3,
+    "text": "卻意外撞上山壁 翻覆落水"
+  },
+  {
+    "sequence": 17,
+    "start": 77.96,
+    "duration": 3,
+    "text": "所幸全員各自爬上攤地等待救援"
+  },
+  {
+    "sequence": 18,
+    "start": 80.96,
+    "duration": 3,
+    "text": "事發地點就在三地門鄉達來村的艾寮溪"
+  },
+  {
+    "sequence": 19,
+    "start": 83.96,
+    "duration": 3,
+    "text": "下庭前往該7名民眾受困地點"
+  },
+  {
+    "sequence": 20,
+    "start": 86.96,
     "duration": 2,
-    "text": "各位觀眾大家好",
-    "hasSignLanguage": false
+    "text": "釋然三女"
   },
   {
-    "start": 5.2,
-    "duration": 2.5,
-    "text": "歡迎收看公視手語新聞",
-    "hasSignLanguage": false
+    "sequence": 21,
+    "start": 88.96,
+    "duration": 4,
+    "text": "15時12分回報 人已帶治就達"
   },
   {
-    "start": 7.9,
+    "sequence": 22,
+    "start": 92.96,
     "duration": 2,
-    "text": "我是手語主播",
-    "hasSignLanguage": false
+    "text": "小人人平安 不需受醫"
   },
   {
-    "start": 10.100000000000001,
-    "duration": 2.5,
-    "text": "今天是2025年9月8日 星期一",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 12.8,
+    "sequence": 23,
+    "start": 94.96,
     "duration": 2,
-    "text": "今天為您報導的新聞有",
-    "hasSignLanguage": false
+    "text": "後續加油援舉處理"
   },
   {
-    "start": 15.3,
-    "duration": 1.5,
-    "text": "今天的主要新聞",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 17.1,
-    "duration": 1.5,
-    "text": "政府相關部門表示",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 18.9,
-    "duration": 1.5,
-    "text": "將持續關注發展",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 20.7,
-    "duration": 1.5,
-    "text": "採取必要措施",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 22.5,
-    "duration": 1.5,
-    "text": "保障民眾權益",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 24.3,
-    "duration": 1.5,
-    "text": "相關單位",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 26.1,
-    "duration": 1.5,
-    "text": "正在評估中",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 27.9,
-    "duration": 1.5,
-    "text": "後續發展",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 29.7,
-    "duration": 1.5,
-    "text": "本台將持續追蹤",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 301.59603972456193,
-    "duration": 2.2,
-    "text": "以上就是今天的新聞",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 304.09603972456193,
+    "sequence": 24,
+    "start": 96.96,
     "duration": 2,
-    "text": "感謝您的收看",
-    "hasSignLanguage": false
+    "text": "溪水湍急增加救援難度"
   },
   {
-    "start": 306.39603972456194,
-    "duration": 1.8,
-    "text": "我們下次見",
-    "hasSignLanguage": false
+    "sequence": 25,
+    "start": 98.96,
+    "duration": 2,
+    "text": "雖然7人平安脫困"
+  },
+  {
+    "sequence": 26,
+    "start": 100.96,
+    "duration": 2,
+    "text": "但是當地人提醒"
+  },
+  {
+    "sequence": 27,
+    "start": 102.96,
+    "duration": 2,
+    "text": "梅雨季和颱風季都不適合玩水"
+  },
+  {
+    "sequence": 28,
+    "start": 104.96,
+    "duration": 4,
+    "text": "艾寮溪要到11月份水域才會相對穩定"
+  },
+  {
+    "sequence": 29,
+    "start": 108.96,
+    "duration": 2,
+    "text": "現在這個時間點溪水還很混濁"
+  },
+  {
+    "sequence": 30,
+    "start": 110.96,
+    "duration": 2,
+    "text": "危險性太高"
+  },
+  {
+    "sequence": 31,
+    "start": 112.96,
+    "duration": 3,
+    "text": "而且很危險 因為那一條也沒有"
+  },
+  {
+    "sequence": 32,
+    "start": 115.96,
+    "duration": 3,
+    "text": "幾乎是沒有人再去走的那一段"
+  },
+  {
+    "sequence": 33,
+    "start": 118.96,
+    "duration": 3,
+    "text": "所以它的水域變成什麼樣子"
+  },
+  {
+    "sequence": 34,
+    "start": 121.96,
+    "duration": 4,
+    "text": "大家都很難去猜測"
+  },
+  {
+    "sequence": 35,
+    "start": 125.96,
+    "duration": 2,
+    "text": "那邊非常危險"
+  },
+  {
+    "sequence": 36,
+    "start": 127.96,
+    "duration": 2.000000000000014,
+    "text": "救援行動驚險落幕"
+  },
+  {
+    "sequence": 37,
+    "start": 129.96,
+    "duration": 2,
+    "text": "雖然遊客有申請入山許可"
+  },
+  {
+    "sequence": 38,
+    "start": 131.96,
+    "duration": 2,
+    "text": "但是在當地玩漂漂河"
+  },
+  {
+    "sequence": 39,
+    "start": 133.96,
+    "duration": 2,
+    "text": "是否涉及水域活動管理辦法"
+  },
+  {
+    "sequence": 40,
+    "start": 135.96,
+    "duration": 3,
+    "text": "參觀單位還要再調查釐清"
+  },
+  {
+    "sequence": 41,
+    "start": 138.96,
+    "duration": 2,
+    "text": "山林和溪流環境瞬息萬變"
+  },
+  {
+    "sequence": 42,
+    "start": 140.96,
+    "duration": 2,
+    "text": "一次疏忽就可能釀成意外"
+  },
+  {
+    "sequence": 43,
+    "start": 142.96,
+    "duration": 3,
+    "text": "千萬別拿生命當作冒險的代價"
+  },
+  {
+    "sequence": 44,
+    "start": 145.96,
+    "duration": 2,
+    "text": "公視新聞陳幻與朱鳳竹"
+  },
+  {
+    "sequence": 45,
+    "start": 147.96,
+    "duration": 2,
+    "text": "吳祺昌綜合報道"
+  },
+  {
+    "sequence": 46,
+    "start": 149.96,
+    "duration": 4,
+    "text": "獨報時間來看到"
+  },
+  {
+    "sequence": 47,
+    "start": 153.96,
+    "duration": 2,
+    "text": "自由時報是"
+  },
+  {
+    "sequence": 48,
+    "start": 155.96,
+    "duration": 4,
+    "text": "三部吉普車組成的越野車隊"
+  },
+  {
+    "sequence": 49,
+    "start": 159.96,
+    "duration": 4,
+    "text": "前天到南投縣萬大溪宿溪"
+  },
+  {
+    "sequence": 50,
+    "start": 163.96,
+    "duration": 3,
+    "text": "28歲孫姓男子"
+  },
+  {
+    "sequence": 51,
+    "start": 166.96,
+    "duration": 2,
+    "text": "開的頭部車先行"
+  },
+  {
+    "sequence": 52,
+    "start": 168.96,
+    "duration": 3,
+    "text": "一下水就因為溪流湍急"
+  },
+  {
+    "sequence": 53,
+    "start": 171.96,
+    "duration": 2,
+    "text": "車身傾斜"
+  },
+  {
+    "sequence": 54,
+    "start": 173.96,
+    "duration": 3,
+    "text": "下車查看之後失蹤"
+  },
+  {
+    "sequence": 55,
+    "start": 176.96,
+    "duration": 2,
+    "text": "下房搜救人員到現場"
+  },
+  {
+    "sequence": 56,
+    "start": 178.96,
+    "duration": 3,
+    "text": "發現孫姓男子遭泥流掩埋"
+  },
+  {
+    "sequence": 57,
+    "start": 181.96,
+    "duration": 4,
+    "text": "已經明顯死亡"
+  },
+  {
+    "sequence": 58,
+    "start": 185.96,
+    "duration": 3,
+    "text": "而中國時報則是"
+  },
+  {
+    "sequence": 59,
+    "start": 188.96,
+    "duration": 4,
+    "text": "隨著訪日旅客連連創下歷史新高"
+  },
+  {
+    "sequence": 60,
+    "start": 192.96,
+    "duration": 5,
+    "text": "也為當地交通與環境帶來壓力"
+  },
+  {
+    "sequence": 61,
+    "start": 197.96,
+    "duration": 4,
+    "text": "日本共同社最新調查顯示"
+  },
+  {
+    "sequence": 62,
+    "start": 201.96,
+    "duration": 3,
+    "text": "有多達九十二個地區"
+  },
+  {
+    "sequence": 63,
+    "start": 204.96,
+    "duration": 4,
+    "text": "有意要徵收住宿稅"
+  },
+  {
+    "sequence": 64,
+    "start": 208.96,
+    "duration": 2,
+    "text": "聯合報提到了"
+  },
+  {
+    "sequence": 65,
+    "start": 210.96,
+    "duration": 4,
+    "text": "南韓總統李在明訪問日本之後"
+  },
+  {
+    "sequence": 66,
+    "start": 214.96,
+    "duration": 5,
+    "text": "昨天搭乘專機從日本赴美"
+  },
+  {
+    "sequence": 67,
+    "start": 219.96,
+    "duration": 5,
+    "text": "將在白宮和美國總統川普進行會談"
+  },
+  {
+    "sequence": 68,
+    "start": 224.96,
+    "duration": 4,
+    "text": "預料將聚焦駐韓美軍的角色"
+  },
+  {
+    "sequence": 69,
+    "start": 228.96,
+    "duration": 8,
+    "text": "以及勸川普重啟與北韓對話"
+  },
+  {
+    "sequence": 70,
+    "start": 236.96,
+    "duration": 2,
+    "text": "而看完了報紙的重點之後"
+  },
+  {
+    "sequence": 71,
+    "start": 238.96,
+    "duration": 3,
+    "text": "繼續再來關心的是"
+  },
+  {
+    "sequence": 72,
+    "start": 241.96,
+    "duration": 3,
+    "text": "台北市東元國小哨棒隊"
+  },
+  {
+    "sequence": 73,
+    "start": 244.96,
+    "duration": 6,
+    "text": "代表台灣參加威廉波特世界哨棒錦標賽"
+  },
+  {
+    "sequence": 74,
+    "start": 250.96,
+    "duration": 5.999999999999972,
+    "text": "今天出戰的美國組冠軍山區內華達州隊"
+  },
+  {
+    "sequence": 75,
+    "start": 256.96,
+    "duration": 4,
+    "text": "以7比0頑風奪下勝利"
+  },
+  {
+    "sequence": 76,
+    "start": 260.96,
+    "duration": 4,
+    "text": "而這也是相隔29年之後"
+  },
+  {
+    "sequence": 77,
+    "start": 264.96,
+    "duration": 6,
+    "text": "台灣再度奪下威廉波特總冠軍"
+  },
+  {
+    "sequence": 78,
+    "start": 280.96,
+    "duration": 4,
+    "text": "世界冠軍"
+  },
+  {
+    "sequence": 79,
+    "start": 284.96,
+    "duration": 1,
+    "text": "拿下最後一個出局數"
+  },
+  {
+    "sequence": 80,
+    "start": 285.96,
+    "duration": 2,
+    "text": "來自台北市東元國小哨棒隊"
+  },
+  {
+    "sequence": 81,
+    "start": 287.96,
+    "duration": 2,
+    "text": "在威廉波特世界哨棒錦標賽"
+  },
+  {
+    "sequence": 82,
+    "start": 289.96,
+    "duration": 2,
+    "text": "擁奪總冠軍"
+  },
+  {
+    "sequence": 83,
+    "start": 291.96,
+    "duration": 2,
+    "text": "全隊衝進場內慶祝"
+  },
+  {
+    "sequence": 84,
+    "start": 293.96,
+    "duration": 2,
+    "text": "這場面對美國內華達州的比賽"
+  },
+  {
+    "sequence": 85,
+    "start": 295.96,
+    "duration": 2,
+    "text": "台灣小將們要力拚本世紀首冠"
+  },
+  {
+    "sequence": 86,
+    "start": 297.96,
+    "duration": 3,
+    "text": "二局下先靠保送和失誤攻佔得點圈"
+  },
+  {
+    "sequence": 87,
+    "start": 300.96,
+    "duration": 2,
+    "text": "對方投手還出現爆頭"
+  },
+  {
+    "sequence": 88,
+    "start": 302.96,
+    "duration": 2,
+    "text": "要趕快要看看這邊要來搶"
+  },
+  {
+    "sequence": 89,
+    "start": 304.96,
+    "duration": 2,
+    "text": "搶到了"
+  },
+  {
+    "sequence": 90,
+    "start": 306.96,
+    "duration": 1,
+    "text": "這個保送出現爆頭"
+  },
+  {
+    "sequence": 91,
+    "start": 307.96,
+    "duration": 3,
+    "text": "讓中華隊先持得點取得領先後"
+  },
+  {
+    "sequence": 92,
+    "start": 310.96,
+    "duration": 2,
+    "text": "台灣小將們持續向對手施壓"
+  },
+  {
+    "sequence": 93,
+    "start": 312.96,
+    "duration": 2,
+    "text": "三局下延續攻勢"
+  },
+  {
+    "sequence": 94,
+    "start": 314.96,
+    "duration": 2,
+    "text": "安打上壘後發動盜壘進戰得點圈"
+  },
+  {
+    "sequence": 95,
+    "start": 316.96,
+    "duration": 3,
+    "text": "這回用小球戰術來搶分"
+  },
+  {
+    "sequence": 96,
+    "start": 319.96,
+    "duration": 1,
+    "text": "這邊要來投點"
+  },
+  {
+    "sequence": 97,
+    "start": 320.96,
+    "duration": 1,
+    "text": "點得不錯"
+  },
+  {
+    "sequence": 98,
+    "start": 321.96,
+    "duration": 1,
+    "text": "下球來處理"
+  },
+  {
+    "sequence": 99,
+    "start": 322.96,
+    "duration": 2,
+    "text": "傳向一壘是爆傳"
+  },
+  {
+    "sequence": 100,
+    "start": 324.96,
+    "duration": 1,
+    "text": "這次投點形成內野安打"
+  },
+  {
+    "sequence": 101,
+    "start": 325.96,
+    "duration": 2,
+    "text": "還造成美國隊失誤"
+  },
+  {
+    "sequence": 102,
+    "start": 327.96,
+    "duration": 2,
+    "text": "讓原本在二壘上的跑者"
+  },
+  {
+    "sequence": 103,
+    "start": 329.96,
+    "duration": 3,
+    "text": "利用爆傳快馬加鞭回來攻下第二分"
+  },
+  {
+    "sequence": 104,
+    "start": 332.96,
+    "duration": 3,
+    "text": "威廉波特哨棒賽從1947年開始舉辦"
+  },
+  {
+    "sequence": 105,
+    "start": 335.96,
+    "duration": 3,
+    "text": "台灣從1969年首度參賽"
+  },
+  {
+    "sequence": 106,
+    "start": 338.96,
+    "duration": 2,
+    "text": "台中市金龍哨棒隊就一舉奪冠"
+  },
+  {
+    "sequence": 107,
+    "start": 340.96,
+    "duration": 2,
+    "text": "掀起台灣棒球熱潮"
+  },
+  {
+    "sequence": 108,
+    "start": 342.96,
+    "duration": 2,
+    "text": "過去曾經17度奪冠"
+  },
+  {
+    "sequence": 109,
+    "start": 344.96,
+    "duration": 2,
+    "text": "最後一次是1996年的"
+  },
+  {
+    "sequence": 110,
+    "start": 346.96,
+    "duration": 2,
+    "text": "高雄市復興國小哨棒隊"
+  },
+  {
+    "sequence": 111,
+    "start": 348.96,
+    "duration": 2,
+    "text": "但1997年台灣就因為組隊問題"
+  },
+  {
+    "sequence": 112,
+    "start": 350.96,
+    "duration": 2,
+    "text": "退出世界哨棒聯盟"
+  },
+  {
+    "sequence": 113,
+    "start": 352.96,
+    "duration": 3,
+    "text": "直到2003年才重返威廉波特"
+  },
+  {
+    "sequence": 114,
+    "start": 355.96,
+    "duration": 2,
+    "text": "不過至今只有兩度奪下亞軍"
+  },
+  {
+    "sequence": 115,
+    "start": 357.96,
+    "duration": 1,
+    "text": "這回再度扣關"
+  },
+  {
+    "sequence": 116,
+    "start": 358.96,
+    "duration": 1,
+    "text": "先發投手林進哲"
+  },
+  {
+    "sequence": 117,
+    "start": 359.96,
+    "duration": 2,
+    "text": "前五局精采壓制美國"
+  },
+  {
+    "sequence": 118,
+    "start": 361.96,
+    "duration": 2,
+    "text": "五局下半自己還要來幫球隊"
+  },
+  {
+    "sequence": 119,
+    "start": 363.96,
+    "duration": 2,
+    "text": "打進保險分"
+  },
+  {
+    "sequence": 120,
+    "start": 365.96,
+    "duration": 9,
+    "text": "這球一路滾到全壘打牆角"
+  },
+  {
+    "sequence": 121,
+    "start": 374.96,
+    "duration": 3,
+    "text": "壘包上三名隊友全部都回來得分"
+  },
+  {
+    "sequence": 122,
+    "start": 377.96,
+    "duration": 2,
+    "text": "林進哲自己都站上三壘"
+  },
+  {
+    "sequence": 123,
+    "start": 379.96,
+    "duration": 3,
+    "text": "這是一支輕壘的三分打點三壘安打"
+  },
+  {
+    "sequence": 124,
+    "start": 382.96,
+    "duration": 2,
+    "text": "中華隊擴大領先來到5比0"
+  },
+  {
+    "sequence": 125,
+    "start": 384.96,
+    "duration": 3,
+    "text": "而且隨後美國又發生失誤再送兩分"
+  },
+  {
+    "sequence": 126,
+    "start": 387.96,
+    "duration": 3,
+    "text": "五局打完台灣已經以7比0遙遙領先"
+  },
+  {
+    "sequence": 127,
+    "start": 390.96,
+    "duration": 3,
+    "text": "六局上最後半局換上終結者陳啟勝接替"
+  },
+  {
+    "sequence": 128,
+    "start": 393.96,
+    "duration": 2,
+    "text": "雖然被敲除兩支安打"
+  },
+  {
+    "sequence": 129,
+    "start": 395.96,
+    "duration": 2,
+    "text": "仍然順利手下勝利"
+  },
+  {
+    "sequence": 130,
+    "start": 397.96,
+    "duration": 2,
+    "text": "中場來自台灣的代表隊東元國小"
+  },
+  {
+    "sequence": 131,
+    "start": 399.96,
+    "duration": 1,
+    "text": "以7比0獲勝"
+  },
+  {
+    "sequence": 132,
+    "start": 400.96,
+    "duration": 3,
+    "text": "相隔29年再度爆回冠軍金杯"
+  },
+  {
+    "sequence": 133,
+    "start": 403.96,
+    "duration": 3,
+    "text": "郭子欣 文貞 為了雲昌綜合報導"
+  },
+  {
+    "sequence": 134,
+    "start": 406.96,
+    "duration": 2,
+    "text": "大罷免失利之後"
+  },
+  {
+    "sequence": 135,
+    "start": 408.96,
+    "duration": 4,
+    "text": "綠營內部檢討聲浪不斷"
+  },
+  {
+    "sequence": 136,
+    "start": 412.96,
+    "duration": 3,
+    "text": "民進黨立院黨團幹事長吳思瑤"
+  },
+  {
+    "sequence": 137,
+    "start": 415.96,
+    "duration": 4,
+    "text": "昨天表態不續任幹事長"
+  },
+  {
+    "sequence": 138,
+    "start": 419.96,
+    "duration": 4,
+    "text": "而黨團的書記長陳培瑜也宣布"
+  },
+  {
+    "sequence": 139,
+    "start": 423.96,
+    "duration": 3,
+    "text": "即刻卸下職務"
+  },
+  {
+    "sequence": 140,
+    "start": 426.96,
+    "duration": 2,
+    "text": "在藍營方面"
+  },
+  {
+    "sequence": 141,
+    "start": 428.96,
+    "duration": 3,
+    "text": "國民黨主席朱立倫卻須在罷免案"
+  },
+  {
+    "sequence": 142,
+    "start": 431.96,
+    "duration": 2,
+    "text": "頑封勝利當天"
+  },
+  {
+    "sequence": 143,
+    "start": 433.96,
+    "duration": 6,
+    "text": "喊話台中市長盧秀燕接棒黨魁一職"
+  },
+  {
+    "sequence": 144,
+    "start": 439.96,
+    "duration": 4,
+    "text": "不過昨天盧秀燕則是表達婉拒"
+  },
+  {
+    "sequence": 145,
+    "start": 449.96,
+    "duration": 3,
+    "text": "因為誠心傾聽 寧記在心"
+  },
+  {
+    "sequence": 146,
+    "start": 452.96,
+    "duration": 3,
+    "text": "726823兩波罷免案失利後"
+  },
+  {
+    "sequence": 147,
+    "start": 455.96,
+    "duration": 2,
+    "text": "執政黨喊話立即檢討"
+  },
+  {
+    "sequence": 148,
+    "start": 457.96,
+    "duration": 2,
+    "text": "不過賴清德沒有辭民進黨主席"
+  },
+  {
+    "sequence": 149,
+    "start": 459.96,
+    "duration": 1,
+    "text": "卓奎也留任"
+  },
+  {
+    "sequence": 150,
+    "start": 460.96,
+    "duration": 2,
+    "text": "賴卓體制沒動搖之下"
+  },
+  {
+    "sequence": 151,
+    "start": 462.96,
+    "duration": 2,
+    "text": "被視為大罷免發起人的"
+  },
+  {
+    "sequence": 152,
+    "start": 464.96,
+    "duration": 3,
+    "text": "立院黨團總召柯建民成了眾矢之地"
+  },
+  {
+    "sequence": 153,
+    "start": 467.96,
+    "duration": 2,
+    "text": "尤其立法院新會期開議在即"
+  },
+  {
+    "sequence": 154,
+    "start": 469.96,
+    "duration": 3,
+    "text": "由立委認為黨團運作勢必調整"
+  },
+  {
+    "sequence": 155,
+    "start": 472.96,
+    "duration": 3,
+    "text": "民進黨團幹事長吳思瑤24號率先表態"
+  },
+  {
+    "sequence": 156,
+    "start": 475.96,
+    "duration": 1,
+    "text": "不續任幹事長"
+  },
+  {
+    "sequence": 157,
+    "start": 476.96,
+    "duration": 2,
+    "text": "主張黨團幹部重組"
+  },
+  {
+    "sequence": 158,
+    "start": 478.96,
+    "duration": 3,
+    "text": "副書記長陳培喻也宣布即刻卸下職務"
+  },
+  {
+    "sequence": 159,
+    "start": 481.96,
+    "duration": 1,
+    "text": "對於整個罷免的工作"
+  },
+  {
+    "sequence": 160,
+    "start": 482.96,
+    "duration": 3,
+    "text": "或者是整個黨團工作的進行"
+  },
+  {
+    "sequence": 161,
+    "start": 485.96,
+    "duration": 2,
+    "text": "我們都認為幹部重組"
+  },
+  {
+    "sequence": 162,
+    "start": 487.96,
+    "duration": 2,
+    "text": "或者是加入不同的戰力"
+  },
+  {
+    "sequence": 163,
+    "start": 489.96,
+    "duration": 3,
+    "text": "大家做一些不同戰鬥位置的調整"
+  },
+  {
+    "sequence": 164,
+    "start": 492.96,
+    "duration": 2,
+    "text": "跟分配 跟更多社會民眾溝通"
+  },
+  {
+    "sequence": 165,
+    "start": 494.96,
+    "duration": 2,
+    "text": "我都認為是有加分的"
+  },
+  {
+    "sequence": 166,
+    "start": 496.96,
+    "duration": 2,
+    "text": "反觀藍營取得兩波勝利後"
+  },
+  {
+    "sequence": 167,
+    "start": 498.96,
+    "duration": 2,
+    "text": "國民黨主席朱立倫喊話"
+  },
+  {
+    "sequence": 168,
+    "start": 500.96,
+    "duration": 2,
+    "text": "交棒給臺中市長盧秀燕"
+  },
+  {
+    "sequence": 169,
+    "start": 502.96,
+    "duration": 1,
+    "text": "原本想華麗下臺"
+  },
+  {
+    "sequence": 170,
+    "start": 503.96,
+    "duration": 2,
+    "text": "但盧市長卻表示"
+  },
+  {
+    "sequence": 171,
+    "start": 505.96,
+    "duration": 2,
+    "text": "現在是臺中經濟最困難的時候"
+  },
+  {
+    "sequence": 172,
+    "start": 507.96,
+    "duration": 2,
+    "text": "沒有參選黨魁的意願"
+  },
+  {
+    "sequence": 173,
+    "start": 509.96,
+    "duration": 25.000000000000057,
+    "text": "盧秀燕明確拒絕"
+  },
+  {
+    "sequence": 174,
+    "start": 534.96,
+    "duration": 2,
+    "text": "但藍營內部也出現不同聲音"
+  },
+  {
+    "sequence": 175,
+    "start": 536.96,
+    "duration": 2,
+    "text": "喊話黨內大人們"
+  },
+  {
+    "sequence": 176,
+    "start": 538.96,
+    "duration": 2,
+    "text": "還是要去協調出適合的人選"
+  },
+  {
+    "sequence": 177,
+    "start": 540.96,
+    "duration": 2,
+    "text": "免得讓基層焦慮"
+  },
+  {
+    "sequence": 178,
+    "start": 542.96,
+    "duration": 20,
+    "text": "雖然肯定朱主席的辛勞"
+  },
+  {
+    "sequence": 179,
+    "start": 562.96,
+    "duration": 1,
+    "text": "但李乾隆認為"
+  },
+  {
+    "sequence": 180,
+    "start": 563.96,
+    "duration": 2,
+    "text": "為了讓國民黨在2026勝選"
+  },
+  {
+    "sequence": 181,
+    "start": 565.96,
+    "duration": 2,
+    "text": "並在2028重返執政"
+  },
+  {
+    "sequence": 182,
+    "start": 567.96,
+    "duration": 1,
+    "text": "挺奴派不會放棄"
+  },
+  {
+    "sequence": 183,
+    "start": 568.96,
+    "duration": 3,
+    "text": "勸禁藍營目前的最大公約書"
+  },
+  {
+    "sequence": 184,
+    "start": 571.96,
+    "duration": 7,
+    "text": "823 公投與罷免戰落幕"
+  },
+  {
+    "sequence": 185,
+    "start": 578.96,
+    "duration": 3,
+    "text": "總統賴清德親上火線"
+  },
+  {
+    "sequence": 186,
+    "start": 581.96,
+    "duration": 4,
+    "text": "證實將要調整內閣隊形"
+  },
+  {
+    "sequence": 187,
+    "start": 585.96,
+    "duration": 3,
+    "text": "並透露已經未留"
+  },
+  {
+    "sequence": 188,
+    "start": 588.96,
+    "duration": 4,
+    "text": "曾經多次請辭的行政府長卓隆泰"
+  },
+  {
+    "sequence": 189,
+    "start": 593.96,
+    "duration": 1,
+    "text": "而據了解"
+  },
+  {
+    "sequence": 190,
+    "start": 594.96,
+    "duration": 5,
+    "text": "府院高層過去一周密集討論閣員名單"
+  },
+  {
+    "sequence": 191,
+    "start": 599.96,
+    "duration": 3,
+    "text": "最快今天就會公佈新人事佈局"
+  },
+  {
+    "sequence": 192,
+    "start": 602.96,
+    "duration": 14,
+    "text": "823 公投與罷免戰落幕"
+  },
+  {
+    "sequence": 193,
+    "start": 616.96,
+    "duration": 2,
+    "text": "總統賴清德親上火線回應"
+  },
+  {
+    "sequence": 194,
+    "start": 618.96,
+    "duration": 2,
+    "text": "證實將調整內閣隊形"
+  },
+  {
+    "sequence": 195,
+    "start": 620.96,
+    "duration": 3,
+    "text": "並透露已未留曾多次請辭的行政府長卓隆泰"
+  },
+  {
+    "sequence": 196,
+    "start": 623.96,
+    "duration": 1,
+    "text": "據了解"
+  },
+  {
+    "sequence": 197,
+    "start": 624.96,
+    "duration": 3,
+    "text": "府院高層過去一周密集討論新閣員名單"
+  },
+  {
+    "sequence": 198,
+    "start": 627.96,
+    "duration": 2,
+    "text": "最快25日就會公佈"
+  },
+  {
+    "sequence": 199,
+    "start": 629.96,
+    "duration": 12,
+    "text": "目前傳出經濟部長郭志輝離職後的懸缺"
+  },
+  {
+    "sequence": 200,
+    "start": 641.96,
+    "duration": 2,
+    "text": "內地由行政府秘書長郭明星接棒"
+  },
+  {
+    "sequence": 201,
+    "start": 643.96,
+    "duration": 3,
+    "text": "總府副秘書長張敦涵轉任政府秘書長"
+  },
+  {
+    "sequence": 202,
+    "start": 646.96,
+    "duration": 4,
+    "text": "衛福部長邱泰源、外交部長林佳龍也可能會有異動"
+  },
+  {
+    "sequence": 203,
+    "start": 650.96,
+    "duration": 3,
+    "text": "而包括內政部長劉世芳、造通部長陳世凱"
+  },
+  {
+    "sequence": 204,
+    "start": 653.96,
+    "duration": 4,
+    "text": "環境部長彭啟明、經管會主委彭金龍等人則會留任"
+  },
+  {
+    "sequence": 205,
+    "start": 657.96,
+    "duration": 3,
+    "text": "但在野黨批評相關人事佈局老無新意"
+  },
+  {
+    "sequence": 206,
+    "start": 660.96,
+    "duration": 2,
+    "text": "也缺乏誠意"
+  },
+  {
+    "sequence": 207,
+    "start": 676.96,
+    "duration": 3,
+    "text": "人民的期待仍舊有一段很大的差距"
+  },
+  {
+    "sequence": 208,
+    "start": 707.96,
+    "duration": 2,
+    "text": "民意的期待"
+  },
+  {
+    "sequence": 209,
+    "start": 709.96,
+    "duration": 3,
+    "text": "民進黨立委坦言不只內閣必須有新氣象"
+  },
+  {
+    "sequence": 210,
+    "start": 712.96,
+    "duration": 3,
+    "text": "在黨務及黨團部分也應該有改革"
+  },
+  {
+    "sequence": 211,
+    "start": 715.96,
+    "duration": 2,
+    "text": "才能回應人民期待"
+  },
+  {
+    "sequence": 212,
+    "start": 717.96,
+    "duration": 8,
+    "text": "核三重啟公投結果沒有過關"
+  },
+  {
+    "sequence": 213,
+    "start": 725.96,
+    "duration": 4,
+    "text": "台電表示尊重公投結果"
+  },
+  {
+    "sequence": 214,
+    "start": 729.96,
+    "duration": 3,
+    "text": "也將依法啟動自我安檢"
+  },
+  {
+    "sequence": 215,
+    "start": 732.96,
+    "duration": 2,
+    "text": "持續發展多元能源"
+  },
+  {
+    "sequence": 216,
+    "start": 734.96,
+    "duration": 4,
+    "text": "滿足全民用電需求"
+  },
+  {
+    "sequence": 217,
+    "start": 738.96,
+    "duration": 5,
+    "text": "A照修正後的原子反應器設施管制法"
+  },
+  {
+    "sequence": 218,
+    "start": 743.96,
+    "duration": 4,
+    "text": "台電還是可以提出再運轉申請"
+  },
+  {
+    "sequence": 219,
+    "start": 747.96,
+    "duration": 3,
+    "text": "然而台灣位處地震帶"
+  },
+  {
+    "sequence": 220,
+    "start": 750.96,
+    "duration": 6,
+    "text": "有關核電廠的地質安全各界仍有不同的聲音"
+  },
+  {
+    "sequence": 221,
+    "start": 756.96,
+    "duration": 4,
+    "text": "核三廠重啟公投未通過"
+  },
+  {
+    "sequence": 222,
+    "start": 760.96,
+    "duration": 3,
+    "text": "不過今年5月3度的核子反應器設施管制法修正案"
+  },
+  {
+    "sequence": 223,
+    "start": 763.96,
+    "duration": 3,
+    "text": "已經把核電廠執照到其前5至15年"
+  },
+  {
+    "sequence": 224,
+    "start": 766.96,
+    "duration": 3,
+    "text": "必須申請換發執照的規定刪除"
+  },
+  {
+    "sequence": 225,
+    "start": 769.96,
+    "duration": 3,
+    "text": "因此台電還是可以提出再運轉申請"
+  },
+  {
+    "sequence": 226,
+    "start": 772.96,
+    "duration": 2,
+    "text": "然而台灣地震頻繁"
+  },
+  {
+    "sequence": 227,
+    "start": 774.96,
+    "duration": 3,
+    "text": "核三廠地震危害主要控制陣源"
+  },
+  {
+    "sequence": 228,
+    "start": 777.96,
+    "duration": 2,
+    "text": "包括馬尼拉隱沒帶"
+  },
+  {
+    "sequence": 229,
+    "start": 779.96,
+    "duration": 3,
+    "text": "西恆春外海構造以及恆春斷層系統"
+  },
+  {
+    "sequence": 230,
+    "start": 782.96,
+    "duration": 3,
+    "text": "地質安全是大眾關注的焦點"
+  },
+  {
+    "sequence": 231,
+    "start": 785.96,
+    "duration": 5,
+    "text": "恆春斷層它的發生潛勢其實是在下降的"
+  },
+  {
+    "sequence": 232,
+    "start": 790.96,
+    "duration": 3,
+    "text": "當然我還是會傾向說"
+  },
+  {
+    "sequence": 233,
+    "start": 793.96,
+    "duration": 5,
+    "text": "我們還是必須要假設說它有發生大地震的潛力"
+  },
+  {
+    "sequence": 234,
+    "start": 798.96,
+    "duration": 3,
+    "text": "所以根據這樣的一個狀況下"
+  },
+  {
+    "sequence": 235,
+    "start": 801.96,
+    "duration": 4,
+    "text": "我們去做核電廠的整個安全的設計規劃"
+  },
+  {
+    "sequence": 236,
+    "start": 805.96,
+    "duration": 5,
+    "text": "雖然政府公告的斷層線距離反應爐有1.1公里"
+  },
+  {
+    "sequence": 237,
+    "start": 810.96,
+    "duration": 4,
+    "text": "不過地質學者陳文山以台電的地質調查資料說明"
+  },
+  {
+    "sequence": 238,
+    "start": 814.96,
+    "duration": 4,
+    "text": "核三廠關鍵設施下方確實有斷層簡列帶通過"
+  },
+  {
+    "sequence": 239,
+    "start": 818.96,
+    "duration": 3,
+    "text": "很可能是恆春斷層的分支"
+  },
+  {
+    "sequence": 240,
+    "start": 843.96,
+    "duration": 5,
+    "text": "最新評估顯示核三廠可能遭遇的地動加速度達到1.384G"
+  },
+  {
+    "sequence": 241,
+    "start": 848.96,
+    "duration": 2,
+    "text": "是三座核電廠中最高"
+  },
+  {
+    "sequence": 242,
+    "start": 850.96,
+    "duration": 4,
+    "text": "台電已經在2014年完成階段性耐震補強"
+  },
+  {
+    "sequence": 243,
+    "start": 854.96,
+    "duration": 5,
+    "text": "部分關鍵設施以及安全停機路徑耐震與預值皆有所提升"
+  },
+  {
+    "sequence": 244,
+    "start": 859.96,
+    "duration": 4,
+    "text": "目前正在進行機率式地震風險評估(SPRA)"
+  },
+  {
+    "sequence": 245,
+    "start": 863.96,
+    "duration": 5,
+    "text": "這個是針對全廠的部分來去全面的檢視"
+  },
+  {
+    "sequence": 246,
+    "start": 868.96,
+    "duration": 4,
+    "text": "你說要不要有耐震強化的部分"
+  },
+  {
+    "sequence": 247,
+    "start": 872.96,
+    "duration": 2,
+    "text": "看它最後審定的結果"
+  },
+  {
+    "sequence": 248,
+    "start": 874.96,
+    "duration": 3,
+    "text": "所以要不要還是看它所謂SPRA的"
+  },
+  {
+    "sequence": 249,
+    "start": 877.96,
+    "duration": 2,
+    "text": "台電公司評估的結果"
+  },
+  {
+    "sequence": 250,
+    "start": 879.96,
+    "duration": 3,
+    "text": "評估結果讓我們再進行審查確認"
+  },
+  {
+    "sequence": 251,
+    "start": 882.96,
+    "duration": 3,
+    "text": "核安會8月預告的修正草案"
+  },
+  {
+    "sequence": 252,
+    "start": 885.96,
+    "duration": 4,
+    "text": "已經把輻射相關液體查核以及耐震安全評估說明"
+  },
+  {
+    "sequence": 253,
+    "start": 889.96,
+    "duration": 4,
+    "text": "新增到核電廠申請再運轉時必須提交的文件中"
+  },
+  {
+    "sequence": 254,
+    "start": 893.96,
+    "duration": 5,
+    "text": "學者提醒既然推估可能發生的地震規模比先前更大"
+  },
+  {
+    "sequence": 255,
+    "start": 898.96,
+    "duration": 3,
+    "text": "海嘯的風險也應該重新評估"
+  },
+  {
+    "sequence": 256,
+    "start": 901.96,
+    "duration": 4,
+    "text": "外海海嘯裡面很多這種大型的斷層"
+  },
+  {
+    "sequence": 257,
+    "start": 905.96,
+    "duration": 3,
+    "text": "它一旦錯動會引起多大的海嘯"
+  },
+  {
+    "sequence": 258,
+    "start": 908.96,
+    "duration": 3,
+    "text": "讓我們核酸廠會衝多高"
+  },
+  {
+    "sequence": 259,
+    "start": 911.96,
+    "duration": 3,
+    "text": "那麼一煙的範圍整個核酸廠區"
+  },
+  {
+    "sequence": 260,
+    "start": 914.96,
+    "duration": 2,
+    "text": "一煙的範圍有多大"
+  },
+  {
+    "sequence": 261,
+    "start": 916.96,
+    "duration": 3,
+    "text": "雖然核酸廠也有海嘯牆的考慮"
+  },
+  {
+    "sequence": 262,
+    "start": 919.96,
+    "duration": 3,
+    "text": "但是那個是以前做的海嘯分析"
+  },
+  {
+    "sequence": 263,
+    "start": 922.96,
+    "duration": 5,
+    "text": "不論核酸未來是否重啟"
+  },
+  {
+    "sequence": 264,
+    "start": 927.96,
+    "duration": 3,
+    "text": "用過核燃料都會暫時存放在廠區"
+  },
+  {
+    "sequence": 265,
+    "start": 930.96,
+    "duration": 3,
+    "text": "台電2022年完成的地震危害與篩選報告"
+  },
+  {
+    "sequence": 266,
+    "start": 933.96,
+    "duration": 3,
+    "text": "結論明確指出核酸廠的用過燃料池"
+  },
+  {
+    "sequence": 267,
+    "start": 936.96,
+    "duration": 3,
+    "text": "還需要執行耐震評估"
+  },
+  {
+    "sequence": 268,
+    "start": 939.96,
+    "duration": 2,
+    "text": "如何確保零核電時代的核安"
+  },
+  {
+    "sequence": 269,
+    "start": 941.96,
+    "duration": 2,
+    "text": "台灣仍然無法鬆懈"
+  },
+  {
+    "sequence": 270,
+    "start": 943.96,
+    "duration": 3,
+    "text": "公視新聞李樹凡陳天寶綜合報導"
+  },
+  {
+    "sequence": 271,
+    "start": 946.96,
+    "duration": 6,
+    "text": "被列為海洋保育類野生動物的鯨鯊"
+  },
+  {
+    "sequence": 272,
+    "start": 952.96,
+    "duration": 3,
+    "text": "又俗稱豆腐鯊"
+  },
+  {
+    "sequence": 273,
+    "start": 955.96,
+    "duration": 2,
+    "text": "昨天上午在台東"
+  },
+  {
+    "sequence": 274,
+    "start": 957.96,
+    "duration": 4,
+    "text": "有釣客發現鯨鯊割前死亡"
+  },
+  {
+    "sequence": 275,
+    "start": 961.96,
+    "duration": 3,
+    "text": "長度超過了3公尺"
+  },
+  {
+    "sequence": 276,
+    "start": 964.96,
+    "duration": 4,
+    "text": "而專家分析"
+  },
+  {
+    "sequence": 277,
+    "start": 968.96,
+    "duration": 4,
+    "text": "依照鯨鯊捧起的皮膚來看"
+  },
+  {
+    "sequence": 278,
+    "start": 972.96,
+    "duration": 4,
+    "text": "應該已經死亡有一段時間了"
+  },
+  {
+    "sequence": 279,
+    "start": 976.96,
+    "duration": 5,
+    "text": "不過確切的死因仍待解剖來釐清"
+  },
+  {
+    "sequence": 280,
+    "start": 985.96,
+    "duration": 2,
+    "text": "身體不滿白色斑點"
+  },
+  {
+    "sequence": 281,
+    "start": 987.96,
+    "duration": 3,
+    "text": "俗稱豆腐鯊的保育類海洋生物鯨鯊"
+  },
+  {
+    "sequence": 282,
+    "start": 990.96,
+    "duration": 2,
+    "text": "一動也不動躺在礫石堆"
+  },
+  {
+    "sequence": 283,
+    "start": 992.96,
+    "duration": 1,
+    "text": "台東市峰禮岸邊"
+  },
+  {
+    "sequence": 284,
+    "start": 993.96,
+    "duration": 1,
+    "text": "早上有釣客發現"
+  },
+  {
+    "sequence": 285,
+    "start": 994.96,
+    "duration": 3,
+    "text": "有長度超過3公尺的鯨鯊割前死亡"
+  },
+  {
+    "sequence": 286,
+    "start": 997.96,
+    "duration": 3,
+    "text": "已經通知相關單位協助處理"
+  },
+  {
+    "sequence": 287,
+    "start": 1000.96,
+    "duration": 11,
+    "text": "縣府農業處表示"
+  },
+  {
+    "sequence": 288,
+    "start": 1011.96,
+    "duration": 2,
+    "text": "海巡署會通報海保署"
+  },
+  {
+    "sequence": 289,
+    "start": 1013.96,
+    "duration": 2,
+    "text": "請專家學者一併進行運載"
+  },
+  {
+    "sequence": 290,
+    "start": 1015.96,
+    "duration": 2,
+    "text": "以及後續處理"
+  },
+  {
+    "sequence": 291,
+    "start": 1017.96,
+    "duration": 1,
+    "text": "割前死亡的鯨鯊"
+  },
+  {
+    "sequence": 292,
+    "start": 1018.96,
+    "duration": 2,
+    "text": "目前所顯露出來的部分"
+  },
+  {
+    "sequence": 293,
+    "start": 1020.96,
+    "duration": 1,
+    "text": "看不見明顯傷口"
+  },
+  {
+    "sequence": 294,
+    "start": 1021.96,
+    "duration": 3,
+    "text": "周圍其部分有一束疑似切割傷"
+  },
+  {
+    "sequence": 295,
+    "start": 1024.96,
+    "duration": 3,
+    "text": "學者分析依照鯨鯊捧起的皮膚來看"
+  },
+  {
+    "sequence": 296,
+    "start": 1027.96,
+    "duration": 2,
+    "text": "應該已經死亡有一段時間"
+  },
+  {
+    "sequence": 297,
+    "start": 1029.96,
+    "duration": 3,
+    "text": "不過確切死因仍需待解剖後"
+  },
+  {
+    "sequence": 298,
+    "start": 1032.96,
+    "duration": 1,
+    "text": "進一步釐清"
+  },
+  {
+    "sequence": 299,
+    "start": 1033.96,
+    "duration": 2,
+    "text": "應該死亡有一段時間了"
+  },
+  {
+    "sequence": 300,
+    "start": 1035.96,
+    "duration": 4,
+    "text": "那所以其實有些皮膚是脫落的狀態"
+  },
+  {
+    "sequence": 301,
+    "start": 1039.96,
+    "duration": 2,
+    "text": "所以會被認為它是有傷口"
+  },
+  {
+    "sequence": 302,
+    "start": 1041.96,
+    "duration": 2,
+    "text": "這隻大小大概還不到5公尺"
+  },
+  {
+    "sequence": 303,
+    "start": 1043.96,
+    "duration": 3,
+    "text": "這個體型它基本上還是未成年"
+  },
+  {
+    "sequence": 304,
+    "start": 1046.96,
+    "duration": 1,
+    "text": "鯨鯊割前原因多"
+  },
+  {
+    "sequence": 305,
+    "start": 1047.96,
+    "duration": 3,
+    "text": "學者指出根據以往統計資料顯示"
+  },
+  {
+    "sequence": 306,
+    "start": 1050.96,
+    "duration": 2,
+    "text": "大約有三大項目"
+  },
+  {
+    "sequence": 307,
+    "start": 1052.96,
+    "duration": 2,
+    "text": "包括鯨鯊先天遺傳性問題"
+  },
+  {
+    "sequence": 308,
+    "start": 1054.96,
+    "duration": 2,
+    "text": "例如先天心臟發育不良"
+  },
+  {
+    "sequence": 309,
+    "start": 1056.96,
+    "duration": 4,
+    "text": "以及後天因感染或受傷導致身體出狀況"
+  },
+  {
+    "sequence": 310,
+    "start": 1060.96,
+    "duration": 3,
+    "text": "直接或間接的漁業仍為因素"
+  },
+  {
+    "sequence": 311,
+    "start": 1063.96,
+    "duration": 4,
+    "text": "如以2019年到2025年的統計數據來看"
+  },
+  {
+    "sequence": 312,
+    "start": 1067.96,
+    "duration": 3,
+    "text": "每年割前的鯨鯊數量呈現持平狀態"
+  },
+  {
+    "sequence": 313,
+    "start": 1070.96,
+    "duration": 4,
+    "text": "從2019年到現在的數據顯示"
+  },
+  {
+    "sequence": 314,
+    "start": 1074.96,
+    "duration": 2,
+    "text": "每年的割前的鯨鯊數目"
+  },
+  {
+    "sequence": 315,
+    "start": 1076.96,
+    "duration": 3,
+    "text": "平均大概是150到160隻"
+  },
+  {
+    "sequence": 316,
+    "start": 1079.96,
+    "duration": 2,
+    "text": "每年並沒有很明顯的往上升"
+  },
+  {
+    "sequence": 317,
+    "start": 1081.96,
+    "duration": 2,
+    "text": "也沒有很明顯的往下降"
+  },
+  {
+    "sequence": 318,
+    "start": 1083.96,
+    "duration": 2,
+    "text": "那我們比較保守的是說"
+  },
+  {
+    "sequence": 319,
+    "start": 1085.96,
+    "duration": 2,
+    "text": "每年大概是持平的狀態"
+  },
+  {
+    "sequence": 320,
+    "start": 1087.96,
+    "duration": 3,
+    "text": "推動鯨鯊保育除了監督環境工程"
+  },
+  {
+    "sequence": 321,
+    "start": 1090.96,
+    "duration": 2,
+    "text": "對於海洋保育的落實程度"
+  },
+  {
+    "sequence": 322,
+    "start": 1092.96,
+    "duration": 2,
+    "text": "也要避免不當或過度的觀光"
+  },
+  {
+    "sequence": 323,
+    "start": 1094.96,
+    "duration": 3,
+    "text": "以及漁業行為影響鯨鯊生態"
+  },
+  {
+    "sequence": 324,
+    "start": 1097.96,
+    "duration": 2,
+    "text": "才能盡可能在經濟及保育之間"
+  },
+  {
+    "sequence": 325,
+    "start": 1099.96,
+    "duration": 1,
+    "text": "取得平衡"
+  },
+  {
+    "sequence": 326,
+    "start": 1100.96,
+    "duration": 1,
+    "text": "國人新聞狂判張明如"
+  },
+  {
+    "sequence": 327,
+    "start": 1101.96,
+    "duration": 2,
+    "text": "張明哲台東報導"
+  },
+  {
+    "sequence": 328,
+    "start": 1103.96,
+    "duration": 4,
+    "text": "新聞即將來看到"
+  },
+  {
+    "sequence": 329,
+    "start": 1107.96,
+    "duration": 4,
+    "text": "內政部公佈了最新統計"
+  },
+  {
+    "sequence": 330,
+    "start": 1111.96,
+    "duration": 5,
+    "text": "去年國人平均壽命是80.77歲"
+  },
+  {
+    "sequence": 331,
+    "start": 1116.96,
+    "duration": 6,
+    "text": "比前一年增加了0.54歲"
+  },
+  {
+    "sequence": 332,
+    "start": 1122.96,
+    "duration": 3,
+    "text": "而另外苗栗後龍海邊"
+  },
+  {
+    "sequence": 333,
+    "start": 1125.96,
+    "duration": 4,
+    "text": "發現有不肖業者偷到了兩公噸的"
+  },
+  {
+    "sequence": 334,
+    "start": 1129.96,
+    "duration": 2,
+    "text": "廢棄石棉襪"
+  },
+  {
+    "sequence": 335,
+    "start": 1131.96,
+    "duration": 6,
+    "text": "還有24號凌晨一點多"
+  },
+  {
+    "sequence": 336,
+    "start": 1137.96,
+    "duration": 4,
+    "text": "高雄發生機車撞傷了兩名路人"
+  },
+  {
+    "sequence": 337,
+    "start": 1141.96,
+    "duration": 3,
+    "text": "其中一人重傷"
+  },
+  {
+    "sequence": 338,
+    "start": 1144.96,
+    "duration": 2,
+    "text": "來看我們整理的報導"
+  },
+  {
+    "sequence": 339,
+    "start": 1146.96,
+    "duration": 7,
+    "text": "24號凌晨"
+  },
+  {
+    "sequence": 340,
+    "start": 1153.96,
+    "duration": 3,
+    "text": "一位機車騎士行經高雄前鎮區"
+  },
+  {
+    "sequence": 341,
+    "start": 1156.96,
+    "duration": 2,
+    "text": "中山二路與星光路口時"
+  },
+  {
+    "sequence": 342,
+    "start": 1158.96,
+    "duration": 3,
+    "text": "直接撞上兩名站在斑馬線上停等"
+  },
+  {
+    "sequence": 343,
+    "start": 1161.96,
+    "duration": 1,
+    "text": "紅燈的民眾"
+  },
+  {
+    "sequence": 344,
+    "start": 1162.96,
+    "duration": 2,
+    "text": "造成其中一人一度意識模糊"
+  },
+  {
+    "sequence": 345,
+    "start": 1164.96,
+    "duration": 4,
+    "text": "肇事責任將由交通大隊進一步釐清"
+  },
+  {
+    "sequence": 346,
+    "start": 1168.96,
+    "duration": 3,
+    "text": "而為了降低機車交通事故傷亡人數"
+  },
+  {
+    "sequence": 347,
+    "start": 1171.96,
+    "duration": 2,
+    "text": "公路局也透過補助計畫"
+  },
+  {
+    "sequence": 348,
+    "start": 1173.96,
+    "duration": 3,
+    "text": "要提升民眾參加駕訓班的意願"
+  },
+  {
+    "sequence": 349,
+    "start": 1176.96,
+    "duration": 2,
+    "text": "根據審計部的報告指出"
+  },
+  {
+    "sequence": 350,
+    "start": 1178.96,
+    "duration": 5,
+    "text": "2020年到2024年通過機車駕照考試的民眾中"
+  },
+  {
+    "sequence": 351,
+    "start": 1183.96,
+    "duration": 4,
+    "text": "有參加駕訓的比例雖然從4.71%"
+  },
+  {
+    "sequence": 352,
+    "start": 1187.96,
+    "duration": 3,
+    "text": "逐年增加到18.34%"
+  },
+  {
+    "sequence": 353,
+    "start": 1190.96,
+    "duration": 2,
+    "text": "但卻依然不到兩成"
+  },
+  {
+    "sequence": 354,
+    "start": 1192.96,
+    "duration": 3,
+    "text": "機車團體呼籲政府擴大誘因"
+  },
+  {
+    "sequence": 355,
+    "start": 1195.96,
+    "duration": 4,
+    "text": "大量的廢棄石棉襪散落在赤紅池與草叢邊"
+  },
+  {
+    "sequence": 356,
+    "start": 1199.96,
+    "duration": 5,
+    "text": "苗栗縣後龍鎮海邊近期遭不肖人士侵到石棉襪"
+  },
+  {
+    "sequence": 357,
+    "start": 1204.96,
+    "duration": 4,
+    "text": "由於棄置點位置偏僻臨近海邊"
+  },
+  {
+    "sequence": 358,
+    "start": 1208.96,
+    "duration": 2,
+    "text": "居民擔心若不趕快找到兇手"
+  },
+  {
+    "sequence": 359,
+    "start": 1210.96,
+    "duration": 3,
+    "text": "未來可能會有更多人隨意侵到"
+  },
+  {
+    "sequence": 360,
+    "start": 1213.96,
+    "duration": 5,
+    "text": "環保局評估現場棄置廢棄石棉襪數量約兩公噸"
+  },
+  {
+    "sequence": 361,
+    "start": 1218.96,
+    "duration": 3,
+    "text": "後續將調越周邊監視器氣胸"
+  },
+  {
+    "sequence": 362,
+    "start": 1221.96,
+    "duration": 3,
+    "text": "將行為人依廢清法移送法辦"
+  },
+  {
+    "sequence": 363,
+    "start": 1224.96,
+    "duration": 6,
+    "text": "內政部23日公布113年國人平均壽命為80.77歲"
+  },
+  {
+    "sequence": 364,
+    "start": 1230.96,
+    "duration": 2,
+    "text": "比前一年增加0.54歲"
+  },
+  {
+    "sequence": 365,
+    "start": 1232.96,
+    "duration": 3,
+    "text": "其中男性77.42歲"
+  },
+  {
+    "sequence": 366,
+    "start": 1235.96,
+    "duration": 2,
+    "text": "女性84.3歲"
+  },
+  {
+    "sequence": 367,
+    "start": 1237.96,
+    "duration": 2,
+    "text": "如果跟亞洲國家相比"
+  },
+  {
+    "sequence": 368,
+    "start": 1239.96,
+    "duration": 3,
+    "text": "台灣平均壽命低於日本、新加坡以及南韓"
+  },
+  {
+    "sequence": 369,
+    "start": 1242.96,
+    "duration": 3,
+    "text": "但高於中國及馬來西亞"
+  },
+  {
+    "sequence": 370,
+    "start": 1245.96,
+    "duration": 2,
+    "text": "進一步分析各縣市平均壽命"
+  },
+  {
+    "sequence": 371,
+    "start": 1247.96,
+    "duration": 3,
+    "text": "以台北市83.4歲最高"
+  },
+  {
+    "sequence": 372,
+    "start": 1250.96,
+    "duration": 3,
+    "text": "台東縣75.97歲則是最低"
+  },
+  {
+    "sequence": 373,
+    "start": 1253.96,
+    "duration": 3,
+    "text": "而社福團體則呼籲政府"
+  },
+  {
+    "sequence": 374,
+    "start": 1256.96,
+    "duration": 3,
+    "text": "因挹注偏鄉基層衛生所人力及資源"
+  },
+  {
+    "sequence": 375,
+    "start": 1259.96,
+    "duration": 4,
+    "text": "解決全國性的健康不平等問題"
+  },
+  {
+    "sequence": 376,
+    "start": 1263.96,
+    "duration": 2,
+    "text": "公視新聞綜合報導"
+  },
+  {
+    "sequence": 377,
+    "start": 1265.96,
+    "duration": 6,
+    "text": "美國政府宣布8月29日開始"
+  },
+  {
+    "sequence": 378,
+    "start": 1271.96,
+    "duration": 4,
+    "text": "對於價值低於800美元的小額包裹"
+  },
+  {
+    "sequence": 379,
+    "start": 1275.96,
+    "duration": 4,
+    "text": "免徵關稅措施將要取消"
+  },
+  {
+    "sequence": 380,
+    "start": 1279.96,
+    "duration": 4,
+    "text": "而法國跟德國的郵政22日公告"
+  },
+  {
+    "sequence": 381,
+    "start": 1283.96,
+    "duration": 4,
+    "text": "暫停寄往美國的包裹服務"
+  },
+  {
+    "sequence": 382,
+    "start": 1290.96,
+    "duration": 3,
+    "text": "德國郵政的母公司DHL表示"
+  },
+  {
+    "sequence": 383,
+    "start": 1293.96,
+    "duration": 5,
+    "text": "從23日開始將暫停其投遞至美國標準類別的包裹寄送服務"
+  },
+  {
+    "sequence": 384,
+    "start": 1298.96,
+    "duration": 2,
+    "text": "這種寄送便宜、慢速"
+  },
+  {
+    "sequence": 385,
+    "start": 1300.96,
+    "duration": 3,
+    "text": "也是許多中小企業或電商偏好的選擇"
+  },
+  {
+    "sequence": 386,
+    "start": 1303.96,
+    "duration": 2,
+    "text": "不過價格較高且寄送快速"
+  },
+  {
+    "sequence": 387,
+    "start": 1305.96,
+    "duration": 5,
+    "text": "例如DHL Express、FedEx、UPS等較昂貴快遞服務仍可使用"
+  },
+  {
+    "sequence": 388,
+    "start": 1310.96,
+    "duration": 3,
+    "text": "DHL聲明會實施這樣的限制"
+  },
+  {
+    "sequence": 389,
+    "start": 1313.96,
+    "duration": 2,
+    "text": "且預期是暫時性的"
+  },
+  {
+    "sequence": 390,
+    "start": 1315.96,
+    "duration": 3,
+    "text": "是為了因應美國當局新的郵件寄送程序"
+  },
+  {
+    "sequence": 391,
+    "start": 1318.96,
+    "duration": 3,
+    "text": "並補充說明許多重要問題上代解答"
+  },
+  {
+    "sequence": 392,
+    "start": 1321.96,
+    "duration": 3,
+    "text": "包括誰要付關稅以及怎麼付"
+  },
+  {
+    "sequence": 393,
+    "start": 1324.96,
+    "duration": 4,
+    "text": "法國郵政則從25日星期一開始將停止寄送包裹至美國"
+  },
+  {
+    "sequence": 394,
+    "start": 1328.96,
+    "duration": 4,
+    "text": "個人寄送價值低於100歐元以下的小禮物除外"
+  },
+  {
+    "sequence": 395,
+    "start": 1332.96,
+    "duration": 3,
+    "text": "法國郵政表示新規定8月15日才公佈"
+  },
+  {
+    "sequence": 396,
+    "start": 1335.96,
+    "duration": 5,
+    "text": "使得歐洲郵政機構準備調整相關作業的時間有限"
+  },
+  {
+    "sequence": 397,
+    "start": 1340.96,
+    "duration": 3,
+    "text": "而且這些文件包裹的分類還得進一步釐清"
+  },
+  {
+    "sequence": 398,
+    "start": 1343.96,
+    "duration": 3,
+    "text": "法國平均每年寄送約160萬件包裹到美國"
+  },
+  {
+    "sequence": 399,
+    "start": 1346.96,
+    "duration": 3,
+    "text": "其中80%是企業的郵件"
+  },
+  {
+    "sequence": 400,
+    "start": 1349.96,
+    "duration": 2,
+    "text": "20%為個人寄送"
+  },
+  {
+    "sequence": 401,
+    "start": 1351.96,
+    "duration": 5,
+    "text": "DHL表示重量上限70公斤的較昂貴快遞服務仍可使用"
+  },
+  {
+    "sequence": 402,
+    "start": 1356.96,
+    "duration": 4,
+    "text": "個人郵寄的客戶仍可寄送最高100美元的禮品"
+  },
+  {
+    "sequence": 403,
+    "start": 1360.96,
+    "duration": 4,
+    "text": "但是DHL警告為了避免個人郵寄遭商業用途的寄送濫用"
+  },
+  {
+    "sequence": 404,
+    "start": 1364.96,
+    "duration": 3,
+    "text": "這些私人包裹將面臨額外檢查"
+  },
+  {
+    "sequence": 405,
+    "start": 1367.96,
+    "duration": 4,
+    "text": "川普政府是在7月30日宣布從8月29日開始"
+  },
+  {
+    "sequence": 406,
+    "start": 1371.96,
+    "duration": 6,
+    "text": "將寄送到美國的小額包裹免關稅優惠取消價值低於800美元的包裹"
+  },
+  {
+    "sequence": 407,
+    "start": 1377.96,
+    "duration": 5,
+    "text": "也將被課徵15%的關稅與其他歐盟進口商品相同"
+  },
+  {
+    "sequence": 408,
+    "start": 1382.96,
+    "duration": 4,
+    "text": "這像一般關稅稅率是上個月底布魯塞爾和華府談完的結果"
+  },
+  {
+    "sequence": 409,
+    "start": 1386.96,
+    "duration": 5,
+    "text": "川普在第一個任期就曾針對國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 410,
+    "start": 1391.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國這項門檻"
+  },
+  {
+    "sequence": 411,
+    "start": 1395.96,
+    "duration": 6,
+    "text": "大量寄送小額商品免稅進口到美國損害美國零售業與製造業"
+  },
+  {
+    "sequence": 412,
+    "start": 1401.96,
+    "duration": 2,
+    "text": "公視新聞 黃玥玲編譯"
+  },
+  {
+    "sequence": 413,
+    "start": 1425.96,
+    "duration": 4,
+    "text": "國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 414,
+    "start": 1429.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國這項門檻"
+  },
+  {
+    "sequence": 415,
+    "start": 1433.96,
+    "duration": 4,
+    "text": "大量寄送小額商品免稅進口到美國損害美國零售業與製造業"
+  },
+  {
+    "sequence": 416,
+    "start": 1437.96,
+    "duration": 4,
+    "text": "公視新聞 黃玲玲編譯"
+  },
+  {
+    "sequence": 417,
+    "start": 1441.96,
+    "duration": 4,
+    "text": "國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 418,
+    "start": 1445.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國這項門檻"
+  },
+  {
+    "sequence": 419,
+    "start": 1449.96,
+    "duration": 4,
+    "text": "大量寄送小額包裹免稅進口到美國損害美國零售業與製造業"
+  },
+  {
+    "sequence": 420,
+    "start": 1453.96,
+    "duration": 4,
+    "text": "公視新聞 黃玲玲編譯"
+  },
+  {
+    "sequence": 421,
+    "start": 1457.96,
+    "duration": 4,
+    "text": "國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 422,
+    "start": 1461.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國零售業與製造業"
+  },
+  {
+    "sequence": 423,
+    "start": 1465.96,
+    "duration": 4,
+    "text": "公視新聞 黃玲玲編譯"
+  },
+  {
+    "sequence": 424,
+    "start": 1469.96,
+    "duration": 4,
+    "text": "國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 425,
+    "start": 1473.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國零售業與製造業"
+  },
+  {
+    "sequence": 426,
+    "start": 1477.96,
+    "duration": 4,
+    "text": "公視新聞 黃玲玲編譯"
+  },
+  {
+    "sequence": 427,
+    "start": 1481.96,
+    "duration": 4,
+    "text": "國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 428,
+    "start": 1485.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國零售業與製造業"
+  },
+  {
+    "sequence": 429,
+    "start": 1489.96,
+    "duration": 4,
+    "text": "公視新聞 黃玲玲編譯"
+  },
+  {
+    "sequence": 430,
+    "start": 1493.96,
+    "duration": 4,
+    "text": "國際小額包裹免稅制度表達過不滿"
+  },
+  {
+    "sequence": 431,
+    "start": 1497.96,
+    "duration": 4,
+    "text": "當時批評中國電商例如阿里巴巴利用美國零售業與製造業"
+  },
+  {
+    "sequence": 432,
+    "start": 1501.96,
+    "duration": 4,
+    "text": "公視新聞 黃玲玲編譯"
   }
 ]

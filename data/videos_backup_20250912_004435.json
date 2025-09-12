@@ -12,8 +12,8 @@
       "needsWhisperProcessing": true,
       "needsClassification": true,
       "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:20:15.550Z",
-      "transcriptSegments": 295
+      "whisperProcessedAt": "2025-09-11T11:18:56.077Z",
+      "transcriptSegments": 659
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -23,9 +23,9 @@
       "coverage": 26.296296296296294
     },
     "stats": {
-      "transcriptSegments": 295,
+      "transcriptSegments": 659,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -38,11 +38,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:23:34.822Z",
-      "transcriptSegments": 514
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -52,9 +49,9 @@
       "coverage": 27.283950617283953
     },
     "stats": {
-      "transcriptSegments": 514,
+      "transcriptSegments": 759,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -67,11 +64,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:27:02.084Z",
-      "transcriptSegments": 588
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -81,9 +75,9 @@
       "coverage": 24.845105328376704
     },
     "stats": {
-      "transcriptSegments": 588,
+      "transcriptSegments": 695,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -96,11 +90,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:30:30.338Z",
-      "transcriptSegments": 528
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -110,9 +101,9 @@
       "coverage": 30
     },
     "stats": {
-      "transcriptSegments": 528,
+      "transcriptSegments": 739,
       "signLanguageGroups": 11,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -125,11 +116,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:33:39.387Z",
-      "transcriptSegments": 510
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -139,9 +127,9 @@
       "coverage": 30.476190476190478
     },
     "stats": {
-      "transcriptSegments": 510,
+      "transcriptSegments": 548,
       "signLanguageGroups": 8,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -154,11 +142,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:36:54.298Z",
-      "transcriptSegments": 465
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -168,9 +153,9 @@
       "coverage": 24.753086419753085
     },
     "stats": {
-      "transcriptSegments": 465,
+      "transcriptSegments": 15,
       "signLanguageGroups": 9,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -183,11 +168,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:39:57.785Z",
-      "transcriptSegments": 447
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -197,9 +179,9 @@
       "coverage": 29.41970310391363
     },
     "stats": {
-      "transcriptSegments": 447,
+      "transcriptSegments": 15,
       "signLanguageGroups": 9,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -212,11 +194,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:43:09.741Z",
-      "transcriptSegments": 558
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -226,9 +205,9 @@
       "coverage": 26.498637602179837
     },
     "stats": {
-      "transcriptSegments": 558,
+      "transcriptSegments": 16,
       "signLanguageGroups": 9,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -241,11 +220,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:46:20.635Z",
-      "transcriptSegments": 445
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -255,9 +231,9 @@
       "coverage": 26.758793969849247
     },
     "stats": {
-      "transcriptSegments": 445,
+      "transcriptSegments": 18,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -270,11 +246,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:50:07.205Z",
-      "transcriptSegments": 618
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -284,9 +257,9 @@
       "coverage": 26.234567901234566
     },
     "stats": {
-      "transcriptSegments": 618,
+      "transcriptSegments": 17,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -299,11 +272,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:53:15.760Z",
-      "transcriptSegments": 561
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -313,9 +283,9 @@
       "coverage": 29.24107142857143
     },
     "stats": {
-      "transcriptSegments": 561,
+      "transcriptSegments": 18,
       "signLanguageGroups": 9,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -328,11 +298,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:56:26.713Z",
-      "transcriptSegments": 429
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -342,9 +309,9 @@
       "coverage": 25.342960288808662
     },
     "stats": {
-      "transcriptSegments": 429,
+      "transcriptSegments": 17,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -357,11 +324,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T17:59:50.352Z",
-      "transcriptSegments": 520
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -371,9 +335,9 @@
       "coverage": 27.962962962962962
     },
     "stats": {
-      "transcriptSegments": 520,
+      "transcriptSegments": 17,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
@@ -386,11 +350,8 @@
     "processingStatus": {
       "lastUpdated": "2025-09-11T10:59:51.327Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-11T18:03:03.467Z",
-      "transcriptSegments": 432
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -400,9 +361,9 @@
       "coverage": 25.198938992042443
     },
     "stats": {
-      "transcriptSegments": 432,
+      "transcriptSegments": 17,
       "signLanguageGroups": 8,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   }
 ]

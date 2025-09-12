@@ -1,110 +1,2672 @@
 [
   {
-    "start": 3,
+    "sequence": 1,
+    "start": 0,
+    "duration": 11.54,
+    "text": "[音樂]"
+  },
+  {
+    "sequence": 2,
+    "start": 11.54,
+    "duration": 2.4800000000000004,
+    "text": "看新聞 開視野"
+  },
+  {
+    "sequence": 3,
+    "start": 14.02,
+    "duration": 5.02,
+    "text": "歡迎收看今天9月1號的公視手語新聞"
+  },
+  {
+    "sequence": 4,
+    "start": 19.04,
+    "duration": 2.6400000000000006,
+    "text": "首先來關心"
+  },
+  {
+    "sequence": 5,
+    "start": 21.68,
+    "duration": 4.240000000000002,
+    "text": "昨天清晨在桃園中立的一處民宅"
+  },
+  {
+    "sequence": 6,
+    "start": 25.92,
+    "duration": 2.3999999999999986,
+    "text": "發生了重大火警"
+  },
+  {
+    "sequence": 7,
+    "start": 28.32,
+    "duration": 4.280000000000001,
+    "text": "一名大人與四名小孩受困在三樓的臥室"
+  },
+  {
+    "sequence": 8,
+    "start": 32.6,
+    "duration": 1.240000000000002,
+    "text": "不幸罹難"
+  },
+  {
+    "sequence": 9,
+    "start": 33.84,
     "duration": 2,
-    "text": "各位觀眾大家好",
-    "hasSignLanguage": false
+    "text": "而起火原因"
   },
   {
-    "start": 5.2,
-    "duration": 2.5,
-    "text": "歡迎收看公視手語新聞",
-    "hasSignLanguage": false
+    "sequence": 10,
+    "start": 35.84,
+    "duration": 4.599999999999994,
+    "text": "疑似是電風扇的電線走火導致煙燒"
   },
   {
-    "start": 7.9,
+    "sequence": 11,
+    "start": 40.44,
+    "duration": 7.400000000000006,
+    "text": "天才剛亮 巷口擠滿救護車和搜訪車"
+  },
+  {
+    "sequence": 12,
+    "start": 47.84,
+    "duration": 2.479999999999997,
+    "text": "因為桃園中立龍安街一處民宅"
+  },
+  {
+    "sequence": 13,
+    "start": 50.32,
     "duration": 2,
-    "text": "我是手語主播",
-    "hasSignLanguage": false
+    "text": "周日清晨五點發生火警"
   },
   {
-    "start": 10.100000000000001,
-    "duration": 2.5,
-    "text": "今天是2025年9月8日 星期一",
-    "hasSignLanguage": false
+    "sequence": 14,
+    "start": 52.32,
+    "duration": 3.1000000000000014,
+    "text": "消防人員全力灌救 將火勢撲滅後"
   },
   {
-    "start": 12.8,
+    "sequence": 15,
+    "start": 55.42,
+    "duration": 2.8599999999999994,
+    "text": "卻發現三樓臥室內的一大四手"
+  },
+  {
+    "sequence": 16,
+    "start": 58.28,
+    "duration": 2.039999999999999,
+    "text": "已經明顯死亡"
+  },
+  {
+    "sequence": 17,
+    "start": 60.32,
     "duration": 2,
-    "text": "今天為您報導的新聞有",
-    "hasSignLanguage": false
+    "text": "[音樂]"
   },
   {
-    "start": 15.3,
-    "duration": 1.5,
-    "text": "中壢一處民宅",
-    "hasSignLanguage": false
+    "sequence": 18,
+    "start": 62.32,
+    "duration": 1.999999999999993,
+    "text": "周姚姐住在二樓的夜姓祖父母"
   },
   {
-    "start": 17.1,
-    "duration": 1.5,
-    "text": "昨天深夜發生大火",
-    "hasSignLanguage": false
+    "sequence": 19,
+    "start": 64.32,
+    "duration": 2.980000000000004,
+    "text": "發現屋內冒出火光後立即逃生"
   },
   {
-    "start": 18.9,
-    "duration": 1.5,
-    "text": "造成五人死亡",
-    "hasSignLanguage": false
+    "sequence": 20,
+    "start": 67.3,
+    "duration": 3,
+    "text": "但未在三樓鐵皮加蓋的三十五歲黃姓媳婦"
   },
   {
-    "start": 20.7,
-    "duration": 1.5,
-    "text": "初步研判",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 22.5,
-    "duration": 1.5,
-    "text": "疑似電扇電線走火",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 24.3,
-    "duration": 1.5,
-    "text": "火勢迅速延燒",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 26.1,
-    "duration": 1.5,
-    "text": "消防隊獲報後",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 27.9,
-    "duration": 1.5,
-    "text": "立即前往搶救",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 29.7,
-    "duration": 1.5,
-    "text": "詳細起火原因",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 31.5,
-    "duration": 1.5,
-    "text": "仍在調查中",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 353.6171305398133,
-    "duration": 2.2,
-    "text": "以上就是今天的新聞",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 356.1171305398133,
+    "sequence": 21,
+    "start": 70.3,
     "duration": 2,
-    "text": "感謝您的收看",
-    "hasSignLanguage": false
+    "text": "和一對九歲十歲兒女"
   },
   {
-    "start": 358.4171305398133,
-    "duration": 1.8,
-    "text": "我們下次見",
-    "hasSignLanguage": false
+    "sequence": 22,
+    "start": 72.3,
+    "duration": 2,
+    "text": "以及親友的兩名小孩"
+  },
+  {
+    "sequence": 23,
+    "start": 74.3,
+    "duration": 2.980000000000004,
+    "text": "都來不及投出 不幸罹難"
+  },
+  {
+    "sequence": 24,
+    "start": 77.28,
+    "duration": 4,
+    "text": "出庭三十二輛消防科及七十一人員搶救"
+  },
+  {
+    "sequence": 25,
+    "start": 81.28,
+    "duration": 5,
+    "text": "現場為三樓鐵皮加蓋建築物"
+  },
+  {
+    "sequence": 26,
+    "start": 86.28,
+    "duration": 2,
+    "text": "那火勢已全面燃燒"
+  },
+  {
+    "sequence": 27,
+    "start": 88.28,
+    "duration": 5,
+    "text": "那京牆救後 於三樓發現五名受困民眾"
+  },
+  {
+    "sequence": 28,
+    "start": 93.28,
+    "duration": 4,
+    "text": "那火勢已六十十七分撲滅"
+  },
+  {
+    "sequence": 29,
+    "start": 97.28,
+    "duration": 2,
+    "text": "一場火警前沿永隔"
+  },
+  {
+    "sequence": 30,
+    "start": 99.28,
+    "duration": 2,
+    "text": "四個孩子等不到九月一號開學"
+  },
+  {
+    "sequence": 31,
+    "start": 101.28,
+    "duration": 1,
+    "text": "起火原因"
+  },
+  {
+    "sequence": 32,
+    "start": 102.28,
+    "duration": 3,
+    "text": "疑似是電風扇的電線走火而延燒"
+  },
+  {
+    "sequence": 33,
+    "start": 105.28,
+    "duration": 3,
+    "text": "窗戶和外層都被燒到走黑"
+  },
+  {
+    "sequence": 34,
+    "start": 108.28,
+    "duration": 2,
+    "text": "我是聽到我隔壁的"
+  },
+  {
+    "sequence": 35,
+    "start": 110.28,
+    "duration": 3,
+    "text": "我隔壁的在那邊叫救人啊"
+  },
+  {
+    "sequence": 36,
+    "start": 113.28,
+    "duration": 2,
+    "text": "救人啊 救小孩啊"
+  },
+  {
+    "sequence": 37,
+    "start": 115.28,
+    "duration": 2,
+    "text": "聽到嗶嗶啪啪的聲音"
+  },
+  {
+    "sequence": 38,
+    "start": 117.28,
+    "duration": 3,
+    "text": "桃園市長張善政"
+  },
+  {
+    "sequence": 39,
+    "start": 120.28,
+    "duration": 3,
+    "text": "除了要求搜防局儘速釐清事故原因"
+  },
+  {
+    "sequence": 40,
+    "start": 123.28,
+    "duration": 2,
+    "text": "也要求社會局提供必要協助"
+  },
+  {
+    "sequence": 41,
+    "start": 125.28,
+    "duration": 3,
+    "text": "另外教育局也將協助受訪"
+  },
+  {
+    "sequence": 42,
+    "start": 128.28,
+    "duration": 3,
+    "text": "對罹難孩子就讀的班級進行輔導"
+  },
+  {
+    "sequence": 43,
+    "start": 131.28,
+    "duration": 3,
+    "text": "希望相關單位陪伴家屬度過難關"
+  },
+  {
+    "sequence": 44,
+    "start": 134.28,
+    "duration": 2,
+    "text": "共時新聞綜合報導"
+  },
+  {
+    "sequence": 45,
+    "start": 145.28,
+    "duration": 4,
+    "text": "詐欺財損約一千兩百億元"
+  },
+  {
+    "sequence": 46,
+    "start": 149.28,
+    "duration": 3,
+    "text": "然而審計部的報告指出"
+  },
+  {
+    "sequence": 47,
+    "start": 152.28,
+    "duration": 4,
+    "text": "雖然修法加重詐欺刑責"
+  },
+  {
+    "sequence": 48,
+    "start": 156.28,
+    "duration": 3,
+    "text": "但是近六年判刑超過三年"
+  },
+  {
+    "sequence": 49,
+    "start": 159.28,
+    "duration": 4,
+    "text": "竟然只有0.2%"
+  },
+  {
+    "sequence": 50,
+    "start": 163.28,
+    "duration": 4,
+    "text": "呼籲因加速推動量刑法治化"
+  },
+  {
+    "sequence": 51,
+    "start": 167.28,
+    "duration": 4,
+    "text": "對法官判決有拘束力"
+  },
+  {
+    "sequence": 52,
+    "start": 171.28,
+    "duration": 2,
+    "text": "自由時報報導"
+  },
+  {
+    "sequence": 53,
+    "start": 173.28,
+    "duration": 4,
+    "text": "過去醫療困境五大街坑"
+  },
+  {
+    "sequence": 54,
+    "start": 177.28,
+    "duration": 5,
+    "text": "內科、外科、婦產科、兒科"
+  },
+  {
+    "sequence": 55,
+    "start": 182.28,
+    "duration": 2,
+    "text": "還有急診科"
+  },
+  {
+    "sequence": 56,
+    "start": 184.28,
+    "duration": 4,
+    "text": "住院醫師常常招不滿"
+  },
+  {
+    "sequence": 57,
+    "start": 188.28,
+    "duration": 4,
+    "text": "不過近五年醫師招收率都已經提升"
+  },
+  {
+    "sequence": 58,
+    "start": 192.28,
+    "duration": 6,
+    "text": "只剩下兒科不到八成仍然慘淡"
+  },
+  {
+    "sequence": 59,
+    "start": 198.28,
+    "duration": 3,
+    "text": "聯合報提到了"
+  },
+  {
+    "sequence": 60,
+    "start": 201.28,
+    "duration": 2,
+    "text": "福島核災14年"
+  },
+  {
+    "sequence": 61,
+    "start": 203.28,
+    "duration": 4,
+    "text": "衛福部根據邊境檢驗結果"
+  },
+  {
+    "sequence": 62,
+    "start": 207.28,
+    "duration": 2,
+    "text": "風險可忽略"
+  },
+  {
+    "sequence": 63,
+    "start": 209.28,
+    "duration": 4,
+    "text": "宣布解禁日本福島五縣市"
+  },
+  {
+    "sequence": 64,
+    "start": 213.28,
+    "duration": 3,
+    "text": "食品輸台限制"
+  },
+  {
+    "sequence": 65,
+    "start": 216.28,
+    "duration": 2,
+    "text": "兩個月之後"
+  },
+  {
+    "sequence": 66,
+    "start": 218.28,
+    "duration": 2,
+    "text": "福島所有的食品輸入管理"
+  },
+  {
+    "sequence": 67,
+    "start": 220.28,
+    "duration": 3,
+    "text": "取消逐批輻射查驗"
+  },
+  {
+    "sequence": 68,
+    "start": 223.28,
+    "duration": 5,
+    "text": "全數回歸常態"
+  },
+  {
+    "sequence": 69,
+    "start": 228.28,
+    "duration": 2,
+    "text": "而看完了報紙的重點"
+  },
+  {
+    "sequence": 70,
+    "start": 230.28,
+    "duration": 2,
+    "text": "繼續再來關心"
+  },
+  {
+    "sequence": 71,
+    "start": 232.28,
+    "duration": 2,
+    "text": "而此外"
+  },
+  {
+    "sequence": 72,
+    "start": 234.28,
+    "duration": 4,
+    "text": "同樣參與峰會的俄羅斯總統普廷"
+  },
+  {
+    "sequence": 73,
+    "start": 238.28,
+    "duration": 3,
+    "text": "他也會繼續留下來"
+  },
+  {
+    "sequence": 74,
+    "start": 241.28,
+    "duration": 4,
+    "text": "將與習近平、北韓領導人金正恩"
+  },
+  {
+    "sequence": 75,
+    "start": 245.28,
+    "duration": 6,
+    "text": "同台出席9月3號的北京大閱兵"
+  },
+  {
+    "sequence": 76,
+    "start": 251.28,
+    "duration": 6.999999999999972,
+    "text": "而外界也關注對美國形成的壓力"
+  },
+  {
+    "sequence": 77,
+    "start": 258.28,
+    "duration": 4,
+    "text": "土耳其總統艾爾多安和印度總理莫迪握手"
+  },
+  {
+    "sequence": 78,
+    "start": 262.28,
+    "duration": 2,
+    "text": "緊接著鏡頭持續上游"
+  },
+  {
+    "sequence": 79,
+    "start": 264.28,
+    "duration": 3,
+    "text": "映入眼簾的是俄羅斯總統普廷"
+  },
+  {
+    "sequence": 80,
+    "start": 267.28,
+    "duration": 3,
+    "text": "和中國國家主席習近平並肩而立"
+  },
+  {
+    "sequence": 81,
+    "start": 270.28,
+    "duration": 3,
+    "text": "短暫的空檔普廷也主動伸手"
+  },
+  {
+    "sequence": 82,
+    "start": 273.28,
+    "duration": 3,
+    "text": "與塔吉克總統拉赫蒙簡單致意"
+  },
+  {
+    "sequence": 83,
+    "start": 276.28,
+    "duration": 2,
+    "text": "上海合作組織成員國的領袖"
+  },
+  {
+    "sequence": 84,
+    "start": 278.28,
+    "duration": 1,
+    "text": "齊聚中國天津"
+  },
+  {
+    "sequence": 85,
+    "start": 279.28,
+    "duration": 2,
+    "text": "召開最新一屆峰會"
+  },
+  {
+    "sequence": 86,
+    "start": 281.28,
+    "duration": 12,
+    "text": "八月三十一日、九月一日"
+  },
+  {
+    "sequence": 87,
+    "start": 293.28,
+    "duration": 3,
+    "text": "為期兩天的上海合作組織天津峰會"
+  },
+  {
+    "sequence": 88,
+    "start": 296.28,
+    "duration": 3,
+    "text": "矚目焦點之一就是睽違七年"
+  },
+  {
+    "sequence": 89,
+    "start": 299.28,
+    "duration": 3,
+    "text": "再次訪問中國的印度總理莫迪"
+  },
+  {
+    "sequence": 90,
+    "start": 302.28,
+    "duration": 3,
+    "text": "儘管2020中印邊境衝突爭議未解"
+  },
+  {
+    "sequence": 91,
+    "start": 305.28,
+    "duration": 3,
+    "text": "但眼下面對美國總統川普的關稅重權"
+  },
+  {
+    "sequence": 92,
+    "start": 308.28,
+    "duration": 3,
+    "text": "也讓中印關係化敵為友"
+  },
+  {
+    "sequence": 93,
+    "start": 311.28,
+    "duration": 23,
+    "text": "上海合作組織起源於2001年"
+  },
+  {
+    "sequence": 94,
+    "start": 334.28,
+    "duration": 4,
+    "text": "由哈薩克、中國、俄羅斯、塔吉克、"
+  },
+  {
+    "sequence": 95,
+    "start": 338.28,
+    "duration": 1,
+    "text": "烏茲別克等五國"
+  },
+  {
+    "sequence": 96,
+    "start": 339.28,
+    "duration": 3,
+    "text": "共同在上海宣布成立的國際組織"
+  },
+  {
+    "sequence": 97,
+    "start": 342.28,
+    "duration": 3,
+    "text": "官網顯示目前有九個成員國"
+  },
+  {
+    "sequence": 98,
+    "start": 345.28,
+    "duration": 3,
+    "text": "三個觀察員國以及14個對話夥伴"
+  },
+  {
+    "sequence": 99,
+    "start": 348.28,
+    "duration": 2,
+    "text": "外界認為中俄兩國"
+  },
+  {
+    "sequence": 100,
+    "start": 350.28,
+    "duration": 2,
+    "text": "想藉由此次峰會挑戰美國"
+  },
+  {
+    "sequence": 101,
+    "start": 352.28,
+    "duration": 11,
+    "text": "俄羅斯總統普廷這回罕見"
+  },
+  {
+    "sequence": 102,
+    "start": 363.28,
+    "duration": 2,
+    "text": "在中國停留四天"
+  },
+  {
+    "sequence": 103,
+    "start": 365.28,
+    "duration": 3,
+    "text": "還率領多名部會首長展現高規格陣容"
+  },
+  {
+    "sequence": 104,
+    "start": 368.28,
+    "duration": 3,
+    "text": "除了即將與習近平舉行雙邊會談外"
+  },
+  {
+    "sequence": 105,
+    "start": 371.28,
+    "duration": 3,
+    "text": "9月3日中國舉行大規模閱兵時"
+  },
+  {
+    "sequence": 106,
+    "start": 374.28,
+    "duration": 5,
+    "text": "預料習近平、普廷和北韓領導人金正恩將同台現身"
+  },
+  {
+    "sequence": 107,
+    "start": 379.28,
+    "duration": 3,
+    "text": "這樣的畫面將對美國形成何種壓力"
+  },
+  {
+    "sequence": 108,
+    "start": 382.28,
+    "duration": 2,
+    "text": "實際影響仍有待觀察"
+  },
+  {
+    "sequence": 109,
+    "start": 384.28,
+    "duration": 12,
+    "text": "而就在中國閱兵前夕 中國國內再出現了反動聲音"
+  },
+  {
+    "sequence": 110,
+    "start": 396.28,
+    "duration": 3,
+    "text": "上週五29日晚間"
+  },
+  {
+    "sequence": 111,
+    "start": 399.28,
+    "duration": 4,
+    "text": "有人在重慶大學城大樓的外牆上"
+  },
+  {
+    "sequence": 112,
+    "start": 403.28,
+    "duration": 5,
+    "text": "投射多則巨幅推翻中共的標語"
+  },
+  {
+    "sequence": 113,
+    "start": 408.28,
+    "duration": 5,
+    "text": "全程持續50多分鐘 引發熱議"
+  },
+  {
+    "sequence": 114,
+    "start": 413.28,
+    "duration": 6,
+    "text": "而傳出行動發起者已經與家人都在英國"
+  },
+  {
+    "sequence": 115,
+    "start": 419.28,
+    "duration": 4,
+    "text": "社群平台上流傳"
+  },
+  {
+    "sequence": 116,
+    "start": 423.28,
+    "duration": 3,
+    "text": "29日晚間在中國重慶大學城的大樓外牆"
+  },
+  {
+    "sequence": 117,
+    "start": 426.28,
+    "duration": 3,
+    "text": "有人投射多則巨幅推翻中共的標語"
+  },
+  {
+    "sequence": 118,
+    "start": 429.28,
+    "duration": 4,
+    "text": "全程持續50多分鐘 被網友稱為「重慶勇士」"
+  },
+  {
+    "sequence": 119,
+    "start": 433.28,
+    "duration": 4,
+    "text": "等到中國警方破門而入 將投影機關閉時"
+  },
+  {
+    "sequence": 120,
+    "start": 437.28,
+    "duration": 5,
+    "text": "房內已經人去樓空 只剩下桌上留著一封信"
+  },
+  {
+    "sequence": 121,
+    "start": 442.28,
+    "duration": 3,
+    "text": "信上寫著共產黨犯下的罪惡競逐難書"
+  },
+  {
+    "sequence": 122,
+    "start": 445.28,
+    "duration": 2,
+    "text": "多少人家破人亡受盡迫害"
+  },
+  {
+    "sequence": 123,
+    "start": 447.28,
+    "duration": 3,
+    "text": "並批評中共就是法西斯"
+  },
+  {
+    "sequence": 124,
+    "start": 450.28,
+    "duration": 2,
+    "text": "而落款日期為8月16日"
+  },
+  {
+    "sequence": 125,
+    "start": 452.28,
+    "duration": 3,
+    "text": "傳出該名行動者已在這段時間"
+  },
+  {
+    "sequence": 126,
+    "start": 455.28,
+    "duration": 2,
+    "text": "西加帶卷逃往海外"
+  },
+  {
+    "sequence": 127,
+    "start": 457.28,
+    "duration": 3,
+    "text": "我相信習近平或許想透過這樣一個閱兵的舉行"
+  },
+  {
+    "sequence": 128,
+    "start": 460.28,
+    "duration": 2,
+    "text": "來進行一個大內宣"
+  },
+  {
+    "sequence": 129,
+    "start": 462.28,
+    "duration": 4,
+    "text": "然後來轉移他國內的經濟社會問題的注意力"
+  },
+  {
+    "sequence": 130,
+    "start": 466.28,
+    "duration": 2,
+    "text": "卻認為中共藏透過閱兵"
+  },
+  {
+    "sequence": 131,
+    "start": 468.28,
+    "duration": 2,
+    "text": "爭奪二戰歷史話語權"
+  },
+  {
+    "sequence": 132,
+    "start": 470.28,
+    "duration": 2,
+    "text": "製造國力強盛的形象"
+  },
+  {
+    "sequence": 133,
+    "start": 472.28,
+    "duration": 3,
+    "text": "但內部人民的實際感受才是事實"
+  },
+  {
+    "sequence": 134,
+    "start": 475.28,
+    "duration": 4,
+    "text": "而我海軍司令部則在93軍演節前"
+  },
+  {
+    "sequence": 135,
+    "start": 479.28,
+    "duration": 3,
+    "text": "釋出漢光41號演習成國影片"
+  },
+  {
+    "sequence": 136,
+    "start": 482.28,
+    "duration": 3,
+    "text": "其中有鮮少曝光的雄三增神型反艦飛彈"
+  },
+  {
+    "sequence": 137,
+    "start": 485.28,
+    "duration": 3,
+    "text": "艦載型艦爭無人機等新式裝備"
+  },
+  {
+    "sequence": 138,
+    "start": 488.28,
+    "duration": 3,
+    "text": "也披露模擬友盟大型補給船艦"
+  },
+  {
+    "sequence": 139,
+    "start": 491.28,
+    "duration": 2,
+    "text": "進行重要物資轉接作業"
+  },
+  {
+    "sequence": 140,
+    "start": 493.28,
+    "duration": 3,
+    "text": "凸顯國軍時刻站在最前線"
+  },
+  {
+    "sequence": 141,
+    "start": 496.28,
+    "duration": 2,
+    "text": "守護國家安全"
+  },
+  {
+    "sequence": 142,
+    "start": 498.28,
+    "duration": 3,
+    "text": "《公視新聞》 張子嘉綜合報導"
+  },
+  {
+    "sequence": 143,
+    "start": 528.28,
+    "duration": 2,
+    "text": "搭乘高鐵的旅客注意了"
+  },
+  {
+    "sequence": 144,
+    "start": 530.28,
+    "duration": 3,
+    "text": "高鐵在九月份有多項新制即將實施"
+  },
+  {
+    "sequence": 145,
+    "start": 533.28,
+    "duration": 2,
+    "text": "為維護乘車秩序和品質"
+  },
+  {
+    "sequence": 146,
+    "start": 535.28,
+    "duration": 2,
+    "text": "高鐵實施寧靜車廂"
+  },
+  {
+    "sequence": 147,
+    "start": 537.28,
+    "duration": 2,
+    "text": "未來旅客想在車廂內講電話"
+  },
+  {
+    "sequence": 148,
+    "start": 539.28,
+    "duration": 2,
+    "text": "得移到車廂玄關"
+  },
+  {
+    "sequence": 149,
+    "start": 559.28,
+    "duration": 5,
+    "text": "也有部分家長擔憂寧靜車廂上路後"
+  },
+  {
+    "sequence": 150,
+    "start": 564.28,
+    "duration": 2,
+    "text": "帶著幼童的家長該怎麼辦"
+  },
+  {
+    "sequence": 151,
+    "start": 566.28,
+    "duration": 4,
+    "text": "高鐵澄清寧靜車廂是針對使用3C產品"
+  },
+  {
+    "sequence": 152,
+    "start": 570.28,
+    "duration": 3,
+    "text": "對於嬰兒或幼童或是其他疾病因素"
+  },
+  {
+    "sequence": 153,
+    "start": 573.28,
+    "duration": 2,
+    "text": "影響自主能力的旅客行為"
+  },
+  {
+    "sequence": 154,
+    "start": 575.28,
+    "duration": 2,
+    "text": "高鐵會提供協助"
+  },
+  {
+    "sequence": 155,
+    "start": 577.28,
+    "duration": 3,
+    "text": "未來高鐵車廂除了講電話得移到玄關"
+  },
+  {
+    "sequence": 156,
+    "start": 580.28,
+    "duration": 2,
+    "text": "看影片也得戴耳機"
+  },
+  {
+    "sequence": 157,
+    "start": 582.28,
+    "duration": 3,
+    "text": "另外在車廂走道玄關或車站地板"
+  },
+  {
+    "sequence": 158,
+    "start": 585.28,
+    "duration": 3,
+    "text": "也都不能坐臥 旅勸不聽者可拒在"
+  },
+  {
+    "sequence": 159,
+    "start": 588.28,
+    "duration": 3,
+    "text": "在博愛族部分也改為優先席"
+  },
+  {
+    "sequence": 160,
+    "start": 613.28,
+    "duration": 2,
+    "text": "學者認為高鐵需先解決"
+  },
+  {
+    "sequence": 161,
+    "start": 615.28,
+    "duration": 2,
+    "text": "行李置放空間不足問題"
+  },
+  {
+    "sequence": 162,
+    "start": 617.28,
+    "duration": 3,
+    "text": "才能避免旅客行李箱無處可放"
+  },
+  {
+    "sequence": 163,
+    "start": 620.28,
+    "duration": 2,
+    "text": "至於商務客如果有通話需求"
+  },
+  {
+    "sequence": 164,
+    "start": 622.28,
+    "duration": 2,
+    "text": "在移動時也可能造成零做困擾"
+  },
+  {
+    "sequence": 165,
+    "start": 624.28,
+    "duration": 2,
+    "text": "要如何提升搭乘品質"
+  },
+  {
+    "sequence": 166,
+    "start": 626.28,
+    "duration": 2,
+    "text": "又能避免旅客不便"
+  },
+  {
+    "sequence": 167,
+    "start": 628.28,
+    "duration": 2,
+    "text": "高鐵人需仔細評估"
+  },
+  {
+    "sequence": 168,
+    "start": 630.28,
+    "duration": 2,
+    "text": "公視新聞有嚴詞郭君寧台報道"
+  },
+  {
+    "sequence": 169,
+    "start": 643.28,
+    "duration": 3,
+    "text": "投票被球迷搶購一空"
+  },
+  {
+    "sequence": 170,
+    "start": 646.28,
+    "duration": 3,
+    "text": "現場除了台灣啦啦隊"
+  },
+  {
+    "sequence": 171,
+    "start": 649.28,
+    "duration": 3,
+    "text": "樂天女孩的演出"
+  },
+  {
+    "sequence": 172,
+    "start": 652.28,
+    "duration": 4,
+    "text": "副總統蕭美琴也透過影片開場"
+  },
+  {
+    "sequence": 173,
+    "start": 656.28,
+    "duration": 4,
+    "text": "要用棒球拉近台美關係"
+  },
+  {
+    "sequence": 174,
+    "start": 660.28,
+    "duration": 3,
+    "text": "來看公視國際記者方紫棋"
+  },
+  {
+    "sequence": 175,
+    "start": 663.28,
+    "duration": 2,
+    "text": "在華府的報道"
+  },
+  {
+    "sequence": 176,
+    "start": 673.28,
+    "duration": 2,
+    "text": "美國職棒大聯盟華府國民隊"
+  },
+  {
+    "sequence": 177,
+    "start": 675.28,
+    "duration": 4,
+    "text": "球賽開場大螢幕出現神秘嘉賓"
+  },
+  {
+    "sequence": 178,
+    "start": 679.28,
+    "duration": 7,
+    "text": "螢幕上蕭美琴以中華民國"
+  },
+  {
+    "sequence": 179,
+    "start": 686.28,
+    "duration": 2,
+    "text": "台灣副總統職銜現身"
+  },
+  {
+    "sequence": 180,
+    "start": 688.28,
+    "duration": 3,
+    "text": "透過52秒影片重返華府"
+  },
+  {
+    "sequence": 181,
+    "start": 691.28,
+    "duration": 2,
+    "text": "主辦單位擔心遭到中國抗議"
+  },
+  {
+    "sequence": 182,
+    "start": 693.28,
+    "duration": 2,
+    "text": "事前保密到家"
+  },
+  {
+    "sequence": 183,
+    "start": 695.28,
+    "duration": 2,
+    "text": "而蕭美琴也用棒球拉近"
+  },
+  {
+    "sequence": 184,
+    "start": 697.28,
+    "duration": 2,
+    "text": "台美兩國的關係"
+  },
+  {
+    "sequence": 185,
+    "start": 703.28,
+    "duration": 3,
+    "text": "這場比賽由台灣僑團向球團爭取"
+  },
+  {
+    "sequence": 186,
+    "start": 706.28,
+    "duration": 2,
+    "text": "以互惠方式籌辦台灣日"
+  },
+  {
+    "sequence": 187,
+    "start": 708.28,
+    "duration": 2,
+    "text": "1000張套票搶購一空"
+  },
+  {
+    "sequence": 188,
+    "start": 710.28,
+    "duration": 3,
+    "text": "現場球迷穿上台灣球衣支持"
+  },
+  {
+    "sequence": 189,
+    "start": 713.28,
+    "duration": 3,
+    "text": "開場表演同樣來自台灣"
+  },
+  {
+    "sequence": 190,
+    "start": 716.28,
+    "duration": 15,
+    "text": "中華職棒樂天桃園啦啦隊"
+  },
+  {
+    "sequence": 191,
+    "start": 731.28,
+    "duration": 3,
+    "text": "樂天女孩演出10分鐘應援組曲"
+  },
+  {
+    "sequence": 192,
+    "start": 734.28,
+    "duration": 2,
+    "text": "更吸引台潮爭奪風采"
+  },
+  {
+    "sequence": 193,
+    "start": 736.28,
+    "duration": 16,
+    "text": "在華府舉辦台灣日"
+  },
+  {
+    "sequence": 194,
+    "start": 752.28,
+    "duration": 3,
+    "text": "我國駐美代表余大雷也到場支持"
+  },
+  {
+    "sequence": 195,
+    "start": 755.28,
+    "duration": 2,
+    "text": "但台灣內閣改組之際"
+  },
+  {
+    "sequence": 196,
+    "start": 757.28,
+    "duration": 2,
+    "text": "駐美代表是否出現異動"
+  },
+  {
+    "sequence": 197,
+    "start": 759.28,
+    "duration": 2,
+    "text": "也備受矚目"
+  },
+  {
+    "sequence": 198,
+    "start": 761.28,
+    "duration": 1,
+    "text": "有媒體報導我國駐美代表"
+  },
+  {
+    "sequence": 199,
+    "start": 762.28,
+    "duration": 3,
+    "text": "將由國安會副秘書長許思簡接任"
+  },
+  {
+    "sequence": 200,
+    "start": 765.28,
+    "duration": 1,
+    "text": "針對這項消息"
+  },
+  {
+    "sequence": 201,
+    "start": 766.28,
+    "duration": 3,
+    "text": "今天駐美代表余大雷話說得保守"
+  },
+  {
+    "sequence": 202,
+    "start": 769.28,
+    "duration": 18,
+    "text": "而針對關稅談判"
+  },
+  {
+    "sequence": 203,
+    "start": 787.28,
+    "duration": 3,
+    "text": "余大雷表示我方正以包裹式談判"
+  },
+  {
+    "sequence": 204,
+    "start": 790.28,
+    "duration": 3,
+    "text": "爭取將半導體關稅與20%的"
+  },
+  {
+    "sequence": 205,
+    "start": 793.28,
+    "duration": 3,
+    "text": "暫時性稅率一併談的更低"
+  },
+  {
+    "sequence": 206,
+    "start": 796.28,
+    "duration": 2,
+    "text": "而行政府副院長鄭理軍"
+  },
+  {
+    "sequence": 207,
+    "start": 798.28,
+    "duration": 2,
+    "text": "是否將在9月重返華府磋商"
+  },
+  {
+    "sequence": 208,
+    "start": 800.28,
+    "duration": 3,
+    "text": "余大雷則說有需要就回來"
+  },
+  {
+    "sequence": 209,
+    "start": 803.28,
+    "duration": 2,
+    "text": "公視國際記者方子琦"
+  },
+  {
+    "sequence": 210,
+    "start": 805.28,
+    "duration": 2,
+    "text": "美國華府報導"
+  },
+  {
+    "sequence": 211,
+    "start": 817.28,
+    "duration": 3,
+    "text": "台灣球星林書豪嗎"
+  },
+  {
+    "sequence": 212,
+    "start": 820.28,
+    "duration": 3,
+    "text": "昨天他宣布退休"
+  },
+  {
+    "sequence": 213,
+    "start": 823.28,
+    "duration": 4,
+    "text": "結束15年的職業籃球生涯"
+  },
+  {
+    "sequence": 214,
+    "start": 827.28,
+    "duration": 1,
+    "text": "他說"
+  },
+  {
+    "sequence": 215,
+    "start": 828.28,
+    "duration": 3,
+    "text": "如今真的要跟籃球說再見"
+  },
+  {
+    "sequence": 216,
+    "start": 831.28,
+    "duration": 4,
+    "text": "仍然是我這輩子最難的決定"
+  },
+  {
+    "sequence": 217,
+    "start": 835.28,
+    "duration": 3,
+    "text": "林書豪現身活動"
+  },
+  {
+    "sequence": 218,
+    "start": 838.28,
+    "duration": 2,
+    "text": "球迷馬上尖叫歡迎"
+  },
+  {
+    "sequence": 219,
+    "start": 840.28,
+    "duration": 1,
+    "text": "拿手機拍下"
+  },
+  {
+    "sequence": 220,
+    "start": 841.28,
+    "duration": 2,
+    "text": "籃球巨星風采"
+  },
+  {
+    "sequence": 221,
+    "start": 843.28,
+    "duration": 3,
+    "text": "當時擔任高雄鋼鐵人隊後衛的林書豪"
+  },
+  {
+    "sequence": 222,
+    "start": 846.28,
+    "duration": 1,
+    "text": "因為先前賽事"
+  },
+  {
+    "sequence": 223,
+    "start": 847.28,
+    "duration": 2,
+    "text": "遭對手走急倒地"
+  },
+  {
+    "sequence": 224,
+    "start": 849.28,
+    "duration": 2,
+    "text": "出現輕微腦震盪"
+  },
+  {
+    "sequence": 225,
+    "start": 851.28,
+    "duration": 1,
+    "text": "父母剛好在場"
+  },
+  {
+    "sequence": 226,
+    "start": 852.28,
+    "duration": 3,
+    "text": "就問他可不可以退休"
+  },
+  {
+    "sequence": 227,
+    "start": 855.28,
+    "duration": 14,
+    "text": "剛過完37歲生日的林書豪"
+  },
+  {
+    "sequence": 228,
+    "start": 869.28,
+    "duration": 2,
+    "text": "31日一早透過網路社群"
+  },
+  {
+    "sequence": 229,
+    "start": 871.28,
+    "duration": 4,
+    "text": "宣布結束15年的籃球職業生涯"
+  },
+  {
+    "sequence": 230,
+    "start": 875.28,
+    "duration": 3,
+    "text": "來回顧林書豪的職籃經歷"
+  },
+  {
+    "sequence": 231,
+    "start": 878.28,
+    "duration": 2,
+    "text": "1988年在美國加州出生的他"
+  },
+  {
+    "sequence": 232,
+    "start": 880.28,
+    "duration": 3,
+    "text": "在NBA掀起了臨來風的熱潮"
+  },
+  {
+    "sequence": 233,
+    "start": 883.28,
+    "duration": 1,
+    "text": "2019年"
+  },
+  {
+    "sequence": 234,
+    "start": 884.28,
+    "duration": 3,
+    "text": "於暴龍隊奪下NBA的總冠軍"
+  },
+  {
+    "sequence": 235,
+    "start": 887.28,
+    "duration": 3,
+    "text": "是首位獲得總冠軍戒指的亞裔球員"
+  },
+  {
+    "sequence": 236,
+    "start": 890.28,
+    "duration": 2,
+    "text": "後來轉戰中國職籃"
+  },
+  {
+    "sequence": 237,
+    "start": 892.28,
+    "duration": 2,
+    "text": "再投入台灣職籃"
+  },
+  {
+    "sequence": 238,
+    "start": 894.28,
+    "duration": 3,
+    "text": "幫新北國王隊拿下兩個總冠軍"
+  },
+  {
+    "sequence": 239,
+    "start": 905.28,
+    "duration": 1,
+    "text": "就如同林書豪提到的"
+  },
+  {
+    "sequence": 240,
+    "start": 906.28,
+    "duration": 2,
+    "text": "如今真的要跟籃球說再見了"
+  },
+  {
+    "sequence": 241,
+    "start": 908.28,
+    "duration": 13,
+    "text": "仍然是我這輩子最難的決定"
+  },
+  {
+    "sequence": 242,
+    "start": 921.28,
+    "duration": 1,
+    "text": "專家認為"
+  },
+  {
+    "sequence": 243,
+    "start": 922.28,
+    "duration": 2,
+    "text": "林書豪的體能及技術"
+  },
+  {
+    "sequence": 244,
+    "start": 924.28,
+    "duration": 3,
+    "text": "仍舊可在球場豐持幾年"
+  },
+  {
+    "sequence": 245,
+    "start": 927.28,
+    "duration": 1,
+    "text": "選擇急流勇退"
+  },
+  {
+    "sequence": 246,
+    "start": 928.28,
+    "duration": 2,
+    "text": "可能跟膝蓋的傷勢有關"
+  },
+  {
+    "sequence": 247,
+    "start": 930.28,
+    "duration": 2,
+    "text": "未來如果能夠轉任教練"
+  },
+  {
+    "sequence": 248,
+    "start": 932.28,
+    "duration": 3,
+    "text": "把美式籃球的運動經驗傳承給後輩"
+  },
+  {
+    "sequence": 249,
+    "start": 935.28,
+    "duration": 3,
+    "text": "對台灣的職籃運動是一大的助力"
+  },
+  {
+    "sequence": 250,
+    "start": 938.28,
+    "duration": 1,
+    "text": "公視新聞"
+  },
+  {
+    "sequence": 251,
+    "start": 939.28,
+    "duration": 4,
+    "text": "陳佳欣 陳虹益 台北報導"
+  },
+  {
+    "sequence": 252,
+    "start": 943.28,
+    "duration": 2,
+    "text": "刑事局日前公布"
+  },
+  {
+    "sequence": 253,
+    "start": 945.28,
+    "duration": 5,
+    "text": "全台十大車手熱點的銀行跟郵局"
+  },
+  {
+    "sequence": 254,
+    "start": 950.28,
+    "duration": 4,
+    "text": "發現車手最常出沒的時段"
+  },
+  {
+    "sequence": 255,
+    "start": 954.28,
+    "duration": 5,
+    "text": "是在下午1點跟凌晨12點"
+  },
+  {
+    "sequence": 256,
+    "start": 959.28,
+    "duration": 2,
+    "text": "而為了提高詐騙車手"
+  },
+  {
+    "sequence": 257,
+    "start": 961.28,
+    "duration": 2,
+    "text": "提領的難度"
+  },
+  {
+    "sequence": 258,
+    "start": 963.28,
+    "duration": 4,
+    "text": "中華郵政在12間郵局ATM"
+  },
+  {
+    "sequence": 259,
+    "start": 967.28,
+    "duration": 5,
+    "text": "實施每天晚上11點到隔天凌晨3點"
+  },
+  {
+    "sequence": 260,
+    "start": 972.28,
+    "duration": 5,
+    "text": "郵政金融卡每筆提款只能限額1萬元"
+  },
+  {
+    "sequence": 261,
+    "start": 977.28,
+    "duration": 3,
+    "text": "其他都不知道 原委都不知道"
+  },
+  {
+    "sequence": 262,
+    "start": 980.28,
+    "duration": 1,
+    "text": "30歲 陳姓男子"
+  },
+  {
+    "sequence": 263,
+    "start": 981.28,
+    "duration": 2,
+    "text": "看到警方衝上前一臉錯愕"
+  },
+  {
+    "sequence": 264,
+    "start": 983.28,
+    "duration": 2,
+    "text": "原來員警為了抓車手"
+  },
+  {
+    "sequence": 265,
+    "start": 985.28,
+    "duration": 1,
+    "text": "假扮成投資者"
+  },
+  {
+    "sequence": 266,
+    "start": 986.28,
+    "duration": 2,
+    "text": "和男子相約面交50萬"
+  },
+  {
+    "sequence": 267,
+    "start": 988.28,
+    "duration": 1,
+    "text": "男子錄網後宣稱"
+  },
+  {
+    "sequence": 268,
+    "start": 989.28,
+    "duration": 3,
+    "text": "在臉書看到日領1萬的工作"
+  },
+  {
+    "sequence": 269,
+    "start": 992.28,
+    "duration": 2,
+    "text": "錄取後才知道是當車手"
+  },
+  {
+    "sequence": 270,
+    "start": 994.28,
+    "duration": 2,
+    "text": "有鑒於全台詐騙猖獗"
+  },
+  {
+    "sequence": 271,
+    "start": 996.28,
+    "duration": 3,
+    "text": "日前刑事局公布全台十大車手熱點"
+  },
+  {
+    "sequence": 272,
+    "start": 999.28,
+    "duration": 2,
+    "text": "遍佈全台北中南"
+  },
+  {
+    "sequence": 273,
+    "start": 1001.28,
+    "duration": 3,
+    "text": "像是內埔 學府郵局 合作金庫三重分行"
+  },
+  {
+    "sequence": 274,
+    "start": 1004.28,
+    "duration": 2,
+    "text": "第一銀行西門分行"
+  },
+  {
+    "sequence": 275,
+    "start": 1006.28,
+    "duration": 2,
+    "text": "以及虎口郵局 台北南洋郵局"
+  },
+  {
+    "sequence": 276,
+    "start": 1008.28,
+    "duration": 3,
+    "text": "和國泰人壽三峽海山通訊處"
+  },
+  {
+    "sequence": 277,
+    "start": 1011.28,
+    "duration": 1,
+    "text": "為了杜絕車手不法提令"
+  },
+  {
+    "sequence": 278,
+    "start": 1012.28,
+    "duration": 2,
+    "text": "中華郵政在12間ATM"
+  },
+  {
+    "sequence": 279,
+    "start": 1014.28,
+    "duration": 3,
+    "text": "在特定時段提令每筆限額最高1萬元"
+  },
+  {
+    "sequence": 280,
+    "start": 1017.28,
+    "duration": 3,
+    "text": "中華郵政回應 以臺北南洋郵局為例"
+  },
+  {
+    "sequence": 281,
+    "start": 1020.28,
+    "duration": 3,
+    "text": "夜間時段ATM交易量每天約6到8筆"
+  },
+  {
+    "sequence": 282,
+    "start": 1023.28,
+    "duration": 3,
+    "text": "這次措施只調整單筆提款金額"
+  },
+  {
+    "sequence": 283,
+    "start": 1026.28,
+    "duration": 3,
+    "text": "不會影響民眾領用現金權益"
+  },
+  {
+    "sequence": 284,
+    "start": 1029.28,
+    "duration": 1,
+    "text": "刑事局統計發現"
+  },
+  {
+    "sequence": 285,
+    "start": 1030.28,
+    "duration": 2,
+    "text": "車手熱門提領時段"
+  },
+  {
+    "sequence": 286,
+    "start": 1032.28,
+    "duration": 2,
+    "text": "落在凌晨12點和下午1點"
+  },
+  {
+    "sequence": 287,
+    "start": 1034.28,
+    "duration": 3,
+    "text": "提領時會戴口罩 頻繁換提款卡"
+  },
+  {
+    "sequence": 288,
+    "start": 1037.28,
+    "duration": 2,
+    "text": "提領地點選在交通便利的交流道"
+  },
+  {
+    "sequence": 289,
+    "start": 1039.28,
+    "duration": 3,
+    "text": "或捷運站附近方便車手進出"
+  },
+  {
+    "sequence": 290,
+    "start": 1042.28,
+    "duration": 1,
+    "text": "老年人在家"
+  },
+  {
+    "sequence": 291,
+    "start": 1043.28,
+    "duration": 4,
+    "text": "所以通常會是在上午的時間開始進行這個詐騙"
+  },
+  {
+    "sequence": 292,
+    "start": 1047.28,
+    "duration": 1,
+    "text": "被害人可能就在中午的時候"
+  },
+  {
+    "sequence": 293,
+    "start": 1048.28,
+    "duration": 2,
+    "text": "就開始做一些轉上的動作"
+  },
+  {
+    "sequence": 294,
+    "start": 1050.28,
+    "duration": 3,
+    "text": "然後車手就開往在一點多左右做提領"
+  },
+  {
+    "sequence": 295,
+    "start": 1053.28,
+    "duration": 2,
+    "text": "通常造有性詐騙會發生在晚上"
+  },
+  {
+    "sequence": 296,
+    "start": 1055.28,
+    "duration": 2,
+    "text": "就你有獨處的時間"
+  },
+  {
+    "sequence": 297,
+    "start": 1057.28,
+    "duration": 2,
+    "text": "所以這主要就是因為車手會"
+  },
+  {
+    "sequence": 298,
+    "start": 1059.28,
+    "duration": 1,
+    "text": "這個時間來提領"
+  },
+  {
+    "sequence": 299,
+    "start": 1060.28,
+    "duration": 3,
+    "text": "專家指出車手提領除了有熱門時段"
+  },
+  {
+    "sequence": 300,
+    "start": 1063.28,
+    "duration": 1,
+    "text": "地點也都會巧妙避開"
+  },
+  {
+    "sequence": 301,
+    "start": 1064.28,
+    "duration": 3,
+    "text": "有住位景或是少監視器的環境"
+  },
+  {
+    "sequence": 302,
+    "start": 1067.28,
+    "duration": 3,
+    "text": "另外相較車手提領的傳統型詐騙"
+  },
+  {
+    "sequence": 303,
+    "start": 1070.28,
+    "duration": 3,
+    "text": "呼籲政府也得關注金額較大的虛擬貨幣詐騙"
+  },
+  {
+    "sequence": 304,
+    "start": 1073.28,
+    "duration": 2,
+    "text": "才能遏制詐騙恨刑"
+  },
+  {
+    "sequence": 305,
+    "start": 1075.28,
+    "duration": 2,
+    "text": "公視新聞綜合報導"
+  },
+  {
+    "sequence": 306,
+    "start": 1077.28,
+    "duration": 3,
+    "text": "新聞極緊來看到"
+  },
+  {
+    "sequence": 307,
+    "start": 1080.28,
+    "duration": 3,
+    "text": "高階款列車森李號"
+  },
+  {
+    "sequence": 308,
+    "start": 1083.28,
+    "duration": 5,
+    "text": "9月1日起將陸續啟動一連串的測試"
+  },
+  {
+    "sequence": 309,
+    "start": 1088.28,
+    "duration": 4,
+    "text": "明年起正式投入營運"
+  },
+  {
+    "sequence": 310,
+    "start": 1092.28,
+    "duration": 2,
+    "text": "而另外"
+  },
+  {
+    "sequence": 311,
+    "start": 1094.28,
+    "duration": 5,
+    "text": "台灣小將參加世界盃青少年沙灘巧固球錦標賽"
+  },
+  {
+    "sequence": 312,
+    "start": 1099.28,
+    "duration": 5,
+    "text": "連闖三關奪下世界冠軍"
+  },
+  {
+    "sequence": 313,
+    "start": 1104.28,
+    "duration": 3,
+    "text": "還有受到颱風影響"
+  },
+  {
+    "sequence": 314,
+    "start": 1107.28,
+    "duration": 6,
+    "text": "今年文旦減產價格恐怕會漲兩到三成"
+  },
+  {
+    "sequence": 315,
+    "start": 1113.28,
+    "duration": 3,
+    "text": "來看我們的整理報導"
+  },
+  {
+    "sequence": 316,
+    "start": 1116.28,
+    "duration": 9,
+    "text": "7月橫掃西南沿海的丹那斯颱風"
+  },
+  {
+    "sequence": 317,
+    "start": 1125.28,
+    "duration": 2,
+    "text": "讓麻豆文旦落果嚴重"
+  },
+  {
+    "sequence": 318,
+    "start": 1127.28,
+    "duration": 2,
+    "text": "至少減產八成"
+  },
+  {
+    "sequence": 319,
+    "start": 1129.28,
+    "duration": 2,
+    "text": "麻豆區農會表示"
+  },
+  {
+    "sequence": 320,
+    "start": 1131.28,
+    "duration": 2,
+    "text": "其實還有兩成可供應"
+  },
+  {
+    "sequence": 321,
+    "start": 1133.28,
+    "duration": 2,
+    "text": "儘管剩下的都為大果"
+  },
+  {
+    "sequence": 322,
+    "start": 1135.28,
+    "duration": 1,
+    "text": "已經提高收購價"
+  },
+  {
+    "sequence": 323,
+    "start": 1136.28,
+    "duration": 1,
+    "text": "吸收價差"
+  },
+  {
+    "sequence": 324,
+    "start": 1137.28,
+    "duration": 2,
+    "text": "維持價格平穩"
+  },
+  {
+    "sequence": 325,
+    "start": 1139.28,
+    "duration": 1,
+    "text": "農糧署則表示"
+  },
+  {
+    "sequence": 326,
+    "start": 1140.28,
+    "duration": 1,
+    "text": "今年因為颱風"
+  },
+  {
+    "sequence": 327,
+    "start": 1141.28,
+    "duration": 2,
+    "text": "全國文旦減產三成"
+  },
+  {
+    "sequence": 328,
+    "start": 1143.28,
+    "duration": 4,
+    "text": "估計價格應該會上漲二到三成"
+  },
+  {
+    "sequence": 329,
+    "start": 1147.28,
+    "duration": 4,
+    "text": "2025世界盃青少年沙灘巧固球錦標賽"
+  },
+  {
+    "sequence": 330,
+    "start": 1151.28,
+    "duration": 2,
+    "text": "在泰國巴達雅舉行"
+  },
+  {
+    "sequence": 331,
+    "start": 1153.28,
+    "duration": 3,
+    "text": "台北市碧湖國小與古亭國小選手"
+  },
+  {
+    "sequence": 332,
+    "start": 1156.28,
+    "duration": 2,
+    "text": "組成中華代表隊"
+  },
+  {
+    "sequence": 333,
+    "start": 1158.28,
+    "duration": 1,
+    "text": "過關展向"
+  },
+  {
+    "sequence": 334,
+    "start": 1159.28,
+    "duration": 2,
+    "text": "連贏泰國B隊與A隊"
+  },
+  {
+    "sequence": 335,
+    "start": 1161.28,
+    "duration": 3,
+    "text": "最後一場賽事對上香港隊"
+  },
+  {
+    "sequence": 336,
+    "start": 1164.28,
+    "duration": 2,
+    "text": "台灣小將積極進攻展現默契"
+  },
+  {
+    "sequence": 337,
+    "start": 1166.28,
+    "duration": 3,
+    "text": "以強勁攻勢擊退對手"
+  },
+  {
+    "sequence": 338,
+    "start": 1169.28,
+    "duration": 3,
+    "text": "拿下比賽最後一分得到了世界冠軍"
+  },
+  {
+    "sequence": 339,
+    "start": 1172.28,
+    "duration": 3,
+    "text": "森林浩取自鄒祖宇"
+  },
+  {
+    "sequence": 340,
+    "start": 1175.28,
+    "duration": 1,
+    "text": "樹木直譯來命名"
+  },
+  {
+    "sequence": 341,
+    "start": 1176.28,
+    "duration": 2,
+    "text": "向山林致敬"
+  },
+  {
+    "sequence": 342,
+    "start": 1178.28,
+    "duration": 2,
+    "text": "設計涵蓋三大異象"
+  },
+  {
+    "sequence": 343,
+    "start": 1180.28,
+    "duration": 3,
+    "text": "承襲蒸汽火車頭的臨鐵黑"
+  },
+  {
+    "sequence": 344,
+    "start": 1183.28,
+    "duration": 2,
+    "text": "阿里山紅搭配聖光金塗裝"
+  },
+  {
+    "sequence": 345,
+    "start": 1185.28,
+    "duration": 1,
+    "text": "安全性也提升"
+  },
+  {
+    "sequence": 346,
+    "start": 1186.28,
+    "duration": 4,
+    "text": "是歷代首款搭載自動門的臨鐵列車"
+  },
+  {
+    "sequence": 347,
+    "start": 1190.28,
+    "duration": 3,
+    "text": "此次共採購耗資超過11億元"
+  },
+  {
+    "sequence": 348,
+    "start": 1193.28,
+    "duration": 4,
+    "text": "未來定位阿里山臨鐵本線的高階列車"
+  },
+  {
+    "sequence": 349,
+    "start": 1197.28,
+    "duration": 3,
+    "text": "票價也會與現行列車有所區隔"
+  },
+  {
+    "sequence": 350,
+    "start": 1200.28,
+    "duration": 2,
+    "text": "公視新聞綜合報導"
+  },
+  {
+    "sequence": 351,
+    "start": 1202.28,
+    "duration": 7,
+    "text": "印尼民眾不滿國會議員的豐厚津貼與特權"
+  },
+  {
+    "sequence": 352,
+    "start": 1209.28,
+    "duration": 4,
+    "text": "和民生困境造成強烈的對比"
+  },
+  {
+    "sequence": 353,
+    "start": 1213.28,
+    "duration": 3,
+    "text": "連日爆發了大規模示威"
+  },
+  {
+    "sequence": 354,
+    "start": 1216.28,
+    "duration": 2,
+    "text": "並且引發暴動"
+  },
+  {
+    "sequence": 355,
+    "start": 1218.28,
+    "duration": 3,
+    "text": "已經造成了至少有6個人死亡"
+  },
+  {
+    "sequence": 356,
+    "start": 1221.28,
+    "duration": 3,
+    "text": "上百人受傷"
+  },
+  {
+    "sequence": 357,
+    "start": 1224.28,
+    "duration": 3,
+    "text": "還有數百名示威者被捕"
+  },
+  {
+    "sequence": 358,
+    "start": 1227.28,
+    "duration": 4,
+    "text": "印尼總統臨時取消出訪中國的行程"
+  },
+  {
+    "sequence": 359,
+    "start": 1231.28,
+    "duration": 2,
+    "text": "親自坐鎮首都"
+  },
+  {
+    "sequence": 360,
+    "start": 1233.28,
+    "duration": 3,
+    "text": "呼籲恢復秩序"
+  },
+  {
+    "sequence": 361,
+    "start": 1240.28,
+    "duration": 2,
+    "text": "數以千計學生與群眾走上街頭"
+  },
+  {
+    "sequence": 362,
+    "start": 1242.28,
+    "duration": 3,
+    "text": "高喊口號並在警局與議會外牆"
+  },
+  {
+    "sequence": 363,
+    "start": 1245.28,
+    "duration": 1,
+    "text": "噴上兇手字樣"
+  },
+  {
+    "sequence": 364,
+    "start": 1246.28,
+    "duration": 2,
+    "text": "印尼爆發大規模抗爭"
+  },
+  {
+    "sequence": 365,
+    "start": 1248.28,
+    "duration": 2,
+    "text": "一開始是抗議國會議員住房補貼"
+  },
+  {
+    "sequence": 366,
+    "start": 1250.28,
+    "duration": 3,
+    "text": "海外出差津貼與其他福利過高"
+  },
+  {
+    "sequence": 367,
+    "start": 1253.28,
+    "duration": 3,
+    "text": "但民眾卻面臨生活壓力與教育經費不足"
+  },
+  {
+    "sequence": 368,
+    "start": 1256.28,
+    "duration": 2,
+    "text": "社會快速升級為暴力衝突"
+  },
+  {
+    "sequence": 369,
+    "start": 1258.28,
+    "duration": 2,
+    "text": "警方發射催淚瓦斯"
+  },
+  {
+    "sequence": 370,
+    "start": 1260.28,
+    "duration": 2,
+    "text": "示威者以10塊煙火反擊"
+  },
+  {
+    "sequence": 371,
+    "start": 1262.28,
+    "duration": 3,
+    "text": "許多商家與公共設施遭到縱火破壞"
+  },
+  {
+    "sequence": 372,
+    "start": 1265.28,
+    "duration": 25,
+    "text": "暴動導致首都部分銀行與企業緊急要求員工在家工作"
+  },
+  {
+    "sequence": 373,
+    "start": 1290.28,
+    "duration": 2,
+    "text": "學校提前停課"
+  },
+  {
+    "sequence": 374,
+    "start": 1292.28,
+    "duration": 2,
+    "text": "甚至有地方政府宣布宵禁"
+  },
+  {
+    "sequence": 375,
+    "start": 1294.28,
+    "duration": 2,
+    "text": "示威活動已造成數人死亡"
+  },
+  {
+    "sequence": 376,
+    "start": 1296.28,
+    "duration": 1,
+    "text": "上百人受傷"
+  },
+  {
+    "sequence": 377,
+    "start": 1297.28,
+    "duration": 2,
+    "text": "還有數百人被捕"
+  },
+  {
+    "sequence": 378,
+    "start": 1299.28,
+    "duration": 2,
+    "text": "律師團體呼籲警方立即釋放"
+  },
+  {
+    "sequence": 379,
+    "start": 1301.28,
+    "duration": 2,
+    "text": "總統普拉伯沃原定本週赴中國"
+  },
+  {
+    "sequence": 380,
+    "start": 1303.28,
+    "duration": 3,
+    "text": "出席二戰勝利80週年活動"
+  },
+  {
+    "sequence": 381,
+    "start": 1306.28,
+    "duration": 2,
+    "text": "行程也因為國內局勢喊停"
+  },
+  {
+    "sequence": 382,
+    "start": 1308.28,
+    "duration": 4,
+    "text": "因為國內的動機"
+  },
+  {
+    "sequence": 383,
+    "start": 1312.28,
+    "duration": 6,
+    "text": "總統想要直接監視"
+  },
+  {
+    "sequence": 384,
+    "start": 1318.28,
+    "duration": 4,
+    "text": "他也想要直接監視"
+  },
+  {
+    "sequence": 385,
+    "start": 1322.28,
+    "duration": 3,
+    "text": "然後也想直接領導"
+  },
+  {
+    "sequence": 386,
+    "start": 1325.28,
+    "duration": 5,
+    "text": "尋找最好的解決方法"
+  },
+  {
+    "sequence": 387,
+    "start": 1330.28,
+    "duration": 2,
+    "text": "總統普拉伯沃週日與多個政黨領袖"
+  },
+  {
+    "sequence": 388,
+    "start": 1332.28,
+    "duration": 2,
+    "text": "共同召開記者會"
+  },
+  {
+    "sequence": 389,
+    "start": 1334.28,
+    "duration": 2,
+    "text": "強調政府必須傾聽人民的聲音"
+  },
+  {
+    "sequence": 390,
+    "start": 1336.28,
+    "duration": 5,
+    "text": "同時對於暴力與破壞行為將展開最嚴厲的打擊"
+  },
+  {
+    "sequence": 391,
+    "start": 1341.28,
+    "duration": 24,
+    "text": "這場動亂是普拉伯沃政府"
+  },
+  {
+    "sequence": 392,
+    "start": 1365.28,
+    "duration": 2,
+    "text": "相任以來最大考驗"
+  },
+  {
+    "sequence": 393,
+    "start": 1367.28,
+    "duration": 2,
+    "text": "示威是否能真正推動制度改革"
+  },
+  {
+    "sequence": 394,
+    "start": 1369.28,
+    "duration": 1,
+    "text": "仍有待觀察"
+  },
+  {
+    "sequence": 395,
+    "start": 1370.28,
+    "duration": 2,
+    "text": "但印尼能否在短時間內恢復穩定"
+  },
+  {
+    "sequence": 396,
+    "start": 1372.28,
+    "duration": 3,
+    "text": "將決定這場危機對政治版圖的衝擊"
+  },
+  {
+    "sequence": 397,
+    "start": 1375.28,
+    "duration": 4,
+    "text": "公視新聞這位人編譯"
+  },
+  {
+    "sequence": 398,
+    "start": 1379.28,
+    "duration": 6,
+    "text": "巴基斯坦梅雨季爆發40年來最嚴重的洪災"
+  },
+  {
+    "sequence": 399,
+    "start": 1385.28,
+    "duration": 5,
+    "text": "目前全國已經超過了850人與命"
+  },
+  {
+    "sequence": 400,
+    "start": 1390.28,
+    "duration": 5,
+    "text": "超過1400個村莊被淹沒"
+  },
+  {
+    "sequence": 401,
+    "start": 1395.28,
+    "duration": 5,
+    "text": "官員表示 鄰國印度水壩洩洪"
+  },
+  {
+    "sequence": 402,
+    "start": 1400.28,
+    "duration": 5,
+    "text": "卻造成了大量的洪水流入位於下游的巴基斯坦"
+  },
+  {
+    "sequence": 403,
+    "start": 1405.28,
+    "duration": 5,
+    "text": "讓災情雪上加霜"
+  },
+  {
+    "sequence": 404,
+    "start": 1410.28,
+    "duration": 4,
+    "text": "巴基斯坦東部與印度接壤地區的河流水位急速上升"
+  },
+  {
+    "sequence": 405,
+    "start": 1414.28,
+    "duration": 3,
+    "text": "已經流離失所的村民不得不拋下一切"
+  },
+  {
+    "sequence": 406,
+    "start": 1417.28,
+    "duration": 3,
+    "text": "搭上前來救援的橡皮艇離開"
+  },
+  {
+    "sequence": 407,
+    "start": 1420.28,
+    "duration": 1,
+    "text": "我們不知道我們要去哪裡"
+  },
+  {
+    "sequence": 408,
+    "start": 1421.28,
+    "duration": 2,
+    "text": "或者我們要回來的時候"
+  },
+  {
+    "sequence": 409,
+    "start": 1423.28,
+    "duration": 4,
+    "text": "我們建築的所有東西都在下游"
+  },
+  {
+    "sequence": 410,
+    "start": 1427.28,
+    "duration": 3,
+    "text": "龐州普省遭遇39年來最嚴重洪災"
+  },
+  {
+    "sequence": 411,
+    "start": 1430.28,
+    "duration": 1,
+    "text": "救援隊伍不斷來回"
+  },
+  {
+    "sequence": 412,
+    "start": 1431.28,
+    "duration": 2,
+    "text": "把受災戶帶到安全的地方"
+  },
+  {
+    "sequence": 413,
+    "start": 1433.28,
+    "duration": 3,
+    "text": "但許多人因捨不得牲畜跟家當"
+  },
+  {
+    "sequence": 414,
+    "start": 1436.28,
+    "duration": 2,
+    "text": "幾乎拖到最後一刻才撤離"
+  },
+  {
+    "sequence": 415,
+    "start": 1438.28,
+    "duration": 3,
+    "text": "政府甚至用專門的接駁船運送牲畜"
+  },
+  {
+    "sequence": 416,
+    "start": 1441.28,
+    "duration": 4,
+    "text": "盡可能地確保這些家庭不會失去生計來源"
+  },
+  {
+    "sequence": 417,
+    "start": 1445.28,
+    "duration": 1,
+    "text": "我們怕犯人"
+  },
+  {
+    "sequence": 418,
+    "start": 1446.28,
+    "duration": 2,
+    "text": "我們不想放棄我們的動物"
+  },
+  {
+    "sequence": 419,
+    "start": 1448.28,
+    "duration": 2,
+    "text": "洪水急速上升"
+  },
+  {
+    "sequence": 420,
+    "start": 1450.28,
+    "duration": 3,
+    "text": "這區域有約300個村莊"
+  },
+  {
+    "sequence": 421,
+    "start": 1453.28,
+    "duration": 1,
+    "text": "龐州普官員表示"
+  },
+  {
+    "sequence": 422,
+    "start": 1454.28,
+    "duration": 2,
+    "text": "位於邊境口岸的一座村莊"
+  },
+  {
+    "sequence": 423,
+    "start": 1456.28,
+    "duration": 2,
+    "text": "水位已達數十年來最高"
+  },
+  {
+    "sequence": 424,
+    "start": 1458.28,
+    "duration": 2,
+    "text": "巴基斯坦當局指控"
+  },
+  {
+    "sequence": 425,
+    "start": 1460.28,
+    "duration": 3,
+    "text": "這是因為印度在沒有足夠預警的情況下"
+  },
+  {
+    "sequence": 426,
+    "start": 1463.28,
+    "duration": 2,
+    "text": "突然進行水壩洩洪"
+  },
+  {
+    "sequence": 427,
+    "start": 1465.28,
+    "duration": 2,
+    "text": "印度堅稱暴雨才是主因"
+  },
+  {
+    "sequence": 428,
+    "start": 1467.28,
+    "duration": 2,
+    "text": "並表示事先就發布警報"
+  },
+  {
+    "sequence": 429,
+    "start": 1469.28,
+    "duration": 4,
+    "text": "巴基斯坦正面臨一連串致命性洪災的衝擊"
+  },
+  {
+    "sequence": 430,
+    "start": 1473.28,
+    "duration": 4,
+    "text": "當局警告可能還有更多地區面臨危險處境"
+  },
+  {
+    "sequence": 431,
+    "start": 1477.28,
+    "duration": 3,
+    "text": "我們預計水量將達7.5萬至8.5萬"
+  },
+  {
+    "sequence": 432,
+    "start": 1480.28,
+    "duration": 4,
+    "text": "整個市場有約3.66萬人"
+  },
+  {
+    "sequence": 433,
+    "start": 1484.28,
+    "duration": 4,
+    "text": "其餘3萬人已經被淹沒"
+  },
+  {
+    "sequence": 434,
+    "start": 1488.28,
+    "duration": 2,
+    "text": "三條主要河流"
+  },
+  {
+    "sequence": 435,
+    "start": 1490.28,
+    "duration": 3,
+    "text": "拉維河 薩特里河 以及契納布河氾濫"
+  },
+  {
+    "sequence": 436,
+    "start": 1493.28,
+    "duration": 2,
+    "text": "超過1400個村莊被淹沒"
+  },
+  {
+    "sequence": 437,
+    "start": 1495.28,
+    "duration": 2,
+    "text": "儘管巴基斯坦的溫室氣體排放量"
+  },
+  {
+    "sequence": 438,
+    "start": 1497.28,
+    "duration": 3,
+    "text": "不到全球排放量的0.1%"
+  },
+  {
+    "sequence": 439,
+    "start": 1500.28,
+    "duration": 4,
+    "text": "但它卻是世界上遭受氣候危機影響下"
+  },
+  {
+    "sequence": 440,
+    "start": 1504.28,
+    "duration": 2,
+    "text": "最脆弱的國家之一"
+  },
+  {
+    "sequence": 441,
+    "start": 1506.28,
+    "duration": 2,
+    "text": "公視新聞 黃韻玲編譯"
+  },
+  {
+    "sequence": 442,
+    "start": 1536.28,
+    "duration": 3,
+    "text": "感謝您收看這一集的公視手語新聞"
+  },
+  {
+    "sequence": 443,
+    "start": 1539.28,
+    "duration": 1,
+    "text": "我是王小樹"
+  },
+  {
+    "sequence": 444,
+    "start": 1540.28,
+    "duration": 2,
+    "text": "明天同一時間再會"
+  },
+  {
+    "sequence": 445,
+    "start": 1566.28,
+    "duration": 6,
+    "text": "請不吝點贊訂閱轉發打賞支持明鏡與點點欄目"
   }
 ]

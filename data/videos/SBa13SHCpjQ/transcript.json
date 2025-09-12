@@ -1,104 +1,3122 @@
 [
   {
-    "start": 3,
-    "duration": 2,
-    "text": "各位觀眾大家好",
-    "hasSignLanguage": false
+    "sequence": 1,
+    "start": 0,
+    "duration": 11.7,
+    "text": "(音樂)"
   },
   {
-    "start": 5.2,
+    "sequence": 2,
+    "start": 11.7,
+    "duration": 2.9000000000000004,
+    "text": "看新聞 開視野"
+  },
+  {
+    "sequence": 3,
+    "start": 14.6,
+    "duration": 6.000000000000002,
+    "text": "歡迎收看今天8月26號的公視手語新聞"
+  },
+  {
+    "sequence": 4,
+    "start": 20.6,
+    "duration": 2,
+    "text": "首先來關心"
+  },
+  {
+    "sequence": 5,
+    "start": 22.6,
+    "duration": 4.199999999999999,
+    "text": "對美關稅到底有沒有調降的空間"
+  },
+  {
+    "sequence": 6,
+    "start": 26.8,
+    "duration": 2.6999999999999993,
+    "text": "行政府副院長鄭麗君"
+  },
+  {
+    "sequence": 7,
+    "start": 29.5,
+    "duration": 3.5,
+    "text": "昨天在立法院證實"
+  },
+  {
+    "sequence": 8,
+    "start": 33,
+    "duration": 5.5,
+    "text": "美規進口車也在關稅談判的範圍之內"
+  },
+  {
+    "sequence": 9,
+    "start": 38.5,
+    "duration": 3.5,
+    "text": "同時 對於開放農產品方面"
+  },
+  {
+    "sequence": 10,
+    "start": 42,
+    "duration": 4.5,
+    "text": "也會以國民健康 科學依據"
+  },
+  {
+    "sequence": 11,
+    "start": 46.5,
+    "duration": 5.299999999999997,
+    "text": "和糧食安全作為談判的原則"
+  },
+  {
+    "sequence": 12,
+    "start": 51.8,
+    "duration": 2,
+    "text": "雙方達成一定共識後"
+  },
+  {
+    "sequence": 13,
+    "start": 53.8,
+    "duration": 6,
+    "text": "美國會安排總結性會議 希望愈快愈好"
+  },
+  {
+    "sequence": 14,
+    "start": 59.8,
+    "duration": 5,
+    "text": "台灣對等關稅從32%降為20%暫時性稅率"
+  },
+  {
+    "sequence": 15,
+    "start": 64.8,
+    "duration": 2,
+    "text": "須再疊加既有稅率來計算"
+  },
+  {
+    "sequence": 16,
+    "start": 66.8,
+    "duration": 3,
+    "text": "目前台美雙方還在做最後磋商"
+  },
+  {
+    "sequence": 17,
+    "start": 69.8,
     "duration": 2.5,
-    "text": "歡迎收看公視手語新聞",
-    "hasSignLanguage": false
+    "text": "最終稅率為何 各界關注"
   },
   {
-    "start": 7.9,
+    "sequence": 18,
+    "start": 72.3,
     "duration": 2,
-    "text": "我是手語主播",
-    "hasSignLanguage": false
+    "text": "什麼時候可以做最後的確診"
   },
   {
-    "start": 10.100000000000001,
-    "duration": 2.5,
-    "text": "今天是2025年9月8日 星期一",
-    "hasSignLanguage": false
+    "sequence": 19,
+    "start": 74.3,
+    "duration": 3,
+    "text": "我們在8月1號前沒能達成協議"
   },
   {
-    "start": 12.8,
+    "sequence": 20,
+    "start": 77.3,
+    "duration": 1.5,
+    "text": "最重要的一個因素"
+  },
+  {
+    "sequence": 21,
+    "start": 78.8,
+    "duration": 4,
+    "text": "就是因為我國出口7成是半導體及ICT"
+  },
+  {
+    "sequence": 22,
+    "start": 82.8,
     "duration": 2,
-    "text": "今天為您報導的新聞有",
-    "hasSignLanguage": false
+    "text": "尤其在逆差的9成"
   },
   {
-    "start": 15.3,
-    "duration": 1.5,
-    "text": "今天的主要新聞",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 17.1,
-    "duration": 1.5,
-    "text": "政府相關部門表示",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 18.9,
-    "duration": 1.5,
-    "text": "將持續關注發展",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 20.7,
-    "duration": 1.5,
-    "text": "採取必要措施",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 22.5,
-    "duration": 1.5,
-    "text": "保障民眾權益",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 24.3,
-    "duration": 1.5,
-    "text": "相關單位",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 26.1,
-    "duration": 1.5,
-    "text": "正在評估中",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 27.9,
-    "duration": 1.5,
-    "text": "後續發展",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 29.7,
-    "duration": 1.5,
-    "text": "本台將持續追蹤",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 167.92011176969825,
-    "duration": 2.2,
-    "text": "以上就是今天的新聞",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 170.42011176969825,
+    "sequence": 23,
+    "start": 84.8,
     "duration": 2,
-    "text": "感謝您的收看",
-    "hasSignLanguage": true
+    "text": "那美方也表示這個項目"
   },
   {
-    "start": 172.72011176969826,
-    "duration": 1.8,
-    "text": "我們下次見",
-    "hasSignLanguage": true
+    "sequence": 24,
+    "start": 86.8,
+    "duration": 2,
+    "text": "在美方232的調查底下"
+  },
+  {
+    "sequence": 25,
+    "start": 88.8,
+    "duration": 4,
+    "text": "那也連動美方232關稅的政策方向"
+  },
+  {
+    "sequence": 26,
+    "start": 92.8,
+    "duration": 2,
+    "text": "所以台美需要一些時間"
+  },
+  {
+    "sequence": 27,
+    "start": 94.8,
+    "duration": 3,
+    "text": "持續就對等跟232一併對談"
+  },
+  {
+    "sequence": 28,
+    "start": 97.8,
+    "duration": 2,
+    "text": "行政府長卓榮泰表示"
+  },
+  {
+    "sequence": 29,
+    "start": 99.8,
+    "duration": 3,
+    "text": "台美關稅談判有三大目標要爭取"
+  },
+  {
+    "sequence": 30,
+    "start": 102.8,
+    "duration": 3,
+    "text": "首先是爭取更好的對等關稅稅率"
+  },
+  {
+    "sequence": 31,
+    "start": 105.8,
+    "duration": 2,
+    "text": "同時一起協商232條款"
+  },
+  {
+    "sequence": 32,
+    "start": 107.8,
+    "duration": 2,
+    "text": "也要爭取不疊加稅率"
+  },
+  {
+    "sequence": 33,
+    "start": 109.8,
+    "duration": 1,
+    "text": "有立委關注"
+  },
+  {
+    "sequence": 34,
+    "start": 110.8,
+    "duration": 3,
+    "text": "傳出美國希望臺灣開放整車市場"
+  },
+  {
+    "sequence": 35,
+    "start": 113.8,
+    "duration": 3,
+    "text": "而且美國對日本和韓國似乎也有同樣要求"
+  },
+  {
+    "sequence": 36,
+    "start": 116.8,
+    "duration": 3,
+    "text": "究竟在台美關稅談判過程中"
+  },
+  {
+    "sequence": 37,
+    "start": 119.8,
+    "duration": 2,
+    "text": "是否有觸及整車免稅進口"
+  },
+  {
+    "sequence": 38,
+    "start": 140.8,
+    "duration": 9,
+    "text": "有關台美關稅談判進度"
+  },
+  {
+    "sequence": 39,
+    "start": 149.8,
+    "duration": 2,
+    "text": "行政府副院長鄭麗君表示"
+  },
+  {
+    "sequence": 40,
+    "start": 151.8,
+    "duration": 2,
+    "text": "都還在技術性磋商過程"
+  },
+  {
+    "sequence": 41,
+    "start": 153.8,
+    "duration": 3,
+    "text": "希望能儘快進入最關鍵的總結會議階段"
+  },
+  {
+    "sequence": 42,
+    "start": 156.8,
+    "duration": 3,
+    "text": "未來完成協商後將送請立法院審議"
+  },
+  {
+    "sequence": 43,
+    "start": 159.8,
+    "duration": 2,
+    "text": "公視新聞有編辭郭俊麟臺報導"
+  },
+  {
+    "sequence": 44,
+    "start": 163.8,
+    "duration": 6,
+    "text": "獨報時間來看到聯合報提到了"
+  },
+  {
+    "sequence": 45,
+    "start": 169.8,
+    "duration": 5,
+    "text": "華聯縣政府近年拓展國外直飛航班"
+  },
+  {
+    "sequence": 46,
+    "start": 174.8,
+    "duration": 4,
+    "text": "而繼去年直飛香港之後"
+  },
+  {
+    "sequence": 47,
+    "start": 178.8,
+    "duration": 5,
+    "text": "也將有直飛韓國仁川機場"
+  },
+  {
+    "sequence": 48,
+    "start": 183.8,
+    "duration": 3,
+    "text": "預計11月13日起"
+  },
+  {
+    "sequence": 49,
+    "start": 186.8,
+    "duration": 5,
+    "text": "每週固定會有兩個航班"
+  },
+  {
+    "sequence": 50,
+    "start": 191.8,
+    "duration": 2,
+    "text": "而中國時報是"
+  },
+  {
+    "sequence": 51,
+    "start": 193.8,
+    "duration": 2,
+    "text": "台北地檢署"
+  },
+  {
+    "sequence": 52,
+    "start": 195.8,
+    "duration": 5,
+    "text": "偵犯涉及妨害綠能產業發展的案件"
+  },
+  {
+    "sequence": 53,
+    "start": 200.8,
+    "duration": 5,
+    "text": "昨天鎖定民進黨幕僚出身的鄭義玲"
+  },
+  {
+    "sequence": 54,
+    "start": 205.8,
+    "duration": 4,
+    "text": "來進行搜索約談"
+  },
+  {
+    "sequence": 55,
+    "start": 209.8,
+    "duration": 3,
+    "text": "他涉嫌在擔任經濟部"
+  },
+  {
+    "sequence": 56,
+    "start": 212.8,
+    "duration": 5,
+    "text": "綠能科技產業推動中心副執行長的任內"
+  },
+  {
+    "sequence": 57,
+    "start": 217.8,
+    "duration": 4,
+    "text": "向兩家綠能業者搜索賄賂"
+  },
+  {
+    "sequence": 58,
+    "start": 221.8,
+    "duration": 7,
+    "text": "再來看到自由時報時報道"
+  },
+  {
+    "sequence": 59,
+    "start": 228.8,
+    "duration": 5,
+    "text": "國民黨籍前雲林縣議會議長沈宗龍"
+  },
+  {
+    "sequence": 60,
+    "start": 233.8,
+    "duration": 3,
+    "text": "以及議員王又明"
+  },
+  {
+    "sequence": 61,
+    "start": 236.8,
+    "duration": 4,
+    "text": "向達德能源公司收會案"
+  },
+  {
+    "sequence": 62,
+    "start": 240.8,
+    "duration": 4,
+    "text": "法院昨天一審宣判"
+  },
+  {
+    "sequence": 63,
+    "start": 244.8,
+    "duration": 3,
+    "text": "認為沈宗龍坦承犯刑"
+  },
+  {
+    "sequence": 64,
+    "start": 247.8,
+    "duration": 3,
+    "text": "繳回兩千萬匯款"
+  },
+  {
+    "sequence": 65,
+    "start": 250.8,
+    "duration": 4,
+    "text": "處有期徒刑三年六個月"
+  },
+  {
+    "sequence": 66,
+    "start": 254.8,
+    "duration": 3,
+    "text": "而王又明因為否認犯刑"
+  },
+  {
+    "sequence": 67,
+    "start": 257.8,
+    "duration": 3,
+    "text": "判處九年六個月"
+  },
+  {
+    "sequence": 68,
+    "start": 260.8,
+    "duration": 3,
+    "text": "兩人都恥奪公權八年"
+  },
+  {
+    "sequence": 69,
+    "start": 263.8,
+    "duration": 4,
+    "text": "而全案還可以上訴"
+  },
+  {
+    "sequence": 70,
+    "start": 267.8,
+    "duration": 3,
+    "text": "看報紙重點繼續關心"
+  },
+  {
+    "sequence": 71,
+    "start": 270.8,
+    "duration": 2,
+    "text": "前海宣署金馬彭分署"
+  },
+  {
+    "sequence": 72,
+    "start": 272.8,
+    "duration": 4,
+    "text": "刑務指揮中心主任莊宗輝"
+  },
+  {
+    "sequence": 73,
+    "start": 276.8,
+    "duration": 3,
+    "text": "涉嫌長期將重要的公務機密"
+  },
+  {
+    "sequence": 74,
+    "start": 279.8,
+    "duration": 4,
+    "text": "洩漏給中國的海警單位"
+  },
+  {
+    "sequence": 75,
+    "start": 283.8,
+    "duration": 2,
+    "text": "還收會包庇"
+  },
+  {
+    "sequence": 76,
+    "start": 285.8,
+    "duration": 2,
+    "text": "兩案非法走私"
+  },
+  {
+    "sequence": 77,
+    "start": 287.8,
+    "duration": 4,
+    "text": "越界捕撈"
+  },
+  {
+    "sequence": 78,
+    "start": 291.8,
+    "duration": 3,
+    "text": "昨天檢方起訴"
+  },
+  {
+    "sequence": 79,
+    "start": 294.8,
+    "duration": 4,
+    "text": "鑑勤法院判處九年六個月"
+  },
+  {
+    "sequence": 80,
+    "start": 298.8,
+    "duration": 4,
+    "text": "並扣六百萬元的罰金"
+  },
+  {
+    "sequence": 81,
+    "start": 302.8,
+    "duration": 4,
+    "text": "沒收犯罪所得一百八十八萬多元"
+  },
+  {
+    "sequence": 82,
+    "start": 306.8,
+    "duration": 5,
+    "text": "兩案關係緊張"
+  },
+  {
+    "sequence": 83,
+    "start": 311.8,
+    "duration": 3,
+    "text": "中國海警船頻頻侵擾我金門海域"
+  },
+  {
+    "sequence": 84,
+    "start": 314.8,
+    "duration": 2,
+    "text": "海巡署弟兄則強力執法"
+  },
+  {
+    "sequence": 85,
+    "start": 316.8,
+    "duration": 2,
+    "text": "維護國家安全"
+  },
+  {
+    "sequence": 86,
+    "start": 318.8,
+    "duration": 2,
+    "text": "不過前海巡署金馬彭分署的"
+  },
+  {
+    "sequence": 87,
+    "start": 320.8,
+    "duration": 3,
+    "text": "刑務指揮中心主任莊宗輝"
+  },
+  {
+    "sequence": 88,
+    "start": 323.8,
+    "duration": 2,
+    "text": "卻涉嫌長期將重要公務機密"
+  },
+  {
+    "sequence": 89,
+    "start": 325.8,
+    "duration": 3,
+    "text": "洩漏給中國的海警單位"
+  },
+  {
+    "sequence": 90,
+    "start": 328.8,
+    "duration": 2,
+    "text": "還收會包庇走私"
+  },
+  {
+    "sequence": 91,
+    "start": 330.8,
+    "duration": 1,
+    "text": "二十五號被檢方"
+  },
+  {
+    "sequence": 92,
+    "start": 331.8,
+    "duration": 1,
+    "text": "依國安法"
+  },
+  {
+    "sequence": 93,
+    "start": 332.8,
+    "duration": 2,
+    "text": "貪污個資法等罪行起訴"
+  },
+  {
+    "sequence": 94,
+    "start": 334.8,
+    "duration": 2,
+    "text": "並且沒收犯罪所得"
+  },
+  {
+    "sequence": 95,
+    "start": 336.8,
+    "duration": 15,
+    "text": "檢方調查"
+  },
+  {
+    "sequence": 96,
+    "start": 351.8,
+    "duration": 2,
+    "text": "莊刑五度向非法業者收會"
+  },
+  {
+    "sequence": 97,
+    "start": 353.8,
+    "duration": 1,
+    "text": "金額上百萬"
+  },
+  {
+    "sequence": 98,
+    "start": 354.8,
+    "duration": 3,
+    "text": "至少有五次將海巡情務表等機密"
+  },
+  {
+    "sequence": 99,
+    "start": 357.8,
+    "duration": 1,
+    "text": "交付中方"
+  },
+  {
+    "sequence": 100,
+    "start": 358.8,
+    "duration": 2,
+    "text": "還曾三度洩漏個資"
+  },
+  {
+    "sequence": 101,
+    "start": 360.8,
+    "duration": 2,
+    "text": "影響邊境管制"
+  },
+  {
+    "sequence": 102,
+    "start": 362.8,
+    "duration": 1,
+    "text": "檢方還發現"
+  },
+  {
+    "sequence": 103,
+    "start": 363.8,
+    "duration": 2,
+    "text": "他曾收會包庇違法業者"
+  },
+  {
+    "sequence": 104,
+    "start": 365.8,
+    "duration": 2,
+    "text": "在離島放養"
+  },
+  {
+    "sequence": 105,
+    "start": 367.8,
+    "duration": 3,
+    "text": "還收會協助業者越界養殖或走私"
+  },
+  {
+    "sequence": 106,
+    "start": 370.8,
+    "duration": 2,
+    "text": "也曾洩漏查緝案件"
+  },
+  {
+    "sequence": 107,
+    "start": 372.8,
+    "duration": 2,
+    "text": "個資給中方"
+  },
+  {
+    "sequence": 108,
+    "start": 385.8,
+    "duration": 1,
+    "text": "台灣的周遭海域"
+  },
+  {
+    "sequence": 109,
+    "start": 386.8,
+    "duration": 3,
+    "text": "包含外離島金門馬祖一舉一動"
+  },
+  {
+    "sequence": 110,
+    "start": 389.8,
+    "duration": 2,
+    "text": "就是他們的海巡的動態"
+  },
+  {
+    "sequence": 111,
+    "start": 391.8,
+    "duration": 3,
+    "text": "都會等到情務指揮中心去"
+  },
+  {
+    "sequence": 112,
+    "start": 394.8,
+    "duration": 1,
+    "text": "更麻煩的就是說"
+  },
+  {
+    "sequence": 113,
+    "start": 395.8,
+    "duration": 3,
+    "text": "假設這個情指中心主任洩密的話"
+  },
+  {
+    "sequence": 114,
+    "start": 398.8,
+    "duration": 2,
+    "text": "日常的海巡署的一些正常作息"
+  },
+  {
+    "sequence": 115,
+    "start": 400.8,
+    "duration": 1,
+    "text": "或什麼應對方式呢"
+  },
+  {
+    "sequence": 116,
+    "start": 401.8,
+    "duration": 2,
+    "text": "其實都被中國所掌握"
+  },
+  {
+    "sequence": 117,
+    "start": 403.8,
+    "duration": 1,
+    "text": "軍事專家分析"
+  },
+  {
+    "sequence": 118,
+    "start": 404.8,
+    "duration": 2,
+    "text": "海巡單位的情指中心"
+  },
+  {
+    "sequence": 119,
+    "start": 406.8,
+    "duration": 3,
+    "text": "掌握台灣海域的風吹草動"
+  },
+  {
+    "sequence": 120,
+    "start": 409.8,
+    "duration": 3,
+    "text": "如果重要情詞都被中方掌握"
+  },
+  {
+    "sequence": 121,
+    "start": 412.8,
+    "duration": 2,
+    "text": "對於國家安全非常不利"
+  },
+  {
+    "sequence": 122,
+    "start": 414.8,
+    "duration": 3,
+    "text": "海巡應該調整情務作為"
+  },
+  {
+    "sequence": 123,
+    "start": 417.8,
+    "duration": 1,
+    "text": "以及應變方式"
+  },
+  {
+    "sequence": 124,
+    "start": 418.8,
+    "duration": 4,
+    "text": "才能夠對抗灰色地帶作戰的不斷侵擾"
+  },
+  {
+    "sequence": 125,
+    "start": 422.8,
+    "duration": 3,
+    "text": "公視新聞陳佳馨 張國良 台北報導"
+  },
+  {
+    "sequence": 126,
+    "start": 425.8,
+    "duration": 4,
+    "text": "台師大女卒抽血案"
+  },
+  {
+    "sequence": 127,
+    "start": 429.8,
+    "duration": 2,
+    "text": "北檢昨天搜索"
+  },
+  {
+    "sequence": 128,
+    "start": 431.8,
+    "duration": 4,
+    "text": "並且首度約談教練周台英"
+  },
+  {
+    "sequence": 129,
+    "start": 435.8,
+    "duration": 3,
+    "text": "而另外也以證人的身份"
+  },
+  {
+    "sequence": 130,
+    "start": 438.8,
+    "duration": 5,
+    "text": "約談研究計畫九成人陳中慶等四人到案"
+  },
+  {
+    "sequence": 131,
+    "start": 443.8,
+    "duration": 4,
+    "text": "經過漏頁偵訊後"
+  },
+  {
+    "sequence": 132,
+    "start": 447.8,
+    "duration": 3,
+    "text": "今天凌晨一詐欺罪"
+  },
+  {
+    "sequence": 133,
+    "start": 450.8,
+    "duration": 4,
+    "text": "命周台英七十萬元交保"
+  },
+  {
+    "sequence": 134,
+    "start": 454.8,
+    "duration": 3,
+    "text": "並且限制出境出海"
+  },
+  {
+    "sequence": 135,
+    "start": 457.8,
+    "duration": 5,
+    "text": "台師大女卒抽血案爭議未歇"
+  },
+  {
+    "sequence": 136,
+    "start": 462.8,
+    "duration": 3,
+    "text": "台北地檢署25日兵分多路搜索"
+  },
+  {
+    "sequence": 137,
+    "start": 465.8,
+    "duration": 2,
+    "text": "並且首度約談已經遭到停聘"
+  },
+  {
+    "sequence": 138,
+    "start": 467.8,
+    "duration": 3,
+    "text": "也被撤銷教練證的周台英"
+  },
+  {
+    "sequence": 139,
+    "start": 470.8,
+    "duration": 2,
+    "text": "在大批媒體的包圍下"
+  },
+  {
+    "sequence": 140,
+    "start": 472.8,
+    "duration": 3,
+    "text": "她低頭不發一語沒有回答問題"
+  },
+  {
+    "sequence": 141,
+    "start": 475.8,
+    "duration": 4,
+    "text": "另外北檢也以證人身份"
+  },
+  {
+    "sequence": 142,
+    "start": 479.8,
+    "duration": 3,
+    "text": "約談研究計畫主持人陳中慶等四人到案"
+  },
+  {
+    "sequence": 143,
+    "start": 482.8,
+    "duration": 3,
+    "text": "仇上詐欺 侵占等罪偵辦"
+  },
+  {
+    "sequence": 144,
+    "start": 485.8,
+    "duration": 2,
+    "text": "經過漏頁偵訊後"
+  },
+  {
+    "sequence": 145,
+    "start": 487.8,
+    "duration": 2,
+    "text": "周台英以七十萬元交保"
+  },
+  {
+    "sequence": 146,
+    "start": 489.8,
+    "duration": 2,
+    "text": "並且限制出境出海"
+  },
+  {
+    "sequence": 147,
+    "start": 491.8,
+    "duration": 2,
+    "text": "陳中慶則是偵訊後請回"
+  },
+  {
+    "sequence": 148,
+    "start": 493.8,
+    "duration": 2,
+    "text": "回顧整起事件"
+  },
+  {
+    "sequence": 149,
+    "start": 495.8,
+    "duration": 2,
+    "text": "周台英以扣學分為由"
+  },
+  {
+    "sequence": 150,
+    "start": 497.8,
+    "duration": 3,
+    "text": "強迫選手配合運動實驗研究抽血"
+  },
+  {
+    "sequence": 151,
+    "start": 500.8,
+    "duration": 3,
+    "text": "學生出面指控後風波延燒"
+  },
+  {
+    "sequence": 152,
+    "start": 503.8,
+    "duration": 2,
+    "text": "教育部以違反人體研究法"
+  },
+  {
+    "sequence": 153,
+    "start": 505.8,
+    "duration": 2,
+    "text": "分別處陳中慶停聘三年"
+  },
+  {
+    "sequence": 154,
+    "start": 507.8,
+    "duration": 2,
+    "text": "周台英則解聘"
+  },
+  {
+    "sequence": 155,
+    "start": 509.8,
+    "duration": 2,
+    "text": "且一年不得聘任為教師"
+  },
+  {
+    "sequence": 156,
+    "start": 511.8,
+    "duration": 2.999999999999943,
+    "text": "我的錯還是希望球員能夠原諒我"
+  },
+  {
+    "sequence": 157,
+    "start": 514.8,
+    "duration": 5,
+    "text": "教練證對我來講OK的"
+  },
+  {
+    "sequence": 158,
+    "start": 519.8,
+    "duration": 2,
+    "text": "我喜歡這個項目"
+  },
+  {
+    "sequence": 159,
+    "start": 521.8,
+    "duration": 4,
+    "text": "所以我還會繼續從事這樣一個的足球運動"
+  },
+  {
+    "sequence": 160,
+    "start": 525.8,
+    "duration": 3,
+    "text": "檢調在分析卷證 清查金流後"
+  },
+  {
+    "sequence": 161,
+    "start": 528.8,
+    "duration": 3,
+    "text": "懷疑周台英把沒有參加實驗的學生當人頭"
+  },
+  {
+    "sequence": 162,
+    "start": 531.8,
+    "duration": 2,
+    "text": "詐領了補助金數千元"
+  },
+  {
+    "sequence": 163,
+    "start": 533.8,
+    "duration": 4,
+    "text": "另外補助金疑似也沒有發放給真正被抽血的學生"
+  },
+  {
+    "sequence": 164,
+    "start": 537.8,
+    "duration": 3,
+    "text": "而是直接變成了女足隊的公積金"
+  },
+  {
+    "sequence": 165,
+    "start": 540.8,
+    "duration": 3,
+    "text": "整起案件持續抽絲剝繭 釐清真相"
+  },
+  {
+    "sequence": 166,
+    "start": 543.8,
+    "duration": 5,
+    "text": "公視新聞陳柏育 朱鳳之中建剛綜合報導"
+  },
+  {
+    "sequence": 167,
+    "start": 548.8,
+    "duration": 6,
+    "text": "教育部次長葉秉承涉入性平安洩密"
+  },
+  {
+    "sequence": 168,
+    "start": 554.8,
+    "duration": 3,
+    "text": "教育部調查了三個月之後"
+  },
+  {
+    "sequence": 169,
+    "start": 557.8,
+    "duration": 5,
+    "text": "認定沒有違反性別平等教育法"
+  },
+  {
+    "sequence": 170,
+    "start": 562.8,
+    "duration": 3,
+    "text": "而在結果公布後"
+  },
+  {
+    "sequence": 171,
+    "start": 565.8,
+    "duration": 3,
+    "text": "葉秉承也提出了辭職"
+  },
+  {
+    "sequence": 172,
+    "start": 568.8,
+    "duration": 4,
+    "text": "性平安當事人昨天出席記者會"
+  },
+  {
+    "sequence": 173,
+    "start": 572.8,
+    "duration": 5,
+    "text": "表示葉秉承從未向他說出對不起"
+  },
+  {
+    "sequence": 174,
+    "start": 577.8,
+    "duration": 5,
+    "text": "而教育部的調查結果也讓他徹底崩潰"
+  },
+  {
+    "sequence": 175,
+    "start": 582.8,
+    "duration": 6,
+    "text": "強調已經向檢方提告葉秉承違反《各自法》"
+  },
+  {
+    "sequence": 176,
+    "start": 588.8,
+    "duration": 4,
+    "text": "調查退回重做"
+  },
+  {
+    "sequence": 177,
+    "start": 592.8,
+    "duration": 3,
+    "text": "喊著口號要求前教育部次長葉秉承"
+  },
+  {
+    "sequence": 178,
+    "start": 595.8,
+    "duration": 2,
+    "text": "涉入的性平安調查報告"
+  },
+  {
+    "sequence": 179,
+    "start": 597.8,
+    "duration": 3,
+    "text": "要退回重新調查 不要避重就輕"
+  },
+  {
+    "sequence": 180,
+    "start": 600.8,
+    "duration": 4,
+    "text": "全案的當事人在台大學生會的陪同之下"
+  },
+  {
+    "sequence": 181,
+    "start": 604.8,
+    "duration": 4,
+    "text": "舉行記者會 因為他在三年前遭到宿舍輔導員騷擾"
+  },
+  {
+    "sequence": 182,
+    "start": 608.8,
+    "duration": 4,
+    "text": "他提起性平安 事後教育部次長葉秉承"
+  },
+  {
+    "sequence": 183,
+    "start": 612.8,
+    "duration": 4,
+    "text": "卻在個人社群平台發文評論全案"
+  },
+  {
+    "sequence": 184,
+    "start": 616.8,
+    "duration": 3,
+    "text": "賴對話截圖揭露了他的格子"
+  },
+  {
+    "sequence": 185,
+    "start": 619.8,
+    "duration": 2,
+    "text": "讓他報受困擾"
+  },
+  {
+    "sequence": 186,
+    "start": 634.8,
+    "duration": 4,
+    "text": "現在應該要將葉秉承案件相關市政移交哪個部會"
+  },
+  {
+    "sequence": 187,
+    "start": 638.8,
+    "duration": 3,
+    "text": "他用所謂的這種漏洞式的三文方式"
+  },
+  {
+    "sequence": 188,
+    "start": 641.8,
+    "duration": 3,
+    "text": "我們發現一篇他刪一篇的方式"
+  },
+  {
+    "sequence": 189,
+    "start": 644.8,
+    "duration": 2,
+    "text": "到最後他決定全部刪文"
+  },
+  {
+    "sequence": 190,
+    "start": 646.8,
+    "duration": 3,
+    "text": "這樣的方式其實讓我們非常的不能認同"
+  },
+  {
+    "sequence": 191,
+    "start": 649.8,
+    "duration": 4,
+    "text": "當事人和陪同擔任案件輔佐人的議員表示"
+  },
+  {
+    "sequence": 192,
+    "start": 653.8,
+    "duration": 4,
+    "text": "葉秉承從未對他說出對不起讓他無法接受"
+  },
+  {
+    "sequence": 193,
+    "start": 657.8,
+    "duration": 4,
+    "text": "而且教育部認定葉秉承不是性平安的調查成員"
+  },
+  {
+    "sequence": 194,
+    "start": 661.8,
+    "duration": 2,
+    "text": "沒有違反性平教育法"
+  },
+  {
+    "sequence": 195,
+    "start": 663.8,
+    "duration": 2,
+    "text": "這結果讓他徹底崩潰"
+  },
+  {
+    "sequence": 196,
+    "start": 665.8,
+    "duration": 2,
+    "text": "台大學生會則認為要修法"
+  },
+  {
+    "sequence": 197,
+    "start": 667.8,
+    "duration": 3,
+    "text": "明確規範性平安的保密義務"
+  },
+  {
+    "sequence": 198,
+    "start": 670.8,
+    "duration": 3,
+    "text": "以及當事人的隱私救濟機制"
+  },
+  {
+    "sequence": 199,
+    "start": 673.8,
+    "duration": 2,
+    "text": "必須退回這份失格的調查"
+  },
+  {
+    "sequence": 200,
+    "start": 675.8,
+    "duration": 2,
+    "text": "重新妥善的釐清責任"
+  },
+  {
+    "sequence": 201,
+    "start": 677.8,
+    "duration": 4,
+    "text": "性平的制度必須補齊 修補漏洞"
+  },
+  {
+    "sequence": 202,
+    "start": 681.8,
+    "duration": 4,
+    "text": "否則下一個被犧牲的學生的出現不會太出"
+  },
+  {
+    "sequence": 203,
+    "start": 685.8,
+    "duration": 5,
+    "text": "當事人表示他已經向檢方提高葉秉承違反格子法"
+  },
+  {
+    "sequence": 204,
+    "start": 690.8,
+    "duration": 3,
+    "text": "北檢已經分他在案調查"
+  },
+  {
+    "sequence": 205,
+    "start": 693.8,
+    "duration": 3,
+    "text": "當事人強調對於騷擾他的輔導員"
+  },
+  {
+    "sequence": 206,
+    "start": 696.8,
+    "duration": 2,
+    "text": "已經被依更騷法起訴"
+  },
+  {
+    "sequence": 207,
+    "start": 698.8,
+    "duration": 3,
+    "text": "利用詮釋猥褻部分則不起訴"
+  },
+  {
+    "sequence": 208,
+    "start": 701.8,
+    "duration": 2,
+    "text": "監察院已經糾正台大"
+  },
+  {
+    "sequence": 209,
+    "start": 703.8,
+    "duration": 2,
+    "text": "台大表示已經調整職務"
+  },
+  {
+    "sequence": 210,
+    "start": 705.8,
+    "duration": 3,
+    "text": "不再擔任宿舍輔導員"
+  },
+  {
+    "sequence": 211,
+    "start": 708.8,
+    "duration": 3,
+    "text": "公視新聞 陳佳馨 張國良 台北報導"
+  },
+  {
+    "sequence": 212,
+    "start": 711.8,
+    "duration": 4,
+    "text": "九月就要開學了"
+  },
+  {
+    "sequence": 213,
+    "start": 715.8,
+    "duration": 4,
+    "text": "不過受到先前豪雨重創中南部"
+  },
+  {
+    "sequence": 214,
+    "start": 719.8,
+    "duration": 2,
+    "text": "蔬菜災損嚴重"
+  },
+  {
+    "sequence": 215,
+    "start": 721.8,
+    "duration": 4,
+    "text": "加上豬肉價格居高不下"
+  },
+  {
+    "sequence": 216,
+    "start": 725.8,
+    "duration": 4,
+    "text": "讓負責營養午餐的團善業者很頭痛"
+  },
+  {
+    "sequence": 217,
+    "start": 729.8,
+    "duration": 4,
+    "text": "因為契約都是一年一千"
+  },
+  {
+    "sequence": 218,
+    "start": 733.8,
+    "duration": 4,
+    "text": "即使遇到天災也無法調整價格"
+  },
+  {
+    "sequence": 219,
+    "start": 737.8,
+    "duration": 2,
+    "text": "只能自行吸收"
+  },
+  {
+    "sequence": 220,
+    "start": 739.8,
+    "duration": 6,
+    "text": "短期可能會先透過冷凍蔬菜來因應"
+  },
+  {
+    "sequence": 221,
+    "start": 745.8,
+    "duration": 4,
+    "text": "同時會調整豬肉供應的頻率"
+  },
+  {
+    "sequence": 222,
+    "start": 749.8,
+    "duration": 5,
+    "text": "先前的豪雨重創中南部蔬菜產區"
+  },
+  {
+    "sequence": 223,
+    "start": 754.8,
+    "duration": 2,
+    "text": "連帶衝擊蔬菜價格來到高檔"
+  },
+  {
+    "sequence": 224,
+    "start": 756.8,
+    "duration": 3,
+    "text": "就連豬肉價格近期批發價"
+  },
+  {
+    "sequence": 225,
+    "start": 759.8,
+    "duration": 2,
+    "text": "每公斤也在百元以上"
+  },
+  {
+    "sequence": 226,
+    "start": 761.8,
+    "duration": 1,
+    "text": "面對菜肉雙漲"
+  },
+  {
+    "sequence": 227,
+    "start": 762.8,
+    "duration": 2,
+    "text": "眼看國中小學又即將開學"
+  },
+  {
+    "sequence": 228,
+    "start": 764.8,
+    "duration": 3,
+    "text": "也讓國內的團善業者直呼吃不消"
+  },
+  {
+    "sequence": 229,
+    "start": 767.8,
+    "duration": 2,
+    "text": "午餐的價格在暑假換約的時候"
+  },
+  {
+    "sequence": 230,
+    "start": 769.8,
+    "duration": 3,
+    "text": "重新招標 其實價格都定了"
+  },
+  {
+    "sequence": 231,
+    "start": 772.8,
+    "duration": 2,
+    "text": "所以學校午餐其實風險就在於說"
+  },
+  {
+    "sequence": 232,
+    "start": 774.8,
+    "duration": 1,
+    "text": "價格定了"
+  },
+  {
+    "sequence": 233,
+    "start": 775.8,
+    "duration": 5,
+    "text": "所以這一整年的午餐的食材波動"
+  },
+  {
+    "sequence": 234,
+    "start": 780.8,
+    "duration": 2,
+    "text": "廠商都要概括承受"
+  },
+  {
+    "sequence": 235,
+    "start": 782.8,
+    "duration": 1,
+    "text": "當然短期可以因應"
+  },
+  {
+    "sequence": 236,
+    "start": 783.8,
+    "duration": 2,
+    "text": "可是很多家長其實也反映說"
+  },
+  {
+    "sequence": 237,
+    "start": 785.8,
+    "duration": 2,
+    "text": "當時豆芽菜吃太多了"
+  },
+  {
+    "sequence": 238,
+    "start": 787.8,
+    "duration": 4,
+    "text": "因為團善業者畢竟他有他的一個考量"
+  },
+  {
+    "sequence": 239,
+    "start": 791.8,
+    "duration": 2,
+    "text": "可是如果說像這樣的一個比例"
+  },
+  {
+    "sequence": 240,
+    "start": 793.8,
+    "duration": 2,
+    "text": "就會影響到孩子的營養跟健康"
+  },
+  {
+    "sequence": 241,
+    "start": 795.8,
+    "duration": 3,
+    "text": "業者表示目前只能自行吸收成本"
+  },
+  {
+    "sequence": 242,
+    "start": 798.8,
+    "duration": 2,
+    "text": "會請業者短暫先用豆芽菜"
+  },
+  {
+    "sequence": 243,
+    "start": 800.8,
+    "duration": 2,
+    "text": "或是冷凍蔬菜來因應"
+  },
+  {
+    "sequence": 244,
+    "start": 802.8,
+    "duration": 1,
+    "text": "至於豬肉還是會供應"
+  },
+  {
+    "sequence": 245,
+    "start": 803.8,
+    "duration": 2,
+    "text": "只是會調整供應頻率"
+  },
+  {
+    "sequence": 246,
+    "start": 805.8,
+    "duration": 2,
+    "text": "但近期不只菜肉雙漲"
+  },
+  {
+    "sequence": 247,
+    "start": 807.8,
+    "duration": 2,
+    "text": "臺北市蛋商公會宣佈"
+  },
+  {
+    "sequence": 248,
+    "start": 809.8,
+    "duration": 4,
+    "text": "蛋價每公斤批發價從四十四元漲到四十六元"
+  },
+  {
+    "sequence": 249,
+    "start": 813.8,
+    "duration": 8,
+    "text": "蛋商公會表示"
+  },
+  {
+    "sequence": 250,
+    "start": 821.8,
+    "duration": 1,
+    "text": "因為菜價偏高"
+  },
+  {
+    "sequence": 251,
+    "start": 822.8,
+    "duration": 3,
+    "text": "帶動民眾將消費力轉往雞蛋"
+  },
+  {
+    "sequence": 252,
+    "start": 825.8,
+    "duration": 2,
+    "text": "從農糧署的數據來看"
+  },
+  {
+    "sequence": 253,
+    "start": 827.8,
+    "duration": 3,
+    "text": "國內蔬菜價格在八月十一號當週"
+  },
+  {
+    "sequence": 254,
+    "start": 830.8,
+    "duration": 2,
+    "text": "平均每公斤六十點三元"
+  },
+  {
+    "sequence": 255,
+    "start": 832.8,
+    "duration": 1,
+    "text": "到了十八號當週"
+  },
+  {
+    "sequence": 256,
+    "start": 833.8,
+    "duration": 3,
+    "text": "價格來到平均每公斤五十點三元"
+  },
+  {
+    "sequence": 257,
+    "start": 836.8,
+    "duration": 1,
+    "text": "跌十元"
+  },
+  {
+    "sequence": 258,
+    "start": 837.8,
+    "duration": 9,
+    "text": "至於國內的毛豬價格"
+  },
+  {
+    "sequence": 259,
+    "start": 846.8,
+    "duration": 4,
+    "text": "七月一號平均每公斤一百零六點零七元"
+  },
+  {
+    "sequence": 260,
+    "start": 850.8,
+    "duration": 3,
+    "text": "直到八月份也幾乎都是每公斤突破一百元"
+  },
+  {
+    "sequence": 261,
+    "start": 853.8,
+    "duration": 4,
+    "text": "二十二號更來到每公斤一百一十二點零四元"
+  },
+  {
+    "sequence": 262,
+    "start": 857.8,
+    "duration": 2,
+    "text": "比起七月初多歸六元"
+  },
+  {
+    "sequence": 263,
+    "start": 859.8,
+    "duration": 4,
+    "text": "農業部表示價格渴望在年底逐步回歸常態"
+  },
+  {
+    "sequence": 264,
+    "start": 863.8,
+    "duration": 2,
+    "text": "這也讓部分團生業者表示"
+  },
+  {
+    "sequence": 265,
+    "start": 865.8,
+    "duration": 2,
+    "text": "下學期開學日實在太難撐"
+  },
+  {
+    "sequence": 266,
+    "start": 867.8,
+    "duration": 3,
+    "text": "公視新聞游燕慈郭居琳台報導"
+  },
+  {
+    "sequence": 267,
+    "start": 870.8,
+    "duration": 4,
+    "text": "國人十大死因當中"
+  },
+  {
+    "sequence": 268,
+    "start": 874.8,
+    "duration": 4,
+    "text": "有八項是與肥胖有關"
+  },
+  {
+    "sequence": 269,
+    "start": 878.8,
+    "duration": 4,
+    "text": "而且大多是從小吃出來的"
+  },
+  {
+    "sequence": 270,
+    "start": 882.8,
+    "duration": 3,
+    "text": "台灣肥胖醫學會警告"
+  },
+  {
+    "sequence": 271,
+    "start": 885.8,
+    "duration": 3,
+    "text": "兒童肥胖會刺激性早熟"
+  },
+  {
+    "sequence": 272,
+    "start": 888.8,
+    "duration": 2,
+    "text": "增加糖尿病的風險"
+  },
+  {
+    "sequence": 273,
+    "start": 890.8,
+    "duration": 3,
+    "text": "甚至罹患癌症"
+  },
+  {
+    "sequence": 274,
+    "start": 893.8,
+    "duration": 2,
+    "text": "國健署強調"
+  },
+  {
+    "sequence": 275,
+    "start": 895.8,
+    "duration": 3,
+    "text": "已經跟教育部合作"
+  },
+  {
+    "sequence": 276,
+    "start": 898.8,
+    "duration": 3,
+    "text": "從校園結合家庭力量"
+  },
+  {
+    "sequence": 277,
+    "start": 901.8,
+    "duration": 3,
+    "text": "宣導均衡飲食"
+  },
+  {
+    "sequence": 278,
+    "start": 904.8,
+    "duration": 3,
+    "text": "養成運動習慣"
+  },
+  {
+    "sequence": 279,
+    "start": 907.8,
+    "duration": 6,
+    "text": "並且鼓勵學童以白開水取代含糖飲料"
+  },
+  {
+    "sequence": 280,
+    "start": 915.8,
+    "duration": 3,
+    "text": "很多孩童喜歡喝含糖的手搖杯飲料"
+  },
+  {
+    "sequence": 281,
+    "start": 918.8,
+    "duration": 2,
+    "text": "來取代白開水"
+  },
+  {
+    "sequence": 282,
+    "start": 920.8,
+    "duration": 2,
+    "text": "尤其暑假期間沒有學校生活壓力"
+  },
+  {
+    "sequence": 283,
+    "start": 922.8,
+    "duration": 2,
+    "text": "有些人幾乎是每天一杯"
+  },
+  {
+    "sequence": 284,
+    "start": 924.8,
+    "duration": 3,
+    "text": "如果再配上漢堡薯條等油炸食物"
+  },
+  {
+    "sequence": 285,
+    "start": 927.8,
+    "duration": 3,
+    "text": "就可能熱量破表造成肥胖"
+  },
+  {
+    "sequence": 286,
+    "start": 930.8,
+    "duration": 2,
+    "text": "他如果還有足夠零用錢的時候"
+  },
+  {
+    "sequence": 287,
+    "start": 932.8,
+    "duration": 4,
+    "text": "他就會去旁邊買一杯某某品牌的飲料"
+  },
+  {
+    "sequence": 288,
+    "start": 936.8,
+    "duration": 3,
+    "text": "含糖飲料可能比較嚴重一點"
+  },
+  {
+    "sequence": 289,
+    "start": 939.8,
+    "duration": 2,
+    "text": "只要有機會他就會想要喝"
+  },
+  {
+    "sequence": 290,
+    "start": 941.8,
+    "duration": 2,
+    "text": "醫師表示國人十大死因中"
+  },
+  {
+    "sequence": 291,
+    "start": 943.8,
+    "duration": 2,
+    "text": "有八項是與肥胖有關"
+  },
+  {
+    "sequence": 292,
+    "start": 945.8,
+    "duration": 2,
+    "text": "而且大多是從小吃出來的"
+  },
+  {
+    "sequence": 293,
+    "start": 947.8,
+    "duration": 3,
+    "text": "根據教育部發佈一百一十二學年度"
+  },
+  {
+    "sequence": 294,
+    "start": 950.8,
+    "duration": 2,
+    "text": "學生健康檢查資料顯示"
+  },
+  {
+    "sequence": 295,
+    "start": 952.8,
+    "duration": 4,
+    "text": "全臺國小國中學童體重過重及肥胖盛行率"
+  },
+  {
+    "sequence": 296,
+    "start": 956.8,
+    "duration": 3,
+    "text": "平均每四位學童就有一位過重或肥胖"
+  },
+  {
+    "sequence": 297,
+    "start": 959.8,
+    "duration": 2,
+    "text": "醫師提醒醫界研究已經證實"
+  },
+  {
+    "sequence": 298,
+    "start": 961.8,
+    "duration": 2,
+    "text": "肥胖不只是身體問題"
+  },
+  {
+    "sequence": 299,
+    "start": 963.8,
+    "duration": 3,
+    "text": "還會讓注意力不集中刺激性早熟"
+  },
+  {
+    "sequence": 300,
+    "start": 966.8,
+    "duration": 3,
+    "text": "增加糖尿病風險甚至罹患癌症"
+  },
+  {
+    "sequence": 301,
+    "start": 969.8,
+    "duration": 3,
+    "text": "兒童肥胖已經成為另一種國安危機"
+  },
+  {
+    "sequence": 302,
+    "start": 973.8,
+    "duration": 1,
+    "text": "除了一些代謝性疾病"
+  },
+  {
+    "sequence": 303,
+    "start": 974.8,
+    "duration": 2,
+    "text": "尤其是糖尿病高血壓的風險"
+  },
+  {
+    "sequence": 304,
+    "start": 976.8,
+    "duration": 2,
+    "text": "以及可能甚至在癌症的風險上"
+  },
+  {
+    "sequence": 305,
+    "start": 978.8,
+    "duration": 2,
+    "text": "也會比一般在小時候"
+  },
+  {
+    "sequence": 306,
+    "start": 980.8,
+    "duration": 2,
+    "text": "就是正常體重的族群會來得更高"
+  },
+  {
+    "sequence": 307,
+    "start": 982.8,
+    "duration": 18,
+    "text": "此外醫師也指出學童如果體重過重"
+  },
+  {
+    "sequence": 308,
+    "start": 1000.8,
+    "duration": 2,
+    "text": "容易自卑或成為被霸凌對象"
+  },
+  {
+    "sequence": 309,
+    "start": 1002.8,
+    "duration": 2,
+    "text": "臨床上有不少因此情緒憂鬱"
+  },
+  {
+    "sequence": 310,
+    "start": 1004.8,
+    "duration": 2,
+    "text": "倒申心科門診治療"
+  },
+  {
+    "sequence": 311,
+    "start": 1006.8,
+    "duration": 2,
+    "text": "而國健署則是強調"
+  },
+  {
+    "sequence": 312,
+    "start": 1008.8,
+    "duration": 3,
+    "text": "已經與教育部簽署健康促進學校計畫"
+  },
+  {
+    "sequence": 313,
+    "start": 1011.8,
+    "duration": 3,
+    "text": "從校園結合家庭力量宣導均衡飲食"
+  },
+  {
+    "sequence": 314,
+    "start": 1014.8,
+    "duration": 2,
+    "text": "並養成運動習慣"
+  },
+  {
+    "sequence": 315,
+    "start": 1016.8,
+    "duration": 3,
+    "text": "鼓勵學童儘量以白開水取代含糖飲料"
+  },
+  {
+    "sequence": 316,
+    "start": 1019.8,
+    "duration": 2,
+    "text": "減少糖分攝取"
+  },
+  {
+    "sequence": 317,
+    "start": 1021.8,
+    "duration": 2,
+    "text": "公視新聞賴淑美陳昌維她報導"
+  },
+  {
+    "sequence": 318,
+    "start": 1023.8,
+    "duration": 7,
+    "text": "許多人對於胃痛消化不良都不以為益"
+  },
+  {
+    "sequence": 319,
+    "start": 1030.8,
+    "duration": 2,
+    "text": "不過醫師提醒"
+  },
+  {
+    "sequence": 320,
+    "start": 1032.8,
+    "duration": 5,
+    "text": "有可能是感染了幽悶螺旋桿菌"
+  },
+  {
+    "sequence": 321,
+    "start": 1037.8,
+    "duration": 5,
+    "text": "如果不治療恐怕會釀成胃癌"
+  },
+  {
+    "sequence": 322,
+    "start": 1042.8,
+    "duration": 5,
+    "text": "此外家庭共餐也可能會相互感染"
+  },
+  {
+    "sequence": 323,
+    "start": 1047.8,
+    "duration": 4,
+    "text": "建議同住家人也要一併做篩檢"
+  },
+  {
+    "sequence": 324,
+    "start": 1051.8,
+    "duration": 8,
+    "text": "胃癌是2024年國人十大癌症死因排名第八位"
+  },
+  {
+    "sequence": 325,
+    "start": 1059.8,
+    "duration": 3,
+    "text": "有兩千多人因為胃癌而死亡"
+  },
+  {
+    "sequence": 326,
+    "start": 1062.8,
+    "duration": 4,
+    "text": "過去很多人認為罹患胃癌是因為愛吃燒烤及加工食品"
+  },
+  {
+    "sequence": 327,
+    "start": 1066.8,
+    "duration": 3,
+    "text": "但近年來醫界研究證實主要關鍵原因"
+  },
+  {
+    "sequence": 328,
+    "start": 1069.8,
+    "duration": 3,
+    "text": "跟胃部感染幽悶螺旋桿菌有關"
+  },
+  {
+    "sequence": 329,
+    "start": 1086.8,
+    "duration": 2,
+    "text": "醫師表示胃癌成因複雜"
+  },
+  {
+    "sequence": 330,
+    "start": 1088.8,
+    "duration": 5,
+    "text": "不過研究發現九成胃癌患者曾經驗出幽悶螺旋桿菌"
+  },
+  {
+    "sequence": 331,
+    "start": 1093.8,
+    "duration": 2,
+    "text": "而國健署統計也發現"
+  },
+  {
+    "sequence": 332,
+    "start": 1095.8,
+    "duration": 4,
+    "text": "幽悶螺旋桿菌感染後約有九成患者會出現慢性胃炎"
+  },
+  {
+    "sequence": 333,
+    "start": 1099.8,
+    "duration": 3,
+    "text": "但很多人胃痛消化不良都不以為益"
+  },
+  {
+    "sequence": 334,
+    "start": 1102.8,
+    "duration": 4,
+    "text": "約有一成會發生胃潰瘍或蛇脂腸潰瘍"
+  },
+  {
+    "sequence": 335,
+    "start": 1106.8,
+    "duration": 3,
+    "text": "另外有1%~4%會罹患胃癌"
+  },
+  {
+    "sequence": 336,
+    "start": 1109.8,
+    "duration": 3,
+    "text": "其胃癌風險是胃感染者的六倍"
+  },
+  {
+    "sequence": 337,
+    "start": 1112.8,
+    "duration": 1,
+    "text": "醫師提醒"
+  },
+  {
+    "sequence": 338,
+    "start": 1113.8,
+    "duration": 4,
+    "text": "即使完成治療仍可能透過家庭共餐再度感染"
+  },
+  {
+    "sequence": 339,
+    "start": 1117.8,
+    "duration": 2,
+    "text": "建議同住家人應一併篩檢"
+  },
+  {
+    "sequence": 340,
+    "start": 1119.8,
+    "duration": 3,
+    "text": "如果家中的一個成員有幽悶桿菌感染"
+  },
+  {
+    "sequence": 341,
+    "start": 1122.8,
+    "duration": 3,
+    "text": "其他成員其實都暴露在這個風險裡面"
+  },
+  {
+    "sequence": 342,
+    "start": 1125.8,
+    "duration": 2,
+    "text": "最應該篩檢的尤其是配偶"
+  },
+  {
+    "sequence": 343,
+    "start": 1127.8,
+    "duration": 2,
+    "text": "通常夫妻雙方的口水接觸是最多的"
+  },
+  {
+    "sequence": 344,
+    "start": 1129.8,
+    "duration": 4,
+    "text": "醫師指出有胃癌家族史長期吸菸飲酒"
+  },
+  {
+    "sequence": 345,
+    "start": 1133.8,
+    "duration": 2,
+    "text": "偏好菸刺加工及高炎飲食者"
+  },
+  {
+    "sequence": 346,
+    "start": 1135.8,
+    "duration": 2,
+    "text": "都是胃癌高風險族群"
+  },
+  {
+    "sequence": 347,
+    "start": 1137.8,
+    "duration": 2,
+    "text": "建議及早檢測"
+  },
+  {
+    "sequence": 348,
+    "start": 1139.8,
+    "duration": 2,
+    "text": "並治療根除幽悶螺旋桿菌"
+  },
+  {
+    "sequence": 349,
+    "start": 1141.8,
+    "duration": 3,
+    "text": "以降低日後罹患胃癌的發生率"
+  },
+  {
+    "sequence": 350,
+    "start": 1144.8,
+    "duration": 3,
+    "text": "公視新聞賴淑敏陳昌維報導"
+  },
+  {
+    "sequence": 351,
+    "start": 1147.8,
+    "duration": 4,
+    "text": "臺北市東元國小哨棒隊"
+  },
+  {
+    "sequence": 352,
+    "start": 1151.8,
+    "duration": 4,
+    "text": "代表臺灣參加威廉波特世界哨棒錦標賽"
+  },
+  {
+    "sequence": 353,
+    "start": 1155.8,
+    "duration": 3,
+    "text": "抱回了總冠軍"
+  },
+  {
+    "sequence": 354,
+    "start": 1158.8,
+    "duration": 6,
+    "text": "而其中投手林靜澤展現二刀流實力"
+  },
+  {
+    "sequence": 355,
+    "start": 1164.8,
+    "duration": 2,
+    "text": "在投打都有亮眼表現"
+  },
+  {
+    "sequence": 356,
+    "start": 1166.8,
+    "duration": 3,
+    "text": "總教練賴敏南賽後哽咽表示"
+  },
+  {
+    "sequence": 357,
+    "start": 1169.8,
+    "duration": 4,
+    "text": "帶領東元哨棒三十多年五度參賽"
+  },
+  {
+    "sequence": 358,
+    "start": 1173.8,
+    "duration": 3,
+    "text": "終於奪下冠軍"
+  },
+  {
+    "sequence": 359,
+    "start": 1176.8,
+    "duration": 7,
+    "text": "稍微投進來"
+  },
+  {
+    "sequence": 360,
+    "start": 1183.8,
+    "duration": 1,
+    "text": "一個飛球"
+  },
+  {
+    "sequence": 361,
+    "start": 1184.8,
+    "duration": 2,
+    "text": "有機會了"
+  },
+  {
+    "sequence": 362,
+    "start": 1186.8,
+    "duration": 2,
+    "text": "接得上"
+  },
+  {
+    "sequence": 363,
+    "start": 1188.8,
+    "duration": 1,
+    "text": "比賽結束"
+  },
+  {
+    "sequence": 364,
+    "start": 1189.8,
+    "duration": 2,
+    "text": "世界冠軍"
+  },
+  {
+    "sequence": 365,
+    "start": 1191.8,
+    "duration": 1,
+    "text": "關鍵再見皆殺"
+  },
+  {
+    "sequence": 366,
+    "start": 1192.8,
+    "duration": 1,
+    "text": "臺灣小將贏了"
+  },
+  {
+    "sequence": 367,
+    "start": 1193.8,
+    "duration": 2,
+    "text": "奪冠瞬間緊緊相擁"
+  },
+  {
+    "sequence": 368,
+    "start": 1195.8,
+    "duration": 2,
+    "text": "來自臺北市的東元國小哨棒隊"
+  },
+  {
+    "sequence": 369,
+    "start": 1197.8,
+    "duration": 3,
+    "text": "征戰威廉波特世界哨棒錦標賽"
+  },
+  {
+    "sequence": 370,
+    "start": 1200.8,
+    "duration": 2,
+    "text": "派出投手陳啟勝成功關門"
+  },
+  {
+    "sequence": 371,
+    "start": 1202.8,
+    "duration": 2,
+    "text": "臺灣奪下總冠軍"
+  },
+  {
+    "sequence": 372,
+    "start": 1204.8,
+    "duration": 1,
+    "text": "都是你們在帥"
+  },
+  {
+    "sequence": 373,
+    "start": 1205.8,
+    "duration": 3,
+    "text": "我都沒有帥到"
+  },
+  {
+    "sequence": 374,
+    "start": 1208.8,
+    "duration": 1,
+    "text": "我只是上來帥一下而已"
+  },
+  {
+    "sequence": 375,
+    "start": 1209.8,
+    "duration": 3,
+    "text": "這場冠軍賽這一幕成為焦點"
+  },
+  {
+    "sequence": 376,
+    "start": 1212.8,
+    "duration": 3,
+    "text": "教練在六局上關鍵時刻突然喊出暫停"
+  },
+  {
+    "sequence": 377,
+    "start": 1215.8,
+    "duration": 1,
+    "text": "走上投手球"
+  },
+  {
+    "sequence": 378,
+    "start": 1216.8,
+    "duration": 3,
+    "text": "以幽默對話讓原本神情緊繃的球員"
+  },
+  {
+    "sequence": 379,
+    "start": 1219.8,
+    "duration": 1,
+    "text": "露出微笑"
+  },
+  {
+    "sequence": 380,
+    "start": 1220.8,
+    "duration": 3,
+    "text": "隊友也幫投手按摩彼此打氣"
+  },
+  {
+    "sequence": 381,
+    "start": 1223.8,
+    "duration": 2,
+    "text": "那時候已經講出去要接近要拿冠軍了"
+  },
+  {
+    "sequence": 382,
+    "start": 1225.8,
+    "duration": 3,
+    "text": "我有感覺出來選手還是蠻緊張的"
+  },
+  {
+    "sequence": 383,
+    "start": 1228.8,
+    "duration": 2,
+    "text": "所以我就想說上去喊個暫停"
+  },
+  {
+    "sequence": 384,
+    "start": 1230.8,
+    "duration": 2,
+    "text": "但是我都不要提比賽的事情"
+  },
+  {
+    "sequence": 385,
+    "start": 1232.8,
+    "duration": 3,
+    "text": "我就是稍微先轉一下他們的注意力"
+  },
+  {
+    "sequence": 386,
+    "start": 1235.8,
+    "duration": 3,
+    "text": "臺灣小將獲冠斬將屢戰屢勝後"
+  },
+  {
+    "sequence": 387,
+    "start": 1238.8,
+    "duration": 1,
+    "text": "信心倍增"
+  },
+  {
+    "sequence": 388,
+    "start": 1239.8,
+    "duration": 1,
+    "text": "冠軍戰強碰地主"
+  },
+  {
+    "sequence": 389,
+    "start": 1240.8,
+    "duration": 2,
+    "text": "美國組冠軍山區內華雜奏隊"
+  },
+  {
+    "sequence": 390,
+    "start": 1242.8,
+    "duration": 2,
+    "text": "也無所畏懼"
+  },
+  {
+    "sequence": 391,
+    "start": 1244.8,
+    "duration": 2,
+    "text": "安打盜壘美濟連發"
+  },
+  {
+    "sequence": 392,
+    "start": 1246.8,
+    "duration": 1,
+    "text": "也讓對手失誤爆頭"
+  },
+  {
+    "sequence": 393,
+    "start": 1247.8,
+    "duration": 2,
+    "text": "這一仗打得漂亮"
+  },
+  {
+    "sequence": 394,
+    "start": 1249.8,
+    "duration": 3,
+    "text": "由其投手林靜澤發揮二道流身手"
+  },
+  {
+    "sequence": 395,
+    "start": 1255.8,
+    "duration": 1,
+    "text": "敲出一記三壘安打"
+  },
+  {
+    "sequence": 396,
+    "start": 1256.8,
+    "duration": 2,
+    "text": "一口氣輕淚先發主投五局"
+  },
+  {
+    "sequence": 397,
+    "start": 1258.8,
+    "duration": 1,
+    "text": "更是零失分"
+  },
+  {
+    "sequence": 398,
+    "start": 1259.8,
+    "duration": 2,
+    "text": "首戰隊上墨西哥"
+  },
+  {
+    "sequence": 399,
+    "start": 1261.8,
+    "duration": 3,
+    "text": "甚至曾標出超過82英里的快速球"
+  },
+  {
+    "sequence": 400,
+    "start": 1264.8,
+    "duration": 3,
+    "text": "連外媒都高度關注真相報導"
+  },
+  {
+    "sequence": 401,
+    "start": 1267.8,
+    "duration": 3,
+    "text": "就這樣的時候把球投進去就"
+  },
+  {
+    "sequence": 402,
+    "start": 1270.8,
+    "duration": 2,
+    "text": "謝謝隊友"
+  },
+  {
+    "sequence": 403,
+    "start": 1272.8,
+    "duration": 3,
+    "text": "幫我守下那麼多球"
+  },
+  {
+    "sequence": 404,
+    "start": 1275.8,
+    "duration": 1,
+    "text": "不想要謝謝大聯盟"
+  },
+  {
+    "sequence": 405,
+    "start": 1276.8,
+    "duration": 2,
+    "text": "林靜澤這次出賽"
+  },
+  {
+    "sequence": 406,
+    "start": 1278.8,
+    "duration": 2,
+    "text": "在球速與控球都展現高水準"
+  },
+  {
+    "sequence": 407,
+    "start": 1280.8,
+    "duration": 2,
+    "text": "儘管小小年紀目標"
+  },
+  {
+    "sequence": 408,
+    "start": 1282.8,
+    "duration": 2,
+    "text": "已經確定要朝大聯盟邁進"
+  },
+  {
+    "sequence": 409,
+    "start": 1284.8,
+    "duration": 3,
+    "text": "而總教練賴敏南賽後更哽咽地說"
+  },
+  {
+    "sequence": 410,
+    "start": 1287.8,
+    "duration": 3,
+    "text": "帶領東元哨棒30多年五度挑戰"
+  },
+  {
+    "sequence": 411,
+    "start": 1290.8,
+    "duration": 1,
+    "text": "如今終於圓夢"
+  },
+  {
+    "sequence": 412,
+    "start": 1291.8,
+    "duration": 2,
+    "text": "我在東元任教了32年"
+  },
+  {
+    "sequence": 413,
+    "start": 1293.8,
+    "duration": 4,
+    "text": "那麼也歷經了好幾次來挑戰這個比賽"
+  },
+  {
+    "sequence": 414,
+    "start": 1297.8,
+    "duration": 2,
+    "text": "那麼今年我們也不如死命"
+  },
+  {
+    "sequence": 415,
+    "start": 1299.8,
+    "duration": 3,
+    "text": "自己也算感動到哽咽一下啦"
+  },
+  {
+    "sequence": 416,
+    "start": 1302.8,
+    "duration": 2,
+    "text": "那當然也希望說"
+  },
+  {
+    "sequence": 417,
+    "start": 1304.8,
+    "duration": 5,
+    "text": "難得的冠軍等於說把這個喜悅也送給自己"
+  },
+  {
+    "sequence": 418,
+    "start": 1309.8,
+    "duration": 3,
+    "text": "威廉波特哨棒賽從1947年舉辦"
+  },
+  {
+    "sequence": 419,
+    "start": 1312.8,
+    "duration": 2,
+    "text": "台灣可說是長勝軍"
+  },
+  {
+    "sequence": 420,
+    "start": 1314.8,
+    "duration": 3,
+    "text": "最後一次奪冠已是1996年"
+  },
+  {
+    "sequence": 421,
+    "start": 1317.8,
+    "duration": 1,
+    "text": "因為組隊問題"
+  },
+  {
+    "sequence": 422,
+    "start": 1318.8,
+    "duration": 2,
+    "text": "曾經退出世界哨棒聯盟"
+  },
+  {
+    "sequence": 423,
+    "start": 1320.8,
+    "duration": 3,
+    "text": "在重返賽事後這回再度扣關"
+  },
+  {
+    "sequence": 424,
+    "start": 1323.8,
+    "duration": 2,
+    "text": "睽違29年東元國校哨棒隊"
+  },
+  {
+    "sequence": 425,
+    "start": 1325.8,
+    "duration": 2,
+    "text": "為台灣再度報回冠軍金杯"
+  },
+  {
+    "sequence": 426,
+    "start": 1327.8,
+    "duration": 1,
+    "text": "同時新聞"
+  },
+  {
+    "sequence": 427,
+    "start": 1328.8,
+    "duration": 5,
+    "text": "美國總統川普"
+  },
+  {
+    "sequence": 428,
+    "start": 1333.8,
+    "duration": 2,
+    "text": "台灣時間今天凌晨"
+  },
+  {
+    "sequence": 429,
+    "start": 1335.8,
+    "duration": 4,
+    "text": "在白宮接待南韓總統李在民"
+  },
+  {
+    "sequence": 430,
+    "start": 1339.8,
+    "duration": 2,
+    "text": "展開雙邊首次會談"
+  },
+  {
+    "sequence": 431,
+    "start": 1342.8,
+    "duration": 2,
+    "text": "而面對記者提問"
+  },
+  {
+    "sequence": 432,
+    "start": 1344.8,
+    "duration": 3,
+    "text": "川普說希望今年能夠再度跟"
+  },
+  {
+    "sequence": 433,
+    "start": 1347.8,
+    "duration": 3,
+    "text": "北韓領導人金正恩會面"
+  },
+  {
+    "sequence": 434,
+    "start": 1350.8,
+    "duration": 17,
+    "text": "美國總統川普在橢圓形辦公室"
+  },
+  {
+    "sequence": 435,
+    "start": 1367.8,
+    "duration": 2,
+    "text": "與南韓總統李在民會面"
+  },
+  {
+    "sequence": 436,
+    "start": 1369.8,
+    "duration": 2,
+    "text": "南韓在某些條款上有保留"
+  },
+  {
+    "sequence": 437,
+    "start": 1371.8,
+    "duration": 2,
+    "text": "但美方沒有讓步太多"
+  },
+  {
+    "sequence": 438,
+    "start": 1373.8,
+    "duration": 2,
+    "text": "會中川普突然提到"
+  },
+  {
+    "sequence": 439,
+    "start": 1375.8,
+    "duration": 2,
+    "text": "北韓領導人金正恩"
+  },
+  {
+    "sequence": 440,
+    "start": 1377.8,
+    "duration": 10,
+    "text": "川普在跟李在民會晤前"
+  },
+  {
+    "sequence": 441,
+    "start": 1387.8,
+    "duration": 2,
+    "text": "與社群媒體貼文表示"
+  },
+  {
+    "sequence": 442,
+    "start": 1389.8,
+    "duration": 3,
+    "text": "南韓處於清洗或革命之中"
+  },
+  {
+    "sequence": 443,
+    "start": 1392.8,
+    "duration": 2,
+    "text": "不能容忍在那種情況下"
+  },
+  {
+    "sequence": 444,
+    "start": 1394.8,
+    "duration": 1,
+    "text": "在當地做生意"
+  },
+  {
+    "sequence": 445,
+    "start": 1395.8,
+    "duration": 3,
+    "text": "但在白宮與李在民正式會談時"
+  },
+  {
+    "sequence": 446,
+    "start": 1398.8,
+    "duration": 1,
+    "text": "有所收斂"
+  },
+  {
+    "sequence": 447,
+    "start": 1399.8,
+    "duration": 2,
+    "text": "表示那可能是誤會"
+  },
+  {
+    "sequence": 448,
+    "start": 1401.8,
+    "duration": 2,
+    "text": "李在民也釋出善意以幽默化解"
+  },
+  {
+    "sequence": 449,
+    "start": 1403.8,
+    "duration": 13,
+    "text": "雙方7月達成的貿易協議中"
+  },
+  {
+    "sequence": 450,
+    "start": 1416.8,
+    "duration": 2,
+    "text": "讓南韓出口到美國的貨品"
+  },
+  {
+    "sequence": 451,
+    "start": 1418.8,
+    "duration": 3,
+    "text": "得以避免更嚴厲的關稅懲罰"
+  },
+  {
+    "sequence": 452,
+    "start": 1421.8,
+    "duration": 1,
+    "text": "但雙方之間"
+  },
+  {
+    "sequence": 453,
+    "start": 1422.8,
+    "duration": 2,
+    "text": "在民用核能領域的技術"
+  },
+  {
+    "sequence": 454,
+    "start": 1424.8,
+    "duration": 2,
+    "text": "資金或政策上的合作"
+  },
+  {
+    "sequence": 455,
+    "start": 1426.8,
+    "duration": 3,
+    "text": "駐韓美軍費用分擔"
+  },
+  {
+    "sequence": 456,
+    "start": 1429.8,
+    "duration": 1,
+    "text": "南韓在軍事上財政存單"
+  },
+  {
+    "sequence": 457,
+    "start": 1430.8,
+    "duration": 2,
+    "text": "談判框架中包含南韓承諾"
+  },
+  {
+    "sequence": 458,
+    "start": 1432.8,
+    "duration": 3,
+    "text": "在美國投資3500億美元"
+  },
+  {
+    "sequence": 459,
+    "start": 1435.8,
+    "duration": 2,
+    "text": "細節仍在協商中"
+  },
+  {
+    "sequence": 460,
+    "start": 1437.8,
+    "duration": 2,
+    "text": "公視新聞黃玉仁編譯"
+  },
+  {
+    "sequence": 461,
+    "start": 1439.8,
+    "duration": 2,
+    "text": "颱風劍雨"
+  },
+  {
+    "sequence": 462,
+    "start": 1441.8,
+    "duration": 2,
+    "text": "在通過中國海南島之後"
+  },
+  {
+    "sequence": 463,
+    "start": 1443.8,
+    "duration": 3,
+    "text": "繼續向越南前進"
+  },
+  {
+    "sequence": 464,
+    "start": 1446.8,
+    "duration": 2,
+    "text": "而它所到之處"
+  },
+  {
+    "sequence": 465,
+    "start": 1448.8,
+    "duration": 2,
+    "text": "帶來了強風暴雨"
+  },
+  {
+    "sequence": 466,
+    "start": 1450.8,
+    "duration": 2,
+    "text": "還有嚴重的淹水"
+  },
+  {
+    "sequence": 467,
+    "start": 1454.8,
+    "duration": 2,
+    "text": "淹海樹木在強風吹襲下"
+  },
+  {
+    "sequence": 468,
+    "start": 1456.8,
+    "duration": 1,
+    "text": "已經呈現青島狀態"
+  },
+  {
+    "sequence": 469,
+    "start": 1457.8,
+    "duration": 2,
+    "text": "巨浪不停拍打岸邊"
+  },
+  {
+    "sequence": 470,
+    "start": 1459.8,
+    "duration": 3,
+    "text": "海水甚至已經淹沒部分道路"
+  },
+  {
+    "sequence": 471,
+    "start": 1462.8,
+    "duration": 2,
+    "text": "市區有路數承受不住強風"
+  },
+  {
+    "sequence": 472,
+    "start": 1464.8,
+    "duration": 1,
+    "text": "倒在路上"
+  },
+  {
+    "sequence": 473,
+    "start": 1465.8,
+    "duration": 2,
+    "text": "鑒於颱風侵襲越南"
+  },
+  {
+    "sequence": 474,
+    "start": 1467.8,
+    "duration": 2,
+    "text": "25號下午4點多已經登陸"
+  },
+  {
+    "sequence": 475,
+    "start": 1469.8,
+    "duration": 3,
+    "text": "強風時速高達118到133公里"
+  },
+  {
+    "sequence": 476,
+    "start": 1472.8,
+    "duration": 1,
+    "text": "還帶來暴雨"
+  },
+  {
+    "sequence": 477,
+    "start": 1473.8,
+    "duration": 2,
+    "text": "讓當地居民直呼可怕"
+  },
+  {
+    "sequence": 478,
+    "start": 1475.8,
+    "duration": 2,
+    "text": "是一種恐怖的事"
+  },
+  {
+    "sequence": 479,
+    "start": 1477.8,
+    "duration": 1,
+    "text": "現在我走進去"
+  },
+  {
+    "sequence": 480,
+    "start": 1478.8,
+    "duration": 2,
+    "text": "有些人看著海邊"
+  },
+  {
+    "sequence": 481,
+    "start": 1480.8,
+    "duration": 3,
+    "text": "海邊有兩公尺的海洋"
+  },
+  {
+    "sequence": 482,
+    "start": 1483.8,
+    "duration": 2,
+    "text": "現在海邊在淹陷"
+  },
+  {
+    "sequence": 483,
+    "start": 1485.8,
+    "duration": 2,
+    "text": "這件事是非常恐怖的"
+  },
+  {
+    "sequence": 484,
+    "start": 1487.8,
+    "duration": 3,
+    "text": "當時還沒有通報"
+  },
+  {
+    "sequence": 485,
+    "start": 1490.8,
+    "duration": 1,
+    "text": "現在還有五十六個小時"
+  },
+  {
+    "sequence": 486,
+    "start": 1491.8,
+    "duration": 1,
+    "text": "還沒有通報"
+  },
+  {
+    "sequence": 487,
+    "start": 1492.8,
+    "duration": 2,
+    "text": "越南已疏散近六十萬人"
+  },
+  {
+    "sequence": 488,
+    "start": 1494.8,
+    "duration": 2,
+    "text": "除了沿海的河境省"
+  },
+  {
+    "sequence": 489,
+    "start": 1496.8,
+    "duration": 1,
+    "text": "還有中部數個省"
+  },
+  {
+    "sequence": 490,
+    "start": 1497.8,
+    "duration": 1,
+    "text": "也被下令疏散"
+  },
+  {
+    "sequence": 491,
+    "start": 1498.8,
+    "duration": 1,
+    "text": "劍雨是今年"
+  },
+  {
+    "sequence": 492,
+    "start": 1499.8,
+    "duration": 2,
+    "text": "至今最強颱風之一"
+  },
+  {
+    "sequence": 493,
+    "start": 1501.8,
+    "duration": 2,
+    "text": "短短兩天從熱帶低壓"
+  },
+  {
+    "sequence": 494,
+    "start": 1503.8,
+    "duration": 1,
+    "text": "急速增強為強颱"
+  },
+  {
+    "sequence": 495,
+    "start": 1504.8,
+    "duration": 2,
+    "text": "當局部署三十五萬兵力待命"
+  },
+  {
+    "sequence": 496,
+    "start": 1506.8,
+    "duration": 3,
+    "text": "預防颱風可能帶來的災情"
+  },
+  {
+    "sequence": 497,
+    "start": 1509.8,
+    "duration": 1,
+    "text": "當地傳出一名男子"
+  },
+  {
+    "sequence": 498,
+    "start": 1510.8,
+    "duration": 2,
+    "text": "在加固屋頂時觸電身亡"
+  },
+  {
+    "sequence": 499,
+    "start": 1512.8,
+    "duration": 4,
+    "text": "當局警告山區恐有山洪和土石流"
+  },
+  {
+    "sequence": 500,
+    "start": 1516.8,
+    "duration": 4,
+    "text": "救援人員清理整排被吹倒的路數"
+  },
+  {
+    "sequence": 501,
+    "start": 1520.8,
+    "duration": 2,
+    "text": "有些還橫躺在路中央"
+  },
+  {
+    "sequence": 502,
+    "start": 1522.8,
+    "duration": 2,
+    "text": "機車騎士只能繞道而行"
+  },
+  {
+    "sequence": 503,
+    "start": 1524.8,
+    "duration": 2,
+    "text": "劍雨在侵襲越南前"
+  },
+  {
+    "sequence": 504,
+    "start": 1526.8,
+    "duration": 2,
+    "text": "已經掠過中國海南省"
+  },
+  {
+    "sequence": 505,
+    "start": 1528.8,
+    "duration": 1,
+    "text": "造成多處道路封閉"
+  },
+  {
+    "sequence": 506,
+    "start": 1529.8,
+    "duration": 2,
+    "text": "水電與通訊中斷"
+  },
+  {
+    "sequence": 507,
+    "start": 1531.8,
+    "duration": 1,
+    "text": "氣象專家指出"
+  },
+  {
+    "sequence": 508,
+    "start": 1532.8,
+    "duration": 2,
+    "text": "劍雨後續將往遼國"
+  },
+  {
+    "sequence": 509,
+    "start": 1534.8,
+    "duration": 1,
+    "text": "與泰國北部前進"
+  },
+  {
+    "sequence": 510,
+    "start": 1535.8,
+    "duration": 3,
+    "text": "鎖建地區需嚴防暴雨與山洪"
+  },
+  {
+    "sequence": 511,
+    "start": 1538.8,
+    "duration": 1,
+    "text": "去年的摩羯颱風"
+  },
+  {
+    "sequence": 512,
+    "start": 1539.8,
+    "duration": 2,
+    "text": "奪走超過三百條人命"
+  },
+  {
+    "sequence": 513,
+    "start": 1541.8,
+    "duration": 2,
+    "text": "專家提醒氣候變遷"
+  },
+  {
+    "sequence": 514,
+    "start": 1543.8,
+    "duration": 2,
+    "text": "使極端颱風生成的速度更快"
+  },
+  {
+    "sequence": 515,
+    "start": 1545.8,
+    "duration": 2,
+    "text": "災難防範刻不容緩"
+  },
+  {
+    "sequence": 516,
+    "start": 1547.8,
+    "duration": 2,
+    "text": "公司新聞這位忍別意"
+  },
+  {
+    "sequence": 517,
+    "start": 1571.8,
+    "duration": 3,
+    "text": "感謝您收看這一節的公視手語新聞"
+  },
+  {
+    "sequence": 518,
+    "start": 1574.8,
+    "duration": 1,
+    "text": "我是王小舒"
+  },
+  {
+    "sequence": 519,
+    "start": 1575.8,
+    "duration": 2,
+    "text": "明天同一時間再會"
+  },
+  {
+    "sequence": 520,
+    "start": 1601.8,
+    "duration": 18,
+    "text": "請不吝點贊訂閱轉發打賞支持明鏡與點點欄目"
   }
 ]

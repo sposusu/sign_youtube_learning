@@ -1,92 +1,2684 @@
 [
   {
-    "start": 3,
+    "sequence": 1,
+    "start": 0,
+    "duration": 12,
+    "text": "[音樂]"
+  },
+  {
+    "sequence": 2,
+    "start": 12,
     "duration": 2,
-    "text": "各位觀眾大家好",
-    "hasSignLanguage": false
+    "text": "看新聞 開視野"
   },
   {
-    "start": 5.2,
-    "duration": 2.5,
-    "text": "歡迎收看公視手語新聞",
-    "hasSignLanguage": false
+    "sequence": 3,
+    "start": 14,
+    "duration": 5,
+    "text": "歡迎收看今天9月3號的公視手語新聞"
   },
   {
-    "start": 7.9,
+    "sequence": 4,
+    "start": 19,
     "duration": 2,
-    "text": "我是手語主播",
-    "hasSignLanguage": false
+    "text": "首先來關心"
   },
   {
-    "start": 10.100000000000001,
-    "duration": 2.5,
-    "text": "今天是2025年9月8日 星期一",
-    "hasSignLanguage": false
+    "sequence": 5,
+    "start": 21,
+    "duration": 3,
+    "text": "今天是九三軍人節"
   },
   {
-    "start": 12.8,
+    "sequence": 6,
+    "start": 24,
+    "duration": 5,
+    "text": "總統賴清德昨天出席國軍表揚大會"
+  },
+  {
+    "sequence": 7,
+    "start": 29,
+    "duration": 5,
+    "text": "針對在台海前線作戰的部隊頒發獎項"
+  },
+  {
+    "sequence": 8,
+    "start": 34,
+    "duration": 3,
+    "text": "而面對中共身高兩岸情勢"
+  },
+  {
+    "sequence": 9,
+    "start": 37,
+    "duration": 3,
+    "text": "總統強調九二海戰"
+  },
+  {
+    "sequence": 10,
+    "start": 40,
+    "duration": 3,
+    "text": "以及八二三炮戰的勝利"
+  },
+  {
+    "sequence": 11,
+    "start": 43,
     "duration": 2,
-    "text": "今天為您報導的新聞有",
-    "hasSignLanguage": false
+    "text": "展現真正的和平"
   },
   {
-    "start": 15.3,
-    "duration": 1.5,
-    "text": "中共昨天舉行九三閱兵",
-    "hasSignLanguage": false
+    "sequence": 12,
+    "start": 45,
+    "duration": 4,
+    "text": "以及團結抵抗侵略的決心"
   },
   {
-    "start": 17.1,
-    "duration": 1.5,
-    "text": "俄羅斯總統蒲亭",
-    "hasSignLanguage": false
+    "sequence": 13,
+    "start": 49,
+    "duration": 7,
+    "text": "九三軍人節前夕"
   },
   {
-    "start": 18.9,
-    "duration": 1.5,
-    "text": "與北韓領導人金正恩會面",
-    "hasSignLanguage": false
+    "sequence": 14,
+    "start": 56,
+    "duration": 3,
+    "text": "總統賴清德二號親自出席國軍表揚大會"
   },
   {
-    "start": 20.7,
-    "duration": 1.5,
-    "text": "雙方表態將加強合作",
-    "hasSignLanguage": true
+    "sequence": 15,
+    "start": 59,
+    "duration": 3,
+    "text": "頒發國軍楷模等186個獎項"
   },
   {
-    "start": 22.5,
-    "duration": 1.5,
-    "text": "外界關注兩國關係發展",
-    "hasSignLanguage": true
+    "sequence": 16,
+    "start": 62,
+    "duration": 3,
+    "text": "包含許多在台海前線作戰的部隊"
   },
   {
-    "start": 24.3,
-    "duration": 1.5,
-    "text": "我國政府密切關注",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 26.1,
-    "duration": 1.5,
-    "text": "相關情勢變化",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 178.1116025618791,
-    "duration": 2.2,
-    "text": "以上就是今天的新聞",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 180.6116025618791,
+    "sequence": 17,
+    "start": 65,
     "duration": 2,
-    "text": "感謝您的收看",
-    "hasSignLanguage": false
+    "text": "激勵官兵士氣"
   },
   {
-    "start": 182.9116025618791,
-    "duration": 1.8,
-    "text": "我們下次見",
-    "hasSignLanguage": false
+    "sequence": 18,
+    "start": 67,
+    "duration": 2,
+    "text": "針對中共去年派出超過5000架次共機"
+  },
+  {
+    "sequence": 19,
+    "start": 69,
+    "duration": 2,
+    "text": "結合共艦繞台"
+  },
+  {
+    "sequence": 20,
+    "start": 71,
+    "duration": 3,
+    "text": "這次獲獎人員就有空軍的F-16V飛行員"
+  },
+  {
+    "sequence": 21,
+    "start": 74,
+    "duration": 2,
+    "text": "以及海軍越飛軍艦的官兵"
+  },
+  {
+    "sequence": 22,
+    "start": 76,
+    "duration": 4,
+    "text": "分享捍衛領空 守護海疆的經歷"
+  },
+  {
+    "sequence": 23,
+    "start": 80,
+    "duration": 6,
+    "text": "我們盡量就是以上級長官的指導"
+  },
+  {
+    "sequence": 24,
+    "start": 86,
+    "duration": 2,
+    "text": "他們會做廣播式的驅離"
+  },
+  {
+    "sequence": 25,
+    "start": 88,
+    "duration": 2,
+    "text": "那我們飛行員不會做任何的回應"
+  },
+  {
+    "sequence": 26,
+    "start": 90,
+    "duration": 4,
+    "text": "軍艦跟共艦的應處"
+  },
+  {
+    "sequence": 27,
+    "start": 94,
+    "duration": 5,
+    "text": "我們平常就是在船上訓練遊術"
+  },
+  {
+    "sequence": 28,
+    "start": 99,
+    "duration": 5,
+    "text": "所以就是按照艦上長官的指導來應對"
+  },
+  {
+    "sequence": 29,
+    "start": 104,
+    "duration": 3,
+    "text": "另外陸軍接裝地標最強戰車M1A2T"
+  },
+  {
+    "sequence": 30,
+    "start": 107,
+    "duration": 3,
+    "text": "赴美受訓的種子教官獲獎"
+  },
+  {
+    "sequence": 31,
+    "start": 110,
+    "duration": 3,
+    "text": "M1A2T即將成軍 象徵陸軍裝備轉型"
+  },
+  {
+    "sequence": 32,
+    "start": 113,
+    "duration": 3,
+    "text": "對於中共身高台海情勢緊張"
+  },
+  {
+    "sequence": 33,
+    "start": 116,
+    "duration": 3,
+    "text": "賴總統訓練時提到從二戰勝利"
+  },
+  {
+    "sequence": 34,
+    "start": 119,
+    "duration": 3,
+    "text": "到九二海戰以及八二三炮戰"
+  },
+  {
+    "sequence": 35,
+    "start": 122,
+    "duration": 4,
+    "text": "最寶貴的教訓就是團結必勝 侵略必敗"
+  },
+  {
+    "sequence": 36,
+    "start": 126,
+    "duration": 4,
+    "text": "九二海戰以及八二三炮戰的勝利"
+  },
+  {
+    "sequence": 37,
+    "start": 130,
+    "duration": 3,
+    "text": "更證明了真正的和平"
+  },
+  {
+    "sequence": 38,
+    "start": 133,
+    "duration": 4,
+    "text": "是來自於團結抵抗侵略的決心"
+  },
+  {
+    "sequence": 39,
+    "start": 137,
+    "duration": 2,
+    "text": "和堅強的實力"
+  },
+  {
+    "sequence": 40,
+    "start": 139,
+    "duration": 2,
+    "text": "至於中共將舉辦九三閱兵"
+  },
+  {
+    "sequence": 41,
+    "start": 141,
+    "duration": 2,
+    "text": "外界解讀有軍事擴張"
+  },
+  {
+    "sequence": 42,
+    "start": 143,
+    "duration": 2,
+    "text": "搶奪抗戰勝利話語權"
+  },
+  {
+    "sequence": 43,
+    "start": 145,
+    "duration": 2,
+    "text": "前陸軍司令李強舟強調"
+  },
+  {
+    "sequence": 44,
+    "start": 147,
+    "duration": 4,
+    "text": "抗戰勝利是扳倒共軍最好的歷史史實"
+  },
+  {
+    "sequence": 45,
+    "start": 151,
+    "duration": 8,
+    "text": "如果我們不強調公理正義的正當性"
+  },
+  {
+    "sequence": 46,
+    "start": 159,
+    "duration": 5,
+    "text": "國家的主權永遠不在我們的手上"
+  },
+  {
+    "sequence": 47,
+    "start": 189,
+    "duration": 5,
+    "text": "中共今天將要舉行抗戰勝利80週年閱兵"
+  },
+  {
+    "sequence": 48,
+    "start": 194,
+    "duration": 5,
+    "text": "雖然陸委會多次呼籲國人切勿參加"
+  },
+  {
+    "sequence": 49,
+    "start": 199,
+    "duration": 3,
+    "text": "但國民黨前主席洪秀柱證實"
+  },
+  {
+    "sequence": 50,
+    "start": 202,
+    "duration": 3,
+    "text": "已經抵達北京"
+  },
+  {
+    "sequence": 51,
+    "start": 205,
+    "duration": 2,
+    "text": "陸委會表示"
+  },
+  {
+    "sequence": 52,
+    "start": 207,
+    "duration": 4,
+    "text": "目前還不能夠判定是否違法"
+  },
+  {
+    "sequence": 53,
+    "start": 211,
+    "duration": 5,
+    "text": "但如果涉及跟中共黨政軍的合作行為"
+  },
+  {
+    "sequence": 54,
+    "start": 216,
+    "duration": 5,
+    "text": "就會依照兩岸條例的規定來裁罰"
+  },
+  {
+    "sequence": 55,
+    "start": 221,
+    "duration": 3,
+    "text": "國民黨方面則是澄清"
+  },
+  {
+    "sequence": 56,
+    "start": 224,
+    "duration": 4,
+    "text": "洪秀柱的身分不能代表國民黨"
+  },
+  {
+    "sequence": 57,
+    "start": 228,
+    "duration": 4,
+    "text": "而另外包括新黨主席吳承典"
+  },
+  {
+    "sequence": 58,
+    "start": 232,
+    "duration": 2,
+    "text": "副主席李勝峰等人"
+  },
+  {
+    "sequence": 59,
+    "start": 234,
+    "duration": 3,
+    "text": "也都受邀抵達北京"
+  },
+  {
+    "sequence": 60,
+    "start": 237,
+    "duration": 6,
+    "text": "中共9月3號將於天安門慶祝二戰80週年閱兵"
+  },
+  {
+    "sequence": 61,
+    "start": 243,
+    "duration": 3,
+    "text": "雖然陸委會多次提醒這是對岸想篡改歷史"
+  },
+  {
+    "sequence": 62,
+    "start": 246,
+    "duration": 3,
+    "text": "強化一中原則進一步消滅中華民國"
+  },
+  {
+    "sequence": 63,
+    "start": 249,
+    "duration": 2,
+    "text": "但國民黨前主席洪秀柱2號證實"
+  },
+  {
+    "sequence": 64,
+    "start": 251,
+    "duration": 2,
+    "text": "前一晚就已經到了北京"
+  },
+  {
+    "sequence": 65,
+    "start": 253,
+    "duration": 2,
+    "text": "強調自己曾任黨魁"
+  },
+  {
+    "sequence": 66,
+    "start": 255,
+    "duration": 2,
+    "text": "有責任延續這段抗戰精神"
+  },
+  {
+    "sequence": 67,
+    "start": 257,
+    "duration": 2,
+    "text": "表示歷史不能被遺忘"
+  },
+  {
+    "sequence": 68,
+    "start": 259,
+    "duration": 3,
+    "text": "若非當年國共合作也能保全中華民國"
+  },
+  {
+    "sequence": 69,
+    "start": 262,
+    "duration": 2,
+    "text": "比較遺憾他還是選擇前"
+  },
+  {
+    "sequence": 70,
+    "start": 264,
+    "duration": 3,
+    "text": "那麼因為洪秀柱曾經是立法院的副院長"
+  },
+  {
+    "sequence": 71,
+    "start": 267,
+    "duration": 2,
+    "text": "所以針對這一塊的話"
+  },
+  {
+    "sequence": 72,
+    "start": 269,
+    "duration": 3,
+    "text": "我們可能還要再跟相關的機關來去做研議"
+  },
+  {
+    "sequence": 73,
+    "start": 272,
+    "duration": 3,
+    "text": "然後涉及到相關的跟中共的這個黨政軍"
+  },
+  {
+    "sequence": 74,
+    "start": 275,
+    "duration": 1,
+    "text": "有一些進一步的合作行為"
+  },
+  {
+    "sequence": 75,
+    "start": 276,
+    "duration": 3,
+    "text": "那這個必須要等到整個情況發生了之後"
+  },
+  {
+    "sequence": 76,
+    "start": 279,
+    "duration": 2,
+    "text": "我們才能夠進一步的來去做研處"
+  },
+  {
+    "sequence": 77,
+    "start": 281,
+    "duration": 1,
+    "text": "對於洪秀柱是否違法"
+  },
+  {
+    "sequence": 78,
+    "start": 282,
+    "duration": 3,
+    "text": "陸委會表示還沒辦法蓋棺論定"
+  },
+  {
+    "sequence": 79,
+    "start": 285,
+    "duration": 1,
+    "text": "雖然藍營緊急切割"
+  },
+  {
+    "sequence": 80,
+    "start": 286,
+    "duration": 2,
+    "text": "強調前黨務人士的立場"
+  },
+  {
+    "sequence": 81,
+    "start": 288,
+    "duration": 2,
+    "text": "並非當前黨的立場"
+  },
+  {
+    "sequence": 82,
+    "start": 290,
+    "duration": 1,
+    "text": "但確定名單中"
+  },
+  {
+    "sequence": 83,
+    "start": 291,
+    "duration": 1,
+    "text": "除了洪秀柱"
+  },
+  {
+    "sequence": 84,
+    "start": 292,
+    "duration": 3,
+    "text": "中常委何英祿人也已經在北京"
+  },
+  {
+    "sequence": 85,
+    "start": 295,
+    "duration": 3,
+    "text": "新黨則是政府主席吳成典李慎峰"
+  },
+  {
+    "sequence": 86,
+    "start": 298,
+    "duration": 2,
+    "text": "以及前立委曹元璋也都受邀"
+  },
+  {
+    "sequence": 87,
+    "start": 300,
+    "duration": 1,
+    "text": "抵達現場"
+  },
+  {
+    "sequence": 88,
+    "start": 301,
+    "duration": 3,
+    "text": "另外台大教授願舉證也高調現身"
+  },
+  {
+    "sequence": 89,
+    "start": 304,
+    "duration": 23,
+    "text": "國人出席中共93閱兵"
+  },
+  {
+    "sequence": 90,
+    "start": 327,
+    "duration": 2,
+    "text": "外交部表示不僅違背台灣主流民意"
+  },
+  {
+    "sequence": 91,
+    "start": 329,
+    "duration": 2,
+    "text": "也不能代表全體人民的立場"
+  },
+  {
+    "sequence": 92,
+    "start": 331,
+    "duration": 2,
+    "text": "重申中華人民共和國"
+  },
+  {
+    "sequence": 93,
+    "start": 333,
+    "duration": 2,
+    "text": "無權在國際社會代表台灣"
+  },
+  {
+    "sequence": 94,
+    "start": 335,
+    "duration": 16,
+    "text": "外交部批評"
+  },
+  {
+    "sequence": 95,
+    "start": 351,
+    "duration": 2,
+    "text": "中共篡改二戰史實"
+  },
+  {
+    "sequence": 96,
+    "start": 353,
+    "duration": 3,
+    "text": "也強調所有支持與捍衛中華民國台灣的國人"
+  },
+  {
+    "sequence": 97,
+    "start": 356,
+    "duration": 3,
+    "text": "都應該避免對國際社會釋放出錯誤的訊號"
+  },
+  {
+    "sequence": 98,
+    "start": 359,
+    "duration": 3,
+    "text": "國內新聞記者許嬌瑞 臺北報導"
+  },
+  {
+    "sequence": 99,
+    "start": 386,
+    "duration": 1,
+    "text": "印尼"
+  },
+  {
+    "sequence": 100,
+    "start": 387,
+    "duration": 4,
+    "text": "總統普拉伯沃也決定如期出席"
+  },
+  {
+    "sequence": 101,
+    "start": 391,
+    "duration": 4,
+    "text": "印尼示威浪潮延燒"
+  },
+  {
+    "sequence": 102,
+    "start": 395,
+    "duration": 3,
+    "text": "警方甚至在校園附近發射催淚彈"
+  },
+  {
+    "sequence": 103,
+    "start": 398,
+    "duration": 2,
+    "text": "不過原本因為國內情勢"
+  },
+  {
+    "sequence": 104,
+    "start": 400,
+    "duration": 4,
+    "text": "而取消出席中國93大閱兵的總統普拉伯沃"
+  },
+  {
+    "sequence": 105,
+    "start": 404,
+    "duration": 2,
+    "text": "將如期出席活動"
+  },
+  {
+    "sequence": 106,
+    "start": 406,
+    "duration": 2,
+    "text": "印尼國務秘書長證實"
+  },
+  {
+    "sequence": 107,
+    "start": 408,
+    "duration": 2,
+    "text": "普拉伯沃昨晚已經起程"
+  },
+  {
+    "sequence": 108,
+    "start": 410,
+    "duration": 2,
+    "text": "預計一天後返國"
+  },
+  {
+    "sequence": 109,
+    "start": 414,
+    "duration": 3,
+    "text": "包括受到高度關注的北韓領導人金正恩"
+  },
+  {
+    "sequence": 110,
+    "start": 417,
+    "duration": 2,
+    "text": "古巴總統迪亞世"
+  },
+  {
+    "sequence": 111,
+    "start": 419,
+    "duration": 3,
+    "text": "越南國家主席梁長等多國元首"
+  },
+  {
+    "sequence": 112,
+    "start": 422,
+    "duration": 3,
+    "text": "以及南韓國會議長宇原子等人"
+  },
+  {
+    "sequence": 113,
+    "start": 425,
+    "duration": 2,
+    "text": "都已經陸續抵達中國"
+  },
+  {
+    "sequence": 114,
+    "start": 427,
+    "duration": 7,
+    "text": "20多位世界領導人齊聚中國北京參加中共閱兵"
+  },
+  {
+    "sequence": 115,
+    "start": 434,
+    "duration": 3,
+    "text": "北京天安門廣場將舉行紀念大會"
+  },
+  {
+    "sequence": 116,
+    "start": 437,
+    "duration": 3,
+    "text": "衛星圖上可看到數百輛坦克 裝甲車"
+  },
+  {
+    "sequence": 117,
+    "start": 440,
+    "duration": 3,
+    "text": "無人機列隊前進 大秀軍事肌肉"
+  },
+  {
+    "sequence": 118,
+    "start": 443,
+    "duration": 2,
+    "text": "而在閱兵登場前夕"
+  },
+  {
+    "sequence": 119,
+    "start": 445,
+    "duration": 2,
+    "text": "北京街頭戒備森嚴"
+  },
+  {
+    "sequence": 120,
+    "start": 447,
+    "duration": 3,
+    "text": "大舉調派武裝警察與警車進駐"
+  },
+  {
+    "sequence": 121,
+    "start": 450,
+    "duration": 2,
+    "text": "居民的日常也受到影響"
+  },
+  {
+    "sequence": 122,
+    "start": 452,
+    "duration": 9,
+    "text": "北京整座城市籠罩在緊繃氛圍"
+  },
+  {
+    "sequence": 123,
+    "start": 461,
+    "duration": 1,
+    "text": "但同一天晚間"
+  },
+  {
+    "sequence": 124,
+    "start": 462,
+    "duration": 4,
+    "text": "網路上卻傳出廣州發生無差別撞人事件"
+  },
+  {
+    "sequence": 125,
+    "start": 466,
+    "duration": 3,
+    "text": "一輛汽車從鶴洞大橋狂飆衝撞人群"
+  },
+  {
+    "sequence": 126,
+    "start": 469,
+    "duration": 3,
+    "text": "直到大約4公里外的中投公園才停下"
+  },
+  {
+    "sequence": 127,
+    "start": 472,
+    "duration": 2,
+    "text": "當場有幼童被撞到"
+  },
+  {
+    "sequence": 128,
+    "start": 474,
+    "duration": 4,
+    "text": "多人倒地 傷勢不明"
+  },
+  {
+    "sequence": 129,
+    "start": 478,
+    "duration": 2,
+    "text": "九三大閱兵前夕"
+  },
+  {
+    "sequence": 130,
+    "start": 480,
+    "duration": 2,
+    "text": "突如其來的隨機傷人案件"
+  },
+  {
+    "sequence": 131,
+    "start": 482,
+    "duration": 2,
+    "text": "也引發外界關注"
+  },
+  {
+    "sequence": 132,
+    "start": 484,
+    "duration": 2,
+    "text": "公視新聞 朱鳳竹 齊昌 綜合報導"
+  },
+  {
+    "sequence": 133,
+    "start": 486,
+    "duration": 4,
+    "text": "賭報時間 來看到"
+  },
+  {
+    "sequence": 134,
+    "start": 490,
+    "duration": 3,
+    "text": "中國時報是"
+  },
+  {
+    "sequence": 135,
+    "start": 493,
+    "duration": 2,
+    "text": "為了搶救生育"
+  },
+  {
+    "sequence": 136,
+    "start": 495,
+    "duration": 4,
+    "text": "勞動部明年將編列超過30億的預算"
+  },
+  {
+    "sequence": 137,
+    "start": 499,
+    "duration": 3,
+    "text": "加發生育給付"
+  },
+  {
+    "sequence": 138,
+    "start": 502,
+    "duration": 3,
+    "text": "如果以每年約10萬人申請來試算"
+  },
+  {
+    "sequence": 139,
+    "start": 505,
+    "duration": 5,
+    "text": "估計平均每胎可以再多領3萬元"
+  },
+  {
+    "sequence": 140,
+    "start": 510,
+    "duration": 7,
+    "text": "自由時報是報導"
+  },
+  {
+    "sequence": 141,
+    "start": 517,
+    "duration": 3,
+    "text": "竹聯邦一名巫姓成員"
+  },
+  {
+    "sequence": 142,
+    "start": 520,
+    "duration": 4,
+    "text": "涉嫌替中國廈門的詐騙集團"
+  },
+  {
+    "sequence": 143,
+    "start": 524,
+    "duration": 5,
+    "text": "在國內籌設非法的轉接機房"
+  },
+  {
+    "sequence": 144,
+    "start": 529,
+    "duration": 5,
+    "text": "把國外電話轉成國內的手機訊號"
+  },
+  {
+    "sequence": 145,
+    "start": 534,
+    "duration": 3,
+    "text": "至少有24個人受騙"
+  },
+  {
+    "sequence": 146,
+    "start": 537,
+    "duration": 4,
+    "text": "財損超過了965萬"
+  },
+  {
+    "sequence": 147,
+    "start": 541,
+    "duration": 3,
+    "text": "刑事局搗破4個地方的機房"
+  },
+  {
+    "sequence": 148,
+    "start": 544,
+    "duration": 4,
+    "text": "並逮捕巫男等4人送辦"
+  },
+  {
+    "sequence": 149,
+    "start": 548,
+    "duration": 3,
+    "text": "聯合報提到了"
+  },
+  {
+    "sequence": 150,
+    "start": 551,
+    "duration": 4,
+    "text": "台積電昨天晚上證實"
+  },
+  {
+    "sequence": 151,
+    "start": 555,
+    "duration": 3,
+    "text": "已經接獲美國政府通知"
+  },
+  {
+    "sequence": 152,
+    "start": 558,
+    "duration": 2,
+    "text": "台積電南京廠"
+  },
+  {
+    "sequence": 153,
+    "start": 560,
+    "duration": 3,
+    "text": "採購美國半導體設備豁免權"
+  },
+  {
+    "sequence": 154,
+    "start": 563,
+    "duration": 4,
+    "text": "將於今年的12月31日撤銷"
+  },
+  {
+    "sequence": 155,
+    "start": 567,
+    "duration": 5,
+    "text": "未來將逐案向美方申請出口許可"
+  },
+  {
+    "sequence": 156,
+    "start": 572,
+    "duration": 5,
+    "text": "而這是否意味美國在半導體的關稅"
+  },
+  {
+    "sequence": 157,
+    "start": 577,
+    "duration": 3,
+    "text": "也會下重手 引發關注"
+  },
+  {
+    "sequence": 158,
+    "start": 582,
+    "duration": 4,
+    "text": "看完報紙重點 繼續來關心"
+  },
+  {
+    "sequence": 159,
+    "start": 586,
+    "duration": 4,
+    "text": "台灣周邊的海底電纜在傳出斷線"
+  },
+  {
+    "sequence": 160,
+    "start": 590,
+    "duration": 2,
+    "text": "週一下午"
+  },
+  {
+    "sequence": 161,
+    "start": 592,
+    "duration": 4,
+    "text": "一條東南亞方向的EAC2海纜斷線"
+  },
+  {
+    "sequence": 162,
+    "start": 596,
+    "duration": 5,
+    "text": "影響到台灣往新加坡的國際傳輸流量"
+  },
+  {
+    "sequence": 163,
+    "start": 601,
+    "duration": 3,
+    "text": "不過台灣網路資訊中心指出"
+  },
+  {
+    "sequence": 164,
+    "start": 604,
+    "duration": 2,
+    "text": "流量跟回應時間還好"
+  },
+  {
+    "sequence": 165,
+    "start": 606,
+    "duration": 3,
+    "text": "應該是切換到其他的備援容量"
+  },
+  {
+    "sequence": 166,
+    "start": 609,
+    "duration": 4,
+    "text": "以及不是台灣到國際網路的主要出口"
+  },
+  {
+    "sequence": 167,
+    "start": 613,
+    "duration": 4,
+    "text": "數發部表示"
+  },
+  {
+    "sequence": 168,
+    "start": 617,
+    "duration": 4,
+    "text": "我國國內海纜都正常運作"
+  },
+  {
+    "sequence": 169,
+    "start": 621,
+    "duration": 3,
+    "text": "14條國際海纜"
+  },
+  {
+    "sequence": 170,
+    "start": 624,
+    "duration": 4,
+    "text": "有3條海纜待修復"
+  },
+  {
+    "sequence": 171,
+    "start": 628,
+    "duration": 6,
+    "text": "目前都透過替代備援路由來提供服務"
+  },
+  {
+    "sequence": 172,
+    "start": 638,
+    "duration": 3,
+    "text": "國際通信幾乎透過光纖海底電纜傳送"
+  },
+  {
+    "sequence": 173,
+    "start": 641,
+    "duration": 3,
+    "text": "台灣現有24條海底電纜"
+  },
+  {
+    "sequence": 174,
+    "start": 644,
+    "duration": 1,
+    "text": "10條國內電纜"
+  },
+  {
+    "sequence": 175,
+    "start": 645,
+    "duration": 2,
+    "text": "14條國際電纜"
+  },
+  {
+    "sequence": 176,
+    "start": 647,
+    "duration": 2,
+    "text": "其中8條在今年斷線"
+  },
+  {
+    "sequence": 177,
+    "start": 649,
+    "duration": 2,
+    "text": "根據台灣海纜監測平台顯示"
+  },
+  {
+    "sequence": 178,
+    "start": 651,
+    "duration": 2,
+    "text": "1號下午4點07分"
+  },
+  {
+    "sequence": 179,
+    "start": 653,
+    "duration": 2,
+    "text": "EAC2東南亞方向斷線"
+  },
+  {
+    "sequence": 180,
+    "start": 655,
+    "duration": 4,
+    "text": "影響台灣往新加坡的國際傳輸流量"
+  },
+  {
+    "sequence": 181,
+    "start": 668,
+    "duration": 2,
+    "text": "第二個台灣到新加坡這邊"
+  },
+  {
+    "sequence": 182,
+    "start": 670,
+    "duration": 4,
+    "text": "並不是台灣到國際網路的主要出口"
+  },
+  {
+    "sequence": 183,
+    "start": 674,
+    "duration": 2,
+    "text": "EAC2斷線沒明顯通訊影響"
+  },
+  {
+    "sequence": 184,
+    "start": 676,
+    "duration": 4,
+    "text": "根據國外網站Submarine Cable Map公開資訊"
+  },
+  {
+    "sequence": 185,
+    "start": 680,
+    "duration": 5,
+    "text": "EAC2C2C在2002年開始服務業者為Telstra"
+  },
+  {
+    "sequence": 186,
+    "start": 685,
+    "duration": 1,
+    "text": "中華電信表示"
+  },
+  {
+    "sequence": 187,
+    "start": 686,
+    "duration": 2,
+    "text": "目前斷線的6條國際海纜"
+  },
+  {
+    "sequence": 188,
+    "start": 688,
+    "duration": 2,
+    "text": "非中華電信所投資"
+  },
+  {
+    "sequence": 189,
+    "start": 690,
+    "duration": 3,
+    "text": "中華電信投資的國際海纜服務正常"
+  },
+  {
+    "sequence": 190,
+    "start": 693,
+    "duration": 4,
+    "text": "台灣端的國內海纜也沒有任何斷纜情況"
+  },
+  {
+    "sequence": 191,
+    "start": 697,
+    "duration": 2,
+    "text": "從事海洋地質測量與海纜"
+  },
+  {
+    "sequence": 192,
+    "start": 699,
+    "duration": 2,
+    "text": "路由調查服務的公司指出"
+  },
+  {
+    "sequence": 193,
+    "start": 701,
+    "duration": 4,
+    "text": "通常海纜斷掉有70%以上是人為活動"
+  },
+  {
+    "sequence": 194,
+    "start": 705,
+    "duration": 3,
+    "text": "其他是材質老化和地質災害"
+  },
+  {
+    "sequence": 195,
+    "start": 708,
+    "duration": 3,
+    "text": "台灣周邊有9條海纜同時出現中斷"
+  },
+  {
+    "sequence": 196,
+    "start": 711,
+    "duration": 2,
+    "text": "雖然部分不影響台灣"
+  },
+  {
+    "sequence": 197,
+    "start": 713,
+    "duration": 4,
+    "text": "但年初發生海纜遺遭中國籍漁船脫斷"
+  },
+  {
+    "sequence": 198,
+    "start": 717,
+    "duration": 3,
+    "text": "加上海纜修復動輒幾個禮拜到數月"
+  },
+  {
+    "sequence": 199,
+    "start": 720,
+    "duration": 2,
+    "text": "引發外界擔憂再斷下去"
+  },
+  {
+    "sequence": 200,
+    "start": 722,
+    "duration": 2,
+    "text": "台灣會變孤島內網"
+  },
+  {
+    "sequence": 201,
+    "start": 724,
+    "duration": 3,
+    "text": "台灣網路資訊中心董事長黃善雄指出"
+  },
+  {
+    "sequence": 202,
+    "start": 727,
+    "duration": 3,
+    "text": "強化通信韌性多建置電纜和電纜站"
+  },
+  {
+    "sequence": 203,
+    "start": 730,
+    "duration": 4,
+    "text": "更多的衛星服務朝多樣化發展來移轉風險"
+  },
+  {
+    "sequence": 204,
+    "start": 734,
+    "duration": 3,
+    "text": "公視新聞小會 沈志明 台北報導"
+  },
+  {
+    "sequence": 205,
+    "start": 737,
+    "duration": 4,
+    "text": "國光客運連年虧損"
+  },
+  {
+    "sequence": 206,
+    "start": 741,
+    "duration": 6,
+    "text": "上個月停駛高雄屏東6條公路客運之後"
+  },
+  {
+    "sequence": 207,
+    "start": 747,
+    "duration": 7,
+    "text": "9月8號起在停駛台北的新營等8條國道客運路線"
+  },
+  {
+    "sequence": 208,
+    "start": 754,
+    "duration": 5,
+    "text": "連帶有95名的駕駛被之前"
+  },
+  {
+    "sequence": 209,
+    "start": 759,
+    "duration": 6,
+    "text": "而這8條路線後續將會由統聯客運來接手"
+  },
+  {
+    "sequence": 210,
+    "start": 765,
+    "duration": 6,
+    "text": "不過國光客運另外又提出了6條路線停駛申請"
+  },
+  {
+    "sequence": 211,
+    "start": 771,
+    "duration": 3,
+    "text": "公路局正在評估當中"
+  },
+  {
+    "sequence": 212,
+    "start": 776,
+    "duration": 2,
+    "text": "來到台北轉運站國光客運越台"
+  },
+  {
+    "sequence": 213,
+    "start": 778,
+    "duration": 2,
+    "text": "離封時間等待搭車的人並不多"
+  },
+  {
+    "sequence": 214,
+    "start": 780,
+    "duration": 2,
+    "text": "國光客運2號發出新聞稿"
+  },
+  {
+    "sequence": 215,
+    "start": 782,
+    "duration": 3,
+    "text": "自這個月8號起將再停駛8條長途國道客運"
+  },
+  {
+    "sequence": 216,
+    "start": 785,
+    "duration": 3,
+    "text": "包含台北往南部長城 桃園往高雄"
+  },
+  {
+    "sequence": 217,
+    "start": 788,
+    "duration": 2,
+    "text": "以及台中往南部等8條路線"
+  },
+  {
+    "sequence": 218,
+    "start": 790,
+    "duration": 3,
+    "text": "已經由公路局核定自9月8日零時起"
+  },
+  {
+    "sequence": 219,
+    "start": 793,
+    "duration": 2,
+    "text": "由統聯客運接手來營運"
+  },
+  {
+    "sequence": 220,
+    "start": 795,
+    "duration": 2,
+    "text": "我每個月都搭三四次"
+  },
+  {
+    "sequence": 221,
+    "start": 797,
+    "duration": 3,
+    "text": "會擔心說如果他也申請到你們這一條"
+  },
+  {
+    "sequence": 222,
+    "start": 800,
+    "duration": 1,
+    "text": "會影響你們"
+  },
+  {
+    "sequence": 223,
+    "start": 801,
+    "duration": 3,
+    "text": "我應該不會 因為統聯的可以做啊"
+  },
+  {
+    "sequence": 224,
+    "start": 804,
+    "duration": 2,
+    "text": "國光很好啊"
+  },
+  {
+    "sequence": 225,
+    "start": 806,
+    "duration": 1,
+    "text": "他的優勢是什麼"
+  },
+  {
+    "sequence": 226,
+    "start": 807,
+    "duration": 4,
+    "text": "他的優勢安全啊 舒適安全啊"
+  },
+  {
+    "sequence": 227,
+    "start": 811,
+    "duration": 1,
+    "text": "比較守規矩啊"
+  },
+  {
+    "sequence": 228,
+    "start": 812,
+    "duration": 2,
+    "text": "公路局表示這8條路線中"
+  },
+  {
+    "sequence": 229,
+    "start": 814,
+    "duration": 2,
+    "text": "有6條維持原班表開行"
+  },
+  {
+    "sequence": 230,
+    "start": 816,
+    "duration": 2,
+    "text": "不過台中到台南以及桃園到高雄"
+  },
+  {
+    "sequence": 231,
+    "start": 818,
+    "duration": 3,
+    "text": "經檢視 載客量與同路廊有重疊班次"
+  },
+  {
+    "sequence": 232,
+    "start": 821,
+    "duration": 3,
+    "text": "出席開行必要需求班次 視情況再加班"
+  },
+  {
+    "sequence": 233,
+    "start": 824,
+    "duration": 1,
+    "text": "公路局也證實"
+  },
+  {
+    "sequence": 234,
+    "start": 825,
+    "duration": 3,
+    "text": "除8月底至今已核定停駛的14條路線外"
+  },
+  {
+    "sequence": 235,
+    "start": 828,
+    "duration": 3,
+    "text": "國光客運另外還再提出6條路線申請停駛"
+  },
+  {
+    "sequence": 236,
+    "start": 831,
+    "duration": 2,
+    "text": "多為中南部路線"
+  },
+  {
+    "sequence": 237,
+    "start": 833,
+    "duration": 3,
+    "text": "就是這一次14條有相關的"
+  },
+  {
+    "sequence": 238,
+    "start": 836,
+    "duration": 6,
+    "text": "那些駕駛員是158位"
+  },
+  {
+    "sequence": 239,
+    "start": 842,
+    "duration": 5,
+    "text": "那有63位的是留任"
+  },
+  {
+    "sequence": 240,
+    "start": 847,
+    "duration": 2,
+    "text": "那95位的是資遣"
+  },
+  {
+    "sequence": 241,
+    "start": 849,
+    "duration": 3,
+    "text": "對於國光客運在半年內兩度持發薪水"
+  },
+  {
+    "sequence": 242,
+    "start": 852,
+    "duration": 3,
+    "text": "銀行貸款仍有新台幣20多億元貸還"
+  },
+  {
+    "sequence": 243,
+    "start": 855,
+    "duration": 2,
+    "text": "公路局表示對於國光薪資發放"
+  },
+  {
+    "sequence": 244,
+    "start": 857,
+    "duration": 2,
+    "text": "和車輛開行維持服務水準"
+  },
+  {
+    "sequence": 245,
+    "start": 859,
+    "duration": 2,
+    "text": "監理所都有預控機制"
+  },
+  {
+    "sequence": 246,
+    "start": 861,
+    "duration": 2,
+    "text": "因應國大客運從疫情後"
+  },
+  {
+    "sequence": 247,
+    "start": 863,
+    "duration": 1,
+    "text": "民眾搭乘習慣改變"
+  },
+  {
+    "sequence": 248,
+    "start": 864,
+    "duration": 2,
+    "text": "以及少子化 駕駛缺工等挑戰"
+  },
+  {
+    "sequence": 249,
+    "start": 866,
+    "duration": 2,
+    "text": "交通部長陳世凱也要求公路局"
+  },
+  {
+    "sequence": 250,
+    "start": 868,
+    "duration": 2,
+    "text": "對國大客運路網進行檢討"
+  },
+  {
+    "sequence": 251,
+    "start": 870,
+    "duration": 3,
+    "text": "朝調整路線 經營形態全盤規劃"
+  },
+  {
+    "sequence": 252,
+    "start": 873,
+    "duration": 3,
+    "text": "公視新聞學員林肩胎報導"
+  },
+  {
+    "sequence": 253,
+    "start": 876,
+    "duration": 6,
+    "text": "世界拳擊錦標賽將在英國舉行"
+  },
+  {
+    "sequence": 254,
+    "start": 882,
+    "duration": 3,
+    "text": "我代表隊已經出發"
+  },
+  {
+    "sequence": 255,
+    "start": 885,
+    "duration": 6,
+    "text": "不過巴黎奧運拳擊金牌林玉婷確定缺席"
+  },
+  {
+    "sequence": 256,
+    "start": 891,
+    "duration": 4,
+    "text": "這是因為世界拳擊總會已經頒布規定"
+  },
+  {
+    "sequence": 257,
+    "start": 895,
+    "duration": 2,
+    "text": "強制性別檢測"
+  },
+  {
+    "sequence": 258,
+    "start": 897,
+    "duration": 4,
+    "text": "由各國提報檢測的結果"
+  },
+  {
+    "sequence": 259,
+    "start": 901,
+    "duration": 2,
+    "text": "我拳擊協會表示"
+  },
+  {
+    "sequence": 260,
+    "start": 903,
+    "duration": 3,
+    "text": "已經繳交相關報告"
+  },
+  {
+    "sequence": 261,
+    "start": 906,
+    "duration": 4,
+    "text": "但是遲遲都等不到回應"
+  },
+  {
+    "sequence": 262,
+    "start": 910,
+    "duration": 5,
+    "text": "因此林玉婷暫時無法參賽"
+  },
+  {
+    "sequence": 263,
+    "start": 915,
+    "duration": 5,
+    "text": "世界拳擊總會的性別檢測規範不明"
+  },
+  {
+    "sequence": 264,
+    "start": 920,
+    "duration": 3,
+    "text": "林玉婷在巴黎奧運後就沒參加國際賽"
+  },
+  {
+    "sequence": 265,
+    "start": 923,
+    "duration": 2,
+    "text": "今年上半年出席活動時"
+  },
+  {
+    "sequence": 266,
+    "start": 925,
+    "duration": 1,
+    "text": "她多次強調"
+  },
+  {
+    "sequence": 267,
+    "start": 926,
+    "duration": 3,
+    "text": "能做的就是把自己準備好"
+  },
+  {
+    "sequence": 268,
+    "start": 929,
+    "duration": 1,
+    "text": "當你有實力的時候"
+  },
+  {
+    "sequence": 269,
+    "start": 930,
+    "duration": 1,
+    "text": "人家才會製造一些聲音"
+  },
+  {
+    "sequence": 270,
+    "start": 931,
+    "duration": 2,
+    "text": "來試圖去影響你"
+  },
+  {
+    "sequence": 271,
+    "start": 933,
+    "duration": 1,
+    "text": "那我們就是做的就是"
+  },
+  {
+    "sequence": 272,
+    "start": 934,
+    "duration": 2,
+    "text": "把自己做好 把自己準備好"
+  },
+  {
+    "sequence": 273,
+    "start": 936,
+    "duration": 1,
+    "text": "那機會來了"
+  },
+  {
+    "sequence": 274,
+    "start": 937,
+    "duration": 2,
+    "text": "我們就是全力以赴"
+  },
+  {
+    "sequence": 275,
+    "start": 939,
+    "duration": 2,
+    "text": "八月二十號世界拳總正式公布"
+  },
+  {
+    "sequence": 276,
+    "start": 941,
+    "duration": 2,
+    "text": "全新參賽資格規範"
+  },
+  {
+    "sequence": 277,
+    "start": 943,
+    "duration": 2,
+    "text": "二零二五年八月二十號起"
+  },
+  {
+    "sequence": 278,
+    "start": 945,
+    "duration": 3,
+    "text": "所有年滿十八歲參加世界拳總主辦"
+  },
+  {
+    "sequence": 279,
+    "start": 948,
+    "duration": 2,
+    "text": "或認證賽事的選手"
+  },
+  {
+    "sequence": 280,
+    "start": 950,
+    "duration": 2,
+    "text": "需進行一次性PCR"
+  },
+  {
+    "sequence": 281,
+    "start": 952,
+    "duration": 2,
+    "text": "或同等功能的基因檢測"
+  },
+  {
+    "sequence": 282,
+    "start": 954,
+    "duration": 3,
+    "text": "確認出生時性別才能獲參賽資格"
+  },
+  {
+    "sequence": 283,
+    "start": 957,
+    "duration": 3,
+    "text": "出生時被認定為女性的運動員"
+  },
+  {
+    "sequence": 284,
+    "start": 960,
+    "duration": 2,
+    "text": "如存在XX染色體"
+  },
+  {
+    "sequence": 285,
+    "start": 962,
+    "duration": 2,
+    "text": "或不存在Y染色體遺傳物質"
+  },
+  {
+    "sequence": 286,
+    "start": 964,
+    "duration": 2,
+    "text": "也就是SRY基因"
+  },
+  {
+    "sequence": 287,
+    "start": 966,
+    "duration": 2,
+    "text": "或存在性發育差異"
+  },
+  {
+    "sequence": 288,
+    "start": 968,
+    "duration": 2,
+    "text": "即未發生男性雄激素化"
+  },
+  {
+    "sequence": 289,
+    "start": 970,
+    "duration": 3,
+    "text": "則有資格參加女子組比賽"
+  },
+  {
+    "sequence": 290,
+    "start": 973,
+    "duration": 2,
+    "text": "這項新政策最新應用"
+  },
+  {
+    "sequence": 291,
+    "start": 975,
+    "duration": 2,
+    "text": "在九月四號至十四號"
+  },
+  {
+    "sequence": 292,
+    "start": 977,
+    "duration": 2,
+    "text": "在英國舉行的市井賽"
+  },
+  {
+    "sequence": 293,
+    "start": 979,
+    "duration": 2,
+    "text": "全協表示八月二十號以後"
+  },
+  {
+    "sequence": 294,
+    "start": 981,
+    "duration": 2,
+    "text": "把林玉婷所有檢測報告加密"
+  },
+  {
+    "sequence": 295,
+    "start": 983,
+    "duration": 2,
+    "text": "提交世界拳總醫療委員會窗口"
+  },
+  {
+    "sequence": 296,
+    "start": 985,
+    "duration": 1,
+    "text": "並獲回覆"
+  },
+  {
+    "sequence": 297,
+    "start": 986,
+    "duration": 2,
+    "text": "需四到六週的通案討論"
+  },
+  {
+    "sequence": 298,
+    "start": 988,
+    "duration": 2,
+    "text": "為此林玉婷暫時無法參加"
+  },
+  {
+    "sequence": 299,
+    "start": 990,
+    "duration": 1,
+    "text": "本屆市井賽"
+  },
+  {
+    "sequence": 300,
+    "start": 991,
+    "duration": 2,
+    "text": "國體大教授陳子瑄認為"
+  },
+  {
+    "sequence": 301,
+    "start": 993,
+    "duration": 3,
+    "text": "目前田徑舉重等國際單項總會"
+  },
+  {
+    "sequence": 302,
+    "start": 996,
+    "duration": 2,
+    "text": "對性別規定建區保守"
+  },
+  {
+    "sequence": 303,
+    "start": 998,
+    "duration": 3,
+    "text": "對世界拳總的處理方式不意外"
+  },
+  {
+    "sequence": 304,
+    "start": 1001,
+    "duration": 17,
+    "text": "全協表示希望審查結果"
+  },
+  {
+    "sequence": 305,
+    "start": 1018,
+    "duration": 1,
+    "text": "可以儘快出來"
+  },
+  {
+    "sequence": 306,
+    "start": 1019,
+    "duration": 1,
+    "text": "快的話"
+  },
+  {
+    "sequence": 307,
+    "start": 1020,
+    "duration": 1,
+    "text": "年底的印度大獎賽"
+  },
+  {
+    "sequence": 308,
+    "start": 1021,
+    "duration": 2,
+    "text": "林玉婷還可參加"
+  },
+  {
+    "sequence": 309,
+    "start": 1023,
+    "duration": 2,
+    "text": "而市井賽三號進行註冊會議"
+  },
+  {
+    "sequence": 310,
+    "start": 1025,
+    "duration": 2,
+    "text": "若有國家有類似案例"
+  },
+  {
+    "sequence": 311,
+    "start": 1027,
+    "duration": 2,
+    "text": "應會在比賽期間再開會審查"
+  },
+  {
+    "sequence": 312,
+    "start": 1029,
+    "duration": 2,
+    "text": "公視新聞林曉慧 沈志明"
+  },
+  {
+    "sequence": 313,
+    "start": 1031,
+    "duration": 1,
+    "text": "台北報導"
+  },
+  {
+    "sequence": 314,
+    "start": 1032,
+    "duration": 4,
+    "text": "今年的本土登革熱疫情"
+  },
+  {
+    "sequence": 315,
+    "start": 1036,
+    "duration": 2,
+    "text": "已經累積十二例"
+  },
+  {
+    "sequence": 316,
+    "start": 1038,
+    "duration": 2,
+    "text": "分別是高雄古山的家庭"
+  },
+  {
+    "sequence": 317,
+    "start": 1040,
+    "duration": 3,
+    "text": "及社區群聚共十例"
+  },
+  {
+    "sequence": 318,
+    "start": 1043,
+    "duration": 2,
+    "text": "還有三民區"
+  },
+  {
+    "sequence": 319,
+    "start": 1045,
+    "duration": 3,
+    "text": "新增的兩例兄弟群聚"
+  },
+  {
+    "sequence": 320,
+    "start": 1048,
+    "duration": 4,
+    "text": "高市府針對兩區的警戒範圍"
+  },
+  {
+    "sequence": 321,
+    "start": 1052,
+    "duration": 2,
+    "text": "大動作傾銷"
+  },
+  {
+    "sequence": 322,
+    "start": 1055,
+    "duration": 1,
+    "text": "疾管署推測"
+  },
+  {
+    "sequence": 323,
+    "start": 1056,
+    "duration": 2,
+    "text": "這一波群聚源頭"
+  },
+  {
+    "sequence": 324,
+    "start": 1058,
+    "duration": 3,
+    "text": "來自一起越南移入個案"
+  },
+  {
+    "sequence": 325,
+    "start": 1061,
+    "duration": 2,
+    "text": "而不只高雄"
+  },
+  {
+    "sequence": 326,
+    "start": 1063,
+    "duration": 2,
+    "text": "台南也出現境外移入"
+  },
+  {
+    "sequence": 327,
+    "start": 1065,
+    "duration": 2,
+    "text": "是一位日前抵台的"
+  },
+  {
+    "sequence": 328,
+    "start": 1067,
+    "duration": 2,
+    "text": "印尼籍大學生"
+  },
+  {
+    "sequence": 329,
+    "start": 1069,
+    "duration": 3,
+    "text": "衛生局已經針對學校宿舍"
+  },
+  {
+    "sequence": 330,
+    "start": 1072,
+    "duration": 3,
+    "text": "緊急噴藥防治"
+  },
+  {
+    "sequence": 331,
+    "start": 1075,
+    "duration": 3,
+    "text": "工作人員對公園座椅"
+  },
+  {
+    "sequence": 332,
+    "start": 1078,
+    "duration": 3,
+    "text": "草皮噴藥不放過任何角落"
+  },
+  {
+    "sequence": 333,
+    "start": 1081,
+    "duration": 2,
+    "text": "高雄本土登革熱疫情升溫"
+  },
+  {
+    "sequence": 334,
+    "start": 1083,
+    "duration": 2,
+    "text": "既古山因家庭及社區群聚"
+  },
+  {
+    "sequence": 335,
+    "start": 1085,
+    "duration": 1,
+    "text": "出現十例確診後"
+  },
+  {
+    "sequence": 336,
+    "start": 1086,
+    "duration": 2,
+    "text": "三民區一號也出現兩例"
+  },
+  {
+    "sequence": 337,
+    "start": 1088,
+    "duration": 1,
+    "text": "是一對兄弟"
+  },
+  {
+    "sequence": 338,
+    "start": 1089,
+    "duration": 2,
+    "text": "目前住院隔離治療"
+  },
+  {
+    "sequence": 339,
+    "start": 1091,
+    "duration": 1,
+    "text": "兩區累計十二例"
+  },
+  {
+    "sequence": 340,
+    "start": 1092,
+    "duration": 2,
+    "text": "都是登革熱第二型"
+  },
+  {
+    "sequence": 341,
+    "start": 1111,
+    "duration": 2,
+    "text": "住家掛上防疫補文燈"
+  },
+  {
+    "sequence": 342,
+    "start": 1113,
+    "duration": 1,
+    "text": "衛生局二號針對"
+  },
+  {
+    "sequence": 343,
+    "start": 1114,
+    "duration": 2,
+    "text": "三民區警戒範圍的住商家"
+  },
+  {
+    "sequence": 344,
+    "start": 1116,
+    "duration": 1,
+    "text": "公園及市場"
+  },
+  {
+    "sequence": 345,
+    "start": 1117,
+    "duration": 3,
+    "text": "進行緊急防治及資深源檢查"
+  },
+  {
+    "sequence": 346,
+    "start": 1120,
+    "duration": 1,
+    "text": "經過多日分析比對"
+  },
+  {
+    "sequence": 347,
+    "start": 1121,
+    "duration": 2,
+    "text": "疾管署認為這一波群聚源頭"
+  },
+  {
+    "sequence": 348,
+    "start": 1123,
+    "duration": 3,
+    "text": "可推測為一起越南移入個案"
+  },
+  {
+    "sequence": 349,
+    "start": 1126,
+    "duration": 13,
+    "text": "古山警戒區因這波群聚"
+  },
+  {
+    "sequence": 350,
+    "start": 1139,
+    "duration": 2,
+    "text": "從八月二十五號起連日清消"
+  },
+  {
+    "sequence": 351,
+    "start": 1141,
+    "duration": 2,
+    "text": "但不只越南有移入個案"
+  },
+  {
+    "sequence": 352,
+    "start": 1143,
+    "duration": 2,
+    "text": "一位首度來台的印尼籍學生"
+  },
+  {
+    "sequence": 353,
+    "start": 1145,
+    "duration": 1,
+    "text": "八月三十一號"
+  },
+  {
+    "sequence": 354,
+    "start": 1146,
+    "duration": 3,
+    "text": "抵達小港機場後有發燒症狀"
+  },
+  {
+    "sequence": 355,
+    "start": 1149,
+    "duration": 2,
+    "text": "篩檢站進行登革熱通報"
+  },
+  {
+    "sequence": 356,
+    "start": 1151,
+    "duration": 1,
+    "text": "九月一號確診成為"
+  },
+  {
+    "sequence": 357,
+    "start": 1152,
+    "duration": 3,
+    "text": "台南登革熱境外移入第十例"
+  },
+  {
+    "sequence": 358,
+    "start": 1170,
+    "duration": 3,
+    "text": "工作員來到個案的學生宿舍"
+  },
+  {
+    "sequence": 359,
+    "start": 1173,
+    "duration": 2,
+    "text": "做清消因為個案有進出宿舍"
+  },
+  {
+    "sequence": 360,
+    "start": 1175,
+    "duration": 1,
+    "text": "並外出用餐"
+  },
+  {
+    "sequence": 361,
+    "start": 1176,
+    "duration": 3,
+    "text": "衛生局也將進行環境資深源清除"
+  },
+  {
+    "sequence": 362,
+    "start": 1179,
+    "duration": 1,
+    "text": "及併美文密度調查"
+  },
+  {
+    "sequence": 363,
+    "start": 1180,
+    "duration": 2,
+    "text": "並規劃化學防治作業"
+  },
+  {
+    "sequence": 364,
+    "start": 1182,
+    "duration": 2,
+    "text": "公視新聞陳樺與許甄峻"
+  },
+  {
+    "sequence": 365,
+    "start": 1184,
+    "duration": 2,
+    "text": "溫正恆高雄臺南報導"
+  },
+  {
+    "sequence": 366,
+    "start": 1199,
+    "duration": 3,
+    "text": "富於老東西新的生命"
+  },
+  {
+    "sequence": 367,
+    "start": 1202,
+    "duration": 7,
+    "text": "澎湖漁業發達"
+  },
+  {
+    "sequence": 368,
+    "start": 1209,
+    "duration": 3,
+    "text": "過去許多漁村都會有家族新建漁灶"
+  },
+  {
+    "sequence": 369,
+    "start": 1212,
+    "duration": 3,
+    "text": "捕魚回港之後立刻進行烹煮"
+  },
+  {
+    "sequence": 370,
+    "start": 1215,
+    "duration": 2,
+    "text": "並且曝曬製成魚乾"
+  },
+  {
+    "sequence": 371,
+    "start": 1217,
+    "duration": 3,
+    "text": "一直到二三十年前漁類資源減少"
+  },
+  {
+    "sequence": 372,
+    "start": 1220,
+    "duration": 2,
+    "text": "加上漁獲開放進口"
+  },
+  {
+    "sequence": 373,
+    "start": 1222,
+    "duration": 2,
+    "text": "澎湖漁灶左上沒落"
+  },
+  {
+    "sequence": 374,
+    "start": 1224,
+    "duration": 2,
+    "text": "甚至開始廢棄毀壞"
+  },
+  {
+    "sequence": 375,
+    "start": 1226,
+    "duration": 2,
+    "text": "兩位藝術家利用漁灶"
+  },
+  {
+    "sequence": 376,
+    "start": 1228,
+    "duration": 2,
+    "text": "從過去煮魚改成燒陶"
+  },
+  {
+    "sequence": 377,
+    "start": 1230,
+    "duration": 3,
+    "text": "實驗將會出現怎樣的作品"
+  },
+  {
+    "sequence": 378,
+    "start": 1233,
+    "duration": 2,
+    "text": "我就在想魚灶它就是一個"
+  },
+  {
+    "sequence": 379,
+    "start": 1235,
+    "duration": 1,
+    "text": "可以燃燒的空間"
+  },
+  {
+    "sequence": 380,
+    "start": 1236,
+    "duration": 3,
+    "text": "柴窯不也是就是像一個灶這樣子嗎"
+  },
+  {
+    "sequence": 381,
+    "start": 1239,
+    "duration": 3,
+    "text": "那我們就開始用當地的魚灶來去"
+  },
+  {
+    "sequence": 382,
+    "start": 1242,
+    "duration": 2,
+    "text": "去實驗看看怎麼樣"
+  },
+  {
+    "sequence": 383,
+    "start": 1244,
+    "duration": 3,
+    "text": "讓它去可以達到高溫讓陶去燒解"
+  },
+  {
+    "sequence": 384,
+    "start": 1247,
+    "duration": 3,
+    "text": "他們在後寮漁村找到一間修復的魚灶"
+  },
+  {
+    "sequence": 385,
+    "start": 1250,
+    "duration": 3,
+    "text": "進行燒陶的藝術創作"
+  },
+  {
+    "sequence": 386,
+    "start": 1253,
+    "duration": 3,
+    "text": "從採土製模到邀請居民共同創作"
+  },
+  {
+    "sequence": 387,
+    "start": 1256,
+    "duration": 3,
+    "text": "用陶土捏製各種魚類"
+  },
+  {
+    "sequence": 388,
+    "start": 1259,
+    "duration": 2,
+    "text": "然後放入魚灶搖燒"
+  },
+  {
+    "sequence": 389,
+    "start": 1261,
+    "duration": 2,
+    "text": "產生具有文化意義的作品"
+  },
+  {
+    "sequence": 390,
+    "start": 1263,
+    "duration": 2,
+    "text": "我們就覺得原來魚灶"
+  },
+  {
+    "sequence": 391,
+    "start": 1265,
+    "duration": 3,
+    "text": "也可以有這種不一樣的做法"
+  },
+  {
+    "sequence": 392,
+    "start": 1268,
+    "duration": 2,
+    "text": "不一定說存在以前的觀念"
+  },
+  {
+    "sequence": 393,
+    "start": 1270,
+    "duration": 2,
+    "text": "只是魚這件事情"
+  },
+  {
+    "sequence": 394,
+    "start": 1272,
+    "duration": 2,
+    "text": "那有這種新的東西的時候"
+  },
+  {
+    "sequence": 395,
+    "start": 1274,
+    "duration": 2,
+    "text": "其實我們也可以去考慮說"
+  },
+  {
+    "sequence": 396,
+    "start": 1276,
+    "duration": 2,
+    "text": "是不是以後我們也有一些"
+  },
+  {
+    "sequence": 397,
+    "start": 1278,
+    "duration": 2,
+    "text": "可以做這些事情這樣子"
+  },
+  {
+    "sequence": 398,
+    "start": 1280,
+    "duration": 5,
+    "text": "海岸旁灶口重新燃起火光"
+  },
+  {
+    "sequence": 399,
+    "start": 1285,
+    "duration": 2,
+    "text": "一如過去的暗夜工作場景"
+  },
+  {
+    "sequence": 400,
+    "start": 1287,
+    "duration": 3,
+    "text": "藝術家尋找藝術新價值"
+  },
+  {
+    "sequence": 401,
+    "start": 1290,
+    "duration": 3,
+    "text": "老魚灶再顯歷史新風貌"
+  },
+  {
+    "sequence": 402,
+    "start": 1293,
+    "duration": 3,
+    "text": "公視新聞郭志榮夜鎮中澎湖報導"
+  },
+  {
+    "sequence": 403,
+    "start": 1296,
+    "duration": 4,
+    "text": "阿富汗8月31號晚間"
+  },
+  {
+    "sequence": 404,
+    "start": 1300,
+    "duration": 2,
+    "text": "才發生規模6的強震"
+  },
+  {
+    "sequence": 405,
+    "start": 1302,
+    "duration": 3,
+    "text": "已經超過1400人喪生"
+  },
+  {
+    "sequence": 406,
+    "start": 1305,
+    "duration": 2,
+    "text": "3000多人受傷"
+  },
+  {
+    "sequence": 407,
+    "start": 1307,
+    "duration": 3,
+    "text": "而昨天晚間再發生規模5.2餘震"
+  },
+  {
+    "sequence": 408,
+    "start": 1310,
+    "duration": 3,
+    "text": "儘管國際社會紛紛援助"
+  },
+  {
+    "sequence": 409,
+    "start": 1313,
+    "duration": 2,
+    "text": "但目前仍有難以估計的人"
+  },
+  {
+    "sequence": 410,
+    "start": 1315,
+    "duration": 2,
+    "text": "埋在瓦利堆下"
+  },
+  {
+    "sequence": 411,
+    "start": 1317,
+    "duration": 8,
+    "text": "在受災最嚴重的馬扎里谷"
+  },
+  {
+    "sequence": 412,
+    "start": 1325,
+    "duration": 2,
+    "text": "部分地區因地勢險峻"
+  },
+  {
+    "sequence": 413,
+    "start": 1327,
+    "duration": 3,
+    "text": "一輛直升機嘗試了三次都無法降落"
+  },
+  {
+    "sequence": 414,
+    "start": 1330,
+    "duration": 2,
+    "text": "一名塔利班消息人士表示"
+  },
+  {
+    "sequence": 415,
+    "start": 1332,
+    "duration": 2,
+    "text": "地震造成道路嚴重受損"
+  },
+  {
+    "sequence": 416,
+    "start": 1334,
+    "duration": 2,
+    "text": "開車進不了災區"
+  },
+  {
+    "sequence": 417,
+    "start": 1336,
+    "duration": 2,
+    "text": "動用直升機飛到死傷最嚴重的"
+  },
+  {
+    "sequence": 418,
+    "start": 1338,
+    "duration": 2,
+    "text": "庫納爾省救人卻困難重重"
+  },
+  {
+    "sequence": 419,
+    "start": 1344,
+    "duration": 2,
+    "text": "根據美國地質調查所"
+  },
+  {
+    "sequence": 420,
+    "start": 1346,
+    "duration": 2,
+    "text": "2號中午12點29分"
+  },
+  {
+    "sequence": 421,
+    "start": 1348,
+    "duration": 2,
+    "text": "阿富汗東部地區發生餘震"
+  },
+  {
+    "sequence": 422,
+    "start": 1350,
+    "duration": 2,
+    "text": "鎮壓位於第五大城的查拉拉巴士"
+  },
+  {
+    "sequence": 423,
+    "start": 1352,
+    "duration": 2,
+    "text": "西北34公里處"
+  },
+  {
+    "sequence": 424,
+    "start": 1354,
+    "duration": 2,
+    "text": "深度10公里為淺層地震"
+  },
+  {
+    "sequence": 425,
+    "start": 1356,
+    "duration": 2,
+    "text": "許多災民雖然自己被救了出來"
+  },
+  {
+    "sequence": 426,
+    "start": 1358,
+    "duration": 2,
+    "text": "卻對還受困於瓦利堆中的"
+  },
+  {
+    "sequence": 427,
+    "start": 1360,
+    "duration": 2,
+    "text": "家人極度憂心"
+  },
+  {
+    "sequence": 428,
+    "start": 1362,
+    "duration": 2,
+    "text": "沒有外援只能自己徒手挖掘"
+  },
+  {
+    "sequence": 429,
+    "start": 1370,
+    "duration": 3,
+    "text": "英國廣播公司BBC駐地記者表示"
+  },
+  {
+    "sequence": 430,
+    "start": 1373,
+    "duration": 2,
+    "text": "餘震發生後有一段時間"
+  },
+  {
+    "sequence": 431,
+    "start": 1375,
+    "duration": 3,
+    "text": "當局無法給出最新傷亡或損毀的最新通報"
+  },
+  {
+    "sequence": 432,
+    "start": 1378,
+    "duration": 2,
+    "text": "而災區通訊不良"
+  },
+  {
+    "sequence": 433,
+    "start": 1380,
+    "duration": 2,
+    "text": "推測受災情勢極度嚴峻"
+  },
+  {
+    "sequence": 434,
+    "start": 1382,
+    "duration": 2,
+    "text": "除了部分國際社會伸出援手"
+  },
+  {
+    "sequence": 435,
+    "start": 1384,
+    "duration": 4,
+    "text": "聯合國警告大地震傷亡人數可能急速增加"
+  },
+  {
+    "sequence": 436,
+    "start": 1388,
+    "duration": 2,
+    "text": "已經提供緊急基金協助救援"
+  },
+  {
+    "sequence": 437,
+    "start": 1390,
+    "duration": 2,
+    "text": "阿富汗正處於嚴重幹害"
+  },
+  {
+    "sequence": 438,
+    "start": 1392,
+    "duration": 4,
+    "text": "以及聯合國稱之為前所未有的饑荒危機"
+  },
+  {
+    "sequence": 439,
+    "start": 1396,
+    "duration": 2,
+    "text": "美國雖然仍是主要援助國之一"
+  },
+  {
+    "sequence": 440,
+    "start": 1398,
+    "duration": 3,
+    "text": "但自2021年塔利班重新掌權後"
+  },
+  {
+    "sequence": 441,
+    "start": 1401,
+    "duration": 3,
+    "text": "美國已大幅削減對阿富汗的直接援助"
+  },
+  {
+    "sequence": 442,
+    "start": 1404,
+    "duration": 4,
+    "text": "這次強震更讓原本的人道危機雪上加霜"
+  },
+  {
+    "sequence": 443,
+    "start": 1408,
+    "duration": 2,
+    "text": "公視新聞黃美齡點"
+  },
+  {
+    "sequence": 444,
+    "start": 1428,
+    "duration": 3,
+    "text": "感謝您收看這一節的公視手語新聞"
+  },
+  {
+    "sequence": 445,
+    "start": 1431,
+    "duration": 2,
+    "text": "我是吳嘉瑜"
+  },
+  {
+    "sequence": 446,
+    "start": 1433,
+    "duration": 2,
+    "text": "我們明天同一時間再會"
+  },
+  {
+    "sequence": 447,
+    "start": 1458,
+    "duration": 6,
+    "text": "請不吝點贊訂閱轉發打賞支持明鏡與點點欄目"
   }
 ]

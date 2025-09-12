@@ -1,3290 +1,3062 @@
 [
   {
+    "sequence": 1,
     "start": 0,
-    "duration": 14,
-    "text": "看新聞 開視野",
-    "hasSignLanguage": false
+    "duration": 12.04,
+    "text": "(音樂)"
   },
   {
-    "start": 14.46,
-    "duration": 6,
-    "text": "歡迎收看今天9月5號的公視手語新聞",
-    "hasSignLanguage": true
+    "sequence": 2,
+    "start": 12.04,
+    "duration": 2.280000000000001,
+    "text": "看新聞 開視野"
   },
   {
-    "start": 20.06,
-    "duration": 2,
-    "text": "首先來關心",
-    "hasSignLanguage": true
+    "sequence": 3,
+    "start": 14.32,
+    "duration": 4.359999999999999,
+    "text": "歡迎收看今天9月5號的公視手語新聞"
   },
   {
-    "start": 22.32,
+    "sequence": 4,
+    "start": 18.68,
+    "duration": 3.080000000000002,
+    "text": "首先來關心"
+  },
+  {
+    "sequence": 5,
+    "start": 21.76,
+    "duration": 3.1199999999999974,
+    "text": "市場傳出房貸荒"
+  },
+  {
+    "sequence": 6,
+    "start": 24.88,
+    "duration": 3.6799999999999997,
+    "text": "民眾要買房貸不到款"
+  },
+  {
+    "sequence": 7,
+    "start": 28.56,
+    "duration": 4.040000000000003,
+    "text": "而為了支持青年購屋自住的需求"
+  },
+  {
+    "sequence": 8,
+    "start": 32.6,
+    "duration": 3.1999999999999957,
+    "text": "行政府會昨天宣布"
+  },
+  {
+    "sequence": 9,
+    "start": 35.8,
     "duration": 3,
-    "text": "市場傳出房貸荒",
-    "hasSignLanguage": true
+    "text": "打開房貸水龍頭"
   },
   {
-    "start": 25.56,
-    "duration": 4,
-    "text": "民眾要買房貸不到款",
-    "hasSignLanguage": true
+    "sequence": 10,
+    "start": 38.8,
+    "duration": 7.32,
+    "text": "銀行法第72條之二的不動產放款比例30%的上限限制"
   },
   {
-    "start": 29.34,
-    "duration": 4,
-    "text": "而為了支持青年購屋自住的需求",
-    "hasSignLanguage": true
+    "sequence": 11,
+    "start": 46.12,
+    "duration": 2.8400000000000034,
+    "text": "確定排除了行情安"
   },
   {
-    "start": 33.46,
-    "duration": 3,
-    "text": "行政院會昨天宣布",
-    "hasSignLanguage": true
+    "sequence": 12,
+    "start": 48.96,
+    "duration": 4.600000000000001,
+    "text": "並且追溯從9月1號起使用"
   },
   {
-    "start": 36.56,
-    "duration": 3,
-    "text": "打開房貸水龍頭",
-    "hasSignLanguage": true
+    "sequence": 13,
+    "start": 53.56,
+    "duration": 5.68,
+    "text": "房貸水龍頭打開了嗎"
   },
   {
-    "start": 39.44,
-    "duration": 4,
-    "text": "銀行法第72條之二的不動產放款比例",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 43.66,
-    "duration": 3,
-    "text": "30%的上限限制",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 46.5,
-    "duration": 4,
-    "text": "確定排除了行情安",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 50,
-    "duration": 3,
-    "text": "並且追溯從9月1號起使用",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 57.3,
-    "duration": 2,
-    "text": "房貸水龍頭打開了嗎",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 14,
     "start": 59.24,
-    "duration": 1,
-    "text": "行政院會宣布",
-    "hasSignLanguage": false
+    "duration": 2.6400000000000006,
+    "text": "行政府會宣布從9月1號開始"
   },
   {
-    "start": 60.46,
-    "duration": 1,
-    "text": "從9月1號開始",
-    "hasSignLanguage": false
+    "sequence": 15,
+    "start": 61.88,
+    "duration": 3.8000000000000043,
+    "text": "只要是新青安申貸不再受銀行法30%的限制"
   },
   {
-    "start": 61.9,
-    "duration": 4,
-    "text": "只要是新青安申貸不再受銀行法30%的限制",
-    "hasSignLanguage": false
+    "sequence": 16,
+    "start": 65.68,
+    "duration": 2.1599999999999966,
+    "text": "已經問了房仲或是問銀行"
   },
   {
-    "start": 76.5,
-    "duration": 2,
-    "text": "今年37歲的蘇先生",
-    "hasSignLanguage": false
+    "sequence": 17,
+    "start": 67.84,
+    "duration": 1.4399999999999977,
+    "text": "現在要貸都比較困難"
   },
   {
-    "start": 78.54,
-    "duration": 2,
-    "text": "因符合新青安資格",
-    "hasSignLanguage": false
+    "sequence": 18,
+    "start": 69.28,
+    "duration": 3.0799999999999983,
+    "text": "那當然現在如果開放了之後比較放寬了"
   },
   {
-    "start": 80.34,
-    "duration": 2,
-    "text": "原先想在雙北近市區的地點",
-    "hasSignLanguage": false
+    "sequence": 19,
+    "start": 72.36,
+    "duration": 4.159999999999997,
+    "text": "讓我們會願意去貸這個新青安的意願就會比較提高"
   },
   {
+    "sequence": 20,
+    "start": 76.52,
+    "duration": 3.799999999999997,
+    "text": "今年37歲的蘇先生因符合新青安資格"
+  },
+  {
+    "sequence": 21,
+    "start": 80.32,
+    "duration": 2.280000000000001,
+    "text": "原先想在雙北近市區的地點"
+  },
+  {
+    "sequence": 22,
     "start": 82.6,
-    "duration": 2,
-    "text": "買約1500萬元的兩人房",
-    "hasSignLanguage": false
+    "duration": 2.3599999999999994,
+    "text": "買約1500萬元的兩人房"
   },
   {
+    "sequence": 23,
     "start": 84.96,
-    "duration": 3,
-    "text": "先前卻因為等不到新青安核貸貸款",
-    "hasSignLanguage": false
+    "duration": 3.760000000000005,
+    "text": "先前卻因為等不到新青安核貸貸款不敢買房"
   },
   {
-    "start": 87.64,
-    "duration": 1,
-    "text": "不敢買房",
-    "hasSignLanguage": false
+    "sequence": 24,
+    "start": 88.72,
+    "duration": 1.2800000000000011,
+    "text": "據今晚會統計"
   },
   {
-    "start": 88.74,
-    "duration": 1,
-    "text": "據金管會統計",
-    "hasSignLanguage": false
+    "sequence": 25,
+    "start": 90,
+    "duration": 2.6400000000000006,
+    "text": "新青安從2023年8月上路以來"
   },
   {
-    "start": 90.04,
-    "duration": 3,
-    "text": "新青安從2023年8月上路以來",
-    "hasSignLanguage": false
+    "sequence": 26,
+    "start": 92.64,
+    "duration": 1.3199999999999932,
+    "text": "直到今年7月底"
   },
   {
-    "start": 92.66,
-    "duration": 1,
-    "text": "直到今年7月底",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 27,
     "start": 93.96,
+    "duration": 2.0800000000000125,
+    "text": "已經核貸將近13萬戶"
+  },
+  {
+    "sequence": 28,
+    "start": 96.04,
     "duration": 2,
-    "text": "已經核貸將近13萬戶",
-    "hasSignLanguage": false
+    "text": "金額超過9900億"
   },
   {
-    "start": 96.06,
-    "duration": 2,
-    "text": "金額超過9900億",
-    "hasSignLanguage": false
+    "sequence": 29,
+    "start": 98.04,
+    "duration": 1.6400000000000006,
+    "text": "分析核貸年齡占比"
   },
   {
-    "start": 98.06,
-    "duration": 2,
-    "text": "分析核貸年齡占比",
-    "hasSignLanguage": false
+    "sequence": 30,
+    "start": 99.68,
+    "duration": 5,
+    "text": "貸款民眾的年齡超過七成以上都是39歲以下的青壯年"
   },
   {
-    "start": 99.7,
-    "duration": 3,
-    "text": "貸款民眾的年齡超過七成以上",
-    "hasSignLanguage": false
+    "sequence": 31,
+    "start": 104.68,
+    "duration": 3.1199999999999903,
+    "text": "40到49歲民眾占22%"
   },
   {
-    "start": 102.24,
-    "duration": 2,
-    "text": "都是39歲以下的青壯年",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 104.7,
-    "duration": 3,
-    "text": "40到49歲民眾占22%",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 32,
     "start": 107.8,
-    "duration": 2,
-    "text": "50歲以上則占5%",
-    "hasSignLanguage": false
+    "duration": 2.1200000000000045,
+    "text": "50歲以上則占5%"
   },
   {
-    "start": 109.9,
-    "duration": 2,
-    "text": "經過財政部強烈的要求",
-    "hasSignLanguage": false
+    "sequence": 33,
+    "start": 109.92,
+    "duration": 4.239999999999995,
+    "text": "經過財政部強烈的要求公府行務必須要落實徵審"
   },
   {
-    "start": 111.8,
-    "duration": 2,
-    "text": "公股行務必須要落實徵審",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 34,
     "start": 114.16,
-    "duration": 1,
-    "text": "跟貸款後管理",
-    "hasSignLanguage": false
+    "duration": 3.3599999999999994,
+    "text": "跟貸款後管理整個新青安的一個放寬"
   },
   {
-    "start": 115.54,
-    "duration": 2,
-    "text": "整個新青安的一個放款",
-    "hasSignLanguage": false
+    "sequence": 35,
+    "start": 117.52,
+    "duration": 5.1200000000000045,
+    "text": "幾乎都已經回歸到符合財政部政策目的的這些受信對象"
   },
   {
-    "start": 117.5,
-    "duration": 2,
-    "text": "幾乎都已經回歸到",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 119.3,
-    "duration": 2,
-    "text": "五合財政部政策目的的",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 121.2,
-    "duration": 1,
-    "text": "這些授信對象",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 36,
     "start": 122.64,
-    "duration": 2,
-    "text": "就怕鬆綁銀行法後遭濫用",
-    "hasSignLanguage": false
+    "duration": 2.4000000000000057,
+    "text": "就怕鬆綁銀行法後遭濫用"
   },
   {
-    "start": 125,
-    "duration": 2,
-    "text": "金管會銀行局表示",
-    "hasSignLanguage": false
+    "sequence": 37,
+    "start": 125.04,
+    "duration": 1.5999999999999943,
+    "text": "監管會銀行局表示"
   },
   {
-    "start": 126.6,
-    "duration": 2,
-    "text": "核貸前會請銀行確認",
-    "hasSignLanguage": false
+    "sequence": 38,
+    "start": 126.64,
+    "duration": 3.239999999999995,
+    "text": "核貸前會請銀行確認是否為自住使用"
   },
   {
-    "start": 128.24,
-    "duration": 2,
-    "text": "是否為自住使用",
-    "hasSignLanguage": false
+    "sequence": 39,
+    "start": 129.88,
+    "duration": 3.240000000000009,
+    "text": "每人現貸一次還得提自住切結書"
   },
   {
-    "start": 129.86,
-    "duration": 1,
-    "text": "每人現貸一次",
-    "hasSignLanguage": false
+    "sequence": 40,
+    "start": 133.12,
+    "duration": 2.9199999999999875,
+    "text": "核貸後如果查到轉租等不合規行為"
   },
   {
-    "start": 131.2,
-    "duration": 2,
-    "text": "還得提自住切結書",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 133.1,
-    "duration": 3,
-    "text": "核貸後如果查到轉租等不合規行為",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 41,
     "start": 136.04,
-    "duration": 3,
-    "text": "會追回補貼利息調整貸款條件",
-    "hasSignLanguage": false
+    "duration": 2.920000000000016,
+    "text": "會追回補貼利息調整貸款條件"
   },
   {
-    "start": 138.94,
+    "sequence": 42,
+    "start": 138.96,
+    "duration": 2.4000000000000057,
+    "text": "目前已追回5421件"
+  },
+  {
+    "sequence": 43,
+    "start": 141.36,
     "duration": 2,
-    "text": "目前已追回5421件",
-    "hasSignLanguage": false
+    "text": "金額超過台幣一億元"
   },
   {
-    "start": 141.34,
+    "sequence": 44,
+    "start": 143.36,
     "duration": 2,
-    "text": "金額超過臺幣1億元",
-    "hasSignLanguage": false
+    "text": "房貸荒要徹底解決的話"
   },
   {
-    "start": 143.34,
-    "duration": 2,
-    "text": "房貸荒要徹底解決的話",
-    "hasSignLanguage": false
+    "sequence": 45,
+    "start": 145.36,
+    "duration": 2.799999999999983,
+    "text": "第一是中央銀行針對不動產放款期中度"
   },
   {
-    "start": 145.34,
-    "duration": 3,
-    "text": "第一是央行針對不動產放款期中度",
-    "hasSignLanguage": false
+    "sequence": 46,
+    "start": 148.16,
+    "duration": 2.8400000000000034,
+    "text": "要訂出明確的遊戲規則"
   },
   {
-    "start": 148.14,
-    "duration": 3,
-    "text": "要訂出明確的遊戲規則",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 47,
     "start": 151,
-    "duration": 3,
-    "text": "到底銀行降到多少算是及格線",
-    "hasSignLanguage": false
+    "duration": 3.4000000000000057,
+    "text": "到底銀行降到多少算是及格線"
   },
   {
+    "sequence": 48,
     "start": 154.4,
-    "duration": 2,
-    "text": "那如果遊戲規則沒有講清楚",
-    "hasSignLanguage": false
+    "duration": 2.039999999999992,
+    "text": "那如果遊戲規則沒有講清楚"
   },
   {
+    "sequence": 49,
     "start": 156.44,
-    "duration": 1,
-    "text": "大家都在揣摩上意",
-    "hasSignLanguage": false
+    "duration": 1.4399999999999977,
+    "text": "大家都在揣摩上意"
   },
   {
+    "sequence": 50,
     "start": 157.88,
-    "duration": 2,
-    "text": "當然在房貸放款上",
-    "hasSignLanguage": false
+    "duration": 3.8000000000000114,
+    "text": "當然在房貸放款上就會相對比較保守一點"
   },
   {
-    "start": 159.6,
-    "duration": 2,
-    "text": "就會相對比較保守一點",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 51,
     "start": 161.68,
-    "duration": 2,
-    "text": "金管會表示回溯日期",
-    "hasSignLanguage": false
+    "duration": 2.9599999999999795,
+    "text": "監管會表示回溯日期會定在9月1號"
   },
   {
-    "start": 163.28,
-    "duration": 1,
-    "text": "會定在九月一號",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 52,
     "start": 164.64,
-    "duration": 2,
-    "text": "是因為如果追溯再往前",
-    "hasSignLanguage": false
+    "duration": 1.7600000000000193,
+    "text": "是因為如果追溯再往前"
   },
   {
+    "sequence": 53,
     "start": 166.4,
-    "duration": 1,
-    "text": "量能突然擴大",
-    "hasSignLanguage": false
+    "duration": 1.4000000000000057,
+    "text": "量能突然擴大"
   },
   {
+    "sequence": 54,
     "start": 167.8,
-    "duration": 2,
-    "text": "可能會影響房地產市場",
-    "hasSignLanguage": false
+    "duration": 1.839999999999975,
+    "text": "可能會影響房地產市場"
   },
   {
+    "sequence": 55,
     "start": 169.64,
-    "duration": 1,
-    "text": "據財政部統計",
-    "hasSignLanguage": false
+    "duration": 1.3200000000000216,
+    "text": "據財政部統計"
   },
   {
-    "start": 171,
-    "duration": 2,
-    "text": "8月公股銀行受理新青安貸款",
-    "hasSignLanguage": false
+    "sequence": 56,
+    "start": 170.96,
+    "duration": 2.519999999999982,
+    "text": "8月宮古銀行受理新遷貸款"
   },
   {
+    "sequence": 57,
     "start": 173.48,
-    "duration": 3,
-    "text": "核貸還沒撥款約一萬兩千多件",
-    "hasSignLanguage": false
+    "duration": 2.640000000000015,
+    "text": "核貸還沒撥款約一萬兩千多件"
   },
   {
+    "sequence": 58,
     "start": 176.12,
-    "duration": 2,
-    "text": "一千兩百餘億元",
-    "hasSignLanguage": false
+    "duration": 1.5600000000000023,
+    "text": "一千兩百餘億元"
   },
   {
+    "sequence": 59,
     "start": 177.68,
-    "duration": 2,
-    "text": "公視新聞綜合報導",
-    "hasSignLanguage": true
+    "duration": 3.319999999999993,
+    "text": "公視新聞綜合報導"
   },
   {
-    "start": 181.02,
-    "duration": 4,
-    "text": "行政院公布四項穩居政策",
-    "hasSignLanguage": true
+    "sequence": 60,
+    "start": 181,
+    "duration": 4.0800000000000125,
+    "text": "行政府公布四項穩居政策"
   },
   {
+    "sequence": 61,
     "start": 185.08,
+    "duration": 4.119999999999976,
+    "text": "包括將從社會住宅當中"
+  },
+  {
+    "sequence": 62,
+    "start": 189.2,
+    "duration": 4.680000000000007,
+    "text": "釋出1.1萬戶的婚育宅"
+  },
+  {
+    "sequence": 63,
+    "start": 193.88,
+    "duration": 3.960000000000008,
+    "text": "要育有零歲到六歲孩童的家庭"
+  },
+  {
+    "sequence": 64,
+    "start": 197.84,
+    "duration": 3.6399999999999864,
+    "text": "可以住滿12年"
+  },
+  {
+    "sequence": 65,
+    "start": 201.48,
+    "duration": 4.760000000000019,
+    "text": "而另外也擴大了租金補貼範圍"
+  },
+  {
+    "sequence": 66,
+    "start": 206.24,
+    "duration": 3.280000000000001,
+    "text": "新婚加碼1.5倍"
+  },
+  {
+    "sequence": 67,
+    "start": 209.52,
+    "duration": 5.119999999999976,
+    "text": "每增加一名孩童再增加0.5倍"
+  },
+  {
+    "sequence": 68,
+    "start": 214.64,
+    "duration": 5.760000000000019,
+    "text": "鼓勵年輕人趕婚也願意生養小孩"
+  },
+  {
+    "sequence": 69,
+    "start": 220.4,
+    "duration": 4.039999999999992,
+    "text": "預估將投入經費269億元"
+  },
+  {
+    "sequence": 70,
+    "start": 224.44,
+    "duration": 4.960000000000008,
+    "text": "整體受益達48萬戶"
+  },
+  {
+    "sequence": 71,
+    "start": 229.4,
+    "duration": 2.5999999999999943,
+    "text": "30歲的陳小姐去年才剛結婚"
+  },
+  {
+    "sequence": 72,
+    "start": 232,
+    "duration": 2.1999999999999886,
+    "text": "她和先生兩人都是上班族"
+  },
+  {
+    "sequence": 73,
+    "start": 234.2,
+    "duration": 1.7600000000000193,
+    "text": "目前在新北市租屋"
+  },
+  {
+    "sequence": 74,
+    "start": 235.96,
+    "duration": 1.5999999999999943,
+    "text": "光是幫平大的小套房"
+  },
+  {
+    "sequence": 75,
+    "start": 237.56,
+    "duration": 1.8000000000000114,
+    "text": "每個月租金就要一萬多"
+  },
+  {
+    "sequence": 76,
+    "start": 239.36,
+    "duration": 2.119999999999976,
+    "text": "還不包含水電 瓦斯 三餐"
+  },
+  {
+    "sequence": 77,
+    "start": 241.48,
+    "duration": 1.6400000000000148,
+    "text": "及其他生活開銷"
+  },
+  {
+    "sequence": 78,
+    "start": 243.12,
+    "duration": 1.6800000000000068,
+    "text": "目前夫妻倆共同目標"
+  },
+  {
+    "sequence": 79,
+    "start": 244.8,
+    "duration": 2.039999999999992,
+    "text": "就是努力存錢買房子"
+  },
+  {
+    "sequence": 80,
+    "start": 246.84,
+    "duration": 2.1200000000000045,
+    "text": "暫時還不考慮生養小孩"
+  },
+  {
+    "sequence": 81,
+    "start": 248.96,
     "duration": 4,
-    "text": "包括將從社會住宅當中",
-    "hasSignLanguage": true
+    "text": "除了住之外 像勞動環境"
   },
   {
-    "start": 189.22,
-    "duration": 5,
-    "text": "釋出1.1萬戶的婚育宅",
-    "hasSignLanguage": true
+    "sequence": 82,
+    "start": 252.96,
+    "duration": 2.5600000000000023,
+    "text": "然後還有整體的"
   },
   {
-    "start": 193.84,
-    "duration": 4,
-    "text": "讓育有0歲到6歲孩童的家庭",
-    "hasSignLanguage": true
+    "sequence": 83,
+    "start": 255.52,
+    "duration": 1.6799999999999784,
+    "text": "可能因為物資"
   },
   {
-    "start": 197.82,
-    "duration": 4,
-    "text": "可以住滿12年",
-    "hasSignLanguage": true
+    "sequence": 84,
+    "start": 257.2,
+    "duration": 1.1200000000000045,
+    "text": "就是每一年都在漲"
   },
   {
-    "start": 201.44,
-    "duration": 5,
-    "text": "而另外也擴大了租金補貼範圍",
-    "hasSignLanguage": true
+    "sequence": 85,
+    "start": 258.32,
+    "duration": 1.5600000000000023,
+    "text": "但是我們的薪水也都沒有漲"
   },
   {
-    "start": 206.2,
-    "duration": 3,
-    "text": "新婚加碼1.5倍",
-    "hasSignLanguage": true
+    "sequence": 86,
+    "start": 259.88,
+    "duration": 1.4399999999999977,
+    "text": "那沒辦法給他最好的情況之下"
   },
   {
-    "start": 209.5,
-    "duration": 2,
-    "text": "每增加一名孩童",
-    "hasSignLanguage": true
+    "sequence": 87,
+    "start": 261.32,
+    "duration": 2.319999999999993,
+    "text": "我可能會先暫時考慮"
   },
   {
-    "start": 211.5,
-    "duration": 3,
-    "text": "再增加0.5倍",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 214.6,
-    "duration": 2,
-    "text": "鼓勵年輕人趕婚",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 217.04,
-    "duration": 3,
-    "text": "也願意生養小孩",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 220.34,
-    "duration": 4,
-    "text": "預估將投入經費269億元",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 224.4,
-    "duration": 3,
-    "text": "整體受益達48萬戶",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 229.38,
-    "duration": 1,
-    "text": "30歲的陳小姐",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 230.68,
-    "duration": 1,
-    "text": "去年才剛結婚",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 231.98,
-    "duration": 2,
-    "text": "她和先生兩人都是上班族",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 234.18,
-    "duration": 2,
-    "text": "目前在新北市租屋",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 235.94,
-    "duration": 2,
-    "text": "光是幫平大的小套房",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 237.54,
-    "duration": 2,
-    "text": "每個月租金就要一萬多",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 239.34,
-    "duration": 2,
-    "text": "還不包含水電瓦斯",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 240.94,
-    "duration": 2,
-    "text": "三餐及其他生活開銷",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 243.08,
-    "duration": 2,
-    "text": "目前夫妻倆共同目標",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 244.78,
-    "duration": 2,
-    "text": "就是努力存錢買房子",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 246.82,
-    "duration": 2,
-    "text": "暫時還不考慮生養小孩",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 248.92,
-    "duration": 2,
-    "text": "除了住之外",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 251.02,
-    "duration": 2,
-    "text": "像勞動環境",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 252.92,
-    "duration": 3,
-    "text": "然後還有整體的",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 255.48,
-    "duration": 2,
-    "text": "可能因為物資",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 257.14,
-    "duration": 1,
-    "text": "就是每一年都在漲",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 258.28,
-    "duration": 2,
-    "text": "但是我們的薪水都沒有漲",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 259.84,
-    "duration": 1,
-    "text": "那沒辦法給他最好的情況之下",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 261.28,
-    "duration": 2,
-    "text": "我可能會先暫時考慮",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 88,
     "start": 263.64,
-    "duration": 2,
-    "text": "就是緩一緩然後繼續存錢",
-    "hasSignLanguage": false
+    "duration": 1.6800000000000068,
+    "text": "就是緩一緩然後繼續存錢"
   },
   {
-    "start": 265.3,
-    "duration": 1,
-    "text": "其實類似陳小姐",
-    "hasSignLanguage": false
+    "sequence": 89,
+    "start": 265.32,
+    "duration": 1.1200000000000045,
+    "text": "其實類似陳小姐"
   },
   {
+    "sequence": 90,
     "start": 266.44,
-    "duration": 2,
-    "text": "這樣的新婚夫妻還很多",
-    "hasSignLanguage": false
+    "duration": 1.839999999999975,
+    "text": "這樣的新婚夫妻還很多"
   },
   {
+    "sequence": 91,
     "start": 268.28,
-    "duration": 1,
-    "text": "而為了鼓勵年輕人",
-    "hasSignLanguage": false
+    "duration": 2.0400000000000205,
+    "text": "而為了鼓勵年輕人敢結婚"
   },
   {
-    "start": 269.58,
-    "duration": 2,
-    "text": "趕結婚願意生",
-    "hasSignLanguage": false
+    "sequence": 92,
+    "start": 270.32,
+    "duration": 1.7200000000000273,
+    "text": "願意生 行政府公佈"
   },
   {
-    "start": 271.18,
-    "duration": 1,
-    "text": "行政院公佈",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 93,
     "start": 272.04,
-    "duration": 2,
-    "text": "七年婚育租屋協助方案",
-    "hasSignLanguage": false
+    "duration": 2.2399999999999523,
+    "text": "七年婚育租屋協助方案"
   },
   {
+    "sequence": 94,
     "start": 274.28,
-    "duration": 1,
-    "text": "其中包括社會宅",
-    "hasSignLanguage": false
+    "duration": 1.2800000000000296,
+    "text": "其中包括社會宅"
   },
   {
-    "start": 275.54,
-    "duration": 2,
-    "text": "將釋出兩成作為婚育宅",
-    "hasSignLanguage": false
+    "sequence": 95,
+    "start": 275.56,
+    "duration": 2.4399999999999977,
+    "text": "將釋出兩成作為婚育宅"
   },
   {
+    "sequence": 96,
     "start": 278,
-    "duration": 2,
-    "text": "讓育有零歲到六歲小孩的家庭",
-    "hasSignLanguage": false
+    "duration": 2.3999999999999773,
+    "text": "讓育有零歲到六歲小孩的家庭"
   },
   {
+    "sequence": 97,
     "start": 280.4,
-    "duration": 1,
-    "text": "能住滿十二年",
-    "hasSignLanguage": false
+    "duration": 1.4800000000000182,
+    "text": "能住滿十二年"
   },
   {
+    "sequence": 98,
     "start": 281.88,
-    "duration": 3,
-    "text": "預計今年底前將釋出一千戶",
-    "hasSignLanguage": false
+    "duration": 2.680000000000007,
+    "text": "預計今年底前將釋出一千戶"
   },
   {
-    "start": 284.58,
-    "duration": 2,
-    "text": "未來三年內再釋出一萬戶",
-    "hasSignLanguage": false
+    "sequence": 99,
+    "start": 284.56,
+    "duration": 2.3600000000000136,
+    "text": "未來三年內再釋出一萬戶"
   },
   {
-    "start": 286.94,
-    "duration": 2,
-    "text": "而在包租代管社會宅部分",
-    "hasSignLanguage": false
+    "sequence": 100,
+    "start": 286.92,
+    "duration": 2.240000000000009,
+    "text": "而在包租代管社會宅部分"
   },
   {
-    "start": 289.18,
-    "duration": 3,
-    "text": "育有未成年子女或新婚家庭",
-    "hasSignLanguage": false
+    "sequence": 101,
+    "start": 289.16,
+    "duration": 2.519999999999982,
+    "text": "育有未成年子女或新婚家庭"
   },
   {
-    "start": 291.7,
-    "duration": 2,
-    "text": "提供育兒安全設施補助",
-    "hasSignLanguage": false
+    "sequence": 102,
+    "start": 291.68,
+    "duration": 1.9599999999999795,
+    "text": "提供育兒安全設施補助"
   },
   {
+    "sequence": 103,
     "start": 293.64,
-    "duration": 2,
-    "text": "每年最高六千元",
-    "hasSignLanguage": false
+    "duration": 1.8000000000000114,
+    "text": "每年最高六千元"
   },
   {
-    "start": 295.48,
-    "duration": 1,
-    "text": "在婚育宅的部分",
-    "hasSignLanguage": false
+    "sequence": 104,
+    "start": 295.44,
+    "duration": 1.079999999999984,
+    "text": "在婚育宅的部分"
   },
   {
-    "start": 296.54,
-    "duration": 1,
-    "text": "我們會在今年度",
-    "hasSignLanguage": false
+    "sequence": 105,
+    "start": 296.52,
+    "duration": 2.920000000000016,
+    "text": "我們會在今年度就會釋出一千戶"
   },
   {
-    "start": 297.84,
-    "duration": 2,
-    "text": "就會釋出一千戶",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 106,
     "start": 299.44,
-    "duration": 2,
-    "text": "那在二零二六到二零二八",
-    "hasSignLanguage": false
+    "duration": 1.6800000000000068,
+    "text": "那在二零二六到二零二八"
   },
   {
-    "start": 301.14,
-    "duration": 3,
-    "text": "未來會釋出一萬戶的社會住宅",
-    "hasSignLanguage": false
+    "sequence": 107,
+    "start": 301.12,
+    "duration": 2.519999999999982,
+    "text": "未來會釋出一萬戶的社會住宅"
   },
   {
+    "sequence": 108,
     "start": 303.64,
-    "duration": 2,
-    "text": "來提供給新年婚育宅來使用",
-    "hasSignLanguage": false
+    "duration": 2.400000000000034,
+    "text": "來提供給新年婚育宅來使用"
   },
   {
-    "start": 306.08,
-    "duration": 1,
-    "text": "租金補貼的部分",
-    "hasSignLanguage": false
+    "sequence": 109,
+    "start": 306.04,
+    "duration": 1.2799999999999727,
+    "text": "租金補貼的部分"
   },
   {
-    "start": 307.34,
-    "duration": 3,
-    "text": "我們為了要鼓勵結婚育兒的話",
-    "hasSignLanguage": false
+    "sequence": 110,
+    "start": 307.32,
+    "duration": 2.9599999999999795,
+    "text": "我們為了要鼓勵結婚育兒的話"
   },
   {
-    "start": 310.34,
-    "duration": 2,
-    "text": "新婚加碼百分之五十",
-    "hasSignLanguage": false
+    "sequence": 111,
+    "start": 310.28,
+    "duration": 1.8800000000000523,
+    "text": "新婚加碼百分之五十"
   },
   {
-    "start": 312.18,
-    "duration": 3,
-    "text": "每多生一胎再多加碼百分之五十",
-    "hasSignLanguage": false
+    "sequence": 112,
+    "start": 312.16,
+    "duration": 2.7199999999999704,
+    "text": "每多生一胎再多加碼百分之五十"
   },
   {
-    "start": 314.9,
-    "duration": 1,
-    "text": "內政部強調",
-    "hasSignLanguage": false
+    "sequence": 113,
+    "start": 314.88,
+    "duration": 0.8000000000000114,
+    "text": "內政部強調"
   },
   {
-    "start": 315.7,
-    "duration": 3,
-    "text": "九月底將提出租賃條例修法",
-    "hasSignLanguage": false
+    "sequence": 114,
+    "start": 315.68,
+    "duration": 2.599999999999966,
+    "text": "九月底將提出租賃條例修法"
   },
   {
-    "start": 318.3,
-    "duration": 2,
-    "text": "包含保障三年租期",
-    "hasSignLanguage": false
+    "sequence": 115,
+    "start": 318.28,
+    "duration": 1.8400000000000318,
+    "text": "包含保障三年租期"
   },
   {
-    "start": 320.16,
-    "duration": 1,
-    "text": "續約租金漲幅",
-    "hasSignLanguage": false
+    "sequence": 116,
+    "start": 320.12,
+    "duration": 1.2799999999999727,
+    "text": "續約租金漲幅"
   },
   {
-    "start": 321.44,
-    "duration": 3,
-    "text": "不得超過當月房租指數年增率",
-    "hasSignLanguage": false
+    "sequence": 117,
+    "start": 321.4,
+    "duration": 2.7600000000000477,
+    "text": "不得超過當月房租指數年增率"
   },
   {
+    "sequence": 118,
     "start": 324.16,
-    "duration": 2,
-    "text": "如果房東拒絕房客",
-    "hasSignLanguage": false
+    "duration": 1.5600000000000023,
+    "text": "如果房東拒絕房客"
   },
   {
-    "start": 325.7,
-    "duration": 3,
-    "text": "申請租金補貼與簽入戶籍將受罰",
-    "hasSignLanguage": false
+    "sequence": 119,
+    "start": 325.72,
+    "duration": 3.4399999999999977,
+    "text": "申請租金補貼與簽入戶籍將受罰"
   },
   {
+    "sequence": 120,
     "start": 329.16,
-    "duration": 2,
-    "text": "另外租屋如果有相關糾紛",
-    "hasSignLanguage": false
+    "duration": 2.079999999999984,
+    "text": "另外租屋如果有相關糾紛"
   },
   {
-    "start": 331.26,
-    "duration": 2,
-    "text": "政府將免費提供條件",
-    "hasSignLanguage": false
+    "sequence": 121,
+    "start": 331.24,
+    "duration": 2.1200000000000045,
+    "text": "政府將免費提供條件"
   },
   {
+    "sequence": 122,
     "start": 333.36,
-    "duration": 1,
-    "text": "公視新聞",
-    "hasSignLanguage": false
+    "duration": 4.680000000000007,
+    "text": "公視新聞賴淑敏 蔣龍祥 邱副材 台北報導"
   },
   {
-    "start": 333.9,
-    "duration": 2,
-    "text": "賴淑敏講龍翔 邱福財台北報導",
-    "hasSignLanguage": false
+    "sequence": 123,
+    "start": 338.04,
+    "duration": 5.399999999999977,
+    "text": "上班族要兼顧職場和家庭相當不容易"
   },
   {
-    "start": 338.06,
-    "duration": 3,
-    "text": "上班族要兼顧職場和家庭",
-    "hasSignLanguage": true
+    "sequence": 124,
+    "start": 343.44,
+    "duration": 3.4399999999999977,
+    "text": "而為了讓時間的運用更有彈性"
   },
   {
-    "start": 341.1,
-    "duration": 2,
-    "text": "相當不容易",
-    "hasSignLanguage": true
+    "sequence": 125,
+    "start": 346.88,
+    "duration": 3.9599999999999795,
+    "text": "未來育嬰留庭將有三十天"
   },
   {
-    "start": 343.46,
-    "duration": 3,
-    "text": "而為了讓時間的運用更有彈性",
-    "hasSignLanguage": true
+    "sequence": 126,
+    "start": 350.84,
+    "duration": 3.0400000000000205,
+    "text": "可以按日來請假"
   },
   {
-    "start": 346.9,
-    "duration": 4,
-    "text": "未來育嬰留庭將有三十天",
-    "hasSignLanguage": true
+    "sequence": 127,
+    "start": 353.88,
+    "duration": 3.9599999999999795,
+    "text": "雙親合計可以有六十天的假"
   },
   {
-    "start": 350.86,
-    "duration": 3,
-    "text": "可以按日來請假",
-    "hasSignLanguage": true
+    "sequence": 128,
+    "start": 357.84,
+    "duration": 1.9600000000000364,
+    "text": "至於家庭照顧假"
   },
   {
-    "start": 353.86,
-    "duration": 4,
-    "text": "雙親合計可以有六十天的假",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 357.86,
-    "duration": 2,
-    "text": "至於家庭照顧假",
-    "hasSignLanguage": true
-  },
-  {
+    "sequence": 129,
     "start": 359.8,
-    "duration": 4,
-    "text": "也可以按小十為單位來申請",
-    "hasSignLanguage": true
+    "duration": 4.199999999999989,
+    "text": "也可以按小時為單位來申請"
   },
   {
-    "start": 363.96,
-    "duration": 2,
-    "text": "而除了勞工之外",
-    "hasSignLanguage": true
+    "sequence": 130,
+    "start": 364,
+    "duration": 1.6800000000000068,
+    "text": "而除了勞工之外"
   },
   {
-    "start": 365.66,
-    "duration": 3,
-    "text": "軍公教也適用",
-    "hasSignLanguage": true
+    "sequence": 131,
+    "start": 365.68,
+    "duration": 2.839999999999975,
+    "text": "軍公教也適用"
   },
   {
-    "start": 368.5,
-    "duration": 4,
-    "text": "預計明年元旦上路",
-    "hasSignLanguage": true
+    "sequence": 132,
+    "start": 368.52,
+    "duration": 4.28000000000003,
+    "text": "預計明年元旦上路"
   },
   {
-    "start": 372.76,
-    "duration": 3,
-    "text": "不過民間團體也建議",
-    "hasSignLanguage": true
+    "sequence": 133,
+    "start": 372.8,
+    "duration": 3.079999999999984,
+    "text": "不過民間團體也建議"
   },
   {
-    "start": 375.84,
-    "duration": 3,
-    "text": "可以學歐洲國家",
-    "hasSignLanguage": true
+    "sequence": 134,
+    "start": 375.88,
+    "duration": 3.6399999999999864,
+    "text": "可以學歐洲國家育嬰留庭"
   },
   {
-    "start": 378.34,
-    "duration": 5,
-    "text": "育嬰留庭以一個小時彈性申請",
-    "hasSignLanguage": true
+    "sequence": 135,
+    "start": 379.52,
+    "duration": 3.5600000000000023,
+    "text": "以一個小時彈性申請"
   },
   {
-    "start": 383.04,
-    "duration": 5,
-    "text": "並將適用小孩的年齡延長到八歲",
-    "hasSignLanguage": true
+    "sequence": 136,
+    "start": 383.08,
+    "duration": 5.160000000000025,
+    "text": "並將適用小孩的年齡延長到八歲"
   },
   {
+    "sequence": 137,
     "start": 388.24,
-    "duration": 3,
-    "text": "也呼籲雇主提供更多薪資",
-    "hasSignLanguage": true
+    "duration": 2.680000000000007,
+    "text": "也呼籲僱主提供更多薪資"
   },
   {
-    "start": 390.9,
-    "duration": 3,
-    "text": "給請假者的職務代理人",
-    "hasSignLanguage": true
+    "sequence": 138,
+    "start": 390.92,
+    "duration": 2.8799999999999955,
+    "text": "給請假者的職務代理人"
   },
   {
-    "start": 393.78,
-    "duration": 4,
-    "text": "避免職場敵視問題",
-    "hasSignLanguage": true
+    "sequence": 139,
+    "start": 393.8,
+    "duration": 4.319999999999993,
+    "text": "避免職場敵視問題"
   },
   {
-    "start": 398.1,
-    "duration": 2,
-    "text": "職場與家庭兩頭燒",
-    "hasSignLanguage": false
+    "sequence": 140,
+    "start": 398.12,
+    "duration": 1.5199999999999818,
+    "text": "職場與家庭兩頭燒"
   },
   {
-    "start": 399.6,
-    "duration": 2,
-    "text": "是大部分上班族的寫照",
-    "hasSignLanguage": false
+    "sequence": 141,
+    "start": 399.64,
+    "duration": 1.8400000000000318,
+    "text": "是大部分上班族的寫照"
   },
   {
+    "sequence": 142,
     "start": 401.48,
-    "duration": 2,
-    "text": "職場媽媽施小姐坦言",
-    "hasSignLanguage": false
+    "duration": 1.6800000000000068,
+    "text": "職場媽媽施小姐坦言"
   },
   {
-    "start": 403.14,
-    "duration": 2,
-    "text": "之前在食品業工作",
-    "hasSignLanguage": false
+    "sequence": 143,
+    "start": 403.16,
+    "duration": 1.599999999999966,
+    "text": "之前在時平夜工作"
   },
   {
-    "start": 404.78,
-    "duration": 2,
-    "text": "就曾看過同事因為育嬰留庭",
-    "hasSignLanguage": false
+    "sequence": 144,
+    "start": 404.76,
+    "duration": 2.4399999999999977,
+    "text": "就曾看過同事因為育嬰留庭"
   },
   {
+    "sequence": 145,
     "start": 407.2,
-    "duration": 3,
-    "text": "面臨職場和育兒兩難的困境",
-    "hasSignLanguage": false
+    "duration": 2.8000000000000114,
+    "text": "面臨職場和育兒兩難的困境"
   },
   {
+    "sequence": 146,
     "start": 410,
-    "duration": 2,
-    "text": "人情壓力上面",
-    "hasSignLanguage": false
+    "duration": 1.5600000000000023,
+    "text": "人情壓力上面"
   },
   {
-    "start": 411.54,
-    "duration": 2,
-    "text": "那我也會去想說",
-    "hasSignLanguage": false
+    "sequence": 147,
+    "start": 411.56,
+    "duration": 1.839999999999975,
+    "text": "那我也會去想說"
   },
   {
-    "start": 413.74,
-    "duration": 2,
-    "text": "如果之後有小孩的話",
-    "hasSignLanguage": false
+    "sequence": 148,
+    "start": 413.4,
+    "duration": 2.240000000000009,
+    "text": "哇 如果我之後有小孩的話"
   },
   {
+    "sequence": 149,
     "start": 415.64,
-    "duration": 4,
-    "text": "那等於好像常常一直麻煩跟拜託別人",
-    "hasSignLanguage": false
+    "duration": 3.5600000000000023,
+    "text": "都等於好像要常常一直麻煩跟拜託別人"
   },
   {
-    "start": 419.24,
-    "duration": 2,
-    "text": "行政院四日院會通過勞動部",
-    "hasSignLanguage": false
+    "sequence": 150,
+    "start": 419.2,
+    "duration": 2.2800000000000296,
+    "text": "行政府四日院會通過勞動部"
   },
   {
+    "sequence": 151,
     "start": 421.48,
-    "duration": 2,
-    "text": "育嬰留庭照顧彈性化方案",
-    "hasSignLanguage": false
+    "duration": 2.3999999999999773,
+    "text": "育嬰留庭照顧彈性化方案"
   },
   {
-    "start": 423.9,
-    "duration": 3,
-    "text": "將育嬰留庭放寬為可按日請假",
-    "hasSignLanguage": false
+    "sequence": 152,
+    "start": 423.88,
+    "duration": 2.6399999999999864,
+    "text": "將育嬰留庭放寬為可按日勤詐"
   },
   {
-    "start": 426.54,
-    "duration": 3,
-    "text": "家庭照顧假可按小十申請",
-    "hasSignLanguage": false
+    "sequence": 153,
+    "start": 426.52,
+    "duration": 2.6000000000000227,
+    "text": "家庭照顧詐可按小時申請"
   },
   {
-    "start": 429.14,
-    "duration": 3,
-    "text": "預計將在明年元旦起正式實施",
-    "hasSignLanguage": false
+    "sequence": 154,
+    "start": 429.12,
+    "duration": 2.759999999999991,
+    "text": "預計將在明年元旦起正式實施"
   },
   {
+    "sequence": 155,
     "start": 431.88,
-    "duration": 2,
-    "text": "民眾多半看好",
-    "hasSignLanguage": false
+    "duration": 1.4800000000000182,
+    "text": "民眾多半看好"
   },
   {
-    "start": 433.38,
+    "sequence": 156,
+    "start": 433.36,
     "duration": 2,
-    "text": "不用兩邊很難兼顧",
-    "hasSignLanguage": false
+    "text": "不用兩邊很難兼顧"
   },
   {
-    "start": 435.38,
-    "duration": 2,
-    "text": "就是說如果可以彈性調整的話",
-    "hasSignLanguage": false
+    "sequence": 157,
+    "start": 435.36,
+    "duration": 2.3600000000000136,
+    "text": "就是說如果可以彈性調整的話"
   },
   {
+    "sequence": 158,
     "start": 437.72,
-    "duration": 2,
-    "text": "一天一天的會比較好",
-    "hasSignLanguage": false
+    "duration": 2.3999999999999773,
+    "text": "一天一天的會比較好"
   },
   {
-    "start": 440.14,
-    "duration": 3,
-    "text": "比那個一個月一個月彈性",
-    "hasSignLanguage": false
+    "sequence": 159,
+    "start": 440.12,
+    "duration": 2.839999999999975,
+    "text": "比那個一個月一個月彈性"
   },
   {
-    "start": 442.98,
-    "duration": 1,
-    "text": "根據勞動部規劃",
-    "hasSignLanguage": false
+    "sequence": 160,
+    "start": 442.96,
+    "duration": 1.160000000000025,
+    "text": "根據勞動部規劃"
   },
   {
+    "sequence": 161,
     "start": 444.12,
-    "duration": 2,
-    "text": "育嬰留庭可以日為單位申請",
-    "hasSignLanguage": false
+    "duration": 2.159999999999968,
+    "text": "育嬰留庭可以日為單位申請"
   },
   {
+    "sequence": 162,
     "start": 446.28,
-    "duration": 2,
-    "text": "天數不超過三十日",
-    "hasSignLanguage": false
+    "duration": 1.7600000000000477,
+    "text": "天數不超過三十日"
   },
   {
+    "sequence": 163,
     "start": 448.04,
-    "duration": 2,
-    "text": "雙薪合計可請六十日",
-    "hasSignLanguage": false
+    "duration": 2.0399999999999636,
+    "text": "雙薪合計可請六十日"
   },
   {
-    "start": 450.12,
-    "duration": 2,
-    "text": "申請期間其中六個月",
-    "hasSignLanguage": false
+    "sequence": 164,
+    "start": 450.08,
+    "duration": 3.2800000000000296,
+    "text": "申請期間其中六個月仍可請領邦城薪"
   },
   {
-    "start": 451.62,
-    "duration": 2,
-    "text": "仍可請領邦誠星",
-    "hasSignLanguage": false
+    "sequence": 165,
+    "start": 453.36,
+    "duration": 1.8799999999999955,
+    "text": "此外有家庭照顧需求者"
   },
   {
-    "start": 453.34,
-    "duration": 2,
-    "text": "此外有家庭照顧需求者",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 166,
     "start": 455.24,
-    "duration": 2,
-    "text": "現行一年七天家庭照顧假",
-    "hasSignLanguage": false
+    "duration": 3.5600000000000023,
+    "text": "現行一年七天家庭照顧詐和七天視詐"
   },
   {
-    "start": 457.38,
-    "duration": 1,
-    "text": "和七天視假",
-    "hasSignLanguage": false
+    "sequence": 167,
+    "start": 458.8,
+    "duration": 3.2799999999999727,
+    "text": "也能以小時申請共計一百一十二小時"
   },
   {
-    "start": 458.78,
-    "duration": 3,
-    "text": "也能以小十申請共計一百一十二小十",
-    "hasSignLanguage": false
+    "sequence": 168,
+    "start": 462.08,
+    "duration": 1.6400000000000432,
+    "text": "可彈性因應家庭需求"
   },
   {
-    "start": 462.12,
-    "duration": 2,
-    "text": "可彈性因應家庭需求",
-    "hasSignLanguage": false
+    "sequence": 169,
+    "start": 463.72,
+    "duration": 2.1199999999999477,
+    "text": "僱主不得扣全勤獎金"
   },
   {
-    "start": 463.74,
-    "duration": 2,
-    "text": "僱主不得扣全勤獎金",
-    "hasSignLanguage": false
+    "sequence": 170,
+    "start": 465.84,
+    "duration": 2.2800000000000296,
+    "text": "而為了鼓勵僱主包容勞工需求"
   },
   {
-    "start": 465.88,
-    "duration": 2,
-    "text": "而為了鼓勵僱主包容勞工需求",
-    "hasSignLanguage": false
+    "sequence": 171,
+    "start": 468.12,
+    "duration": 3.240000000000009,
+    "text": "政府將給予小微型企業經濟支持"
   },
   {
-    "start": 468.14,
-    "duration": 3,
-    "text": "政府將給予小微型企業經濟支持",
-    "hasSignLanguage": false
+    "sequence": 172,
+    "start": 471.36,
+    "duration": 1.9599999999999795,
+    "text": "勞工申請育嬰留庭"
   },
   {
-    "start": 471.38,
-    "duration": 2,
-    "text": "勞工申請孕育留庭",
-    "hasSignLanguage": false
+    "sequence": 173,
+    "start": 473.32,
+    "duration": 1.8799999999999955,
+    "text": "一天我們就發給"
   },
   {
-    "start": 473.34,
-    "duration": 2,
-    "text": "一天我們就發給",
-    "hasSignLanguage": false
+    "sequence": 174,
+    "start": 475.2,
+    "duration": 2.7200000000000273,
+    "text": "定額一千元的獎勵金給僱主"
   },
   {
-    "start": 475.18,
-    "duration": 3,
-    "text": "定額一千元的獎勵金給僱主",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 175,
     "start": 477.92,
-    "duration": 1,
-    "text": "可以預期的部分",
-    "hasSignLanguage": false
+    "duration": 2.079999999999984,
+    "text": "可以預期的部分要五日前提出"
   },
   {
-    "start": 478.78,
-    "duration": 1,
-    "text": "是要五日前提出",
-    "hasSignLanguage": false
+    "sequence": 176,
+    "start": 480,
+    "duration": 1.6399999999999864,
+    "text": "針對臨時性的"
   },
   {
-    "start": 479.98,
-    "duration": 2,
-    "text": "針對臨時性的",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 177,
     "start": 481.64,
-    "duration": 1,
-    "text": "比方說剛才說到",
-    "hasSignLanguage": false
+    "duration": 2.7200000000000273,
+    "text": "比方說剛才說到腸病毒小孩流行性感冒"
   },
   {
-    "start": 482.48,
-    "duration": 2,
-    "text": "腸病毒小孩流行性感冒",
-    "hasSignLanguage": false
+    "sequence": 178,
+    "start": 484.36,
+    "duration": 3.4799999999999613,
+    "text": "一日前或者是如果是當日臨時狀況的話"
   },
   {
-    "start": 484.34,
-    "duration": 1,
-    "text": "一日前",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 485.38,
-    "duration": 2,
-    "text": "或者是如果是當日臨時狀況的話",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 179,
     "start": 487.84,
-    "duration": 1,
-    "text": "可以當日是委託",
-    "hasSignLanguage": false
+    "duration": 2.920000000000016,
+    "text": "可以當日是委託他人來幫忙申請"
   },
   {
-    "start": 489.28,
-    "duration": 1,
-    "text": "他人來幫忙申請",
-    "hasSignLanguage": false
+    "sequence": 180,
+    "start": 490.76,
+    "duration": 1.7200000000000273,
+    "text": "民團則點出三大缺憾"
   },
   {
-    "start": 490.78,
-    "duration": 2,
-    "text": "民團則點出三大缺憾",
-    "hasSignLanguage": false
+    "sequence": 181,
+    "start": 492.48,
+    "duration": 2.5600000000000023,
+    "text": "建議育嬰留庭未來可學習歐洲國家"
   },
   {
-    "start": 492.54,
-    "duration": 1,
-    "text": "建議孕育留庭",
-    "hasSignLanguage": false
+    "sequence": 182,
+    "start": 495.04,
+    "duration": 2.1999999999999886,
+    "text": "邁向一手時申請彈性"
   },
   {
-    "start": 493.5,
-    "duration": 2,
-    "text": "未來可學習歐洲國家",
-    "hasSignLanguage": false
+    "sequence": 183,
+    "start": 497.24,
+    "duration": 3.4399999999999977,
+    "text": "並將使用小孩年齡從三歲延長到八歲"
   },
   {
-    "start": 495.1,
-    "duration": 2,
-    "text": "邁向一手時申請彈性",
-    "hasSignLanguage": false
+    "sequence": 184,
+    "start": 500.68,
+    "duration": 2.839999999999975,
+    "text": "也提醒對於申請彈性孕留庭的家長"
   },
   {
-    "start": 497.28,
-    "duration": 1,
-    "text": "病張是用小孩年齡",
-    "hasSignLanguage": false
+    "sequence": 185,
+    "start": 503.52,
+    "duration": 1.6800000000000068,
+    "text": "代班同事的加班時數"
   },
   {
-    "start": 498.68,
-    "duration": 2,
-    "text": "從三歲延長到八歲",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 500.7,
-    "duration": 1,
-    "text": "也提醒對於申請",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 501.94,
-    "duration": 2,
-    "text": "彈性孕育留庭的家長",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 503.54,
-    "duration": 2,
-    "text": "代班同事的加班時數",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 186,
     "start": 505.2,
-    "duration": 2,
-    "text": "可以突破勞基法法定上限",
-    "hasSignLanguage": false
+    "duration": 2.319999999999993,
+    "text": "可以突破勞基法法定上限"
   },
   {
-    "start": 507.54,
-    "duration": 2,
-    "text": "恐怕會造成同事反感敵視",
-    "hasSignLanguage": false
+    "sequence": 187,
+    "start": 507.52,
+    "duration": 2.480000000000018,
+    "text": "恐怕會造成同事反感敵視"
   },
   {
+    "sequence": 188,
     "start": 510,
-    "duration": 2,
-    "text": "呼籲僱主應提供更多薪資",
-    "hasSignLanguage": false
+    "duration": 3.4400000000000546,
+    "text": "呼籲僱主應提供更多薪資給職務代理人"
   },
   {
-    "start": 511.88,
-    "duration": 2,
-    "text": "給職務代理人",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 189,
     "start": 513.44,
-    "duration": 1,
-    "text": "勞動部應該要鼓勵僱主",
-    "hasSignLanguage": false
+    "duration": 1.4399999999999409,
+    "text": "勞動部應該要鼓勵僱主"
   },
   {
-    "start": 514.9,
+    "sequence": 190,
+    "start": 514.88,
     "duration": 2,
-    "text": "把這一千元付給",
-    "hasSignLanguage": false
+    "text": "把這一千元付給那個"
   },
   {
+    "sequence": 191,
     "start": 516.88,
-    "duration": 2,
-    "text": "加班的或是值代的人",
-    "hasSignLanguage": false
+    "duration": 1.7999999999999545,
+    "text": "加班的或是值代的人"
   },
   {
+    "sequence": 192,
     "start": 518.68,
-    "duration": 2,
-    "text": "讓你的同事得到一些津貼",
-    "hasSignLanguage": false
+    "duration": 1.7600000000001046,
+    "text": "讓你的同事得到一些津貼"
   },
   {
+    "sequence": 193,
     "start": 520.44,
-    "duration": 2,
-    "text": "這樣大家覺得職場互助",
-    "hasSignLanguage": false
+    "duration": 2.2799999999999727,
+    "text": "這樣大家覺得職場互助"
   },
   {
-    "start": 522.68,
-    "duration": 2,
-    "text": "我沒有虧那麼大",
-    "hasSignLanguage": false
+    "sequence": 194,
+    "start": 522.72,
+    "duration": 1.5199999999999818,
+    "text": "我沒有虧那麼大"
   },
   {
+    "sequence": 195,
     "start": 524.24,
+    "duration": 2.519999999999982,
+    "text": "王仲慶認為雖然目前法規沒有強制"
+  },
+  {
+    "sequence": 196,
+    "start": 526.76,
+    "duration": 3.0399999999999636,
+    "text": "建議勞動部在新制試行一段時間後"
+  },
+  {
+    "sequence": 197,
+    "start": 529.8,
+    "duration": 3.3600000000000136,
+    "text": "再看後續是否要修法強制補貼紙袋"
+  },
+  {
+    "sequence": 198,
+    "start": 533.16,
+    "duration": 1.9600000000000364,
+    "text": "國時新聞 黃曼 陳柏玉 林志堅"
+  },
+  {
+    "sequence": 199,
+    "start": 535.12,
     "duration": 1,
-    "text": "王仲欽認為",
-    "hasSignLanguage": false
+    "text": "陪伴著"
   },
   {
-    "start": 525.14,
-    "duration": 2,
-    "text": "雖然目前法規沒有強制",
-    "hasSignLanguage": false
+    "sequence": 200,
+    "start": 536.12,
+    "duration": 4.840000000000032,
+    "text": "讀報時間來看到"
   },
   {
-    "start": 526.78,
-    "duration": 2,
-    "text": "建議勞動部在新制試行",
-    "hasSignLanguage": false
+    "sequence": 201,
+    "start": 540.96,
+    "duration": 1.759999999999991,
+    "text": "中國時報是"
   },
   {
-    "start": 528.58,
-    "duration": 1,
-    "text": "一段時間後",
-    "hasSignLanguage": false
+    "sequence": 202,
+    "start": 542.72,
+    "duration": 4.240000000000009,
+    "text": "上週美國聯邦上訴法院裁定"
   },
   {
-    "start": 529.78,
-    "duration": 2,
-    "text": "再看後續是否要修法",
-    "hasSignLanguage": false
+    "sequence": 203,
+    "start": 546.96,
+    "duration": 4.039999999999964,
+    "text": "川普徵收對等關稅違法"
   },
   {
-    "start": 531.4,
-    "duration": 2,
-    "text": "強制補貼值代",
-    "hasSignLanguage": false
+    "sequence": 204,
+    "start": 551,
+    "duration": 3.5599999999999454,
+    "text": "超越了總統的權限"
   },
   {
-    "start": 533.18,
-    "duration": 2,
-    "text": "國際新聞黃曼城博物院林志堅",
-    "hasSignLanguage": false
+    "sequence": 205,
+    "start": 554.56,
+    "duration": 2.6000000000000227,
+    "text": "而川普政府9月3號"
   },
   {
-    "start": 535.14,
-    "duration": 1,
-    "text": "Temple的",
-    "hasSignLanguage": true
+    "sequence": 206,
+    "start": 557.16,
+    "duration": 3.8799999999999955,
+    "text": "正式向最高法院提起上訴"
   },
   {
-    "start": 537.98,
-    "duration": 2,
-    "text": "讀報時間來看到",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 540.98,
-    "duration": 2,
-    "text": "中國時報是",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 542.74,
-    "duration": 4,
-    "text": "上週美國聯邦上訴法院裁定",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 546.98,
-    "duration": 4,
-    "text": "川普徵收對等關稅違法",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 551.02,
-    "duration": 4,
-    "text": "超越了總統的權限",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 554.58,
-    "duration": 1,
-    "text": "而川普政府",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 556.02,
-    "duration": 1,
-    "text": "9月3號",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 557.18,
-    "duration": 4,
-    "text": "正式向最高法院提起上訴",
-    "hasSignLanguage": true
-  },
-  {
+    "sequence": 207,
     "start": 561.04,
-    "duration": 3,
-    "text": "要求採用速審程序",
-    "hasSignLanguage": true
+    "duration": 2.7200000000000273,
+    "text": "要求採用訴審程序"
   },
   {
-    "start": 563.78,
-    "duration": 3,
-    "text": "盡快做出裁決",
-    "hasSignLanguage": true
+    "sequence": 208,
+    "start": 563.76,
+    "duration": 2.840000000000032,
+    "text": "盡快作出裁決"
   },
   {
-    "start": 566.64,
-    "duration": 1,
-    "text": "川普警告",
-    "hasSignLanguage": true
+    "sequence": 209,
+    "start": 566.6,
+    "duration": 1.1599999999999682,
+    "text": "川普警告"
   },
   {
-    "start": 567.78,
-    "duration": 1,
-    "text": "如果敗訴",
-    "hasSignLanguage": true
+    "sequence": 210,
+    "start": 567.76,
+    "duration": 1.080000000000041,
+    "text": "如果敗訴"
   },
   {
+    "sequence": 211,
     "start": 568.84,
-    "duration": 1,
-    "text": "可能必須要撤銷",
-    "hasSignLanguage": true
+    "duration": 2.67999999999995,
+    "text": "可能必須要撤銷與歐盟等多國"
   },
   {
-    "start": 570.12,
-    "duration": 4,
-    "text": "與歐盟等多國達成的關稅協議",
-    "hasSignLanguage": true
+    "sequence": 212,
+    "start": 571.52,
+    "duration": 2.560000000000059,
+    "text": "達成的關稅協議"
   },
   {
+    "sequence": 213,
     "start": 574.08,
+    "duration": 2.6399999999999864,
+    "text": "美國恐怕遭受重大損失"
+  },
+  {
+    "sequence": 214,
+    "start": 576.72,
+    "duration": 4.600000000000023,
+    "text": "自由時報報導"
+  },
+  {
+    "sequence": 215,
+    "start": 581.32,
+    "duration": 2,
+    "text": "天氣持續高溫"
+  },
+  {
+    "sequence": 216,
+    "start": 583.32,
+    "duration": 5.039999999999964,
+    "text": "台北市政府推出了522處糧食點專區"
+  },
+  {
+    "sequence": 217,
+    "start": 588.36,
+    "duration": 3.840000000000032,
+    "text": "讓民眾可以遮陽休息"
+  },
+  {
+    "sequence": 218,
+    "start": 592.2,
+    "duration": 5.519999999999982,
+    "text": "不過當中有231個地點是公園"
+  },
+  {
+    "sequence": 219,
+    "start": 597.72,
+    "duration": 4.959999999999923,
+    "text": "而其中137處沒有飲水機"
+  },
+  {
+    "sequence": 220,
+    "start": 602.68,
+    "duration": 4.480000000000018,
+    "text": "無法提供民眾補水"
+  },
+  {
+    "sequence": 221,
+    "start": 607.16,
+    "duration": 1.5199999999999818,
+    "text": "聯合報提到了"
+  },
+  {
+    "sequence": 222,
+    "start": 608.68,
     "duration": 3,
-    "text": "美國恐怕遭受重大損失",
-    "hasSignLanguage": true
+    "text": "衛福部仍是按拍板"
   },
   {
-    "start": 579.58,
-    "duration": 2,
-    "text": "自由時報報導",
-    "hasSignLanguage": true
+    "sequence": 223,
+    "start": 611.68,
+    "duration": 5.2000000000000455,
+    "text": "疾管署長由代理署長羅一鈞來接任"
   },
   {
-    "start": 581.34,
-    "duration": 2,
-    "text": "天氣持續高溫",
-    "hasSignLanguage": true
+    "sequence": 224,
+    "start": 616.88,
+    "duration": 1.4800000000000182,
+    "text": "成為了第一位"
   },
   {
-    "start": 583.34,
-    "duration": 1,
-    "text": "台北市政府",
-    "hasSignLanguage": true
+    "sequence": 225,
+    "start": 618.36,
+    "duration": 4.919999999999959,
+    "text": "由防疫醫師起步的疾管署長"
   },
   {
-    "start": 584.28,
-    "duration": 4,
-    "text": "推出了522處糧食點專區",
-    "hasSignLanguage": true
+    "sequence": 226,
+    "start": 623.28,
+    "duration": 7.2000000000000455,
+    "text": "而健保署長則是由副署長陳亮瑜來審認"
   },
   {
-    "start": 588.38,
-    "duration": 3,
-    "text": "讓民眾可以遮陽休息",
-    "hasSignLanguage": true
+    "sequence": 227,
+    "start": 630.48,
+    "duration": 1.67999999999995,
+    "text": "而看完報紙重點"
   },
   {
-    "start": 592.24,
-    "duration": 5,
-    "text": "不過當中有231個地點是公園",
-    "hasSignLanguage": true
+    "sequence": 228,
+    "start": 632.16,
+    "duration": 1.3999999999999773,
+    "text": "繼續來關心"
   },
   {
-    "start": 597.78,
-    "duration": 1,
-    "text": "而其中",
-    "hasSignLanguage": true
+    "sequence": 229,
+    "start": 633.56,
+    "duration": 3.880000000000109,
+    "text": "又傳出了醫美糾紛"
   },
   {
-    "start": 599.08,
-    "duration": 4,
-    "text": "137處沒有飲水機",
-    "hasSignLanguage": true
+    "sequence": 230,
+    "start": 637.44,
+    "duration": 2.519999999999982,
+    "text": "台北市一鳴林小姐"
   },
   {
-    "start": 602.72,
-    "duration": 2,
-    "text": "無法提供民眾補水",
-    "hasSignLanguage": true
+    "sequence": 231,
+    "start": 639.96,
+    "duration": 3.3600000000000136,
+    "text": "今年6月到某家醫美診所"
   },
   {
-    "start": 607.22,
-    "duration": 2,
-    "text": "聯合報提到了",
-    "hasSignLanguage": true
+    "sequence": 232,
+    "start": 643.32,
+    "duration": 2.839999999999918,
+    "text": "進行抽脂手術之後"
   },
   {
-    "start": 608.72,
-    "duration": 3,
-    "text": "衛福部人事案拍板",
-    "hasSignLanguage": true
+    "sequence": 233,
+    "start": 646.16,
+    "duration": 2.3999999999999773,
+    "text": "發生了急性腎衰竭"
   },
   {
-    "start": 611.72,
-    "duration": 1,
-    "text": "疾管署長",
-    "hasSignLanguage": true
+    "sequence": 234,
+    "start": 648.56,
+    "duration": 2.4400000000000546,
+    "text": "緊急送醫"
   },
   {
-    "start": 612.78,
-    "duration": 4,
-    "text": "由代理署長羅一鈞來接任",
-    "hasSignLanguage": true
+    "sequence": 235,
+    "start": 651,
+    "duration": 2.080000000000041,
+    "text": "被醫師評估"
   },
   {
-    "start": 616.96,
-    "duration": 1,
-    "text": "成為了第一位",
-    "hasSignLanguage": true
+    "sequence": 236,
+    "start": 653.08,
+    "duration": 4.719999999999914,
+    "text": "可能需要終身洗腎"
   },
   {
-    "start": 618.38,
-    "duration": 5,
-    "text": "由防疫醫師起步的疾管署長",
-    "hasSignLanguage": true
+    "sequence": 237,
+    "start": 657.8,
+    "duration": 3.0400000000000773,
+    "text": "但是林小姐表示"
   },
   {
-    "start": 623.36,
-    "duration": 1,
-    "text": "而健保署長",
-    "hasSignLanguage": true
+    "sequence": 238,
+    "start": 660.84,
+    "duration": 1.1200000000000045,
+    "text": "事發後"
   },
   {
-    "start": 624.56,
-    "duration": 3,
-    "text": "則是由副署長陳亮瑜來審認",
-    "hasSignLanguage": true
+    "sequence": 239,
+    "start": 661.96,
+    "duration": 3.240000000000009,
+    "text": "診所試圖要切割責任"
   },
   {
-    "start": 630.56,
-    "duration": 2,
-    "text": "而看完報紙重點",
-    "hasSignLanguage": true
+    "sequence": 240,
+    "start": 665.2,
+    "duration": 4.159999999999968,
+    "text": "讓她求償無門"
   },
   {
-    "start": 632.22,
-    "duration": 1,
-    "text": "繼續來關心",
-    "hasSignLanguage": true
+    "sequence": 241,
+    "start": 669.36,
+    "duration": 4.279999999999973,
+    "text": "昨天在立委的陪同下召開記者會"
   },
   {
-    "start": 633.62,
-    "duration": 2,
-    "text": "又傳出了醫美糾紛",
-    "hasSignLanguage": true
+    "sequence": 242,
+    "start": 673.64,
+    "duration": 8.919999999999959,
+    "text": "呼籲衛福部必須徹底整頓醫美亂象"
   },
   {
-    "start": 637.48,
-    "duration": 3,
-    "text": "台北市一名林小姐",
-    "hasSignLanguage": true
+    "sequence": 243,
+    "start": 682.56,
+    "duration": 1.3600000000000136,
+    "text": "40多歲的林小姐"
   },
   {
-    "start": 640.02,
-    "duration": 3,
-    "text": "今年6月到某家醫美診所",
-    "hasSignLanguage": true
+    "sequence": 244,
+    "start": 683.92,
+    "duration": 2.759999999999991,
+    "text": "今年6月到台北市某知名醫美診所"
   },
   {
-    "start": 643.38,
-    "duration": 3,
-    "text": "進行抽脂手術之後",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 646.22,
-    "duration": 2,
-    "text": "發生了急性腎衰竭",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 648.62,
-    "duration": 1,
-    "text": "緊急送醫",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 651.06,
-    "duration": 2,
-    "text": "被醫師評估",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 653.12,
-    "duration": 2,
-    "text": "可能需要終身洗腎",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 657.86,
-    "duration": 3,
-    "text": "但是林小姐表示",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 660.88,
-    "duration": 1,
-    "text": "事發後",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 661.98,
-    "duration": 3,
-    "text": "診所試圖要起個責任",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 665.24,
-    "duration": 2,
-    "text": "讓她求償無門",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 669.38,
-    "duration": 2,
-    "text": "昨天在立委的陪同下",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 671.74,
-    "duration": 2,
-    "text": "召開記者會",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 673.62,
-    "duration": 1,
-    "text": "呼籲衛福部",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 674.54,
-    "duration": 3,
-    "text": "必須徹底整頓醫美亂象",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 682.58,
-    "duration": 1,
-    "text": "40多歲的林小姐",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 683.94,
-    "duration": 1,
-    "text": "今年6月到台北市",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 685.28,
-    "duration": 1,
-    "text": "某知名醫美診所",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 245,
     "start": 686.68,
-    "duration": 3,
-    "text": "進行抽脂及脂肪填補手術後",
-    "hasSignLanguage": false
+    "duration": 2.7200000000000273,
+    "text": "進行抽脂及脂肪填補手術後"
   },
   {
-    "start": 689.42,
-    "duration": 2,
-    "text": "發生急性腎衰竭",
-    "hasSignLanguage": false
+    "sequence": 246,
+    "start": 689.4,
+    "duration": 1.4800000000000182,
+    "text": "發生急性腎衰竭"
   },
   {
-    "start": 690.92,
-    "duration": 1,
-    "text": "被緊急送醫",
-    "hasSignLanguage": false
+    "sequence": 247,
+    "start": 690.88,
+    "duration": 1.2000000000000455,
+    "text": "被緊急送醫"
   },
   {
-    "start": 692.12,
-    "duration": 2,
-    "text": "並入住加護病房十天",
-    "hasSignLanguage": false
+    "sequence": 248,
+    "start": 692.08,
+    "duration": 1.759999999999991,
+    "text": "並入住加護病房10天"
   },
   {
-    "start": 693.88,
-    "duration": 2,
-    "text": "還二度被下達並為通知",
-    "hasSignLanguage": false
+    "sequence": 249,
+    "start": 693.84,
+    "duration": 2.240000000000009,
+    "text": "還二度被下達病危通知"
   },
   {
+    "sequence": 250,
     "start": 696.08,
-    "duration": 2,
-    "text": "更併發多重器官衰竭",
-    "hasSignLanguage": false
+    "duration": 2.1200000000000045,
+    "text": "更併發多重器官衰竭"
   },
   {
-    "start": 698.22,
-    "duration": 3,
-    "text": "雙腿血泡與腳趾都缺血壞死",
-    "hasSignLanguage": false
+    "sequence": 251,
+    "start": 698.2,
+    "duration": 3.1200000000000045,
+    "text": "雙腿血泡與腳趾都缺血壞死"
   },
   {
+    "sequence": 252,
     "start": 701.32,
-    "duration": 1,
-    "text": "醫師評估",
-    "hasSignLanguage": false
+    "duration": 3,
+    "text": "醫師評估可能需要長期或終身洗腎"
   },
   {
-    "start": 702.02,
-    "duration": 2,
-    "text": "可能需要長期或終身洗腎",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 253,
     "start": 704.32,
-    "duration": 2,
-    "text": "讓林小姐身心受創",
-    "hasSignLanguage": false
+    "duration": 1.7199999999999136,
+    "text": "讓林小姐身心受創"
   },
   {
-    "start": 706.06,
-    "duration": 2,
-    "text": "人生從此變了調",
-    "hasSignLanguage": false
+    "sequence": 254,
+    "start": 706.04,
+    "duration": 1.8799999999999955,
+    "text": "人生從此變了調"
   },
   {
-    "start": 716.38,
-    "duration": 1,
-    "text": "但事發之後",
-    "hasSignLanguage": false
+    "sequence": 255,
+    "start": 707.92,
+    "duration": 4.960000000000036,
+    "text": "我現在必須每週三天規律的洗腎"
   },
   {
-    "start": 717.18,
-    "duration": 1,
-    "text": "林小姐說",
-    "hasSignLanguage": false
+    "sequence": 256,
+    "start": 712.88,
+    "duration": 3.480000000000018,
+    "text": "或許一輩子都需要依賴透析維生"
   },
   {
-    "start": 717.96,
-    "duration": 2,
-    "text": "診所試圖切割責任",
-    "hasSignLanguage": false
+    "sequence": 257,
+    "start": 716.36,
+    "duration": 0.7999999999999545,
+    "text": "但事發之後"
   },
   {
-    "start": 719.86,
-    "duration": 2,
-    "text": "推脫直到的謝縣醫師",
-    "hasSignLanguage": false
+    "sequence": 258,
+    "start": 717.16,
+    "duration": 2.6800000000000637,
+    "text": "林小姐說診所試圖切割責任"
   },
   {
+    "sequence": 259,
+    "start": 719.84,
+    "duration": 1.67999999999995,
+    "text": "推脫直到的謝憲醫師"
+  },
+  {
+    "sequence": 260,
     "start": 721.52,
-    "duration": 2,
-    "text": "跟診所是承攬關係",
-    "hasSignLanguage": false
+    "duration": 1.9200000000000728,
+    "text": "跟診所是承攬關係"
   },
   {
-    "start": 723.46,
-    "duration": 1,
-    "text": "接著謝縣醫師",
-    "hasSignLanguage": false
+    "sequence": 261,
+    "start": 723.44,
+    "duration": 1.1599999999999682,
+    "text": "接著謝憲醫師"
   },
   {
+    "sequence": 262,
     "start": 724.6,
-    "duration": 3,
-    "text": "又將問題推向麻醉醫師與藥廠",
-    "hasSignLanguage": false
+    "duration": 2.67999999999995,
+    "text": "又將問題推向麻醉醫師與藥廠"
   },
   {
-    "start": 727.3,
-    "duration": 2,
-    "text": "讓家屬求償無門",
-    "hasSignLanguage": false
+    "sequence": 263,
+    "start": 727.28,
+    "duration": 1.759999999999991,
+    "text": "讓家屬求償無門"
   },
   {
-    "start": 729.02,
-    "duration": 2,
-    "text": "最後才找上立委陳情",
-    "hasSignLanguage": false
+    "sequence": 264,
+    "start": 729.04,
+    "duration": 2.0400000000000773,
+    "text": "最後才找上立委陳情"
   },
   {
-    "start": 747.96,
-    "duration": 13,
-    "text": "立委要求衛福部必須徹底整頓",
-    "hasSignLanguage": false
+    "sequence": 265,
+    "start": 731.08,
+    "duration": 1.5599999999999454,
+    "text": "他是診所的主治醫師"
   },
   {
-    "start": 760.46,
-    "duration": 1,
-    "text": "醫美產業亂象",
-    "hasSignLanguage": false
+    "sequence": 266,
+    "start": 732.64,
+    "duration": 1.1200000000000045,
+    "text": "出了事"
   },
   {
+    "sequence": 267,
+    "start": 733.76,
+    "duration": 1.5199999999999818,
+    "text": "可能有賠償責任的時候"
+  },
+  {
+    "sequence": 268,
+    "start": 735.28,
+    "duration": 2.519999999999982,
+    "text": "就變成是承攬關係了"
+  },
+  {
+    "sequence": 269,
+    "start": 737.8,
+    "duration": 1.9600000000000364,
+    "text": "我們家診所何不知情"
+  },
+  {
+    "sequence": 270,
+    "start": 739.76,
+    "duration": 1.8400000000000318,
+    "text": "跟診所無關 是這樣嗎"
+  },
+  {
+    "sequence": 271,
+    "start": 741.6,
+    "duration": 1.7999999999999545,
+    "text": "昨天9月3號"
+  },
+  {
+    "sequence": 272,
+    "start": 743.4,
+    "duration": 2.480000000000018,
+    "text": "臺北市衛生局的稽查小組"
+  },
+  {
+    "sequence": 273,
+    "start": 745.88,
+    "duration": 1.6399999999999864,
+    "text": "已經到了診所裡"
+  },
+  {
+    "sequence": 274,
+    "start": 747.52,
+    "duration": 2.3600000000000136,
+    "text": "進行一些資料的蒐集"
+  },
+  {
+    "sequence": 275,
+    "start": 749.88,
+    "duration": 1.5199999999999818,
+    "text": "跟必要的查核"
+  },
+  {
+    "sequence": 276,
+    "start": 751.4,
+    "duration": 1.6000000000000227,
+    "text": "損害的範圍不明"
+  },
+  {
+    "sequence": 277,
+    "start": 753,
+    "duration": 2.080000000000041,
+    "text": "且責任尚未釐清之前"
+  },
+  {
+    "sequence": 278,
+    "start": 755.08,
+    "duration": 3.0799999999999272,
+    "text": "已申請臺北市政府醫療爭議的調解"
+  },
+  {
+    "sequence": 279,
+    "start": 758.16,
+    "duration": 1.080000000000041,
+    "text": "立委要求衛福部"
+  },
+  {
+    "sequence": 280,
+    "start": 759.24,
+    "duration": 2.519999999999982,
+    "text": "必須徹底整頓醫美產業亂象"
+  },
+  {
+    "sequence": 281,
     "start": 761.76,
+    "duration": 1.0399999999999636,
+    "text": "而臺北市衛生局"
+  },
+  {
+    "sequence": 282,
+    "start": 762.8,
+    "duration": 1.4400000000000546,
+    "text": "則發新聞稿強調"
+  },
+  {
+    "sequence": 283,
+    "start": 764.24,
+    "duration": 2.3999999999999773,
+    "text": "已經派員前往該診所稽查"
+  },
+  {
+    "sequence": 284,
+    "start": 766.64,
     "duration": 3,
-    "text": "而台北市衛生局則發新聞稿強調",
-    "hasSignLanguage": false
+    "text": "發現觀察床超出診所設置標準"
   },
   {
-    "start": 764.26,
-    "duration": 2,
-    "text": "已經派員前往該診所稽查",
-    "hasSignLanguage": false
+    "sequence": 285,
+    "start": 769.64,
+    "duration": 1.2000000000000455,
+    "text": "將依違反醫療法"
   },
   {
-    "start": 766.66,
-    "duration": 3,
-    "text": "發現觀察床超出診所設置標準",
-    "hasSignLanguage": false
+    "sequence": 286,
+    "start": 770.84,
+    "duration": 2.3600000000000136,
+    "text": "裁除五萬到二十萬元罰鍰"
   },
   {
-    "start": 769.66,
-    "duration": 1,
-    "text": "將依違反醫療法",
-    "hasSignLanguage": false
+    "sequence": 287,
+    "start": 773.2,
+    "duration": 2.159999999999968,
+    "text": "該診所未開立醫療收據部分"
   },
   {
-    "start": 770.86,
-    "duration": 2,
-    "text": "裁除五萬到二十萬元罰鍰",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 773.22,
-    "duration": 2,
-    "text": "該診所未開立醫療收據部分",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 288,
     "start": 775.36,
-    "duration": 3,
-    "text": "將處一萬元以上五萬元以下罰鍰",
-    "hasSignLanguage": false
+    "duration": 1.3999999999999773,
+    "text": "將除一萬元以上"
   },
   {
+    "sequence": 289,
+    "start": 776.76,
+    "duration": 1.6000000000000227,
+    "text": "五萬元以下罰鍰"
+  },
+  {
+    "sequence": 290,
     "start": 778.36,
-    "duration": 2,
-    "text": "另外衛生局將按照醫療事故",
-    "hasSignLanguage": false
+    "duration": 1.3600000000000136,
+    "text": "另外衛生局將按照"
   },
   {
-    "start": 780.42,
-    "duration": 2,
-    "text": "預防及爭議處理法規定",
-    "hasSignLanguage": false
+    "sequence": 291,
+    "start": 779.72,
+    "duration": 2.7200000000000273,
+    "text": "醫療事故預防及爭議處理法規定"
   },
   {
-    "start": 782.42,
-    "duration": 2,
-    "text": "召開醫療爭議調解會議",
-    "hasSignLanguage": false
+    "sequence": 292,
+    "start": 782.44,
+    "duration": 2.119999999999891,
+    "text": "召開醫療爭議調解會議"
   },
   {
+    "sequence": 293,
     "start": 784.56,
-    "duration": 1,
-    "text": "公視新聞",
-    "hasSignLanguage": false
+    "duration": 1.8400000000000318,
+    "text": "公司新聞賴淑敏、蔣龍祥、吳嘉寶"
   },
   {
-    "start": 785.08,
-    "duration": 3,
-    "text": "賴淑敏講龍祥 吳嘉寶 台北報導",
-    "hasSignLanguage": true
+    "sequence": 294,
+    "start": 786.4,
+    "duration": 2,
+    "text": "台北報導"
   },
   {
-    "start": 788.42,
-    "duration": 4,
-    "text": "接著要提醒您注意詐騙手法",
-    "hasSignLanguage": true
+    "sequence": 295,
+    "start": 788.4,
+    "duration": 4.1200000000000045,
+    "text": "接著要提醒您注意詐騙手法"
   },
   {
+    "sequence": 296,
     "start": 792.52,
-    "duration": 3,
-    "text": "最近網路上有廣告",
-    "hasSignLanguage": true
+    "duration": 2.560000000000059,
+    "text": "最近網路上有廣告"
   },
   {
+    "sequence": 297,
     "start": 795.08,
-    "duration": 4,
-    "text": "要在台南虎頭皮風景區等地",
-    "hasSignLanguage": true
+    "duration": 3.67999999999995,
+    "text": "要在台南虎頭皮風景區等地"
   },
   {
+    "sequence": 298,
     "start": 798.76,
-    "duration": 3,
-    "text": "辦親子露營",
-    "hasSignLanguage": true
+    "duration": 2.840000000000032,
+    "text": "辦親子露營"
   },
   {
-    "start": 801.62,
-    "duration": 2,
-    "text": "由於收費便宜",
-    "hasSignLanguage": true
+    "sequence": 299,
+    "start": 801.6,
+    "duration": 2.1200000000000045,
+    "text": "由於收費便宜"
   },
   {
-    "start": 803.76,
-    "duration": 4,
-    "text": "吸引了不少家長的目光",
-    "hasSignLanguage": true
+    "sequence": 300,
+    "start": 803.72,
+    "duration": 3.6399999999999864,
+    "text": "吸引了不少家長的目光"
   },
   {
-    "start": 807.38,
-    "duration": 3,
-    "text": "而遭到茂名的主管機關",
-    "hasSignLanguage": true
+    "sequence": 301,
+    "start": 807.36,
+    "duration": 2.6399999999999864,
+    "text": "而遭到冒名的主管機關"
   },
   {
-    "start": 810.02,
-    "duration": 5,
-    "text": "以及業者趕緊出面澄清闢謠",
-    "hasSignLanguage": true
+    "sequence": 302,
+    "start": 810,
+    "duration": 5.32000000000005,
+    "text": "以及業者趕緊出面澄清闢謠"
   },
   {
+    "sequence": 303,
     "start": 815.32,
-    "duration": 4,
-    "text": "另外高雄有一名六十多歲的男子",
-    "hasSignLanguage": true
+    "duration": 4.399999999999977,
+    "text": "另外高雄有一名六十多歲的男子"
   },
   {
+    "sequence": 304,
     "start": 819.72,
-    "duration": 3,
-    "text": "因為女網友謊稱車禍",
-    "hasSignLanguage": true
+    "duration": 3.199999999999932,
+    "text": "因為女網友謊稱車禍"
   },
   {
+    "sequence": 305,
     "start": 822.92,
-    "duration": 4,
-    "text": "急需要購買高價的特效藥",
-    "hasSignLanguage": true
+    "duration": 3.560000000000059,
+    "text": "急需要購買高價的特效藥"
   },
   {
-    "start": 826.46,
-    "duration": 5,
-    "text": "所以他去銀行領了一百萬元要匯款",
-    "hasSignLanguage": true
+    "sequence": 306,
+    "start": 826.48,
+    "duration": 4.720000000000027,
+    "text": "所以他去銀行領了一百萬元要匯款"
   },
   {
-    "start": 831.26,
-    "duration": 4,
-    "text": "被警察識破是假交友詐騙",
-    "hasSignLanguage": true
+    "sequence": 307,
+    "start": 831.2,
+    "duration": 6.67999999999995,
+    "text": "被警察識破是假交友詐騙"
   },
   {
-    "start": 837.92,
-    "duration": 1,
-    "text": "官方社群張貼公告",
-    "hasSignLanguage": false
+    "sequence": 308,
+    "start": 837.88,
+    "duration": 2.8799999999999955,
+    "text": "官方社群張貼公告提醒民眾別上當"
   },
   {
-    "start": 839.32,
-    "duration": 1,
-    "text": "提醒民眾別上當",
-    "hasSignLanguage": false
+    "sequence": 309,
+    "start": 840.76,
+    "duration": 2.32000000000005,
+    "text": "近期有不肖人士張貼假廣告"
   },
   {
-    "start": 840.78,
-    "duration": 2,
-    "text": "近期有不肖人士張貼假廣告",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 843.12,
+    "sequence": 310,
+    "start": 843.08,
     "duration": 3,
-    "text": "要在台南虎頭皮風景區辦親子露營",
-    "hasSignLanguage": false
+    "text": "要在台南虎頭皮風景區辦親子露營"
   },
   {
-    "start": 846.12,
-    "duration": 2,
-    "text": "大人四百九十八元",
-    "hasSignLanguage": false
+    "sequence": 311,
+    "start": 846.08,
+    "duration": 1.7199999999999136,
+    "text": "大人四百九十八元"
   },
   {
-    "start": 847.82,
-    "duration": 2,
-    "text": "十二歲以下小孩免費",
-    "hasSignLanguage": false
+    "sequence": 312,
+    "start": 847.8,
+    "duration": 1.6800000000000637,
+    "text": "十二歲以下小孩免費"
   },
   {
-    "start": 849.52,
-    "duration": 2,
-    "text": "但根本是詐騙",
-    "hasSignLanguage": false
+    "sequence": 313,
+    "start": 849.48,
+    "duration": 1.6000000000000227,
+    "text": "但根本是詐騙"
   },
   {
+    "sequence": 314,
     "start": 851.08,
-    "duration": 3,
-    "text": "活動飛虎頭皮風景區主辦",
-    "hasSignLanguage": false
+    "duration": 2.7199999999999136,
+    "text": "活動非虎頭皮風景區主辦"
   },
   {
-    "start": 853.78,
-    "duration": 3,
-    "text": "請民眾務必要查明事實",
-    "hasSignLanguage": false
+    "sequence": 315,
+    "start": 853.8,
+    "duration": 4.040000000000077,
+    "text": "請民眾務必要查明事實避免受騙"
   },
   {
-    "start": 856.32,
-    "duration": 2,
-    "text": "避免受騙",
-    "hasSignLanguage": false
+    "sequence": 316,
+    "start": 857.84,
+    "duration": 3.199999999999932,
+    "text": "本局也已通報相關單位進行調查"
   },
   {
-    "start": 857.82,
-    "duration": 3,
-    "text": "本局也已通報相關單位進行調查",
-    "hasSignLanguage": false
+    "sequence": 317,
+    "start": 861.04,
+    "duration": 1.400000000000091,
+    "text": "虎頭皮因風景優美"
   },
   {
-    "start": 861.02,
-    "duration": 1,
-    "text": "虎頭皮因風景優美",
-    "hasSignLanguage": false
+    "sequence": 318,
+    "start": 862.44,
+    "duration": 2.119999999999891,
+    "text": "駕日本就是親子旅遊勝地"
   },
   {
-    "start": 862.42,
-    "duration": 2,
-    "text": "駕日本就是親子旅遊勝地",
-    "hasSignLanguage": false
+    "sequence": 319,
+    "start": 864.56,
+    "duration": 3.160000000000082,
+    "text": "假廣告列出虎頭皮等三個風景區營地"
   },
   {
-    "start": 864.52,
-    "duration": 1,
-    "text": "假廣告列出虎頭皮",
-    "hasSignLanguage": false
+    "sequence": 320,
+    "start": 867.72,
+    "duration": 2.0399999999999636,
+    "text": "便宜的收費吸引不少家長"
   },
   {
-    "start": 865.92,
-    "duration": 2,
-    "text": "等三個風景區營地",
-    "hasSignLanguage": false
+    "sequence": 321,
+    "start": 869.76,
+    "duration": 2.560000000000059,
+    "text": "被冒名的風景區主管機關跟業者"
   },
   {
-    "start": 867.68,
-    "duration": 2,
-    "text": "便宜的收費吸引不少家長",
-    "hasSignLanguage": false
+    "sequence": 322,
+    "start": 872.32,
+    "duration": 1.919999999999959,
+    "text": "只能趕緊出面闢謠"
   },
   {
-    "start": 869.68,
-    "duration": 2,
-    "text": "被茂名的風景區主管機關",
-    "hasSignLanguage": false
+    "sequence": 323,
+    "start": 874.24,
+    "duration": 1.240000000000009,
+    "text": "價錢比較便宜"
   },
   {
-    "start": 871.62,
-    "duration": 3,
-    "text": "跟業者只能趕緊出面闢謠",
-    "hasSignLanguage": false
+    "sequence": 324,
+    "start": 875.48,
+    "duration": 1.9600000000000364,
+    "text": "真的是會先被吸引到"
   },
   {
-    "start": 874.18,
-    "duration": 1,
-    "text": "價錢比較便宜",
-    "hasSignLanguage": false
+    "sequence": 325,
+    "start": 877.44,
+    "duration": 2.599999999999909,
+    "text": "但是我覺得因為現在詐騙太猖獗了"
   },
   {
-    "start": 875.44,
-    "duration": 2,
-    "text": "真的是會先被吸引到",
-    "hasSignLanguage": false
+    "sequence": 326,
+    "start": 880.04,
+    "duration": 1.7200000000000273,
+    "text": "所以還是要多做確認"
   },
   {
-    "start": 877.38,
-    "duration": 3,
-    "text": "但是我覺得因為現在詐騙太猖獗了",
-    "hasSignLanguage": false
+    "sequence": 327,
+    "start": 881.76,
+    "duration": 1.5199999999999818,
+    "text": "國內詐騙層出不窮"
   },
   {
-    "start": 879.98,
-    "duration": 2,
-    "text": "所以還是要多做確認",
-    "hasSignLanguage": false
+    "sequence": 328,
+    "start": 883.28,
+    "duration": 2.2000000000000455,
+    "text": "除了假露營企圖詐騙家長"
   },
   {
-    "start": 881.74,
-    "duration": 2,
-    "text": "國內詐騙層出不窮",
-    "hasSignLanguage": false
+    "sequence": 329,
+    "start": 885.48,
+    "duration": 6.559999999999945,
+    "text": "更多還是假投資跟假交友"
   },
   {
-    "start": 883.24,
-    "duration": 2,
-    "text": "除了假露營企圖詐騙家長",
-    "hasSignLanguage": false
+    "sequence": 330,
+    "start": 892.04,
+    "duration": 1.8799999999999955,
+    "text": "這名六十多歲男子四號中午"
   },
   {
-    "start": 885.44,
-    "duration": 3,
-    "text": "更多還是假投資跟假交友",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 891.98,
-    "duration": 2,
-    "text": "這名六十多歲男子四號中午",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 331,
     "start": 893.92,
-    "duration": 2,
-    "text": "來到高雄仁武一家銀行",
-    "hasSignLanguage": false
+    "duration": 2.8799999999999955,
+    "text": "來到高雄仁武一家銀行說要領一百萬"
   },
   {
-    "start": 895.52,
-    "duration": 1,
-    "text": "說要領一百萬",
-    "hasSignLanguage": false
+    "sequence": 332,
+    "start": 896.8,
+    "duration": 2.400000000000091,
+    "text": "宣稱是網路認識的女友人車禍"
   },
   {
-    "start": 896.78,
-    "duration": 2,
-    "text": "宣稱是網路認識的女友人車禍",
-    "hasSignLanguage": false
+    "sequence": 333,
+    "start": 899.2,
+    "duration": 3.8799999999999955,
+    "text": "急需買四瓶特效藥 一瓶單價高達二十萬"
   },
   {
-    "start": 899.14,
-    "duration": 2,
-    "text": "急需買四瓶特效藥",
-    "hasSignLanguage": false
+    "sequence": 334,
+    "start": 903.08,
+    "duration": 1.919999999999959,
+    "text": "警方接獲銀行通報到場"
   },
   {
-    "start": 900.98,
-    "duration": 2,
-    "text": "一瓶單價高達二十萬",
-    "hasSignLanguage": false
+    "sequence": 335,
+    "start": 905,
+    "duration": 2.3999999999999773,
+    "text": "立刻識破是假交友詐騙"
   },
   {
-    "start": 903.02,
-    "duration": 2,
-    "text": "警方接獲銀行通報到場",
-    "hasSignLanguage": false
+    "sequence": 336,
+    "start": 926.2,
+    "duration": 1.67999999999995,
+    "text": "巡邏員警來到銀行遷道"
   },
   {
-    "start": 904.94,
-    "duration": 2,
-    "text": "立刻識破是假交友詐騙",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 909.98,
-    "duration": 2,
-    "text": "這款單據時黃南卻告知",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 912.22,
-    "duration": 3,
-    "text": "航員要購買健身器材給老婆使用",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 914.74,
-    "duration": 1,
-    "text": "前後說法不一",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 916.22,
-    "duration": 2,
-    "text": "經員警進一步瞭解發現",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 918.14,
-    "duration": 2,
-    "text": "史為典型假交友詐騙",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 920.44,
-    "duration": 1,
-    "text": "黃南財經絕招詐騙",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 926.18,
-    "duration": 2,
-    "text": "巡邏員警來到銀行遷道",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 337,
     "start": 927.88,
-    "duration": 1,
-    "text": "未能及時阻詐",
-    "hasSignLanguage": false
+    "duration": 1.1599999999999682,
+    "text": "未能及時阻詐"
   },
   {
-    "start": 929.02,
-    "duration": 2,
-    "text": "警方跟各金融機構保持連線",
-    "hasSignLanguage": false
+    "sequence": 338,
+    "start": 929.04,
+    "duration": 2.4400000000000546,
+    "text": "警方跟各金融機構保持連線"
   },
   {
+    "sequence": 339,
     "start": 931.48,
-    "duration": 2,
-    "text": "除了透過員警到場勸阻",
-    "hasSignLanguage": false
+    "duration": 1.7999999999999545,
+    "text": "除了透過員警到場勸阻"
   },
   {
+    "sequence": 340,
     "start": 933.28,
-    "duration": 3,
-    "text": "警政署也持續增補人力及導路AI",
-    "hasSignLanguage": false
+    "duration": 3.019999999999982,
+    "text": "警政署也持續增補人力及導路AI"
   },
   {
-    "start": 936.28,
-    "duration": 2,
-    "text": "精進一六五反詐騙專線的",
-    "hasSignLanguage": false
+    "sequence": 341,
+    "start": 936.3,
+    "duration": 2.82000000000005,
+    "text": "精進一六五反詐騙專線的截停量能"
   },
   {
-    "start": 938.1,
-    "duration": 3,
-    "text": "截停量能並定期分析高發詐騙",
-    "hasSignLanguage": false
+    "sequence": 342,
+    "start": 939.12,
+    "duration": 2.480000000000018,
+    "text": "並定期分析高發詐騙樣態"
   },
   {
-    "start": 940.94,
-    "duration": 2,
-    "text": "樣態協助民眾掌握趨勢",
-    "hasSignLanguage": false
+    "sequence": 343,
+    "start": 941.6,
+    "duration": 3.199999999999932,
+    "text": "協助民眾掌握趨勢 強化防詐認知"
   },
   {
-    "start": 943.22,
-    "duration": 2,
-    "text": "強化防詐認知",
-    "hasSignLanguage": false
+    "sequence": 344,
+    "start": 944.8,
+    "duration": 1.400000000000091,
+    "text": "公視新聞 陳慧 許正俊"
   },
   {
-    "start": 944.78,
-    "duration": 3,
-    "text": "公視新聞 台南高雄報導",
-    "hasSignLanguage": true
+    "sequence": 345,
+    "start": 946.2,
+    "duration": 3.4799999999999045,
+    "text": "臺南高雄報導"
   },
   {
-    "start": 949.62,
-    "duration": 3,
-    "text": "義大利時尚大師亞曼尼",
-    "hasSignLanguage": true
+    "sequence": 346,
+    "start": 949.68,
+    "duration": 3.240000000000009,
+    "text": "義大利時尚大師亞曼尼"
   },
   {
-    "start": 952.86,
-    "duration": 3,
-    "text": "四號在米蘭辭世",
-    "hasSignLanguage": true
+    "sequence": 347,
+    "start": 952.92,
+    "duration": 2.9600000000000364,
+    "text": "四號在米蘭辭世"
   },
   {
-    "start": 955.86,
-    "duration": 4,
-    "text": "享其壽九十一歲",
-    "hasSignLanguage": true
+    "sequence": 348,
+    "start": 955.88,
+    "duration": 4.2000000000000455,
+    "text": "享其壽 九十一歲"
   },
   {
-    "start": 960.06,
-    "duration": 5,
-    "text": "亞曼尼被譽為義大利優雅的化身",
-    "hasSignLanguage": true
+    "sequence": 349,
+    "start": 960.08,
+    "duration": 4.719999999999914,
+    "text": "亞曼尼被譽為義大利優雅的化身"
   },
   {
-    "start": 964.76,
-    "duration": 2,
-    "text": "他創立的時尚帝國",
-    "hasSignLanguage": true
+    "sequence": 350,
+    "start": 964.8,
+    "duration": 2.3600000000000136,
+    "text": "他創立的時尚帝國"
   },
   {
+    "sequence": 351,
     "start": 967.16,
-    "duration": 7,
-    "text": "跨足了服飾 香水 家居與化妝品",
-    "hasSignLanguage": true
+    "duration": 6.8799999999999955,
+    "text": "跨足了服飾 香水 家居與化妝品"
   },
   {
-    "start": 974.02,
-    "duration": 5,
-    "text": "市值超過了百億美元",
-    "hasSignLanguage": true
+    "sequence": 352,
+    "start": 974.04,
+    "duration": 4.720000000000027,
+    "text": "市值超過了百億美元"
   },
   {
-    "start": 978.72,
-    "duration": 3,
-    "text": "而亞曼尼此事的消息",
-    "hasSignLanguage": true
+    "sequence": 353,
+    "start": 978.76,
+    "duration": 2.6000000000000227,
+    "text": "而亞曼尼此事的消息"
   },
   {
+    "sequence": 354,
     "start": 981.36,
-    "duration": 4,
-    "text": "不僅震驚了義大利時尚圈",
-    "hasSignLanguage": true
+    "duration": 3.9600000000000364,
+    "text": "不僅震驚了義大利時尚圈"
   },
   {
+    "sequence": 355,
     "start": 985.32,
-    "duration": 5,
-    "text": "全球名人也紛紛在社群平台表達哀悼",
-    "hasSignLanguage": true
+    "duration": 4.7999999999999545,
+    "text": "全球名人也紛紛在社群平台表達哀悼"
   },
   {
-    "start": 997.26,
-    "duration": 2,
-    "text": "米蘭街頭的亞曼尼品牌旗艦店前",
-    "hasSignLanguage": false
+    "sequence": 356,
+    "start": 1015.32,
+    "duration": 3.3999999999999773,
+    "text": "更將品牌擴展到奧運代表隊制服"
   },
   {
-    "start": 999.62,
-    "duration": 3,
-    "text": "不少市民與時尚圈人士著足悼念",
-    "hasSignLanguage": false
+    "sequence": 357,
+    "start": 1018.72,
+    "duration": 2.2799999999999727,
+    "text": "紅毯服裝 甚至生活用品"
   },
   {
-    "start": 1002.62,
-    "duration": 3,
-    "text": "亞曼尼從1975年創立同名品牌以來",
-    "hasSignLanguage": false
+    "sequence": 358,
+    "start": 1021,
+    "duration": 1.6000000000000227,
+    "text": "亞曼尼生前保持低調"
   },
   {
-    "start": 1005.62,
-    "duration": 1,
-    "text": "以簡約俐落的線條",
-    "hasSignLanguage": false
+    "sequence": 359,
+    "start": 1022.6,
+    "duration": 3.080000000000041,
+    "text": "但他的作品早已走入世界每個角落"
   },
   {
-    "start": 1007.02,
-    "duration": 3,
-    "text": "和經典剪裁顛覆西裝刻板印象",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1010.22,
-    "duration": 3,
-    "text": "掀起Power Suit也就是全力套裝風潮",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1013.32,
-    "duration": 2,
-    "text": "他不只定義了義大利時尚",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1015.22,
-    "duration": 3,
-    "text": "更將品牌擴展到奧運代表隊制服",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1018.52,
-    "duration": 2,
-    "text": "紅毯服裝 甚至生活用品",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1020.82,
-    "duration": 2,
-    "text": "亞曼尼生前保持低調",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1022.42,
-    "duration": 3,
-    "text": "但他的作品早已走入世界每個角落",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 360,
     "start": 1025.68,
-    "duration": 2,
-    "text": "很可憐聽到他的死亡",
-    "hasSignLanguage": false
+    "duration": 13.919999999999845,
+    "text": "亞曼尼從一輛小甲蟲車起家"
   },
   {
-    "start": 1027.98,
-    "duration": 2,
-    "text": "所以我才來賜予我的尊重",
-    "hasSignLanguage": false
+    "sequence": 361,
+    "start": 1039.6,
+    "duration": 2.2000000000000455,
+    "text": "最終締造超過百億美元的"
   },
   {
-    "start": 1029.98,
+    "sequence": 362,
+    "start": 1041.8,
+    "duration": 1.5199999999999818,
+    "text": "全球時尚帝國"
+  },
+  {
+    "sequence": 363,
+    "start": 1043.32,
+    "duration": 2.880000000000109,
+    "text": "亞曼尼1934年在義大利北部皮亞"
+  },
+  {
+    "sequence": 364,
+    "start": 1046.2,
+    "duration": 1.1199999999998909,
+    "text": "勤查出生"
+  },
+  {
+    "sequence": 365,
+    "start": 1047.32,
+    "duration": 1.240000000000009,
+    "text": "原本立志成為醫生"
+  },
+  {
+    "sequence": 366,
+    "start": 1048.56,
+    "duration": 2.5599999999999454,
+    "text": "卻在時尚圈找到真正的舞台"
+  },
+  {
+    "sequence": 367,
+    "start": 1051.12,
+    "duration": 2.9200000000000728,
+    "text": "他先在米蘭知名百貨擔任櫥窗設計"
+  },
+  {
+    "sequence": 368,
+    "start": 1054.04,
+    "duration": 2.7999999999999545,
+    "text": "之後進入時裝品牌逐步累積經驗"
+  },
+  {
+    "sequence": 369,
+    "start": 1056.84,
+    "duration": 0.8800000000001091,
+    "text": "直到41歲"
+  },
+  {
+    "sequence": 370,
+    "start": 1057.72,
+    "duration": 2.480000000000018,
+    "text": "他才創立自己的品牌Giorgio Armani"
+  },
+  {
+    "sequence": 371,
+    "start": 1060.2,
+    "duration": 3.3999999999998636,
+    "text": "憑藉簡約俐落的線條與柔化的西裝輪廓"
+  },
+  {
+    "sequence": 372,
+    "start": 1063.6,
+    "duration": 1.7200000000000273,
+    "text": "徹底改變男裝風格"
+  },
+  {
+    "sequence": 373,
+    "start": 1065.32,
     "duration": 3,
-    "text": "亞曼尼在馬來西亞非常受歡迎",
-    "hasSignLanguage": false
+    "text": "被譽為解構傳統西裝的設計師"
   },
   {
-    "start": 1032.98,
+    "sequence": 374,
+    "start": 1068.32,
     "duration": 3,
-    "text": "他是一個很好的男人",
-    "hasSignLanguage": false
+    "text": "美國富比士曾將他列入全球前200大富豪"
   },
   {
-    "start": 1035.88,
-    "duration": 1,
-    "text": "有著很好的風格",
-    "hasSignLanguage": false
+    "sequence": 375,
+    "start": 1071.32,
+    "duration": 1.2799999999999727,
+    "text": "他影響的不只是衣著"
   },
   {
-    "start": 1037.28,
-    "duration": 2,
-    "text": "亞曼尼從一輛小甲從車起家",
-    "hasSignLanguage": false
+    "sequence": 376,
+    "start": 1072.6,
+    "duration": 1.9200000000000728,
+    "text": "更是文化與生活"
   },
   {
-    "start": 1039.42,
-    "duration": 2,
-    "text": "最終締造超過百億美元的",
-    "hasSignLanguage": false
+    "sequence": 377,
+    "start": 1074.52,
+    "duration": 1.0399999999999636,
+    "text": "許多好萊塢巨星"
   },
   {
-    "start": 1041.58,
-    "duration": 2,
-    "text": "全球時尚帝國",
-    "hasSignLanguage": false
+    "sequence": 378,
+    "start": 1075.56,
+    "duration": 2.160000000000082,
+    "text": "包括理查基爾 凱特布蘭奇等"
   },
   {
-    "start": 1043.12,
-    "duration": 1,
-    "text": "亞曼尼1934年",
-    "hasSignLanguage": false
+    "sequence": 379,
+    "start": 1077.72,
+    "duration": 3.0399999999999636,
+    "text": "都是亞曼尼紅毯上的最佳代言人"
   },
   {
-    "start": 1044.42,
+    "sequence": 380,
+    "start": 1080.76,
+    "duration": 2.3599999999999,
+    "text": "他改變了世界服裝的方式"
+  },
+  {
+    "sequence": 381,
+    "start": 1083.12,
+    "duration": 2.3200000000001637,
+    "text": "尤其是我們把裙子塞進去"
+  },
+  {
+    "sequence": 382,
+    "start": 1085.44,
+    "duration": 1.1199999999998909,
+    "text": "穿上衣服"
+  },
+  {
+    "sequence": 383,
+    "start": 1086.56,
+    "duration": 1.759999999999991,
+    "text": "但同時作為一位商業家"
+  },
+  {
+    "sequence": 384,
+    "start": 1088.32,
+    "duration": 2.1200000000001182,
+    "text": "有著巨大的皇帝"
+  },
+  {
+    "sequence": 385,
+    "start": 1090.44,
+    "duration": 3.839999999999918,
+    "text": "他就從販售了蜜蜘蛙車"
+  },
+  {
+    "sequence": 386,
+    "start": 1094.28,
+    "duration": 1.759999999999991,
+    "text": "這是一部故事"
+  },
+  {
+    "sequence": 387,
+    "start": 1096.04,
+    "duration": 2.759999999999991,
+    "text": "亞曼尼的一身見證時尚與產業的眼鏡"
+  },
+  {
+    "sequence": 388,
+    "start": 1098.8,
+    "duration": 1.240000000000009,
+    "text": "他代表的極簡奢華"
+  },
+  {
+    "sequence": 389,
+    "start": 1100.04,
+    "duration": 1.7999999999999545,
+    "text": "成為義大利時尚的代名詞"
+  },
+  {
+    "sequence": 390,
+    "start": 1101.84,
+    "duration": 1.9600000000000364,
+    "text": "他的企業版圖涵蓋化妝品"
+  },
+  {
+    "sequence": 391,
+    "start": 1103.8,
+    "duration": 2.5599999999999454,
+    "text": "香水 家居設計與酒店事業"
+  },
+  {
+    "sequence": 392,
+    "start": 1106.36,
+    "duration": 1.1600000000000819,
+    "text": "此事消息傳出後"
+  },
+  {
+    "sequence": 393,
+    "start": 1107.52,
+    "duration": 2.3600000000001273,
+    "text": "許多名人像是維多利亞貝克漢"
+  },
+  {
+    "sequence": 394,
+    "start": 1109.88,
+    "duration": 1.5199999999999818,
+    "text": "超模辛迪克勞夫"
+  },
+  {
+    "sequence": 395,
+    "start": 1111.4,
+    "duration": 1.5199999999999818,
+    "text": "演員三妙傑克森"
+  },
+  {
+    "sequence": 396,
+    "start": 1112.92,
+    "duration": 2.119999999999891,
+    "text": "以及時尚設計師范倫鐵諾等"
+  },
+  {
+    "sequence": 397,
+    "start": 1115.04,
+    "duration": 3.3199999999999363,
+    "text": "都在社群平台悼念這位真正的傳奇"
+  },
+  {
+    "sequence": 398,
+    "start": 1118.36,
+    "duration": 1.8800000000001091,
+    "text": "公司新聞這位人無題長別影"
+  },
+  {
+    "sequence": 399,
+    "start": 1120.24,
+    "duration": 3.7200000000000273,
+    "text": "阿富汗東南部"
+  },
+  {
+    "sequence": 400,
+    "start": 1123.96,
+    "duration": 3.6399999999998727,
+    "text": "昨天晚間再度發生強震"
+  },
+  {
+    "sequence": 401,
+    "start": 1127.6,
     "duration": 3,
-    "text": "在義大利北部皮亞勤查出生",
-    "hasSignLanguage": false
+    "text": "這也是近日來的第三起強震"
   },
   {
-    "start": 1047.12,
-    "duration": 1,
-    "text": "原本立志成為醫生",
-    "hasSignLanguage": false
+    "sequence": 402,
+    "start": 1130.6,
+    "duration": 2.3600000000001273,
+    "text": "規模有6.2"
   },
   {
-    "start": 1048.38,
-    "duration": 3,
-    "text": "卻在時尚圈找到真正的舞台",
-    "hasSignLanguage": false
+    "sequence": 403,
+    "start": 1132.96,
+    "duration": 3.0399999999999636,
+    "text": "深度是10公里"
   },
   {
-    "start": 1050.92,
-    "duration": 3,
-    "text": "他先在米蘭知名百貨擔任櫥窗設計",
-    "hasSignLanguage": false
+    "sequence": 404,
+    "start": 1136,
+    "duration": 3.240000000000009,
+    "text": "而從周日最開始的強震至今"
   },
   {
-    "start": 1053.82,
-    "duration": 1,
-    "text": "之後進入時裝品牌",
-    "hasSignLanguage": false
+    "sequence": 405,
+    "start": 1139.24,
+    "duration": 2.9600000000000364,
+    "text": "死亡人數已經超過了2200人"
   },
   {
-    "start": 1055.28,
-    "duration": 1,
-    "text": "逐步累積經驗",
-    "hasSignLanguage": false
+    "sequence": 406,
+    "start": 1142.2,
+    "duration": 4.2000000000000455,
+    "text": "救援還在進行中"
   },
   {
-    "start": 1056.64,
-    "duration": 1,
-    "text": "直到41歲",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1057.58,
-    "duration": 2,
-    "text": "他才創立自己的品牌Georgia Money",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1059.98,
-    "duration": 2,
-    "text": "憑藉簡約俐落的線條",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1061.68,
-    "duration": 2,
-    "text": "與柔化的西裝輪廓",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1063.38,
-    "duration": 2,
-    "text": "徹底改變男裝風格",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1065.08,
-    "duration": 3,
-    "text": "被譽為解構傳統西裝的設計師",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1068.08,
-    "duration": 1,
-    "text": "美國富比士",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1068.84,
-    "duration": 2,
-    "text": "曾將他列入全球前200大富豪",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1071.08,
-    "duration": 1,
-    "text": "他影響的不只是衣著",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1072.38,
-    "duration": 2,
-    "text": "更是文化與生活",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1074.34,
-    "duration": 1,
-    "text": "許多好萊塢巨星",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1075.38,
-    "duration": 2,
-    "text": "包括理查基爾 凱特布蘭奇等",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1077.54,
-    "duration": 3,
-    "text": "都是亞曼尼紅毯上的最佳代言人",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1080.64,
-    "duration": 2,
-    "text": "他改變了世界服裝的方式",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1082.94,
-    "duration": 2,
-    "text": "尤其是我們所謂的製造",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1085.34,
-    "duration": 1,
-    "text": "配搭",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1086.34,
-    "duration": 2,
-    "text": "但也作為一位商業人",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1088.14,
-    "duration": 2,
-    "text": "有著巨大的英雄",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1090.34,
-    "duration": 4,
-    "text": "他開始以賣自己的豪華車",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1093.84,
-    "duration": 2,
-    "text": "你知道是個故事",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1095.84,
-    "duration": 1,
-    "text": "亞曼尼德一身",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1096.64,
-    "duration": 2,
-    "text": "見證時尚與產業的眼鏡",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1098.64,
-    "duration": 1,
-    "text": "他代表的極簡奢華",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1099.84,
-    "duration": 2,
-    "text": "成為義大利時尚的代名詞",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1101.64,
-    "duration": 1,
-    "text": "他的企業版圖",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1102.74,
-    "duration": 2,
-    "text": "涵蓋化妝品 香水 家居設計",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1104.94,
-    "duration": 1,
-    "text": "與酒店事業",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1106.24,
-    "duration": 1,
-    "text": "此事消息傳出後",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1107.44,
-    "duration": 1,
-    "text": "許多名人",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1108.1,
-    "duration": 2,
-    "text": "像是維多利亞貝克漢",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1109.74,
-    "duration": 2,
-    "text": "超模 新帝 克勞富",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1111.24,
-    "duration": 2,
-    "text": "演員Samuel 傑克森",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1112.8,
-    "duration": 2,
-    "text": "以及時尚設計師范倫鐵諾等",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1115,
-    "duration": 1,
-    "text": "都在社群平台",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1116,
-    "duration": 2,
-    "text": "悼念這位真正的傳奇",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1118.3,
-    "duration": 2,
-    "text": "公司新聞這位人無題長編譯",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1122.3,
-    "duration": 2,
-    "text": "阿富汗東南部",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1123.9,
-    "duration": 4,
-    "text": "昨天晚間再度發生強震",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1127.5,
-    "duration": 3,
-    "text": "這也是近日來的第三起強震",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1130.5,
-    "duration": 2,
-    "text": "規模有6.2",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1132.9,
-    "duration": 3,
-    "text": "深度是10公里",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1135.9,
-    "duration": 3,
-    "text": "而從週日最開始的強震至今",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1139.2,
-    "duration": 3,
-    "text": "死亡人數已經超過了2千2百人",
-    "hasSignLanguage": true
-  },
-  {
-    "start": 1145.2,
-    "duration": 1,
-    "text": "救援還在進行中",
-    "hasSignLanguage": false
-  },
-  {
+    "sequence": 407,
     "start": 1146.4,
-    "duration": 2,
-    "text": "但一直有地震發生",
-    "hasSignLanguage": false
+    "duration": 1.6399999999998727,
+    "text": "但一直有地震發生"
   },
   {
-    "start": 1148,
-    "duration": 2,
-    "text": "老百姓的恐慌 悲傷跟無助",
-    "hasSignLanguage": false
+    "sequence": 408,
+    "start": 1148.04,
+    "duration": 3.2799999999999727,
+    "text": "老百姓的恐慌 悲傷跟無助無法停止"
   },
   {
-    "start": 1150.2,
+    "sequence": 409,
+    "start": 1151.32,
+    "duration": 2.2000000000000455,
+    "text": "根據德國地球科學研究中心"
+  },
+  {
+    "sequence": 410,
+    "start": 1153.52,
+    "duration": 1.7200000000000273,
+    "text": "鎮壓位於東南部山區"
+  },
+  {
+    "sequence": 411,
+    "start": 1155.24,
+    "duration": 1.599999999999909,
+    "text": "靠近巴基斯坦邊境"
+  },
+  {
+    "sequence": 412,
+    "start": 1156.84,
+    "duration": 3.040000000000191,
+    "text": "這起6.2地震前後還出現幾次地震"
+  },
+  {
+    "sequence": 413,
+    "start": 1159.88,
+    "duration": 3.199999999999818,
+    "text": "規模分別為5.6 5.2到5.5之間"
+  },
+  {
+    "sequence": 414,
+    "start": 1163.08,
+    "duration": 1.800000000000182,
+    "text": "大地震造成重大破壞"
+  },
+  {
+    "sequence": 415,
+    "start": 1164.88,
+    "duration": 2.0399999999999636,
+    "text": "並讓百姓更加恐慌"
+  },
+  {
+    "sequence": 416,
+    "start": 1166.92,
+    "duration": 2.119999999999891,
+    "text": "我已經把6個家庭放在那裡"
+  },
+  {
+    "sequence": 417,
+    "start": 1169.04,
+    "duration": 1.6000000000001364,
+    "text": "他們是我的家庭"
+  },
+  {
+    "sequence": 418,
+    "start": 1170.64,
     "duration": 1,
-    "text": "無法停止",
-    "hasSignLanguage": false
+    "text": "他們是我的母親"
   },
   {
-    "start": 1151.3,
-    "duration": 2,
-    "text": "根據德國地球科學研究中心",
-    "hasSignLanguage": false
+    "sequence": 419,
+    "start": 1171.64,
+    "duration": 2.7999999999999545,
+    "text": "要運送物資深入災區相當不容易"
   },
   {
-    "start": 1153.5,
-    "duration": 2,
-    "text": "鎮壓位於東南部山區",
-    "hasSignLanguage": false
+    "sequence": 420,
+    "start": 1174.44,
+    "duration": 1.3999999999998636,
+    "text": "因為道路被震毀"
   },
   {
-    "start": 1155.2,
-    "duration": 2,
-    "text": "靠近巴基斯坦邊境",
-    "hasSignLanguage": false
+    "sequence": 421,
+    "start": 1175.84,
+    "duration": 1.4800000000000182,
+    "text": "工作人員要通過前"
   },
   {
-    "start": 1156.8,
-    "duration": 2,
-    "text": "這起6.2地震前後",
-    "hasSignLanguage": false
+    "sequence": 422,
+    "start": 1177.32,
+    "duration": 2.2799999999999727,
+    "text": "還得先徒手把落石搬開"
   },
   {
-    "start": 1158.3,
-    "duration": 2,
-    "text": "還出現幾次地震",
-    "hasSignLanguage": false
+    "sequence": 423,
+    "start": 1179.6,
+    "duration": 1.8400000000001455,
+    "text": "救難人員4號白天用走的"
   },
   {
-    "start": 1159.8,
-    "duration": 3,
-    "text": "規模分別為5.6 5.2到5.5之間",
-    "hasSignLanguage": false
+    "sequence": 424,
+    "start": 1181.44,
+    "duration": 1.240000000000009,
+    "text": "走了好幾個小時"
   },
   {
-    "start": 1163,
-    "duration": 2,
-    "text": "大地震造成重大破壞",
-    "hasSignLanguage": false
+    "sequence": 425,
+    "start": 1182.68,
+    "duration": 1.7999999999999545,
+    "text": "才抵達因山崩更落石"
   },
   {
-    "start": 1164.8,
-    "duration": 2,
-    "text": "並讓百姓更加恐慌",
-    "hasSignLanguage": false
+    "sequence": 426,
+    "start": 1184.48,
+    "duration": 2.240000000000009,
+    "text": "而完全被隔絕的村落"
   },
   {
-    "start": 1170.1,
-    "duration": 4,
-    "text": "要運送物資深入災區相當不容易",
-    "hasSignLanguage": false
+    "sequence": 427,
+    "start": 1186.72,
+    "duration": 2.7200000000000273,
+    "text": "接著持續從瓦礫堆中挖出遺體"
   },
   {
-    "start": 1174.3,
-    "duration": 1,
-    "text": "因為道路被震毀",
-    "hasSignLanguage": false
+    "sequence": 428,
+    "start": 1189.44,
+    "duration": 1.599999999999909,
+    "text": "我無法計算"
   },
   {
-    "start": 1175.7,
-    "duration": 2,
-    "text": "工作人員要通過前",
-    "hasSignLanguage": false
+    "sequence": 429,
+    "start": 1191.04,
+    "duration": 3.0399999999999636,
+    "text": "有多少人和死亡人士都在這裏"
   },
   {
-    "start": 1177.3,
-    "duration": 2,
-    "text": "還得先徒手把落石搬開",
-    "hasSignLanguage": false
+    "sequence": 430,
+    "start": 1194.08,
+    "duration": 4.279999999999973,
+    "text": "大部分的家庭都被毀滅"
   },
   {
-    "start": 1179.5,
-    "duration": 2,
-    "text": "救難人員4號白天用走的",
-    "hasSignLanguage": false
+    "sequence": 431,
+    "start": 1198.36,
+    "duration": 1.2000000000000455,
+    "text": "在上面的地區"
   },
   {
-    "start": 1181.4,
-    "duration": 1,
-    "text": "走了好幾個小時",
-    "hasSignLanguage": false
+    "sequence": 432,
+    "start": 1199.56,
+    "duration": 2.9600000000000364,
+    "text": "地面上有很多地圖"
   },
   {
-    "start": 1182.6,
-    "duration": 2,
-    "text": "才抵達因山崩跟落石",
-    "hasSignLanguage": false
+    "sequence": 433,
+    "start": 1202.52,
+    "duration": 3.0799999999999272,
+    "text": "數十個家庭都被毀滅"
   },
   {
-    "start": 1184.4,
-    "duration": 2,
-    "text": "而完全被隔絕的村落",
-    "hasSignLanguage": false
+    "sequence": 434,
+    "start": 1205.6,
+    "duration": 1.240000000000009,
+    "text": "庫納爾省許多房屋"
   },
   {
-    "start": 1186.6,
-    "duration": 3,
-    "text": "接著持續從瓦礫堆中挖出遺體",
-    "hasSignLanguage": false
+    "sequence": 435,
+    "start": 1206.84,
+    "duration": 2.9600000000000364,
+    "text": "以木材跟土磚建造相當不耐震"
   },
   {
-    "start": 1199.2,
-    "duration": 3,
-    "text": "地面上也有滑水",
-    "hasSignLanguage": false
+    "sequence": 436,
+    "start": 1209.8,
+    "duration": 2.519999999999982,
+    "text": "根據全球伊斯蘭救濟組織的評估"
   },
   {
-    "start": 1202.3,
-    "duration": 3,
-    "text": "數十個房屋被完全破壞",
-    "hasSignLanguage": false
+    "sequence": 437,
+    "start": 1212.32,
+    "duration": 3.6800000000000637,
+    "text": "該省約98%的建築物被毀或受損"
   },
   {
-    "start": 1205.4,
-    "duration": 1,
-    "text": "庫納爾省許多房屋",
-    "hasSignLanguage": false
+    "sequence": 438,
+    "start": 1216,
+    "duration": 2.519999999999982,
+    "text": "從週日發生極具毀滅性的地震"
   },
   {
-    "start": 1206.7,
-    "duration": 3,
-    "text": "以木材跟土磚建造相當不耐震",
-    "hasSignLanguage": false
+    "sequence": 439,
+    "start": 1218.52,
+    "duration": 2.7999999999999545,
+    "text": "週二一場規模5.5地震至今"
   },
   {
-    "start": 1209.6,
-    "duration": 3,
-    "text": "根據全球伊斯蘭救濟組織的評估",
-    "hasSignLanguage": false
+    "sequence": 440,
+    "start": 1221.32,
+    "duration": 2.0399999999999636,
+    "text": "塔利班發言人4號證實"
   },
   {
-    "start": 1212.1,
-    "duration": 4,
-    "text": "該省約98%的建築物被毀或受損",
-    "hasSignLanguage": false
+    "sequence": 441,
+    "start": 1223.36,
+    "duration": 1.2800000000002,
+    "text": "死亡人數累計"
   },
   {
-    "start": 1215.8,
-    "duration": 3,
-    "text": "從週日發生極具毀滅性的地震",
-    "hasSignLanguage": false
+    "sequence": 442,
+    "start": 1224.64,
+    "duration": 2.7199999999998,
+    "text": "已經飆升到超過2200人"
   },
   {
-    "start": 1218.3,
-    "duration": 3,
-    "text": "週二一場規模5.5地震至今",
-    "hasSignLanguage": false
+    "sequence": 443,
+    "start": 1227.36,
+    "duration": 2.480000000000018,
+    "text": "高於先前估計的1400人"
   },
   {
-    "start": 1221.1,
-    "duration": 2,
-    "text": "塔利班發言人4號證實",
-    "hasSignLanguage": false
+    "sequence": 444,
+    "start": 1229.84,
+    "duration": 10.120000000000118,
+    "text": "自從塔利班2021年重新掌權"
   },
   {
-    "start": 1223.1,
-    "duration": 2,
-    "text": "死亡人數累計已經飆升到",
-    "hasSignLanguage": false
+    "sequence": 445,
+    "start": 1239.96,
+    "duration": 2.0399999999999636,
+    "text": "並實施嚴格宗教法規後"
   },
   {
-    "start": 1225.4,
-    "duration": 2,
-    "text": "超過2200人",
-    "hasSignLanguage": false
+    "sequence": 446,
+    "start": 1242,
+    "duration": 2.3599999999999,
+    "text": "非政府組織與援助團體的運作"
   },
   {
-    "start": 1227.1,
-    "duration": 3,
-    "text": "高於先前估計的1400人",
-    "hasSignLanguage": false
+    "sequence": 447,
+    "start": 1244.36,
+    "duration": 2.400000000000091,
+    "text": "越加困難 支持急劇下降"
   },
   {
-    "start": 1237.5,
-    "duration": 2,
-    "text": "自從塔利班2021年重新掌權",
-    "hasSignLanguage": false
+    "sequence": 448,
+    "start": 1246.76,
+    "duration": 1.0399999999999636,
+    "text": "援助團體表示"
   },
   {
-    "start": 1239.8,
-    "duration": 2,
-    "text": "並實施嚴格宗教法規後",
-    "hasSignLanguage": false
+    "sequence": 449,
+    "start": 1247.8,
+    "duration": 2.9200000000000728,
+    "text": "他們急需人手跟物資以救治傷者"
   },
   {
-    "start": 1241.8,
-    "duration": 2,
-    "text": "非政府組織與援助團體的運作",
-    "hasSignLanguage": false
+    "sequence": 450,
+    "start": 1250.72,
+    "duration": 2.519999999999982,
+    "text": "並為數以萬計 無家可歸的人"
   },
   {
-    "start": 1244.1,
-    "duration": 3,
-    "text": "越加困難 支持急劇下降",
-    "hasSignLanguage": false
+    "sequence": 451,
+    "start": 1253.24,
+    "duration": 1.8799999999998818,
+    "text": "提供食物跟飲用水"
   },
   {
-    "start": 1246.6,
-    "duration": 1,
-    "text": "援助團體表示",
-    "hasSignLanguage": false
+    "sequence": 452,
+    "start": 1255.12,
+    "duration": 1.8800000000001091,
+    "text": "公視新聞 黃媛NBA"
   },
   {
-    "start": 1247.6,
-    "duration": 3,
-    "text": "他們急需人手跟物資以救治傷者",
-    "hasSignLanguage": false
+    "sequence": 453,
+    "start": 1257,
+    "duration": 3.519999999999982,
+    "text": "葡萄牙里斯本"
   },
   {
-    "start": 1250.6,
-    "duration": 3,
-    "text": "並為數以萬計無家可歸的人",
-    "hasSignLanguage": false
+    "sequence": 454,
+    "start": 1260.52,
+    "duration": 3.2000000000000455,
+    "text": "有百年歷史的爬坡纜車"
   },
   {
-    "start": 1253.1,
-    "duration": 2,
-    "text": "提供食物跟飲用水",
-    "hasSignLanguage": false
+    "sequence": 455,
+    "start": 1263.72,
+    "duration": 2.160000000000082,
+    "text": "榮耀升降機"
   },
   {
-    "start": 1255,
-    "duration": 2,
-    "text": "公視新聞 黃岳人編",
-    "hasSignLanguage": true
+    "sequence": 456,
+    "start": 1265.88,
+    "duration": 4.7199999999998,
+    "text": "3號發生重大脫軌反覆序故"
   },
   {
-    "start": 1285.5,
-    "duration": 2,
-    "text": "紅色纜車撞得變形",
-    "hasSignLanguage": true
+    "sequence": 457,
+    "start": 1270.6,
+    "duration": 2.480000000000018,
+    "text": "造成了16個人死亡"
   },
   {
-    "start": 1287.5,
-    "duration": 2,
-    "text": "翻覆在軌道旁邊",
-    "hasSignLanguage": true
+    "sequence": 458,
+    "start": 1273.08,
+    "duration": 2.3200000000001637,
+    "text": "超過20個人受傷"
   },
   {
-    "start": 1289,
-    "duration": 2,
-    "text": "葡萄牙有百年歷史的",
-    "hasSignLanguage": true
+    "sequence": 459,
+    "start": 1278.24,
+    "duration": 2.599999999999909,
+    "text": "葡萄牙政府宣布"
   },
   {
-    "start": 1290.5,
-    "duration": 2,
-    "text": "榮耀升降級纜車",
-    "hasSignLanguage": false
+    "sequence": 460,
+    "start": 1280.84,
+    "duration": 3.3200000000001637,
+    "text": "全國降半旗3天"
   },
   {
-    "start": 1292,
-    "duration": 2,
-    "text": "在當地3號發生脫軌事故",
-    "hasSignLanguage": false
+    "sequence": 461,
+    "start": 1284.16,
+    "duration": 2.3999999999998636,
+    "text": "為事故的罹難者哀悼"
   },
   {
-    "start": 1294,
-    "duration": 3,
-    "text": "造成包括外籍遊客等多人死傷",
-    "hasSignLanguage": false
+    "sequence": 462,
+    "start": 1286.56,
+    "duration": 6.600000000000136,
+    "text": "黃色纜車撞得變形"
   },
   {
-    "start": 1308,
-    "duration": 1,
-    "text": "每天點出事發當時",
-    "hasSignLanguage": false
+    "sequence": 463,
+    "start": 1293.16,
+    "duration": 1.3199999999999363,
+    "text": "翻覆在軌道旁邊"
   },
   {
-    "start": 1309,
-    "duration": 3,
-    "text": "出事的纜車正在經過自由大道附近",
-    "hasSignLanguage": false
+    "sequence": 464,
+    "start": 1294.48,
+    "duration": 1.400000000000091,
+    "text": "葡萄牙有百年歷史的"
   },
   {
-    "start": 1313,
-    "duration": 2,
-    "text": "車廂卻因為不明原因",
-    "hasSignLanguage": false
+    "sequence": 465,
+    "start": 1295.88,
+    "duration": 1.5199999999999818,
+    "text": "榮耀升降機纜車"
   },
   {
-    "start": 1315,
-    "duration": 2,
-    "text": "翻覆冒出濃煙",
-    "hasSignLanguage": false
+    "sequence": 466,
+    "start": 1297.4,
+    "duration": 2.119999999999891,
+    "text": "在當地3號發生脫軌事故"
   },
   {
+    "sequence": 467,
+    "start": 1299.52,
+    "duration": 2.9200000000000728,
+    "text": "造成包括外籍遊客等多人死傷"
+  },
+  {
+    "sequence": 468,
+    "start": 1302.44,
+    "duration": 3.6399999999998727,
+    "text": "一輛黄色藍色的街道車"
+  },
+  {
+    "sequence": 469,
+    "start": 1306.08,
+    "duration": 2.800000000000182,
+    "text": "撞死了15個人"
+  },
+  {
+    "sequence": 470,
+    "start": 1308.88,
+    "duration": 1.2799999999999727,
+    "text": "傷害了18人"
+  },
+  {
+    "sequence": 471,
+    "start": 1310.16,
+    "duration": 1.3999999999998636,
+    "text": "媒體揭出事發當時"
+  },
+  {
+    "sequence": 472,
+    "start": 1311.56,
+    "duration": 2.5599999999999454,
+    "text": "出事的纜車正在經過自由大道附近"
+  },
+  {
+    "sequence": 473,
+    "start": 1314.12,
+    "duration": 1.9200000000000728,
+    "text": "車廂卻因為不明原因翻覆"
+  },
+  {
+    "sequence": 474,
+    "start": 1316.04,
+    "duration": 0.9600000000000364,
+    "text": "冒出濃煙"
+  },
+  {
+    "sequence": 475,
     "start": 1317,
-    "duration": 1,
-    "text": "讓車廂內的乘客",
-    "hasSignLanguage": false
+    "duration": 1.3199999999999363,
+    "text": "讓車廂內的乘客"
   },
   {
-    "start": 1318,
-    "duration": 2,
-    "text": "驚慌地從車廂爬出來",
-    "hasSignLanguage": false
+    "sequence": 476,
+    "start": 1318.32,
+    "duration": 1.9600000000000364,
+    "text": "驚慌地從車廂爬出來"
   },
   {
-    "start": 1320,
-    "duration": 1,
-    "text": "目擊者表示",
-    "hasSignLanguage": false
+    "sequence": 477,
+    "start": 1320.28,
+    "duration": 0.7999999999999545,
+    "text": "目擊者表示"
   },
   {
-    "start": 1321,
-    "duration": 2,
-    "text": "當時纜車以很快的速度",
-    "hasSignLanguage": false
+    "sequence": 478,
+    "start": 1321.08,
+    "duration": 1.800000000000182,
+    "text": "當時纜車以很快的速度"
   },
   {
-    "start": 1323,
-    "duration": 1,
-    "text": "沿著陡坡往下跑",
-    "hasSignLanguage": false
+    "sequence": 479,
+    "start": 1322.88,
+    "duration": 1.599999999999909,
+    "text": "沿著陡坡往下跑"
   },
   {
-    "start": 1324,
-    "duration": 3,
-    "text": "最後在轉彎處撞上了建築物",
-    "hasSignLanguage": false
+    "sequence": 480,
+    "start": 1324.48,
+    "duration": 2.400000000000091,
+    "text": "最後在轉彎處撞上了建築物"
   },
   {
-    "start": 1327,
-    "duration": 2,
-    "text": "而抵達現場救援的消防人員透露",
-    "hasSignLanguage": false
+    "sequence": 481,
+    "start": 1326.88,
+    "duration": 2.199999999999818,
+    "text": "而抵達現場救援的消防人員透露"
   },
   {
-    "start": 1329,
-    "duration": 2,
-    "text": "一次纜車的一條鋼纜脫落",
-    "hasSignLanguage": false
+    "sequence": 482,
+    "start": 1329.08,
+    "duration": 1.9200000000000728,
+    "text": "一次纜車的一條鋼纜脫落"
   },
   {
+    "sequence": 483,
     "start": 1331,
-    "duration": 2,
-    "text": "才會導致纜車失去控制",
-    "hasSignLanguage": false
+    "duration": 2.0399999999999636,
+    "text": "才會導致纜車失去控制"
   },
   {
-    "start": 1343,
-    "duration": 3,
-    "text": "榮耀升降機纜車在1885年啟用",
-    "hasSignLanguage": false
+    "sequence": 484,
+    "start": 1333.04,
+    "duration": 3.4400000000000546,
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1346,
-    "duration": 3,
-    "text": "連接葡萄牙里斯本光復廣場",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1349,
+    "sequence": 485,
+    "start": 1336.48,
     "duration": 1,
-    "text": "附近的市中心",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1350,
-    "duration": 2,
-    "text": "與夜生活豐富的上城區",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1352,
+    "sequence": 486,
+    "start": 1337.48,
     "duration": 1,
-    "text": "上下坡的纜車",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1353,
-    "duration": 2,
-    "text": "是用同一條的鋼索連接",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1355,
-    "duration": 2,
-    "text": "當一輛車廂下坡時",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1357,
-    "duration": 3,
-    "text": "就能夠用重量帶動另一輛車廂上坡",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1360,
+    "sequence": 487,
+    "start": 1338.48,
     "duration": 1,
-    "text": "同步升降",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1361,
+    "sequence": 488,
+    "start": 1339.48,
     "duration": 1,
-    "text": "當地的旅遊官員表示",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1362,
-    "duration": 2,
-    "text": "榮耀升降機的纜車歷史悠久",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1364,
-    "duration": 4,
-    "text": "在1997年列為國家級歷史文化遺產",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1368,
-    "duration": 2,
-    "text": "成了里斯本當地有名的觀光地標",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1370,
-    "duration": 3,
-    "text": "每年會有約三百萬名乘客搭乘",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1373,
-    "duration": 2,
-    "text": "如今發生事故死傷慘重",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1375,
+    "sequence": 489,
+    "start": 1340.48,
     "duration": 1,
-    "text": "歐洲的各國領袖",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1376,
-    "duration": 3,
-    "text": "包括歐盟執委會主席馮德萊恩",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1379,
-    "duration": 2,
-    "text": "歐洲理事會主席柯斯塔",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1381,
+    "sequence": 490,
+    "start": 1341.48,
     "duration": 1,
-    "text": "法國總統馬克宏",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1382,
-    "duration": 2,
-    "text": "聯合國秘書長古提瑞斯等人",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1384,
-    "duration": 2,
-    "text": "都在社群平臺上發文哀悼",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1386,
-    "duration": 3,
-    "text": "葡萄牙政府宣佈當地4號開始",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1389,
+    "sequence": 491,
+    "start": 1342.48,
     "duration": 1,
-    "text": "全國降半旗",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1390,
-    "duration": 2,
-    "text": "為事故的罹難者哀悼三天",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1392,
-    "duration": 2,
-    "text": "並且暫停所有的娛樂活動",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1394,
-    "duration": 2,
-    "text": "里斯本的市議會也宣佈",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1396,
-    "duration": 3,
-    "text": "將會暫停室內其他遊軌電車的營運",
-    "hasSignLanguage": false
-  },
-  {
-    "start": 1399,
+    "sequence": 492,
+    "start": 1343.48,
     "duration": 1,
-    "text": "立即進行檢查",
-    "hasSignLanguage": false
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1400,
-    "duration": 2,
-    "text": "我是新灣城市東比",
-    "hasSignLanguage": false
+    "sequence": 493,
+    "start": 1344.48,
+    "duration": 1,
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1429,
-    "duration": 2,
-    "text": "感謝您的收看",
-    "hasSignLanguage": false
+    "sequence": 494,
+    "start": 1345.48,
+    "duration": 1,
+    "text": "我們已經被囚禁在18.8公里"
   },
   {
-    "start": 1431,
-    "duration": 3,
-    "text": "我們下週一同一時間再會",
-    "hasSignLanguage": false
+    "sequence": 495,
+    "start": 1346.48,
+    "duration": 1,
+    "text": "我們已經被囚禁在18.8公里"
+  },
+  {
+    "sequence": 496,
+    "start": 1347.48,
+    "duration": 1,
+    "text": "我們已經被囚禁在18.8公里"
+  },
+  {
+    "sequence": 497,
+    "start": 1348.48,
+    "duration": 1,
+    "text": "我們已經被囚禁在18.8公里"
+  },
+  {
+    "sequence": 498,
+    "start": 1349.48,
+    "duration": 24.319999999999936,
+    "text": "我們已經被囚禁在18.8公里"
+  },
+  {
+    "sequence": 499,
+    "start": 1373.8,
+    "duration": 13.440000000000055,
+    "text": "最近發生事故死傷慘重"
+  },
+  {
+    "sequence": 500,
+    "start": 1387.24,
+    "duration": 2.240000000000009,
+    "text": "葡萄牙政府宣佈當地4號開始"
+  },
+  {
+    "sequence": 501,
+    "start": 1389.48,
+    "duration": 2.400000000000091,
+    "text": "全國降半旗為事故的罹難者"
+  },
+  {
+    "sequence": 502,
+    "start": 1391.88,
+    "duration": 1,
+    "text": "哀悼三天"
+  },
+  {
+    "sequence": 503,
+    "start": 1392.88,
+    "duration": 2.0399999999999636,
+    "text": "並且暫停所有的娛樂活動"
+  },
+  {
+    "sequence": 504,
+    "start": 1394.92,
+    "duration": 1.5799999999999272,
+    "text": "類似本的市議會也宣佈"
+  },
+  {
+    "sequence": 505,
+    "start": 1396.5,
+    "duration": 2.6800000000000637,
+    "text": "將會暫停室內其他遊軌電車的營運"
+  },
+  {
+    "sequence": 506,
+    "start": 1399.18,
+    "duration": 1.5,
+    "text": "立即進行檢查"
+  },
+  {
+    "sequence": 507,
+    "start": 1400.68,
+    "duration": 7,
+    "text": "或是新完成市動品"
+  },
+  {
+    "sequence": 508,
+    "start": 1430.68,
+    "duration": 13,
+    "text": "感謝您的收看"
+  },
+  {
+    "sequence": 509,
+    "start": 1443.68,
+    "duration": 2.1399999999998727,
+    "text": "我們下週一同一時間再會"
+  },
+  {
+    "sequence": 510,
+    "start": 1460.68,
+    "duration": 9.5,
+    "text": "拜拜"
   }
 ]

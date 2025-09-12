@@ -1,104 +1,3710 @@
 [
   {
-    "start": 3,
-    "duration": 2,
-    "text": "各位觀眾大家好",
-    "hasSignLanguage": false
+    "sequence": 1,
+    "start": 0,
+    "duration": 12.04,
+    "text": "(音樂)"
   },
   {
-    "start": 5.2,
+    "sequence": 2,
+    "start": 12.04,
+    "duration": 2.24,
+    "text": "看新聞 開視野"
+  },
+  {
+    "sequence": 3,
+    "start": 14.28,
+    "duration": 5.040000000000001,
+    "text": "歡迎收看今天8月29號的公視手語新聞"
+  },
+  {
+    "sequence": 4,
+    "start": 19.32,
+    "duration": 1.6600000000000001,
+    "text": "首先來看到"
+  },
+  {
+    "sequence": 5,
+    "start": 20.98,
+    "duration": 2.34,
+    "text": "民進黨前立委陳歐朴"
+  },
+  {
+    "sequence": 6,
+    "start": 23.32,
     "duration": 2.5,
-    "text": "歡迎收看公視手語新聞",
-    "hasSignLanguage": false
+    "text": "在擔任立委期間"
   },
   {
-    "start": 7.9,
-    "duration": 2,
-    "text": "我是手語主播",
-    "hasSignLanguage": false
+    "sequence": 7,
+    "start": 25.82,
+    "duration": 2.879999999999999,
+    "text": "涉嫌收賄400多萬"
   },
   {
-    "start": 10.100000000000001,
+    "sequence": 8,
+    "start": 28.7,
+    "duration": 2.960000000000001,
+    "text": "推動「商港法修法」"
+  },
+  {
+    "sequence": 9,
+    "start": 31.66,
+    "duration": 4.639999999999997,
+    "text": "護航業者減免碼頭租金"
+  },
+  {
+    "sequence": 10,
+    "start": 36.3,
+    "duration": 4.880000000000003,
+    "text": "更被查出涉嫌詐領助理費"
+  },
+  {
+    "sequence": 11,
+    "start": 41.18,
+    "duration": 6.340000000000003,
+    "text": "而昨天 檢方對陳歐朴與他的妻子等16人提起公訴"
+  },
+  {
+    "sequence": 12,
+    "start": 47.52,
+    "duration": 5.939999999999998,
+    "text": "更對陳歐朴具體囚刑24年2個月"
+  },
+  {
+    "sequence": 13,
+    "start": 53.46,
+    "duration": 3.299999999999997,
+    "text": "戴著口罩 雙手上課了民進黨前立委陳歐朴"
+  },
+  {
+    "sequence": 14,
+    "start": 56.76,
+    "duration": 3,
+    "text": "28號下午搭警備車 被移伸北院"
+  },
+  {
+    "sequence": 15,
+    "start": 59.76,
+    "duration": 1.8000000000000043,
+    "text": "定著一頭白髮的她"
+  },
+  {
+    "sequence": 16,
+    "start": 61.56,
+    "duration": 3.5,
+    "text": "和過去擔任立委時期的意氣風發截然不同"
+  },
+  {
+    "sequence": 17,
+    "start": 65.06,
+    "duration": 1.5799999999999983,
+    "text": "遭到羈押的陳歐朴"
+  },
+  {
+    "sequence": 18,
+    "start": 66.64,
+    "duration": 3.4000000000000057,
+    "text": "被臺北地檢署查出涉嫌收賄護航廠商"
+  },
+  {
+    "sequence": 19,
+    "start": 70.04,
+    "duration": 1.8999999999999915,
+    "text": "以及詐領助理費等弊案"
+  },
+  {
+    "sequence": 20,
+    "start": 71.94,
+    "duration": 3.9399999999999977,
+    "text": "28號被以涉犯貪污 洗錢防治法等多項罪嫌"
+  },
+  {
+    "sequence": 21,
+    "start": 75.88,
+    "duration": 2.8000000000000114,
+    "text": "提起公訴 囚刑24年2個月"
+  },
+  {
+    "sequence": 22,
+    "start": 78.68,
+    "duration": 4.079999999999998,
+    "text": "檢察官依貪污治罪條例 不違背職務收賄罪"
+  },
+  {
+    "sequence": 23,
+    "start": 82.76,
+    "duration": 4.659999999999997,
+    "text": "利用職務詐取財務罪 洗錢罪等依法提起公訴"
+  },
+  {
+    "sequence": 24,
+    "start": 87.42,
+    "duration": 3.9399999999999977,
+    "text": "申請法院沒收犯罪所得874萬餘元"
+  },
+  {
+    "sequence": 25,
+    "start": 91.36,
+    "duration": 1.7999999999999972,
+    "text": "並具體求處重刑"
+  },
+  {
+    "sequence": 26,
+    "start": 93.16,
+    "duration": 1.5400000000000063,
+    "text": "擔任三屆立委的陳歐朴"
+  },
+  {
+    "sequence": 27,
+    "start": 94.7,
+    "duration": 1.539999999999992,
+    "text": "在擔任立委期間"
+  },
+  {
+    "sequence": 28,
+    "start": 96.24,
     "duration": 2.5,
-    "text": "今天是2025年9月8日 星期一",
-    "hasSignLanguage": false
+    "text": "涉犯收受賄賂及不正利益罪"
   },
   {
-    "start": 12.8,
+    "sequence": 29,
+    "start": 98.74,
+    "duration": 4.400000000000006,
+    "text": "詐領助理費等五罪 犯罪所得共874萬元"
+  },
+  {
+    "sequence": 30,
+    "start": 103.14,
+    "duration": 2.200000000000003,
+    "text": "其中收受物流公司賄賂"
+  },
+  {
+    "sequence": 31,
+    "start": 105.34,
+    "duration": 3.4799999999999898,
+    "text": "利用立委職權在立法院推動商港法修法"
+  },
+  {
+    "sequence": 32,
+    "start": 108.82,
+    "duration": 3.3600000000000136,
+    "text": "好讓業者在港口乘租碼頭的租金減免"
+  },
+  {
+    "sequence": 33,
+    "start": 112.18,
+    "duration": 2.339999999999989,
+    "text": "或是得到疫情期間的補貼"
+  },
+  {
+    "sequence": 34,
+    "start": 114.52,
+    "duration": 3.299999999999997,
+    "text": "除了收賄 陳歐朴也涉嫌利用職務之便"
+  },
+  {
+    "sequence": 35,
+    "start": 117.82,
+    "duration": 2.9000000000000057,
+    "text": "詐領助理費高達411多萬元"
+  },
+  {
+    "sequence": 36,
+    "start": 120.72,
+    "duration": 2.8200000000000074,
+    "text": "而他的徐姓妻子也和陳歐朴一同"
+  },
+  {
+    "sequence": 37,
+    "start": 123.54,
+    "duration": 3.8599999999999994,
+    "text": "涉犯詐領助理費挪威私用 同樣遭到起訴"
+  },
+  {
+    "sequence": 38,
+    "start": 133.64,
+    "duration": 2.440000000000026,
+    "text": "對陳歐朴遭到起訴各有看法"
+  },
+  {
+    "sequence": 39,
+    "start": 136.08,
+    "duration": 3,
+    "text": "北檢認定 陳歐朴多年從事政治活動"
+  },
+  {
+    "sequence": 40,
+    "start": 139.08,
+    "duration": 2.4399999999999977,
+    "text": "應該符合國民期待公正意識"
+  },
+  {
+    "sequence": 41,
+    "start": 141.52,
+    "duration": 2.259999999999991,
+    "text": "卻為了謀取自己不法利益"
+  },
+  {
+    "sequence": 42,
+    "start": 143.78,
+    "duration": 4.039999999999992,
+    "text": "收賄與詐領助理費有關犯罪所得將被沒收"
+  },
+  {
+    "sequence": 43,
+    "start": 147.82,
+    "duration": 2.0400000000000205,
+    "text": "公視協會由院子郭俊林臺北報導"
+  },
+  {
+    "sequence": 44,
+    "start": 149.86,
+    "duration": 6,
+    "text": "2023年時 因為雞蛋供需失衡"
+  },
+  {
+    "sequence": 45,
+    "start": 155.86,
+    "duration": 3.299999999999983,
+    "text": "政府啟動專案補助進口"
+  },
+  {
+    "sequence": 46,
+    "start": 159.16,
+    "duration": 3.5800000000000125,
+    "text": "後來引發超司進口檔案"
+  },
+  {
+    "sequence": 47,
+    "start": 162.74,
+    "duration": 3.7399999999999807,
+    "text": "北檢偵辦查出了超司公司負責人"
+  },
+  {
+    "sequence": 48,
+    "start": 166.48,
+    "duration": 2.6000000000000227,
+    "text": "秦宇橋的女兒吳玉飛"
+  },
+  {
+    "sequence": 49,
+    "start": 169.08,
+    "duration": 4.439999999999998,
+    "text": "涉嫌高報進口彈的採購價格"
+  },
+  {
+    "sequence": 50,
+    "start": 173.52,
+    "duration": 6.599999999999994,
+    "text": "向中央敘產會詐得超過6085萬元"
+  },
+  {
+    "sequence": 51,
+    "start": 180.12,
+    "duration": 3.1399999999999864,
+    "text": "而時任的敘產會專員吳俊達"
+  },
+  {
+    "sequence": 52,
+    "start": 183.26,
+    "duration": 3.5400000000000205,
+    "text": "也被指控誤使驗收"
+  },
+  {
+    "sequence": 53,
+    "start": 186.8,
+    "duration": 2.299999999999983,
+    "text": "全案在昨天癥結"
+  },
+  {
+    "sequence": 54,
+    "start": 189.1,
+    "duration": 5,
+    "text": "三人分別被依詐欺取裁等罪嫌起訴"
+  },
+  {
+    "sequence": 55,
+    "start": 194.1,
+    "duration": 4.740000000000009,
+    "text": "吳玉飛更被具體囚刑兩年"
+  },
+  {
+    "sequence": 56,
+    "start": 198.84,
+    "duration": 4,
+    "text": "而包含農業部前任及現任部長"
+  },
+  {
+    "sequence": 57,
+    "start": 202.84,
+    "duration": 2.9799999999999898,
+    "text": "陳吉仲 陳俊濟等五名官員"
+  },
+  {
+    "sequence": 58,
+    "start": 205.82,
+    "duration": 2.200000000000017,
+    "text": "則是查無不法不起訴"
+  },
+  {
+    "sequence": 59,
+    "start": 218.16,
+    "duration": 2.4000000000000057,
+    "text": "曾被檢方約談 鏡頭前大聲回嗆"
+  },
+  {
+    "sequence": 60,
+    "start": 220.56,
+    "duration": 2.5,
+    "text": "他是秦宇橋成立的超司公司"
+  },
+  {
+    "sequence": 61,
+    "start": 223.06,
+    "duration": 1.5,
+    "text": "爆出採購風波"
+  },
+  {
+    "sequence": 62,
+    "start": 224.56,
+    "duration": 1.3000000000000114,
+    "text": "案經檢方調查"
+  },
+  {
+    "sequence": 63,
+    "start": 225.86,
+    "duration": 3.2799999999999727,
+    "text": "查出幕後主導者是他的女兒吳玉飛"
+  },
+  {
+    "sequence": 64,
+    "start": 229.14,
+    "duration": 2.660000000000025,
+    "text": "在國內缺彈期間買來的進口雞蛋"
+  },
+  {
+    "sequence": 65,
+    "start": 231.8,
+    "duration": 1.4799999999999898,
+    "text": "涉嫌高報價格"
+  },
+  {
+    "sequence": 66,
+    "start": 233.28,
+    "duration": 4.060000000000002,
+    "text": "向中央敘產會情況詐得超過6085萬"
+  },
+  {
+    "sequence": 67,
+    "start": 237.34,
+    "duration": 1.4799999999999898,
+    "text": "兩人都被被檢起訴"
+  },
+  {
+    "sequence": 68,
+    "start": 238.82,
+    "duration": 8.460000000000008,
+    "text": "檢方發現吳玉飛一人分十多角"
+  },
+  {
+    "sequence": 69,
+    "start": 247.28,
+    "duration": 1.4399999999999977,
+    "text": "身兼日方代理商"
+  },
+  {
+    "sequence": 70,
+    "start": 248.72,
+    "duration": 2.8000000000000114,
+    "text": "台灣進口商與超司公司代表"
+  },
+  {
+    "sequence": 71,
+    "start": 251.52,
+    "duration": 3,
+    "text": "被控以一條龍方式採購進口雞蛋"
+  },
+  {
+    "sequence": 72,
+    "start": 254.52,
+    "duration": 2.6799999999999784,
+    "text": "更找各種名目拉高貨款費用"
+  },
+  {
+    "sequence": 73,
+    "start": 257.2,
+    "duration": 2.1999999999999886,
+    "text": "被檢方具體囚刑兩年"
+  },
+  {
+    "sequence": 74,
+    "start": 259.4,
     "duration": 2,
-    "text": "今天為您報導的新聞有",
-    "hasSignLanguage": false
+    "text": "但敘產會沒落實把關"
   },
   {
-    "start": 15.3,
+    "sequence": 75,
+    "start": 261.4,
+    "duration": 1.6400000000000432,
+    "text": "甚至有人協助不防"
+  },
+  {
+    "sequence": 76,
+    "start": 263.04,
+    "duration": 1.5600000000000023,
+    "text": "專員要不要澄清一下"
+  },
+  {
+    "sequence": 77,
+    "start": 264.6,
+    "duration": 1.079999999999984,
+    "text": "同樣被起訴的"
+  },
+  {
+    "sequence": 78,
+    "start": 265.68,
+    "duration": 2.339999999999975,
+    "text": "也有時任敘產會專員吳俊達"
+  },
+  {
+    "sequence": 79,
+    "start": 268.02,
+    "duration": 2.9600000000000364,
+    "text": "涉嫌配合吳玉飛謊報倉儲延置費"
+  },
+  {
+    "sequence": 80,
+    "start": 270.98,
+    "duration": 2.6999999999999886,
+    "text": "貨款手續費成功追加情況"
+  },
+  {
+    "sequence": 81,
+    "start": 273.68,
+    "duration": 3.0400000000000205,
+    "text": "連雞蛋來台後都未親自到場驗收"
+  },
+  {
+    "sequence": 82,
+    "start": 276.72,
     "duration": 1.5,
-    "text": "今天的主要新聞",
-    "hasSignLanguage": false
+    "text": "而全案等一大眾議"
   },
   {
-    "start": 17.1,
+    "sequence": 83,
+    "start": 278.22,
+    "duration": 1.4599999999999795,
+    "text": "還有超司設立前"
+  },
+  {
+    "sequence": 84,
+    "start": 279.68,
+    "duration": 2.599999999999966,
+    "text": "怎麼就能跟敘產會提前簽約"
+  },
+  {
+    "sequence": 85,
+    "start": 282.28,
+    "duration": 1.580000000000041,
+    "text": "讓外界質疑圖利"
+  },
+  {
+    "sequence": 86,
+    "start": 283.86,
+    "duration": 4.240000000000009,
+    "text": "農業部的前現任部長"
+  },
+  {
+    "sequence": 87,
+    "start": 288.1,
+    "duration": 1.599999999999966,
+    "text": "陳吉仲 陳俊濟等人"
+  },
+  {
+    "sequence": 88,
+    "start": 289.7,
+    "duration": 2.259999999999991,
+    "text": "在偵查階段也被約談到案"
+  },
+  {
+    "sequence": 89,
+    "start": 291.96,
+    "duration": 2.900000000000034,
+    "text": "但檢方清查經流並未發生異常"
+  },
+  {
+    "sequence": 90,
+    "start": 294.86,
     "duration": 1.5,
-    "text": "政府相關部門表示",
-    "hasSignLanguage": false
+    "text": "加上敘產會當時"
   },
   {
-    "start": 18.9,
-    "duration": 1.5,
-    "text": "將持續關注發展",
-    "hasSignLanguage": false
+    "sequence": 91,
+    "start": 296.36,
+    "duration": 2.2799999999999727,
+    "text": "並非只跟超司簽約等理由"
   },
   {
-    "start": 20.7,
-    "duration": 1.5,
-    "text": "採取必要措施",
-    "hasSignLanguage": true
+    "sequence": 92,
+    "start": 298.64,
+    "duration": 1.6000000000000227,
+    "text": "查無不法簽結"
   },
   {
-    "start": 22.5,
-    "duration": 1.5,
-    "text": "保障民眾權益",
-    "hasSignLanguage": true
+    "sequence": 93,
+    "start": 300.24,
+    "duration": 1,
+    "text": "但今年三月"
   },
   {
-    "start": 24.3,
-    "duration": 1.5,
-    "text": "相關單位",
-    "hasSignLanguage": true
+    "sequence": 94,
+    "start": 301.24,
+    "duration": 2.3000000000000114,
+    "text": "農業部的前畜牧司長張經緯"
   },
   {
-    "start": 26.1,
-    "duration": 1.5,
-    "text": "正在評估中",
-    "hasSignLanguage": true
+    "sequence": 95,
+    "start": 303.54,
+    "duration": 1.7399999999999523,
+    "text": "反倒先被監察院彈劾"
   },
   {
-    "start": 27.9,
-    "duration": 1.5,
-    "text": "後續發展",
-    "hasSignLanguage": true
+    "sequence": 96,
+    "start": 305.28,
+    "duration": 2.9600000000000364,
+    "text": "公務體系給他的資源真的是太少了"
   },
   {
-    "start": 29.7,
-    "duration": 1.5,
-    "text": "本台將持續追蹤",
-    "hasSignLanguage": true
+    "sequence": 97,
+    "start": 308.24,
+    "duration": 3.3000000000000114,
+    "text": "這麼少的人經手這麼龐大的這個標案"
   },
   {
-    "start": 241.8936911560412,
-    "duration": 2.2,
-    "text": "以上就是今天的新聞",
-    "hasSignLanguage": false
+    "sequence": 98,
+    "start": 311.54,
+    "duration": 1.6399999999999864,
+    "text": "然後做這麼多的事情"
   },
   {
-    "start": 244.3936911560412,
+    "sequence": 99,
+    "start": 313.18,
+    "duration": 3.0400000000000205,
+    "text": "但問題是這裡面確實有疏失"
+  },
+  {
+    "sequence": 100,
+    "start": 316.22,
+    "duration": 1.5599999999999454,
+    "text": "也有一些疏漏之處"
+  },
+  {
+    "sequence": 101,
+    "start": 317.78,
+    "duration": 2.680000000000007,
+    "text": "因為我們當然都尊重啦 對啊"
+  },
+  {
+    "sequence": 102,
+    "start": 320.46,
+    "duration": 2.840000000000032,
+    "text": "至於全案其他被告前敘產會執行長"
+  },
+  {
+    "sequence": 103,
+    "start": 323.3,
+    "duration": 2.8999999999999773,
+    "text": "陳中興前家庭獨狀 龔榮泰等誤人"
+  },
+  {
+    "sequence": 104,
+    "start": 326.2,
     "duration": 2,
-    "text": "感謝您的收看",
-    "hasSignLanguage": false
+    "text": "則因罪行不足 不起訴"
   },
   {
-    "start": 246.6936911560412,
-    "duration": 1.8,
-    "text": "我們下次見",
-    "hasSignLanguage": false
+    "sequence": 105,
+    "start": 328.2,
+    "duration": 2.4399999999999977,
+    "text": "共識新聞 蔡冠勳 張國良 台北報導"
+  },
+  {
+    "sequence": 106,
+    "start": 330.64,
+    "duration": 4,
+    "text": "獨報時間 來看到"
+  },
+  {
+    "sequence": 107,
+    "start": 334.64,
+    "duration": 1.9600000000000364,
+    "text": "中國時報是"
+  },
+  {
+    "sequence": 108,
+    "start": 336.6,
+    "duration": 2.5,
+    "text": "9月1號就要開學了"
+  },
+  {
+    "sequence": 109,
+    "start": 339.1,
+    "duration": 3.1399999999999864,
+    "text": "花蓮卻鬧教師荒"
+  },
+  {
+    "sequence": 110,
+    "start": 342.24,
+    "duration": 2.0399999999999636,
+    "text": "外界認為跟花蓮縣"
+  },
+  {
+    "sequence": 111,
+    "start": 344.28,
+    "duration": 4.740000000000009,
+    "text": "今年停止教師聯合徵是有關"
+  },
+  {
+    "sequence": 112,
+    "start": 349.02,
+    "duration": 2.2000000000000455,
+    "text": "但是教育處解釋"
+  },
+  {
+    "sequence": 113,
+    "start": 351.22,
+    "duration": 3.599999999999966,
+    "text": "全台都有教師荒的問題"
+  },
+  {
+    "sequence": 114,
+    "start": 354.82,
+    "duration": 2.5400000000000205,
+    "text": "只是花蓮地處偏遠"
+  },
+  {
+    "sequence": 115,
+    "start": 357.36,
+    "duration": 2.5,
+    "text": "狀況比較嚴重"
+  },
+  {
+    "sequence": 116,
+    "start": 359.86,
+    "duration": 0.9399999999999977,
+    "text": "會再評估"
+  },
+  {
+    "sequence": 117,
+    "start": 360.8,
+    "duration": 6,
+    "text": "明年要不要重啟校正"
+  },
+  {
+    "sequence": 118,
+    "start": 366.8,
+    "duration": 1.2799999999999727,
+    "text": "再來看到"
+  },
+  {
+    "sequence": 119,
+    "start": 368.08,
+    "duration": 2.259999999999991,
+    "text": "自由時報是報導"
+  },
+  {
+    "sequence": 120,
+    "start": 370.34,
+    "duration": 1.2600000000000477,
+    "text": "行政府院會"
+  },
+  {
+    "sequence": 121,
+    "start": 371.6,
+    "duration": 4.579999999999984,
+    "text": "昨天通過了人工智慧基本法草案"
+  },
+  {
+    "sequence": 122,
+    "start": 376.18,
+    "duration": 5.240000000000009,
+    "text": "明定AI研發與應用的基本原則"
+  },
+  {
+    "sequence": 123,
+    "start": 381.42,
+    "duration": 1.3999999999999773,
+    "text": "也要求政府"
+  },
+  {
+    "sequence": 124,
+    "start": 382.82,
+    "duration": 6.199999999999989,
+    "text": "積極推動研發 應用及基礎建設"
+  },
+  {
+    "sequence": 125,
+    "start": 389.02,
+    "duration": 1.8799999999999955,
+    "text": "聯合報提到了"
+  },
+  {
+    "sequence": 126,
+    "start": 390.9,
+    "duration": 4.160000000000025,
+    "text": "俄軍昨天徹夜大舉空襲烏克蘭"
+  },
+  {
+    "sequence": 127,
+    "start": 395.06,
+    "duration": 2.740000000000009,
+    "text": "發射將近600架的無人機"
+  },
+  {
+    "sequence": 128,
+    "start": 397.8,
+    "duration": 2.5,
+    "text": "與30多枚飛彈"
+  },
+  {
+    "sequence": 129,
+    "start": 400.3,
+    "duration": 3.079999999999984,
+    "text": "襲擊烏克蘭首都基輔等地"
+  },
+  {
+    "sequence": 130,
+    "start": 403.38,
+    "duration": 3.8999999999999773,
+    "text": "造成至少18人死亡 48人受傷"
+  },
+  {
+    "sequence": 131,
+    "start": 407.28,
+    "duration": 1.5400000000000205,
+    "text": "這也是美國總統川普"
+  },
+  {
+    "sequence": 132,
+    "start": 408.82,
+    "duration": 2.5600000000000023,
+    "text": "跟俄羅斯總統普廷會面以來"
+  },
+  {
+    "sequence": 133,
+    "start": 411.38,
+    "duration": 3.6999999999999886,
+    "text": "俄軍對基輔的最大規模空襲"
+  },
+  {
+    "sequence": 134,
+    "start": 415.08,
+    "duration": 4.5400000000000205,
+    "text": "再來看到台灣景氣持續傳來好消息"
+  },
+  {
+    "sequence": 135,
+    "start": 419.62,
+    "duration": 1.740000000000009,
+    "text": "國發會最新公佈的"
+  },
+  {
+    "sequence": 136,
+    "start": 421.36,
+    "duration": 3.159999999999968,
+    "text": "7月景氣對策信號"
+  },
+  {
+    "sequence": 137,
+    "start": 424.52,
+    "duration": 3.4399999999999977,
+    "text": "再度亮出代表穩定的綠燈"
+  },
+  {
+    "sequence": 138,
+    "start": 427.96,
+    "duration": 1.9399999999999977,
+    "text": "這已經是連續第三個月"
+  },
+  {
+    "sequence": 139,
+    "start": 429.9,
+    "duration": 4.5,
+    "text": "維持在綠燈水準"
+  },
+  {
+    "sequence": 140,
+    "start": 434.4,
+    "duration": 2.180000000000007,
+    "text": "國發會公佈7月景氣對策信號"
+  },
+  {
+    "sequence": 141,
+    "start": 436.58,
+    "duration": 3.400000000000034,
+    "text": "綜合判斷分數為29分跟上個月持平"
+  },
+  {
+    "sequence": 142,
+    "start": 439.98,
+    "duration": 2.2999999999999545,
+    "text": "燈號連三個月維持在綠燈"
+  },
+  {
+    "sequence": 143,
+    "start": 442.28,
+    "duration": 1.5600000000000023,
+    "text": "顯示景氣穩定"
+  },
+  {
+    "sequence": 144,
+    "start": 443.84,
+    "duration": 1.740000000000009,
+    "text": "九項構成項目沒有變化"
+  },
+  {
+    "sequence": 145,
+    "start": 445.58,
+    "duration": 2.900000000000034,
+    "text": "但電子業出口表現亮眼 動能強勁"
+  },
+  {
+    "sequence": 146,
+    "start": 448.48,
+    "duration": 2.180000000000007,
+    "text": "全球經濟還是有一定的韌性"
+  },
+  {
+    "sequence": 147,
+    "start": 450.66,
+    "duration": 1.599999999999966,
+    "text": "像7月底的時候"
+  },
+  {
+    "sequence": 148,
+    "start": 452.26,
+    "duration": 1.900000000000034,
+    "text": "IMF還上秀今年的經濟成長預設"
+  },
+  {
+    "sequence": 149,
+    "start": 454.16,
+    "duration": 2.099999999999966,
+    "text": "跟4月的比 它是上秀了"
+  },
+  {
+    "sequence": 150,
+    "start": 456.26,
+    "duration": 0.8400000000000318,
+    "text": "國發會研判"
+  },
+  {
+    "sequence": 151,
+    "start": 457.1,
+    "duration": 2.5600000000000023,
+    "text": "只要台美關稅談判沒有出現重大利空"
+  },
+  {
+    "sequence": 152,
+    "start": 459.66,
+    "duration": 3.079999999999984,
+    "text": "下半年景氣有望持續維持綠燈水準"
+  },
+  {
+    "sequence": 153,
+    "start": 462.74,
+    "duration": 1.099999999999966,
+    "text": "國發會也指出"
+  },
+  {
+    "sequence": 154,
+    "start": 463.84,
+    "duration": 1.7600000000000477,
+    "text": "AI熱潮推升出口"
+  },
+  {
+    "sequence": 155,
+    "start": 465.6,
+    "duration": 2.4799999999999613,
+    "text": "高效能運算帶動硬體升級"
+  },
+  {
+    "sequence": 156,
+    "start": 468.08,
+    "duration": 1.660000000000025,
+    "text": "加上廠商提前拉貨"
+  },
+  {
+    "sequence": 157,
+    "start": 469.74,
+    "duration": 1.839999999999975,
+    "text": "出口動能持續增強"
+  },
+  {
+    "sequence": 158,
+    "start": 471.58,
+    "duration": 3.6999999999999886,
+    "text": "像Meta Amazon Microsoft Alphabet"
+  },
+  {
+    "sequence": 159,
+    "start": 475.28,
+    "duration": 1.5400000000000205,
+    "text": "他們今年的資本支出"
+  },
+  {
+    "sequence": 160,
+    "start": 476.82,
+    "duration": 2.6999999999999886,
+    "text": "大概估大概有3,550億"
+  },
+  {
+    "sequence": 161,
+    "start": 479.52,
+    "duration": 2.240000000000009,
+    "text": "跟去年的2,300億在比"
+  },
+  {
+    "sequence": 162,
+    "start": 481.76,
+    "duration": 1.6999999999999886,
+    "text": "其實成長蠻多的"
+  },
+  {
+    "sequence": 163,
+    "start": 483.46,
+    "duration": 2.0600000000000023,
+    "text": "專家提醒雖然AI需求強勁"
+  },
+  {
+    "sequence": 164,
+    "start": 485.52,
+    "duration": 2.1000000000000227,
+    "text": "但傳產人受關稅壓力"
+  },
+  {
+    "sequence": 165,
+    "start": 487.62,
+    "duration": 2.019999999999982,
+    "text": "產業兩極化現象明顯"
+  },
+  {
+    "sequence": 166,
+    "start": 489.64,
+    "duration": 1.0600000000000023,
+    "text": "主體總處也上修"
+  },
+  {
+    "sequence": 167,
+    "start": 490.7,
+    "duration": 3.340000000000032,
+    "text": "今年全年經濟成長率到4.45%"
+  },
+  {
+    "sequence": 168,
+    "start": 494.04,
+    "duration": 2.7999999999999545,
+    "text": "顯示AI帶動出口的效果明顯"
+  },
+  {
+    "sequence": 169,
+    "start": 496.84,
+    "duration": 2.1000000000000227,
+    "text": "但國內投資與全球變數"
+  },
+  {
+    "sequence": 170,
+    "start": 498.94,
+    "duration": 1.6399999999999864,
+    "text": "仍需謹慎以對"
+  },
+  {
+    "sequence": 171,
+    "start": 500.58,
+    "duration": 1.4600000000000364,
+    "text": "公視新聞 張明如 鄭維仁"
+  },
+  {
+    "sequence": 172,
+    "start": 502.04,
+    "duration": 1.2999999999999545,
+    "text": "吳喜昌 鄭和報導"
+  },
+  {
+    "sequence": 173,
+    "start": 503.34,
+    "duration": 2.980000000000018,
+    "text": "罷免案落幕後"
+  },
+  {
+    "sequence": 174,
+    "start": 506.32,
+    "duration": 3.2200000000000273,
+    "text": "行政府啟動內閣改組"
+  },
+  {
+    "sequence": 175,
+    "start": 509.54,
+    "duration": 3.5400000000000205,
+    "text": "昨天由行政府長卓榮泰領軍"
+  },
+  {
+    "sequence": 176,
+    "start": 513.08,
+    "duration": 3.439999999999941,
+    "text": "新閣員正式公開"
+  },
+  {
+    "sequence": 177,
+    "start": 516.52,
+    "duration": 2.7799999999999727,
+    "text": "而總統賴清德表示"
+  },
+  {
+    "sequence": 178,
+    "start": 519.3,
+    "duration": 1.82000000000005,
+    "text": "這次內閣改組"
+  },
+  {
+    "sequence": 179,
+    "start": 521.12,
+    "duration": 1.919999999999959,
+    "text": "由重用年輕人"
+  },
+  {
+    "sequence": 180,
+    "start": 523.04,
+    "duration": 3,
+    "text": "重視專業與重視經驗"
+  },
+  {
+    "sequence": 181,
+    "start": 526.04,
+    "duration": 1.5600000000000591,
+    "text": "三大特色"
+  },
+  {
+    "sequence": 182,
+    "start": 531.04,
+    "duration": 1.3000000000000682,
+    "text": "習仲偉 卓榮泰領軍"
+  },
+  {
+    "sequence": 183,
+    "start": 532.34,
+    "duration": 2.240000000000009,
+    "text": "率領新任閣員一字排開亮相"
+  },
+  {
+    "sequence": 184,
+    "start": 534.58,
+    "duration": 2.659999999999968,
+    "text": "內閣改組的新隊形正式公開"
+  },
+  {
+    "sequence": 185,
+    "start": 537.24,
+    "duration": 3.980000000000018,
+    "text": "我會要求未來所有的內閣團隊"
+  },
+  {
+    "sequence": 186,
+    "start": 541.22,
+    "duration": 2.759999999999991,
+    "text": "要加速行動 積極認識"
+  },
+  {
+    "sequence": 187,
+    "start": 543.98,
+    "duration": 2.6399999999999864,
+    "text": "要有感施政"
+  },
+  {
+    "sequence": 188,
+    "start": 546.62,
+    "duration": 2.1000000000000227,
+    "text": "而且要我本身做起"
+  },
+  {
+    "sequence": 189,
+    "start": 548.72,
+    "duration": 2.839999999999918,
+    "text": "我們用同樣的標準"
+  },
+  {
+    "sequence": 190,
+    "start": 551.56,
+    "duration": 2.660000000000082,
+    "text": "來回應給國人在這段時間"
+  },
+  {
+    "sequence": 191,
+    "start": 554.22,
+    "duration": 2.980000000000018,
+    "text": "對整個執政團隊所有的指教"
+  },
+  {
+    "sequence": 192,
+    "start": 557.2,
+    "duration": 2.5,
+    "text": "繼續執政團隊以最快速度整頓"
+  },
+  {
+    "sequence": 193,
+    "start": 559.7,
+    "duration": 1.599999999999909,
+    "text": "而為了強化府院協調"
+  },
+  {
+    "sequence": 194,
+    "start": 561.3,
+    "duration": 1.5600000000000591,
+    "text": "總統府副秘書長張敦涵"
+  },
+  {
+    "sequence": 195,
+    "start": 562.86,
+    "duration": 1.4399999999999409,
+    "text": "接下政府秘書長"
+  },
+  {
+    "sequence": 196,
+    "start": 564.3,
+    "duration": 2.400000000000091,
+    "text": "創下史上最年輕記錄"
+  },
+  {
+    "sequence": 197,
+    "start": 566.7,
+    "duration": 2.699999999999932,
+    "text": "我都是直接切入主題 解決問題"
+  },
+  {
+    "sequence": 198,
+    "start": 569.4,
+    "duration": 2.240000000000009,
+    "text": "過去如此 現在如此"
+  },
+  {
+    "sequence": 199,
+    "start": 571.64,
+    "duration": 1.3999999999999773,
+    "text": "未來也是如此"
+  },
+  {
+    "sequence": 200,
+    "start": 573.04,
+    "duration": 1.5,
+    "text": "因為我相信"
+  },
+  {
+    "sequence": 201,
+    "start": 574.54,
+    "duration": 2.2800000000000864,
+    "text": "行動才是最好的證明"
+  },
+  {
+    "sequence": 202,
+    "start": 576.82,
+    "duration": 1.3199999999999363,
+    "text": "面對美國關稅挑戰"
+  },
+  {
+    "sequence": 203,
+    "start": 578.14,
+    "duration": 1.3799999999999955,
+    "text": "財經濟部會接報人選"
+  },
+  {
+    "sequence": 204,
+    "start": 579.52,
+    "duration": 1.3999999999999773,
+    "text": "也找來其戰力"
+  },
+  {
+    "sequence": 205,
+    "start": 580.92,
+    "duration": 1.6399999999999864,
+    "text": "由政府秘書長公明星"
+  },
+  {
+    "sequence": 206,
+    "start": 582.56,
+    "duration": 1.7200000000000273,
+    "text": "轉任經濟部長"
+  },
+  {
+    "sequence": 207,
+    "start": 584.28,
+    "duration": 2.5400000000000773,
+    "text": "經濟部永遠跟這些產業站在一起"
+  },
+  {
+    "sequence": 208,
+    "start": 586.82,
+    "duration": 1.5799999999999272,
+    "text": "我相信這一次"
+  },
+  {
+    "sequence": 209,
+    "start": 588.4,
+    "duration": 2.300000000000068,
+    "text": "我們跟中小微企業 還有傳統產業"
+  },
+  {
+    "sequence": 210,
+    "start": 590.7,
+    "duration": 1.7999999999999545,
+    "text": "一定也可以度過挑戰"
+  },
+  {
+    "sequence": 211,
+    "start": 592.5,
+    "duration": 2.5,
+    "text": "政策的執行將仰賴國發會"
+  },
+  {
+    "sequence": 212,
+    "start": 595,
+    "duration": 2.7000000000000455,
+    "text": "發揮跨部會橫向協調"
+  },
+  {
+    "sequence": 213,
+    "start": 597.7,
+    "duration": 2.17999999999995,
+    "text": "以及績效管考的角色"
+  },
+  {
+    "sequence": 214,
+    "start": 599.88,
+    "duration": 2.159999999999968,
+    "text": "而由次長升任數位部長的林一進"
+  },
+  {
+    "sequence": 215,
+    "start": 602.04,
+    "duration": 1.4800000000000182,
+    "text": "則被期許在打炸"
+  },
+  {
+    "sequence": 216,
+    "start": 603.52,
+    "duration": 2.560000000000059,
+    "text": "和高科技產業有所助力"
+  },
+  {
+    "sequence": 217,
+    "start": 606.08,
+    "duration": 2.240000000000009,
+    "text": "我們希望台灣的這些數位產業"
+  },
+  {
+    "sequence": 218,
+    "start": 608.32,
+    "duration": 2.3599999999999,
+    "text": "在幫我們解決各項問題的時候"
+  },
+  {
+    "sequence": 219,
+    "start": 610.68,
+    "duration": 1.5,
+    "text": "他們也能賺到大錢"
+  },
+  {
+    "sequence": 220,
+    "start": 612.18,
+    "duration": 2.400000000000091,
+    "text": "但是不要為我們製造出新的問題"
+  },
+  {
+    "sequence": 221,
+    "start": 614.58,
+    "duration": 1.8799999999999955,
+    "text": "進入一個正向的循環"
+  },
+  {
+    "sequence": 222,
+    "start": 616.46,
+    "duration": 1.4599999999999227,
+    "text": "另外有兩位運動員入閣"
+  },
+  {
+    "sequence": 223,
+    "start": 617.92,
+    "duration": 0.9400000000000546,
+    "text": "成為焦點"
+  },
+  {
+    "sequence": 224,
+    "start": 618.86,
+    "duration": 2.2999999999999545,
+    "text": "兩屆奧運羽球南雙金牌里昂"
+  },
+  {
+    "sequence": 225,
+    "start": 621.16,
+    "duration": 1.8400000000000318,
+    "text": "成為運動部首任部長"
+  },
+  {
+    "sequence": 226,
+    "start": 623,
+    "duration": 2.2000000000000455,
+    "text": "但他仍不在國內而缺席"
+  },
+  {
+    "sequence": 227,
+    "start": 625.2,
+    "duration": 2.259999999999991,
+    "text": "由嘉日飛刀手支撐的前職棒球星"
+  },
+  {
+    "sequence": 228,
+    "start": 627.46,
+    "duration": 3.740000000000009,
+    "text": "陳奕信則接下原名會副主委一職"
+  },
+  {
+    "sequence": 229,
+    "start": 631.2,
+    "duration": 2.3999999999999773,
+    "text": "第一次當公務人員"
+  },
+  {
+    "sequence": 230,
+    "start": 633.6,
+    "duration": 4.039999999999964,
+    "text": "我現在說話是比較謹言慎行"
+  },
+  {
+    "sequence": 231,
+    "start": 637.64,
+    "duration": 3.7000000000000455,
+    "text": "第一句話是為原住民找工作"
+  },
+  {
+    "sequence": 232,
+    "start": 641.34,
+    "duration": 1.9399999999999409,
+    "text": "為我們運動人員培養起來"
+  },
+  {
+    "sequence": 233,
+    "start": 643.28,
+    "duration": 1.3999999999999773,
+    "text": "跨部會的合作"
+  },
+  {
+    "sequence": 234,
+    "start": 644.68,
+    "duration": 1.240000000000009,
+    "text": "不過在野黨立委指出"
+  },
+  {
+    "sequence": 235,
+    "start": 645.92,
+    "duration": 0.9400000000000546,
+    "text": "這回內閣改組"
+  },
+  {
+    "sequence": 236,
+    "start": 646.86,
+    "duration": 1.3999999999999773,
+    "text": "雖然異動達十六人"
+  },
+  {
+    "sequence": 237,
+    "start": 648.26,
+    "duration": 1.259999999999991,
+    "text": "但缺乏亮點"
+  },
+  {
+    "sequence": 238,
+    "start": 649.52,
+    "duration": 2.340000000000032,
+    "text": "批評只是小圈圈內大風吹"
+  },
+  {
+    "sequence": 239,
+    "start": 651.86,
+    "duration": 1,
+    "text": "狀態回應"
+  },
+  {
+    "sequence": 240,
+    "start": 652.86,
+    "duration": 1.5,
+    "text": "正願以盡力調整"
+  },
+  {
+    "sequence": 241,
+    "start": 654.36,
+    "duration": 2.6399999999999864,
+    "text": "希望各界給新團隊一些時間"
+  },
+  {
+    "sequence": 242,
+    "start": 657,
+    "duration": 0.8999999999999773,
+    "text": "而總賴清德"
+  },
+  {
+    "sequence": 243,
+    "start": 657.9,
+    "duration": 2.340000000000032,
+    "text": "一位2.0內閣設立經濟發展"
+  },
+  {
+    "sequence": 244,
+    "start": 660.24,
+    "duration": 2.8999999999999773,
+    "text": "名聲青年弱勢優先的四大目標"
+  },
+  {
+    "sequence": 245,
+    "start": 663.14,
+    "duration": 2.800000000000068,
+    "text": "力求未來施政 更貼近民意"
+  },
+  {
+    "sequence": 246,
+    "start": 665.94,
+    "duration": 2.2399999999998954,
+    "text": "公視新聞 臺北報導"
+  },
+  {
+    "sequence": 247,
+    "start": 668.18,
+    "duration": 4.540000000000077,
+    "text": "兩屆奧運金牌得主里昂"
+  },
+  {
+    "sequence": 248,
+    "start": 672.72,
+    "duration": 3.5399999999999636,
+    "text": "確定要接掌首任運動部長"
+  },
+  {
+    "sequence": 249,
+    "start": 676.26,
+    "duration": 2.6000000000000227,
+    "text": "令大家耳目一新"
+  },
+  {
+    "sequence": 250,
+    "start": 678.86,
+    "duration": 2.1399999999999864,
+    "text": "但是多次參加運動部"
+  },
+  {
+    "sequence": 251,
+    "start": 681,
+    "duration": 2.7000000000000455,
+    "text": "籌備諮詢會的體育人"
+  },
+  {
+    "sequence": 252,
+    "start": 683.7,
+    "duration": 4.659999999999968,
+    "text": "石明瑾和劉伯鈞公開聲明"
+  },
+  {
+    "sequence": 253,
+    "start": 688.36,
+    "duration": 2.080000000000041,
+    "text": "運動部整體人士和部署"
+  },
+  {
+    "sequence": 254,
+    "start": 690.44,
+    "duration": 2.3599999999999,
+    "text": "沒有得到換血的效果"
+  },
+  {
+    "sequence": 255,
+    "start": 692.8,
+    "duration": 2.740000000000009,
+    "text": "組織架構也沒有特別改變"
+  },
+  {
+    "sequence": 256,
+    "start": 695.54,
+    "duration": 1.0600000000000591,
+    "text": "很難讓人期待"
+  },
+  {
+    "sequence": 257,
+    "start": 696.6,
+    "duration": 4.3799999999999955,
+    "text": "可以大刀闊斧的創造新思維"
+  },
+  {
+    "sequence": 258,
+    "start": 700.98,
+    "duration": 1.1599999999999682,
+    "text": "行政府長卓榮泰"
+  },
+  {
+    "sequence": 259,
+    "start": 702.14,
+    "duration": 1.740000000000009,
+    "text": "率領新任閣員亮相"
+  },
+  {
+    "sequence": 260,
+    "start": 703.88,
+    "duration": 1.740000000000009,
+    "text": "最受矚目的新任運動部長"
+  },
+  {
+    "sequence": 261,
+    "start": 705.62,
+    "duration": 2.3999999999999773,
+    "text": "里昂英不在臺灣並未現身"
+  },
+  {
+    "sequence": 262,
+    "start": 708.02,
+    "duration": 2.6000000000000227,
+    "text": "不過前一天他已在臉書粉專發文"
+  },
+  {
+    "sequence": 263,
+    "start": 710.62,
+    "duration": 2.240000000000009,
+    "text": "這是新的旅程 初心不變"
+  },
+  {
+    "sequence": 264,
+    "start": 712.86,
+    "duration": 1.5,
+    "text": "提出六大重點"
+  },
+  {
+    "sequence": 265,
+    "start": 714.36,
+    "duration": 1.6000000000000227,
+    "text": "前女籃國手退役後"
+  },
+  {
+    "sequence": 266,
+    "start": 715.96,
+    "duration": 2.6399999999999864,
+    "text": "曾任體委會副主委的錢維娟說"
+  },
+  {
+    "sequence": 267,
+    "start": 718.6,
+    "duration": 2,
+    "text": "多數體育人予以肯定"
+  },
+  {
+    "sequence": 268,
+    "start": 720.6,
+    "duration": 2.740000000000009,
+    "text": "自己對全民體育的落實有期待"
+  },
+  {
+    "sequence": 269,
+    "start": 723.34,
+    "duration": 11.039999999999964,
+    "text": "里昂發文強調不會單打獨鬥"
+  },
+  {
+    "sequence": 270,
+    "start": 734.38,
+    "duration": 2,
+    "text": "相信專業和團隊治理"
+  },
+  {
+    "sequence": 271,
+    "start": 736.38,
+    "duration": 1.8799999999999955,
+    "text": "他的左右手兩位政次"
+  },
+  {
+    "sequence": 272,
+    "start": 738.26,
+    "duration": 2.3999999999999773,
+    "text": "分別是現任體育署長鄭士忠"
+  },
+  {
+    "sequence": 273,
+    "start": 740.66,
+    "duration": 2.2000000000000455,
+    "text": "運科中心執行長黃啟黃"
+  },
+  {
+    "sequence": 274,
+    "start": 742.86,
+    "duration": 1.6000000000000227,
+    "text": "常務次長則是現任"
+  },
+  {
+    "sequence": 275,
+    "start": 744.46,
+    "duration": 2.3600000000000136,
+    "text": "體育署副署長洪志昌"
+  },
+  {
+    "sequence": 276,
+    "start": 746.82,
+    "duration": 14.839999999999918,
+    "text": "鄭士忠強調絕對全力以赴"
+  },
+  {
+    "sequence": 277,
+    "start": 761.66,
+    "duration": 1.8400000000000318,
+    "text": "更不會成為地下部長"
+  },
+  {
+    "sequence": 278,
+    "start": 763.5,
+    "duration": 1.6399999999999864,
+    "text": "不過臺灣足球發展協會"
+  },
+  {
+    "sequence": 279,
+    "start": 765.14,
+    "duration": 2,
+    "text": "理事長石明景指出"
+  },
+  {
+    "sequence": 280,
+    "start": 767.14,
+    "duration": 2.060000000000059,
+    "text": "除了部長 運動部整體人士"
+  },
+  {
+    "sequence": 281,
+    "start": 769.2,
+    "duration": 1.6399999999999864,
+    "text": "未得到換血效果"
+  },
+  {
+    "sequence": 282,
+    "start": 770.84,
+    "duration": 2.5399999999999636,
+    "text": "且組織分工新增適應運動司"
+  },
+  {
+    "sequence": 283,
+    "start": 773.38,
+    "duration": 2.7999999999999545,
+    "text": "其他單位和原油體育署一模一樣"
+  },
+  {
+    "sequence": 284,
+    "start": 776.18,
+    "duration": 1.400000000000091,
+    "text": "長期累積的思維"
+  },
+  {
+    "sequence": 285,
+    "start": 777.58,
+    "duration": 1.7999999999999545,
+    "text": "有那麼容易改變嗎"
+  },
+  {
+    "sequence": 286,
+    "start": 779.38,
+    "duration": 1.5600000000000591,
+    "text": "他有沒有一個新的想像"
+  },
+  {
+    "sequence": 287,
+    "start": 780.94,
+    "duration": 2.339999999999918,
+    "text": "例如說你是不是要推動"
+  },
+  {
+    "sequence": 288,
+    "start": 783.28,
+    "duration": 2.3799999999999955,
+    "text": "臺灣的俱樂部的運動文化"
+  },
+  {
+    "sequence": 289,
+    "start": 785.66,
+    "duration": 1.740000000000009,
+    "text": "或者是把像適應體育"
+  },
+  {
+    "sequence": 290,
+    "start": 787.4,
+    "duration": 1.7200000000000273,
+    "text": "或者是高齡運動這些東西"
+  },
+  {
+    "sequence": 291,
+    "start": 789.12,
+    "duration": 2.740000000000009,
+    "text": "把它納入到一個全新的組織裡面"
+  },
+  {
+    "sequence": 292,
+    "start": 791.86,
+    "duration": 2.3600000000000136,
+    "text": "他們做事情當然很容易上手"
+  },
+  {
+    "sequence": 293,
+    "start": 794.22,
+    "duration": 2.5,
+    "text": "沒有問題 有時候沒有辦法"
+  },
+  {
+    "sequence": 294,
+    "start": 796.72,
+    "duration": 1.4399999999999409,
+    "text": "很快地去轉換說"
+  },
+  {
+    "sequence": 295,
+    "start": 798.16,
+    "duration": 3.340000000000032,
+    "text": "好 現在運動部是一個要革新的單位"
+  },
+  {
+    "sequence": 296,
+    "start": 801.5,
+    "duration": 1.8400000000000318,
+    "text": "然後那守成跟革新"
+  },
+  {
+    "sequence": 297,
+    "start": 803.34,
+    "duration": 2.1200000000000045,
+    "text": "大家都知道那又是兩回事"
+  },
+  {
+    "sequence": 298,
+    "start": 805.46,
+    "duration": 2.099999999999909,
+    "text": "石明景強調對里昂出任部長"
+  },
+  {
+    "sequence": 299,
+    "start": 807.56,
+    "duration": 2.7800000000000864,
+    "text": "沒有疑慮 也期待注入改革動力"
+  },
+  {
+    "sequence": 300,
+    "start": 810.34,
+    "duration": 1.1200000000000045,
+    "text": "不過就目前看來"
+  },
+  {
+    "sequence": 301,
+    "start": 811.46,
+    "duration": 2.17999999999995,
+    "text": "運動部是體育署乘以二"
+  },
+  {
+    "sequence": 302,
+    "start": 813.64,
+    "duration": 1.3799999999999955,
+    "text": "而他和臺灣運動好事"
+  },
+  {
+    "sequence": 303,
+    "start": 815.02,
+    "duration": 2.3999999999999773,
+    "text": "協會執行長劉伯鈞共同聲明"
+  },
+  {
+    "sequence": 304,
+    "start": 817.42,
+    "duration": 2.3600000000000136,
+    "text": "不能昧著良心說運動部成立後"
+  },
+  {
+    "sequence": 305,
+    "start": 819.78,
+    "duration": 2,
+    "text": "臺灣運動未來好棒棒"
+  },
+  {
+    "sequence": 306,
+    "start": 821.78,
+    "duration": 2.1000000000000227,
+    "text": "其實未來的挑戰才開始"
+  },
+  {
+    "sequence": 307,
+    "start": 823.88,
+    "duration": 2.240000000000009,
+    "text": "不會停止監督與批判"
+  },
+  {
+    "sequence": 308,
+    "start": 826.12,
+    "duration": 4.17999999999995,
+    "text": "共識新聞小會 沈志明 臺北報導"
+  },
+  {
+    "sequence": 309,
+    "start": 830.3,
+    "duration": 2.259999999999991,
+    "text": "準衛福部長石崇良"
+  },
+  {
+    "sequence": 310,
+    "start": 832.56,
+    "duration": 4.840000000000032,
+    "text": "昨天則是宣布上任後的新政策方向"
+  },
+  {
+    "sequence": 311,
+    "start": 837.4,
+    "duration": 2.5400000000000773,
+    "text": "他表示將會優先處理"
+  },
+  {
+    "sequence": 312,
+    "start": 839.94,
+    "duration": 2.7999999999999545,
+    "text": "美國新藥品關稅的衝擊"
+  },
+  {
+    "sequence": 313,
+    "start": 842.74,
+    "duration": 2.6399999999999864,
+    "text": "和急診溶色等問題"
+  },
+  {
+    "sequence": 314,
+    "start": 845.38,
+    "duration": 2.5,
+    "text": "強化醫療韌性"
+  },
+  {
+    "sequence": 315,
+    "start": 847.88,
+    "duration": 3.8999999999999773,
+    "text": "並強調 依財務估算"
+  },
+  {
+    "sequence": 316,
+    "start": 851.78,
+    "duration": 5.340000000000032,
+    "text": "明年健保安全準備金達一個月以上"
+  },
+  {
+    "sequence": 317,
+    "start": 857.12,
+    "duration": 5.340000000000032,
+    "text": "明年調漲健保費的機率很低"
+  },
+  {
+    "sequence": 318,
+    "start": 862.46,
+    "duration": 1.240000000000009,
+    "text": "勤政府長卓榮泰"
+  },
+  {
+    "sequence": 319,
+    "start": 863.7,
+    "duration": 3,
+    "text": "28號上午正式公布新內閣人事案"
+  },
+  {
+    "sequence": 320,
+    "start": 866.7,
+    "duration": 3,
+    "text": "準衛福部長石崇良下午就與媒體會面"
+  },
+  {
+    "sequence": 321,
+    "start": 869.7,
+    "duration": 2.5399999999999636,
+    "text": "宣布未來政策方向及挑戰"
+  },
+  {
+    "sequence": 322,
+    "start": 872.24,
+    "duration": 2.5,
+    "text": "石崇良表示 上任後首要挑戰"
+  },
+  {
+    "sequence": 323,
+    "start": 874.74,
+    "duration": 2.7999999999999545,
+    "text": "就是面對美國新藥品關稅的衝擊"
+  },
+  {
+    "sequence": 324,
+    "start": 877.54,
+    "duration": 2.840000000000032,
+    "text": "因此將盤點還在專利期內的藥品"
+  },
+  {
+    "sequence": 325,
+    "start": 880.38,
+    "duration": 3.1000000000000227,
+    "text": "並鼓勵使用選民藥 強化藥品韌性"
+  },
+  {
+    "sequence": 326,
+    "start": 883.48,
+    "duration": 2.2999999999999545,
+    "text": "最脆弱的部分就是那一些"
+  },
+  {
+    "sequence": 327,
+    "start": 885.78,
+    "duration": 2.740000000000009,
+    "text": "還在專利期的進口藥"
+  },
+  {
+    "sequence": 328,
+    "start": 888.52,
+    "duration": 2.0399999999999636,
+    "text": "那個是我們最脆弱"
+  },
+  {
+    "sequence": 329,
+    "start": 890.56,
+    "duration": 2.2000000000000455,
+    "text": "風險來講是它是最脆弱的"
+  },
+  {
+    "sequence": 330,
+    "start": 892.76,
+    "duration": 2.4600000000000364,
+    "text": "因為它的替代性不高"
+  },
+  {
+    "sequence": 331,
+    "start": 895.22,
+    "duration": 1.740000000000009,
+    "text": "此外 面對急診溶色問題"
+  },
+  {
+    "sequence": 332,
+    "start": 896.96,
+    "duration": 2.5,
+    "text": "石崇良表示 將參考國外制度"
+  },
+  {
+    "sequence": 333,
+    "start": 899.46,
+    "duration": 1.7799999999999727,
+    "text": "在急診溶色醫院附近"
+  },
+  {
+    "sequence": 334,
+    "start": 901.24,
+    "duration": 1.9600000000000364,
+    "text": "建置假日急診中心"
+  },
+  {
+    "sequence": 335,
+    "start": 903.2,
+    "duration": 1.7999999999999545,
+    "text": "專門收治輕症患者"
+  },
+  {
+    "sequence": 336,
+    "start": 905,
+    "duration": 2.340000000000032,
+    "text": "避免輕症患者衝到大醫院急診"
+  },
+  {
+    "sequence": 337,
+    "start": 907.34,
+    "duration": 2.939999999999941,
+    "text": "落實分級醫療 最快今年底上路"
+  },
+  {
+    "sequence": 338,
+    "start": 910.28,
+    "duration": 1,
+    "text": "外傷的處理"
+  },
+  {
+    "sequence": 339,
+    "start": 911.28,
+    "duration": 2.8999999999999773,
+    "text": "還有就是小孩子兒科的問題"
+  },
+  {
+    "sequence": 340,
+    "start": 914.18,
+    "duration": 3.840000000000032,
+    "text": "一併要能夠處理這一些來做分流"
+  },
+  {
+    "sequence": 341,
+    "start": 918.02,
+    "duration": 1.5,
+    "text": "由於石崇良自立完整"
+  },
+  {
+    "sequence": 342,
+    "start": 919.52,
+    "duration": 2.2000000000000455,
+    "text": "過去也是台大醫院急診醫師"
+  },
+  {
+    "sequence": 343,
+    "start": 921.72,
+    "duration": 1.8600000000000136,
+    "text": "善於溝通解決問題"
+  },
+  {
+    "sequence": 344,
+    "start": 923.58,
+    "duration": 1.4799999999999045,
+    "text": "醫界表達支持"
+  },
+  {
+    "sequence": 345,
+    "start": 925.06,
+    "duration": 1.900000000000091,
+    "text": "護理界及醫改團體也期盼"
+  },
+  {
+    "sequence": 346,
+    "start": 926.96,
+    "duration": 1.0399999999999636,
+    "text": "石崇良上任後"
+  },
+  {
+    "sequence": 347,
+    "start": 928,
+    "duration": 2.2999999999999545,
+    "text": "能聽見基層護理界的聲音"
+  },
+  {
+    "sequence": 348,
+    "start": 930.3,
+    "duration": 2.0400000000000773,
+    "text": "三當護病筆入法"
+  },
+  {
+    "sequence": 349,
+    "start": 932.34,
+    "duration": 3.9599999999999227,
+    "text": "請快速在2026年可以執行"
+  },
+  {
+    "sequence": 350,
+    "start": 936.3,
+    "duration": 2.840000000000032,
+    "text": "再來一個是合理的工時跟工資"
+  },
+  {
+    "sequence": 351,
+    "start": 939.14,
+    "duration": 1.6000000000000227,
+    "text": "加班費一定要給我們"
+  },
+  {
+    "sequence": 352,
+    "start": 940.74,
+    "duration": 3.6000000000000227,
+    "text": "現行無論從一線崩潰的勞動困境"
+  },
+  {
+    "sequence": 353,
+    "start": 944.34,
+    "duration": 1.6999999999999318,
+    "text": "健保支付改革"
+  },
+  {
+    "sequence": 354,
+    "start": 946.04,
+    "duration": 2.6000000000000227,
+    "text": "到終結性暴力的包庇體系"
+  },
+  {
+    "sequence": 355,
+    "start": 948.64,
+    "duration": 2.080000000000041,
+    "text": "一樣樣都是刻不容緩的挑戰"
+  },
+  {
+    "sequence": 356,
+    "start": 950.72,
+    "duration": 0.9399999999999409,
+    "text": "石崇良強調"
+  },
+  {
+    "sequence": 357,
+    "start": 951.66,
+    "duration": 2.060000000000059,
+    "text": "隨著高齡化少子女化來臨"
+  },
+  {
+    "sequence": 358,
+    "start": 953.72,
+    "duration": 2.2999999999999545,
+    "text": "民眾對於護理需求更多元"
+  },
+  {
+    "sequence": 359,
+    "start": 956.02,
+    "duration": 2.8799999999999955,
+    "text": "因此上任後將邀請護理團體開會"
+  },
+  {
+    "sequence": 360,
+    "start": 958.9,
+    "duration": 2.7000000000000455,
+    "text": "共同討論如何因應相關策略"
+  },
+  {
+    "sequence": 361,
+    "start": 961.6,
+    "duration": 2.1000000000000227,
+    "text": "至於健保費率是否調漲"
+  },
+  {
+    "sequence": 362,
+    "start": 963.7,
+    "duration": 3.199999999999932,
+    "text": "他表示將從開源和節流兩方面努力"
+  },
+  {
+    "sequence": 363,
+    "start": 966.9,
+    "duration": 1.2000000000000455,
+    "text": "而且依財務估算"
+  },
+  {
+    "sequence": 364,
+    "start": 968.1,
+    "duration": 1.740000000000009,
+    "text": "明年健保安全準備金"
+  },
+  {
+    "sequence": 365,
+    "start": 969.84,
+    "duration": 1.1999999999999318,
+    "text": "打一個月以上"
+  },
+  {
+    "sequence": 366,
+    "start": 971.04,
+    "duration": 2.340000000000032,
+    "text": "明年調漲保費機率很低"
+  },
+  {
+    "sequence": 367,
+    "start": 973.38,
+    "duration": 3.659999999999968,
+    "text": "公視新聞賴淑明講龍城台北報導"
+  },
+  {
+    "sequence": 368,
+    "start": 977.04,
+    "duration": 1.9400000000000546,
+    "text": "台南城大醫院"
+  },
+  {
+    "sequence": 369,
+    "start": 978.98,
+    "duration": 2.2799999999999727,
+    "text": "一名早產女嬰"
+  },
+  {
+    "sequence": 370,
+    "start": 981.26,
+    "duration": 1.759999999999991,
+    "text": "因為呼吸問題"
+  },
+  {
+    "sequence": 371,
+    "start": 983.02,
+    "duration": 3.3999999999999773,
+    "text": "要轉到林口場更"
+  },
+  {
+    "sequence": 372,
+    "start": 986.42,
+    "duration": 2.580000000000041,
+    "text": "而因為女嬰全程插管"
+  },
+  {
+    "sequence": 373,
+    "start": 989,
+    "duration": 2.759999999999991,
+    "text": "家長擔憂救護車變換車道"
+  },
+  {
+    "sequence": 374,
+    "start": 991.76,
+    "duration": 3.340000000000032,
+    "text": "可能會導致呼吸管掉落"
+  },
+  {
+    "sequence": 375,
+    "start": 995.1,
+    "duration": 3.199999999999932,
+    "text": "於是在臉書上面發文"
+  },
+  {
+    "sequence": 376,
+    "start": 998.3,
+    "duration": 5.680000000000064,
+    "text": "希望行駛國道上的駕駛能夠禮讓"
+  },
+  {
+    "sequence": 377,
+    "start": 1003.98,
+    "duration": 2.1000000000000227,
+    "text": "而國道警察得知之後"
+  },
+  {
+    "sequence": 378,
+    "start": 1006.08,
+    "duration": 5.259999999999991,
+    "text": "主動協助由各分隊一路接力護送"
+  },
+  {
+    "sequence": 379,
+    "start": 1011.34,
+    "duration": 3.339999999999918,
+    "text": "讓女嬰順利的抵達醫院"
+  },
+  {
+    "sequence": 380,
+    "start": 1014.68,
+    "duration": 4.480000000000018,
+    "text": "國道警車28號一早一前一後"
+  },
+  {
+    "sequence": 381,
+    "start": 1019.16,
+    "duration": 1.5,
+    "text": "協助救護車開動"
+  },
+  {
+    "sequence": 382,
+    "start": 1020.66,
+    "duration": 3.240000000000009,
+    "text": "因為車上載著小明小平安的早產女嬰"
+  },
+  {
+    "sequence": 383,
+    "start": 1023.9,
+    "duration": 2.7600000000001046,
+    "text": "要從台南轉院到林口場更"
+  },
+  {
+    "sequence": 384,
+    "start": 1026.66,
+    "duration": 5.079999999999927,
+    "text": "女嬰全程插管且車程約需三小時"
+  },
+  {
+    "sequence": 385,
+    "start": 1031.74,
+    "duration": 2.7999999999999545,
+    "text": "女嬰母親27號在社群平台請託"
+  },
+  {
+    "sequence": 386,
+    "start": 1034.54,
+    "duration": 3.3400000000001455,
+    "text": "希望這期間行駛國道一號的駕駛能禮讓"
+  },
+  {
+    "sequence": 387,
+    "start": 1037.88,
+    "duration": 1.9399999999998272,
+    "text": "以防救護車因變換車道"
+  },
+  {
+    "sequence": 388,
+    "start": 1039.82,
+    "duration": 1.9600000000000364,
+    "text": "增加呼吸管掉落風險"
+  },
+  {
+    "sequence": 389,
+    "start": 1041.78,
+    "duration": 2.1000000000001364,
+    "text": "警方得知後主動協助"
+  },
+  {
+    "sequence": 390,
+    "start": 1043.88,
+    "duration": 1.8999999999998636,
+    "text": "車有動作會比較多"
+  },
+  {
+    "sequence": 391,
+    "start": 1045.78,
+    "duration": 1.6000000000001364,
+    "text": "對不對 我們來觀察一下"
+  },
+  {
+    "sequence": 392,
+    "start": 1047.38,
+    "duration": 2.1399999999998727,
+    "text": "我只是想說提醒用路人"
+  },
+  {
+    "sequence": 393,
+    "start": 1049.52,
+    "duration": 4.240000000000009,
+    "text": "我們要想說要就是造成大家的"
+  },
+  {
+    "sequence": 394,
+    "start": 1053.76,
+    "duration": 1.5,
+    "text": "對對對 不好意思"
+  },
+  {
+    "sequence": 395,
+    "start": 1055.26,
+    "duration": 2.599999999999909,
+    "text": "救護車九點多從台南成大醫院出發"
+  },
+  {
+    "sequence": 396,
+    "start": 1057.86,
+    "duration": 2.740000000000009,
+    "text": "行經路口時對象車子主動停讓"
+  },
+  {
+    "sequence": 397,
+    "start": 1060.6,
+    "duration": 2.300000000000182,
+    "text": "國道警車也鳴笛跟隨其後"
+  },
+  {
+    "sequence": 398,
+    "start": 1062.9,
+    "duration": 2.3599999999999,
+    "text": "國道上各國道警分局的紅斑馬"
+  },
+  {
+    "sequence": 399,
+    "start": 1065.26,
+    "duration": 1.9400000000000546,
+    "text": "為爭取關鍵治療時機"
+  },
+  {
+    "sequence": 400,
+    "start": 1067.2,
+    "duration": 1.740000000000009,
+    "text": "一路接力交棒開路"
+  },
+  {
+    "sequence": 401,
+    "start": 1068.94,
+    "duration": 2.740000000000009,
+    "text": "路程時間縮短到兩小時四十分鐘"
+  },
+  {
+    "sequence": 402,
+    "start": 1071.68,
+    "duration": 2.6399999999998727,
+    "text": "中午十二點半前女嬰平安抵達"
+  },
+  {
+    "sequence": 403,
+    "start": 1079.52,
+    "duration": 1.2000000000000455,
+    "text": "不必要的風險"
+  },
+  {
+    "sequence": 404,
+    "start": 1080.72,
+    "duration": 2.7999999999999545,
+    "text": "由嚴慎各大隊接力協助救護車"
+  },
+  {
+    "sequence": 405,
+    "start": 1083.52,
+    "duration": 2.2000000000000455,
+    "text": "並於十二十二十三分安全抵達"
+  },
+  {
+    "sequence": 406,
+    "start": 1085.72,
+    "duration": 1.0399999999999636,
+    "text": "林口長庚醫院"
+  },
+  {
+    "sequence": 407,
+    "start": 1086.76,
+    "duration": 2.9400000000000546,
+    "text": "寶寶已經順利地抵達我們醫院"
+  },
+  {
+    "sequence": 408,
+    "start": 1089.7,
+    "duration": 2.3999999999998636,
+    "text": "那我們也將寶寶安頓好"
+  },
+  {
+    "sequence": 409,
+    "start": 1092.1,
+    "duration": 1.759999999999991,
+    "text": "在我們的加護病房裡面"
+  },
+  {
+    "sequence": 410,
+    "start": 1093.86,
+    "duration": 1.4400000000000546,
+    "text": "據瞭解女嬰七月三號"
+  },
+  {
+    "sequence": 411,
+    "start": 1095.3,
+    "duration": 2.8400000000001455,
+    "text": "從嘉義大林慈濟轉院到台南成大"
+  },
+  {
+    "sequence": 412,
+    "start": 1098.14,
+    "duration": 1.3999999999998636,
+    "text": "後續有因呼吸問題"
+  },
+  {
+    "sequence": 413,
+    "start": 1099.54,
+    "duration": 2.8600000000001273,
+    "text": "二十八號上午再度轉院到林口長庚"
+  },
+  {
+    "sequence": 414,
+    "start": 1102.4,
+    "duration": 1.8999999999998636,
+    "text": "家長發文感謝各界關心"
+  },
+  {
+    "sequence": 415,
+    "start": 1104.3,
+    "duration": 2.1800000000000637,
+    "text": "讓轉院過程平安完成"
+  },
+  {
+    "sequence": 416,
+    "start": 1106.48,
+    "duration": 1.2000000000000455,
+    "text": "長庚醫院方則表示"
+  },
+  {
+    "sequence": 417,
+    "start": 1107.68,
+    "duration": 1.2999999999999545,
+    "text": "女嬰進加護病房後"
+  },
+  {
+    "sequence": 418,
+    "start": 1108.98,
+    "duration": 1.599999999999909,
+    "text": "目前聲明真相穩定"
+  },
+  {
+    "sequence": 419,
+    "start": 1110.58,
+    "duration": 2,
+    "text": "也承諾會善盡科學精神"
+  },
+  {
+    "sequence": 420,
+    "start": 1112.58,
+    "duration": 1.4400000000000546,
+    "text": "將女嬰照顧好"
+  },
+  {
+    "sequence": 421,
+    "start": 1114.02,
+    "duration": 2.099999999999909,
+    "text": "公視新聞台南桃園報導"
+  },
+  {
+    "sequence": 422,
+    "start": 1139.3,
+    "duration": 3.880000000000109,
+    "text": "叉脖子等許多不當對待"
+  },
+  {
+    "sequence": 423,
+    "start": 1143.18,
+    "duration": 5.079999999999927,
+    "text": "質疑受害孩童至少有二十多位"
+  },
+  {
+    "sequence": 424,
+    "start": 1148.26,
+    "duration": 2,
+    "text": "家長們要求教育局"
+  },
+  {
+    "sequence": 425,
+    "start": 1150.26,
+    "duration": 4.099999999999909,
+    "text": "要徹底落學監管"
+  },
+  {
+    "sequence": 426,
+    "start": 1154.36,
+    "duration": 4.400000000000091,
+    "text": "一群疑似受虐孩童家長"
+  },
+  {
+    "sequence": 427,
+    "start": 1158.76,
+    "duration": 1.7999999999999545,
+    "text": "在立委及市議員陪同下"
+  },
+  {
+    "sequence": 428,
+    "start": 1160.56,
+    "duration": 0.9400000000000546,
+    "text": "二十八號上午"
+  },
+  {
+    "sequence": 429,
+    "start": 1161.5,
+    "duration": 1.8599999999999,
+    "text": "在立法院召開記者會"
+  },
+  {
+    "sequence": 430,
+    "start": 1163.36,
+    "duration": 2.2800000000002,
+    "text": "家長控訴今年三月將孩子"
+  },
+  {
+    "sequence": 431,
+    "start": 1165.64,
+    "duration": 2.259999999999991,
+    "text": "送到臺北市萬華某幼兒園後"
+  },
+  {
+    "sequence": 432,
+    "start": 1167.9,
+    "duration": 2.839999999999918,
+    "text": "孩子開始拒絕上學 情緒異常"
+  },
+  {
+    "sequence": 433,
+    "start": 1170.74,
+    "duration": 1.5,
+    "text": "掉月監視器才發現"
+  },
+  {
+    "sequence": 434,
+    "start": 1172.24,
+    "duration": 2.2999999999999545,
+    "text": "孩子遭到老師掐脖子搖晃"
+  },
+  {
+    "sequence": 435,
+    "start": 1174.54,
+    "duration": 2.400000000000091,
+    "text": "摔到地上等許多不當對待"
+  },
+  {
+    "sequence": 436,
+    "start": 1176.94,
+    "duration": 2.740000000000009,
+    "text": "更質疑至少二十多名孩童受害"
+  },
+  {
+    "sequence": 437,
+    "start": 1179.68,
+    "duration": 1.3999999999998636,
+    "text": "有家長詢問員方"
+  },
+  {
+    "sequence": 438,
+    "start": 1181.08,
+    "duration": 2.1800000000000637,
+    "text": "反而被員方以退學威脅"
+  },
+  {
+    "sequence": 439,
+    "start": 1183.26,
+    "duration": 2.3599999999999,
+    "text": "讓家長們相當心痛又無助"
+  },
+  {
+    "sequence": 440,
+    "start": 1185.62,
+    "duration": 3.240000000000009,
+    "text": "監視器裡面看到自己的小孩"
+  },
+  {
+    "sequence": 441,
+    "start": 1188.86,
+    "duration": 3.1000000000001364,
+    "text": "被掐著脖子抓起來晃"
+  },
+  {
+    "sequence": 442,
+    "start": 1191.96,
+    "duration": 2.5399999999999636,
+    "text": "被身形比自己魁梧好幾倍的老師"
+  },
+  {
+    "sequence": 443,
+    "start": 1194.5,
+    "duration": 1.7999999999999545,
+    "text": "抓起來摔到地上"
+  },
+  {
+    "sequence": 444,
+    "start": 1196.3,
+    "duration": 2.900000000000091,
+    "text": "施暴的畫面已經超過四十個"
+  },
+  {
+    "sequence": 445,
+    "start": 1199.2,
+    "duration": 3.099999999999909,
+    "text": "受害的小孩超過二十人以上"
+  },
+  {
+    "sequence": 446,
+    "start": 1202.3,
+    "duration": 1.6800000000000637,
+    "text": "主要被痛現在獨手的"
+  },
+  {
+    "sequence": 447,
+    "start": 1203.98,
+    "duration": 2,
+    "text": "幾乎都是兩三歲的幼童"
+  },
+  {
+    "sequence": 448,
+    "start": 1205.98,
+    "duration": 1.5399999999999636,
+    "text": "家長們表示今年三月"
+  },
+  {
+    "sequence": 449,
+    "start": 1207.52,
+    "duration": 1.6200000000001182,
+    "text": "曾向臺北市教育局通報"
+  },
+  {
+    "sequence": 450,
+    "start": 1209.14,
+    "duration": 1.2799999999999727,
+    "text": "並進行調查"
+  },
+  {
+    "sequence": 451,
+    "start": 1210.42,
+    "duration": 1.740000000000009,
+    "text": "該名老師遭停職後"
+  },
+  {
+    "sequence": 452,
+    "start": 1212.16,
+    "duration": 1.7999999999999545,
+    "text": "竟然又轉到幼兒園二樓"
+  },
+  {
+    "sequence": 453,
+    "start": 1213.96,
+    "duration": 2,
+    "text": "經營的補習班繼續任職"
+  },
+  {
+    "sequence": 454,
+    "start": 1215.96,
+    "duration": 1.8999999999998636,
+    "text": "還可以自由進出幼兒園"
+  },
+  {
+    "sequence": 455,
+    "start": 1217.86,
+    "duration": 2.6000000000001364,
+    "text": "並把監視器拆除掩蓋真相"
+  },
+  {
+    "sequence": 456,
+    "start": 1220.46,
+    "duration": 1.8999999999998636,
+    "text": "對此立委林月晴批評"
+  },
+  {
+    "sequence": 457,
+    "start": 1222.36,
+    "duration": 1.6000000000001364,
+    "text": "臺北市教育局及教育部"
+  },
+  {
+    "sequence": 458,
+    "start": 1223.96,
+    "duration": 1.740000000000009,
+    "text": "缺乏監督管理機制"
+  },
+  {
+    "sequence": 459,
+    "start": 1225.7,
+    "duration": 2.099999999999909,
+    "text": "恐怕將讓更多孩子受害"
+  },
+  {
+    "sequence": 460,
+    "start": 1227.8,
+    "duration": 2.3600000000001273,
+    "text": "不要重演裴若米達的案子"
+  },
+  {
+    "sequence": 461,
+    "start": 1230.16,
+    "duration": 1.4399999999998272,
+    "text": "找一個約聘僱"
+  },
+  {
+    "sequence": 462,
+    "start": 1231.6,
+    "duration": 1.2000000000000455,
+    "text": "然後他才來扮演"
+  },
+  {
+    "sequence": 463,
+    "start": 1232.8,
+    "duration": 1.0399999999999636,
+    "text": "然後去看監視器"
+  },
+  {
+    "sequence": 464,
+    "start": 1233.84,
+    "duration": 2.8400000000001455,
+    "text": "然後就覺得OK沒什麼事"
+  },
+  {
+    "sequence": 465,
+    "start": 1236.68,
+    "duration": 2.2999999999999545,
+    "text": "他是有不但敢教育的事"
+  },
+  {
+    "sequence": 466,
+    "start": 1238.98,
+    "duration": 1.240000000000009,
+    "text": "被停職了"
+  },
+  {
+    "sequence": 467,
+    "start": 1240.22,
+    "duration": 1.5,
+    "text": "說我們不能停"
+  },
+  {
+    "sequence": 468,
+    "start": 1241.72,
+    "duration": 2.7000000000000455,
+    "text": "他教育局就也有幫忙給我們"
+  },
+  {
+    "sequence": 469,
+    "start": 1244.42,
+    "duration": 1.9399999999998272,
+    "text": "教育局於114年3月10日"
+  },
+  {
+    "sequence": 470,
+    "start": 1246.36,
+    "duration": 0.900000000000091,
+    "text": "接獲通報後"
+  },
+  {
+    "sequence": 471,
+    "start": 1247.26,
+    "duration": 2.5,
+    "text": "立即命行為人停職進行調查"
+  },
+  {
+    "sequence": 472,
+    "start": 1249.76,
+    "duration": 2.5,
+    "text": "第一時間保存工作紀錄器影像等證據"
+  },
+  {
+    "sequence": 473,
+    "start": 1252.26,
+    "duration": 2.099999999999909,
+    "text": "並以最快速方式完成調查"
+  },
+  {
+    "sequence": 474,
+    "start": 1254.36,
+    "duration": 1.5,
+    "text": "立委強調這起事件"
+  },
+  {
+    "sequence": 475,
+    "start": 1255.86,
+    "duration": 2.040000000000191,
+    "text": "再次凸顯臺北市府失職"
+  },
+  {
+    "sequence": 476,
+    "start": 1257.9,
+    "duration": 2.3599999999999,
+    "text": "行政怠惰與對業者的縱容"
+  },
+  {
+    "sequence": 477,
+    "start": 1260.26,
+    "duration": 1.1800000000000637,
+    "text": "教育局則回應"
+  },
+  {
+    "sequence": 478,
+    "start": 1261.44,
+    "duration": 1.5,
+    "text": "已經逐一查看該員"
+  },
+  {
+    "sequence": 479,
+    "start": 1262.94,
+    "duration": 1.6599999999998545,
+    "text": "總共40個上課日"
+  },
+  {
+    "sequence": 480,
+    "start": 1264.6,
+    "duration": 1.5,
+    "text": "大約320個小時"
+  },
+  {
+    "sequence": 481,
+    "start": 1266.1,
+    "duration": 2.4400000000000546,
+    "text": "之監視器影像完成調查"
+  },
+  {
+    "sequence": 482,
+    "start": 1268.54,
+    "duration": 1.6000000000001364,
+    "text": "全案就其違法部分"
+  },
+  {
+    "sequence": 483,
+    "start": 1270.14,
+    "duration": 1.3799999999998818,
+    "text": "皆以從重從嚴"
+  },
+  {
+    "sequence": 484,
+    "start": 1271.52,
+    "duration": 3.0599999999999454,
+    "text": "裁處累計共97萬3千500元"
+  },
+  {
+    "sequence": 485,
+    "start": 1274.58,
+    "duration": 1.400000000000091,
+    "text": "公視新聞賴淑敏蔣榮翔"
+  },
+  {
+    "sequence": 486,
+    "start": 1275.98,
+    "duration": 2.6399999999998727,
+    "text": "張明如臺報導"
+  },
+  {
+    "sequence": 487,
+    "start": 1278.62,
+    "duration": 3.3600000000001273,
+    "text": "提醒您在下載APP付款之前"
+  },
+  {
+    "sequence": 488,
+    "start": 1281.98,
+    "duration": 2.5799999999999272,
+    "text": "務必再確認資訊"
+  },
+  {
+    "sequence": 489,
+    "start": 1284.56,
+    "duration": 3.2999999999999545,
+    "text": "有民眾看到了一款AI音樂軟體"
+  },
+  {
+    "sequence": 490,
+    "start": 1287.86,
+    "duration": 2.800000000000182,
+    "text": "標榜限時零元"
+  },
+  {
+    "sequence": 491,
+    "start": 1290.66,
+    "duration": 4.099999999999909,
+    "text": "下載後也選了APP內的零元選項"
+  },
+  {
+    "sequence": 492,
+    "start": 1294.76,
+    "duration": 1.8399999999999181,
+    "text": "沒想到綁定的信用卡"
+  },
+  {
+    "sequence": 493,
+    "start": 1296.6,
+    "duration": 3,
+    "text": "卻被扣款699零元"
+  },
+  {
+    "sequence": 494,
+    "start": 1299.6,
+    "duration": 2.6000000000001364,
+    "text": "對此消保官表示"
+  },
+  {
+    "sequence": 495,
+    "start": 1302.2,
+    "duration": 2.599999999999909,
+    "text": "業者可能違反消保法"
+  },
+  {
+    "sequence": 496,
+    "start": 1304.8,
+    "duration": 3.900000000000091,
+    "text": "沒有明確揭露資訊"
+  },
+  {
+    "sequence": 497,
+    "start": 1308.7,
+    "duration": 0.8799999999998818,
+    "text": "手機點一點"
+  },
+  {
+    "sequence": 498,
+    "start": 1309.58,
+    "duration": 1.5,
+    "text": "輕鬆就可以下載APP"
+  },
+  {
+    "sequence": 499,
+    "start": 1311.08,
+    "duration": 1.8400000000001455,
+    "text": "不過近期網路爆發災情"
+  },
+  {
+    "sequence": 500,
+    "start": 1312.92,
+    "duration": 1.9399999999998272,
+    "text": "有消費者看到優惠訊息"
+  },
+  {
+    "sequence": 501,
+    "start": 1314.86,
+    "duration": 2.560000000000173,
+    "text": "一款原價破萬元的AI音樂軟體"
+  },
+  {
+    "sequence": 502,
+    "start": 1317.42,
+    "duration": 1.3399999999999181,
+    "text": "限時特價零元"
+  },
+  {
+    "sequence": 503,
+    "start": 1318.76,
+    "duration": 1.5599999999999454,
+    "text": "按照步驟下載後"
+  },
+  {
+    "sequence": 504,
+    "start": 1320.32,
+    "duration": 2.1800000000000637,
+    "text": "選擇APP內的零元選項"
+  },
+  {
+    "sequence": 505,
+    "start": 1322.5,
+    "duration": 2,
+    "text": "沒想到跳出刷卡通知"
+  },
+  {
+    "sequence": 506,
+    "start": 1324.5,
+    "duration": 3.099999999999909,
+    "text": "才發現被刷了6990元"
+  },
+  {
+    "sequence": 507,
+    "start": 1327.6,
+    "duration": 1.7000000000000455,
+    "text": "因為以前都一路這樣操作"
+  },
+  {
+    "sequence": 508,
+    "start": 1329.3,
+    "duration": 1.6400000000001,
+    "text": "都不會有問題"
+  },
+  {
+    "sequence": 509,
+    "start": 1330.94,
+    "duration": 1.0599999999999454,
+    "text": "然後我就選"
+  },
+  {
+    "sequence": 510,
+    "start": 1332,
+    "duration": 1.9400000000000546,
+    "text": "我就按兩下付款"
+  },
+  {
+    "sequence": 511,
+    "start": 1333.94,
+    "duration": 1.5599999999999454,
+    "text": "然後就中招了"
+  },
+  {
+    "sequence": 512,
+    "start": 1335.5,
+    "duration": 1.5,
+    "text": "中招之後"
+  },
+  {
+    "sequence": 513,
+    "start": 1337,
+    "duration": 2.900000000000091,
+    "text": "就開始我一路的"
+  },
+  {
+    "sequence": 514,
+    "start": 1339.9,
+    "duration": 1.8399999999999181,
+    "text": "這個神速追討"
+  },
+  {
+    "sequence": 515,
+    "start": 1341.74,
+    "duration": 2.5,
+    "text": "這個很明確的就是右偏"
+  },
+  {
+    "sequence": 516,
+    "start": 1344.24,
+    "duration": 1.4400000000000546,
+    "text": "點開軟體評論頁面"
+  },
+  {
+    "sequence": 517,
+    "start": 1345.68,
+    "duration": 2.099999999999909,
+    "text": "不少消費者有遇到類似狀況"
+  },
+  {
+    "sequence": 518,
+    "start": 1347.78,
+    "duration": 1.400000000000091,
+    "text": "原來玄機就在於"
+  },
+  {
+    "sequence": 519,
+    "start": 1349.18,
+    "duration": 2.2999999999999545,
+    "text": "即使消費者選了零元選項"
+  },
+  {
+    "sequence": 520,
+    "start": 1351.48,
+    "duration": 1.5,
+    "text": "跳出來的付款視窗"
+  },
+  {
+    "sequence": 521,
+    "start": 1352.98,
+    "duration": 3,
+    "text": "依然會顯示單次收費6000多元"
+  },
+  {
+    "sequence": 522,
+    "start": 1355.98,
+    "duration": 1.4400000000000546,
+    "text": "消費者只要不注意"
+  },
+  {
+    "sequence": 523,
+    "start": 1357.42,
+    "duration": 1.199999999999818,
+    "text": "就完全刷卡了"
+  },
+  {
+    "sequence": 524,
+    "start": 1358.62,
+    "duration": 1.3400000000001455,
+    "text": "但消保官也警告"
+  },
+  {
+    "sequence": 525,
+    "start": 1359.96,
+    "duration": 2.2000000000000455,
+    "text": "可能已經違反消保法"
+  },
+  {
+    "sequence": 526,
+    "start": 1362.16,
+    "duration": 1.8599999999999,
+    "text": "一剛開始以為是零元"
+  },
+  {
+    "sequence": 527,
+    "start": 1364.02,
+    "duration": 1.5799999999999272,
+    "text": "那扣款的時候也以為是零元"
+  },
+  {
+    "sequence": 528,
+    "start": 1365.6,
+    "duration": 2.6000000000001364,
+    "text": "就沒有特別注意到扣款是6990"
+  },
+  {
+    "sequence": 529,
+    "start": 1368.2,
+    "duration": 1.5,
+    "text": "於是就按了訂閱"
+  },
+  {
+    "sequence": 530,
+    "start": 1369.7,
+    "duration": 1.1399999999998727,
+    "text": "然後就產生了扣款"
+  },
+  {
+    "sequence": 531,
+    "start": 1370.84,
+    "duration": 2.259999999999991,
+    "text": "這樣子當然是違反那個"
+  },
+  {
+    "sequence": 532,
+    "start": 1373.1,
+    "duration": 1.540000000000191,
+    "text": "沒有清楚明確告知"
+  },
+  {
+    "sequence": 533,
+    "start": 1374.64,
+    "duration": 1.8599999999999,
+    "text": "那個消費資訊的這一點"
+  },
+  {
+    "sequence": 534,
+    "start": 1376.5,
+    "duration": 1.4800000000000182,
+    "text": "根據北市消保處統計"
+  },
+  {
+    "sequence": 535,
+    "start": 1377.98,
+    "duration": 1.3599999999999,
+    "text": "今年一月到八月份"
+  },
+  {
+    "sequence": 536,
+    "start": 1379.34,
+    "duration": 1.9400000000000546,
+    "text": "類似的手機app付款爭議"
+  },
+  {
+    "sequence": 537,
+    "start": 1381.28,
+    "duration": 1.400000000000091,
+    "text": "就多達十件以上"
+  },
+  {
+    "sequence": 538,
+    "start": 1382.68,
+    "duration": 1.240000000000009,
+    "text": "不少人更是遇到"
+  },
+  {
+    "sequence": 539,
+    "start": 1383.92,
+    "duration": 1.699999999999818,
+    "text": "剛開始零元試用的app"
+  },
+  {
+    "sequence": 540,
+    "start": 1385.62,
+    "duration": 1.740000000000009,
+    "text": "突然間開始扣錢"
+  },
+  {
+    "sequence": 541,
+    "start": 1387.36,
+    "duration": 2.300000000000182,
+    "text": "之前就是有用過記帳軟體"
+  },
+  {
+    "sequence": 542,
+    "start": 1389.66,
+    "duration": 1.459999999999809,
+    "text": "然後到後面就開始要收錢"
+  },
+  {
+    "sequence": 543,
+    "start": 1391.12,
+    "duration": 2.6400000000001,
+    "text": "但就已經被扣了就算了"
+  },
+  {
+    "sequence": 544,
+    "start": 1393.76,
+    "duration": 3.400000000000091,
+    "text": "大部分是那種輔助城市"
+  },
+  {
+    "sequence": 545,
+    "start": 1397.16,
+    "duration": 0.6599999999998545,
+    "text": "會直接刪掉"
+  },
+  {
+    "sequence": 546,
+    "start": 1397.82,
+    "duration": 1.8800000000001091,
+    "text": "因為覺得說你騙了我"
+  },
+  {
+    "sequence": 547,
+    "start": 1399.7,
+    "duration": 0.9600000000000364,
+    "text": "一開始是免費的"
+  },
+  {
+    "sequence": 548,
+    "start": 1400.66,
+    "duration": 1.1399999999998727,
+    "text": "怎麼突然變要錢了"
+  },
+  {
+    "sequence": 549,
+    "start": 1401.8,
+    "duration": 1,
+    "text": "消保官也提醒"
+  },
+  {
+    "sequence": 550,
+    "start": 1402.8,
+    "duration": 1.2999999999999545,
+    "text": "不少城市的開發商"
+  },
+  {
+    "sequence": 551,
+    "start": 1404.1,
+    "duration": 1.3400000000001455,
+    "text": "都在境外扣款後"
+  },
+  {
+    "sequence": 552,
+    "start": 1405.44,
+    "duration": 1.4600000000000364,
+    "text": "均回款上機率低"
+  },
+  {
+    "sequence": 553,
+    "start": 1406.9,
+    "duration": 1.1399999999998727,
+    "text": "購買城市之前"
+  },
+  {
+    "sequence": 554,
+    "start": 1408.04,
+    "duration": 1.5,
+    "text": "務必要把相關條款"
+  },
+  {
+    "sequence": 555,
+    "start": 1409.54,
+    "duration": 1.4600000000000364,
+    "text": "但書都看清楚"
+  },
+  {
+    "sequence": 556,
+    "start": 1411,
+    "duration": 1.7999999999999545,
+    "text": "防止冤枉扣款"
+  },
+  {
+    "sequence": 557,
+    "start": 1412.8,
+    "duration": 0.7799999999999727,
+    "text": "高士軒晚一聽"
+  },
+  {
+    "sequence": 558,
+    "start": 1413.58,
+    "duration": 2.900000000000091,
+    "text": "謝謝請問 臺北報導"
+  },
+  {
+    "sequence": 559,
+    "start": 1416.48,
+    "duration": 3.2999999999999545,
+    "text": "南韓通過了一項最新禁令"
+  },
+  {
+    "sequence": 560,
+    "start": 1419.78,
+    "duration": 3.5799999999999272,
+    "text": "物料遏止智慧型手機長影"
+  },
+  {
+    "sequence": 561,
+    "start": 1423.36,
+    "duration": 1.7200000000000273,
+    "text": "國小到國中生"
+  },
+  {
+    "sequence": 562,
+    "start": 1425.08,
+    "duration": 2.880000000000109,
+    "text": "課堂上禁止使用手機"
+  },
+  {
+    "sequence": 563,
+    "start": 1427.96,
+    "duration": 3.2000000000000455,
+    "text": "明年三月開始生效"
+  },
+  {
+    "sequence": 564,
+    "start": 1431.16,
+    "duration": 2.0399999999999636,
+    "text": "不過也有些人質疑"
+  },
+  {
+    "sequence": 565,
+    "start": 1433.2,
+    "duration": 2,
+    "text": "禁令該如何執行"
+  },
+  {
+    "sequence": 566,
+    "start": 1435.2,
+    "duration": 2.0399999999999636,
+    "text": "以及是否可以真正解決"
+  },
+  {
+    "sequence": 567,
+    "start": 1437.24,
+    "duration": 4,
+    "text": "成癮的問題"
+  },
+  {
+    "sequence": 568,
+    "start": 1441.24,
+    "duration": 1.0399999999999636,
+    "text": "就快要開學"
+  },
+  {
+    "sequence": 569,
+    "start": 1442.28,
+    "duration": 1.2000000000000455,
+    "text": "學生們在課堂上"
+  },
+  {
+    "sequence": 570,
+    "start": 1443.48,
+    "duration": 2.259999999999991,
+    "text": "人手一擊滑來滑去的景象"
+  },
+  {
+    "sequence": 571,
+    "start": 1445.74,
+    "duration": 2.3799999999998818,
+    "text": "從明年三月開始將被禁止"
+  },
+  {
+    "sequence": 572,
+    "start": 1448.12,
+    "duration": 2.9600000000000364,
+    "text": "反對31人 極權17人為所"
+  },
+  {
+    "sequence": 573,
+    "start": 1451.08,
+    "duration": 2.160000000000082,
+    "text": "初中等教育法一部分改正法律"
+  },
+  {
+    "sequence": 574,
+    "start": 1453.24,
+    "duration": 2.6800000000000637,
+    "text": "的解決方案"
+  },
+  {
+    "sequence": 575,
+    "start": 1455.92,
+    "duration": 0.8599999999999,
+    "text": "根據該法"
+  },
+  {
+    "sequence": 576,
+    "start": 1456.78,
+    "duration": 1.259999999999991,
+    "text": "學生上課期間"
+  },
+  {
+    "sequence": 577,
+    "start": 1458.04,
+    "duration": 2.240000000000009,
+    "text": "一律禁止使用智慧型手機"
+  },
+  {
+    "sequence": 578,
+    "start": 1460.28,
+    "duration": 1.7000000000000455,
+    "text": "智慧手錶 平板電腦"
+  },
+  {
+    "sequence": 579,
+    "start": 1461.98,
+    "duration": 1.5799999999999272,
+    "text": "以及筆記型電腦等"
+  },
+  {
+    "sequence": 580,
+    "start": 1463.56,
+    "duration": 2.400000000000091,
+    "text": "具有通訊功能的智慧型裝置"
+  },
+  {
+    "sequence": 581,
+    "start": 1465.96,
+    "duration": 2.259999999999991,
+    "text": "手機禁令是為了遏制成癮"
+  },
+  {
+    "sequence": 582,
+    "start": 1468.22,
+    "duration": 1.5799999999999272,
+    "text": "有越來越多研究指出"
+  },
+  {
+    "sequence": 583,
+    "start": 1469.8,
+    "duration": 2.160000000000082,
+    "text": "手機成癮對學生大腦發育"
+  },
+  {
+    "sequence": 584,
+    "start": 1471.96,
+    "duration": 1.240000000000009,
+    "text": "跟情緒成長"
+  },
+  {
+    "sequence": 585,
+    "start": 1473.2,
+    "duration": 1.4400000000000546,
+    "text": "壞處非常多"
+  },
+  {
+    "sequence": 586,
+    "start": 1474.64,
+    "duration": 2.1599999999998545,
+    "text": "不過法案也設下例外情況"
+  },
+  {
+    "sequence": 587,
+    "start": 1476.8,
+    "duration": 1.6400000000001,
+    "text": "若學生因身心障礙"
+  },
+  {
+    "sequence": 588,
+    "start": 1478.44,
+    "duration": 1.3199999999999363,
+    "text": "或特殊教育需求"
+  },
+  {
+    "sequence": 589,
+    "start": 1479.76,
+    "duration": 1.2799999999999727,
+    "text": "或基於教育目的"
+  },
+  {
+    "sequence": 590,
+    "start": 1481.04,
+    "duration": 0.8400000000001455,
+    "text": "緊急狀況"
+  },
+  {
+    "sequence": 591,
+    "start": 1481.88,
+    "duration": 1.7199999999998,
+    "text": "經校長或教師同意"
+  },
+  {
+    "sequence": 592,
+    "start": 1483.6,
+    "duration": 2.740000000000009,
+    "text": "則可在課堂內使用相關設備"
+  },
+  {
+    "sequence": 593,
+    "start": 1486.34,
+    "duration": 1.7000000000000455,
+    "text": "南韓人口5100萬"
+  },
+  {
+    "sequence": 594,
+    "start": 1488.04,
+    "duration": 1.1400000000001,
+    "text": "政府調查發現"
+  },
+  {
+    "sequence": 595,
+    "start": 1489.18,
+    "duration": 1.599999999999909,
+    "text": "2024年有四分之一"
+  },
+  {
+    "sequence": 596,
+    "start": 1490.78,
+    "duration": 1.400000000000091,
+    "text": "對手機過度依賴"
+  },
+  {
+    "sequence": 597,
+    "start": 1492.18,
+    "duration": 2.2799999999999727,
+    "text": "10到19歲青少年比例翻倍"
+  },
+  {
+    "sequence": 598,
+    "start": 1494.46,
+    "duration": 1.4200000000000728,
+    "text": "有43%"
+  },
+  {
+    "sequence": 599,
+    "start": 1495.88,
+    "duration": 2,
+    "text": "而且還在持續增加中"
+  },
+  {
+    "sequence": 600,
+    "start": 1497.88,
+    "duration": 0.6399999999998727,
+    "text": "事實上"
+  },
+  {
+    "sequence": 601,
+    "start": 1498.52,
+    "duration": 1.2999999999999545,
+    "text": "南韓並非第一個"
+  },
+  {
+    "sequence": 602,
+    "start": 1499.82,
+    "duration": 1.2000000000000455,
+    "text": "對未成年學生"
+  },
+  {
+    "sequence": 603,
+    "start": 1501.02,
+    "duration": 1.7799999999999727,
+    "text": "進行手機管制的國家"
+  },
+  {
+    "sequence": 604,
+    "start": 1502.8,
+    "duration": 0.9200000000000728,
+    "text": "芬蘭跟法國"
+  },
+  {
+    "sequence": 605,
+    "start": 1503.72,
+    "duration": 1.9400000000000546,
+    "text": "已針對小學或特定年級"
+  },
+  {
+    "sequence": 606,
+    "start": 1505.66,
+    "duration": 1.5799999999999272,
+    "text": "實施類似措施"
+  },
+  {
+    "sequence": 607,
+    "start": 1507.24,
+    "duration": 1.7999999999999545,
+    "text": "而義大利 荷蘭跟中國"
+  },
+  {
+    "sequence": 608,
+    "start": 1509.04,
+    "duration": 2.4400000000000546,
+    "text": "則將禁令擴大至各級學校"
+  },
+  {
+    "sequence": 609,
+    "start": 1511.48,
+    "duration": 1.259999999999991,
+    "text": "最早實施青少年"
+  },
+  {
+    "sequence": 610,
+    "start": 1512.74,
+    "duration": 1.6400000000001,
+    "text": "社群媒體限制的澳洲"
+  },
+  {
+    "sequence": 611,
+    "start": 1514.38,
+    "duration": 2.7999999999999545,
+    "text": "近期也進一步擴大相關規範"
+  },
+  {
+    "sequence": 612,
+    "start": 1517.18,
+    "duration": 1.8599999999999,
+    "text": "公視新聞 黃瑞玲編譯"
+  },
+  {
+    "sequence": 613,
+    "start": 1539.04,
+    "duration": 29.90000000000009,
+    "text": "Zither Harp"
+  },
+  {
+    "sequence": 614,
+    "start": 1569.04,
+    "duration": 14,
+    "text": "Zither Harp"
+  },
+  {
+    "sequence": 615,
+    "start": 1583.04,
+    "duration": 3,
+    "text": "感謝您收看這一節的公視手語新聞"
+  },
+  {
+    "sequence": 616,
+    "start": 1586.04,
+    "duration": 1,
+    "text": "我是牛軒文"
+  },
+  {
+    "sequence": 617,
+    "start": 1587.04,
+    "duration": 3,
+    "text": "下週一同一時間再會"
+  },
+  {
+    "sequence": 618,
+    "start": 1599.04,
+    "duration": 20,
+    "text": "Zither Harp"
   }
 ]

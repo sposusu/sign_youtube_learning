@@ -8,8 +8,11 @@
   "processingStatus": {
     "lastUpdated": "2025-09-11T10:59:51.327Z",
     "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "needsWhisperProcessing": true,
+    "needsClassification": false,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-09-11T17:50:07.205Z",
+    "transcriptSegments": 618
   },
   "detectionSummary": {
     "mode": "anchor_banner",
