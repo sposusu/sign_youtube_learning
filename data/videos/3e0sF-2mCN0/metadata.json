@@ -1,0 +1,25 @@
+{
+  "id": "3e0sF-2mCN0",
+  "title": "20250916 公視手語新聞 完整版｜連結八里 淡水 淡江大橋今進行合龍儀式",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-09-16T01:45:32Z",
+  "thumbnail": "https://i.ytimg.com/vi/3e0sF-2mCN0/hqdefault.jpg",
+  "addedAt": "2025-09-16T07:46:36.481Z",
+  "processingStatus": {
+    "lastUpdated": "2025-09-16T07:46:38.483Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-09-16T07:50:05.420Z",
+    "transcriptSegments": 494,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-09-16T15:51:07.483300",
+    "totalSegments": 494,
+    "signLanguageSegments": 124,
+    "coverage": 27.165841584158418
+  }
+}
