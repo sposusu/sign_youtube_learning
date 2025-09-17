@@ -6,14 +6,10 @@
   "thumbnail": "https://i.ytimg.com/vi/3e0sF-2mCN0/hqdefault.jpg",
   "addedAt": "2025-09-16T07:46:36.481Z",
   "processingStatus": {
-    "lastUpdated": "2025-09-16T07:46:38.483Z",
-    "isNew": true,
-    "needsWhisperProcessing": true,
-    "needsClassification": true,
-    "whisperProcessed": true,
-    "whisperProcessedAt": "2025-09-16T07:50:05.420Z",
-    "transcriptSegments": 494,
-    "asrModel": "whisper"
+    "lastUpdated": "2025-09-17T09:07:11.164Z",
+    "isNew": false,
+    "needsWhisperProcessing": false,
+    "needsClassification": false
   },
   "detectionSummary": {
     "mode": "anchor_banner",

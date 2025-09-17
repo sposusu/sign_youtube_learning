@@ -1,0 +1,25 @@
+{
+  "id": "p4vcGeyi8D0",
+  "title": "20250917 公視手語新聞 完整版｜三重滅門3死案 被告張泓毅一審判死刑",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-09-17T05:57:55Z",
+  "thumbnail": "https://i.ytimg.com/vi/p4vcGeyi8D0/hqdefault.jpg",
+  "addedAt": "2025-09-17T09:07:09.163Z",
+  "processingStatus": {
+    "lastUpdated": "2025-09-17T09:07:11.164Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-09-17T09:15:56.472Z",
+    "transcriptSegments": 459,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-09-17T17:17:19.907063",
+    "totalSegments": 459,
+    "signLanguageSegments": 116,
+    "coverage": 28.968792401628225
+  }
+}

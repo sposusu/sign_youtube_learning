@@ -1,35 +1,5 @@
 [
   {
-    "id": "p4vcGeyi8D0",
-    "title": "20250917 公視手語新聞 完整版｜三重滅門3死案 被告張泓毅一審判死刑",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-09-17T05:57:55Z",
-    "thumbnail": "https://i.ytimg.com/vi/p4vcGeyi8D0/hqdefault.jpg",
-    "addedAt": "2025-09-17T09:07:09.163Z",
-    "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-17T09:15:56.472Z",
-      "transcriptSegments": 459,
-      "asrModel": "whisper"
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-09-17T17:17:19.907063",
-      "totalSegments": 459,
-      "signLanguageSegments": 116,
-      "coverage": 28.968792401628225
-    },
-    "stats": {
-      "transcriptSegments": 459,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
-  },
-  {
     "id": "3e0sF-2mCN0",
     "title": "20250916 公視手語新聞 完整版｜連結八里 淡水 淡江大橋今進行合龍儀式",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -37,10 +7,14 @@
     "thumbnail": "https://i.ytimg.com/vi/3e0sF-2mCN0/hqdefault.jpg",
     "addedAt": "2025-09-16T07:46:36.481Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-09-16T07:50:05.420Z",
+      "transcriptSegments": 494,
+      "asrModel": "whisper"
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -63,7 +37,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Vu9Lk7O3jLI/hqdefault.jpg",
     "addedAt": "2025-09-15T10:23:18.603Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -89,7 +63,7 @@
     "thumbnail": "https://i.ytimg.com/vi/PtSayplGV74/hqdefault.jpg",
     "addedAt": "2025-09-12T06:33:53.508Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -115,7 +89,7 @@
     "thumbnail": "https://i.ytimg.com/vi/wn9j8a7BwXs/hqdefault.jpg",
     "addedAt": "2025-09-11T10:59:49.325Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -141,7 +115,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RFpflFvHRH8/hqdefault.jpg",
     "addedAt": "2025-09-10T19:44:57.060Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -167,7 +141,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZJAwKR6EOQI/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -193,7 +167,7 @@
     "thumbnail": "https://i.ytimg.com/vi/P4BDUWGhSAk/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -219,7 +193,7 @@
     "thumbnail": "https://i.ytimg.com/vi/i7MYN_AApBM/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -245,7 +219,7 @@
     "thumbnail": "https://i.ytimg.com/vi/hnovDfuVkuI/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -271,7 +245,7 @@
     "thumbnail": "https://i.ytimg.com/vi/looNrmdwVjo/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -297,7 +271,7 @@
     "thumbnail": "https://i.ytimg.com/vi/BWv85smVHGU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -323,7 +297,7 @@
     "thumbnail": "https://i.ytimg.com/vi/d6DJ1Nj_MbU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -349,7 +323,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1s8AzqqxIqQ/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -375,7 +349,7 @@
     "thumbnail": "https://i.ytimg.com/vi/5twSaestUco/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -401,7 +375,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ngae5Ael8lc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -427,7 +401,7 @@
     "thumbnail": "https://i.ytimg.com/vi/SBa13SHCpjQ/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -453,7 +427,7 @@
     "thumbnail": "https://i.ytimg.com/vi/YGuKPPd4pik/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-17T09:07:11.164Z",
+      "lastUpdated": "2025-09-16T07:46:38.483Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
