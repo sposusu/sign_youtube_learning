@@ -12,7 +12,7 @@
       "needsWhisperProcessing": true,
       "needsClassification": true,
       "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-19T17:52:19.788Z",
+      "whisperProcessedAt": "2025-09-19T17:39:22.389Z",
       "transcriptSegments": 556,
       "asrModel": "whisper"
     },
@@ -26,7 +26,7 @@
     "stats": {
       "transcriptSegments": 556,
       "signLanguageGroups": 10,
-      "hasSignLanguage": false
+      "hasSignLanguage": true
     }
   },
   {
