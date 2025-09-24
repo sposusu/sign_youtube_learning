@@ -1,5 +1,165 @@
 [
   {
+    "id": "1QU2xIGkrMY",
+    "title": "20250923 公視手語新聞 完整版｜上午本島脫離暴風圈 花東.恆春仍須防範風雨",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-23T05:50:10Z",
+    "thumbnail": "https://i.ytimg.com/vi/1QU2xIGkrMY/hqdefault.jpg",
+    "addedAt": "2025-09-23T07:00:03.634Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-09-23T07:03:01.292Z",
+      "transcriptSegments": 290,
+      "asrModel": "whisper"
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-09-23T15:04:49.671256",
+      "totalSegments": 290,
+      "signLanguageSegments": 70,
+      "coverage": 29.35361216730038
+    },
+    "stats": {
+      "transcriptSegments": 290,
+      "signLanguageGroups": 8,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "1NFhtMBuLQE",
+    "title": "20250922 公視手語新聞 完整版｜強颱樺加沙近逼 台東.屏東.高雄警戒",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-22T05:59:31Z",
+    "thumbnail": "https://i.ytimg.com/vi/1NFhtMBuLQE/hqdefault.jpg",
+    "addedAt": "2025-09-22T07:00:03.847Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-09-22T15:05:22.730597",
+      "totalSegments": 440,
+      "signLanguageSegments": 128,
+      "coverage": 29.504950495049503
+    },
+    "stats": {
+      "transcriptSegments": 440,
+      "signLanguageGroups": 11,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "YWvLC_aKNBw",
+    "title": "20250918 公視手語新聞 完整版｜米塔颱風今早8點形成 東部.南部雨勢明顯",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-18T01:52:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/YWvLC_aKNBw/hqdefault.jpg",
+    "addedAt": "2025-09-19T17:36:07.224Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-09-20T01:40:11.641969",
+      "totalSegments": 556,
+      "signLanguageSegments": 134,
+      "coverage": 28.561872909698998
+    },
+    "stats": {
+      "transcriptSegments": 556,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "p4vcGeyi8D0",
+    "title": "20250917 公視手語新聞 完整版｜三重滅門3死案 被告張泓毅一審判死刑",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-17T05:57:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/p4vcGeyi8D0/hqdefault.jpg",
+    "addedAt": "2025-09-17T09:07:09.163Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-09-17T17:17:19.907063",
+      "totalSegments": 459,
+      "signLanguageSegments": 116,
+      "coverage": 28.968792401628225
+    },
+    "stats": {
+      "transcriptSegments": 459,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "3e0sF-2mCN0",
+    "title": "20250916 公視手語新聞 完整版｜連結八里 淡水 淡江大橋今進行合龍儀式",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-16T01:45:32Z",
+    "thumbnail": "https://i.ytimg.com/vi/3e0sF-2mCN0/hqdefault.jpg",
+    "addedAt": "2025-09-16T07:46:36.481Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-09-16T15:51:07.483300",
+      "totalSegments": 494,
+      "signLanguageSegments": 124,
+      "coverage": 27.165841584158418
+    },
+    "stats": {
+      "transcriptSegments": 494,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "Vu9Lk7O3jLI",
+    "title": "20250915 公視手語新聞 完整版｜研究:極端高溫催人老 危害不輸抽菸喝酒",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-15T06:22:33Z",
+    "thumbnail": "https://i.ytimg.com/vi/Vu9Lk7O3jLI/hqdefault.jpg",
+    "addedAt": "2025-09-15T10:23:18.603Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-09-15T18:26:36.551847",
+      "totalSegments": 383,
+      "signLanguageSegments": 98,
+      "coverage": 28.617623282134197
+    },
+    "stats": {
+      "transcriptSegments": 383,
+      "signLanguageGroups": 7,
+      "hasSignLanguage": true
+    }
+  },
+  {
     "id": "PtSayplGV74",
     "title": "20250912 公視手語新聞 完整版｜興達火警燒出民眾怒火 昨天聚廠區外抗議",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,13 +167,10 @@
     "thumbnail": "https://i.ytimg.com/vi/PtSayplGV74/hqdefault.jpg",
     "addedAt": "2025-09-12T06:33:53.508Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-09-12T18:37:56.180Z",
-      "transcriptSegments": 609
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -36,7 +193,7 @@
     "thumbnail": "https://i.ytimg.com/vi/wn9j8a7BwXs/hqdefault.jpg",
     "addedAt": "2025-09-11T10:59:49.325Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -62,7 +219,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RFpflFvHRH8/hqdefault.jpg",
     "addedAt": "2025-09-10T19:44:57.060Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -88,7 +245,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZJAwKR6EOQI/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -114,7 +271,7 @@
     "thumbnail": "https://i.ytimg.com/vi/P4BDUWGhSAk/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -140,7 +297,7 @@
     "thumbnail": "https://i.ytimg.com/vi/i7MYN_AApBM/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -166,7 +323,7 @@
     "thumbnail": "https://i.ytimg.com/vi/hnovDfuVkuI/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -192,7 +349,7 @@
     "thumbnail": "https://i.ytimg.com/vi/looNrmdwVjo/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -218,7 +375,7 @@
     "thumbnail": "https://i.ytimg.com/vi/BWv85smVHGU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -244,7 +401,7 @@
     "thumbnail": "https://i.ytimg.com/vi/d6DJ1Nj_MbU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -270,7 +427,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1s8AzqqxIqQ/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -296,7 +453,7 @@
     "thumbnail": "https://i.ytimg.com/vi/5twSaestUco/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -322,7 +479,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ngae5Ael8lc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -348,7 +505,7 @@
     "thumbnail": "https://i.ytimg.com/vi/SBa13SHCpjQ/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -374,7 +531,7 @@
     "thumbnail": "https://i.ytimg.com/vi/YGuKPPd4pik/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-12T06:33:55.511Z",
+      "lastUpdated": "2025-09-23T07:00:05.638Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false

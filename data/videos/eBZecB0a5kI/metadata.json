@@ -1,0 +1,17 @@
+{
+  "id": "eBZecB0a5kI",
+  "title": "20250924 公視手語新聞 完整版｜樺加沙釀災14死 堰塞湖溢流重創花蓮光復",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-09-24T01:15:28Z",
+  "thumbnail": "https://i.ytimg.com/vi/eBZecB0a5kI/hqdefault.jpg",
+  "addedAt": "2025-09-24T07:00:03.891Z",
+  "processingStatus": {
+    "lastUpdated": "2025-09-24T07:00:05.894Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": false,
+    "processingError": "Command failed with code 1: WARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = eUnYQfULDfi1wFchY ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = NYKJ8xLEtZEmc1fjj ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = BuQ6Yym0y-J6j1TcH ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = 8G6WAykyoUKwJyNbH ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = Eoj8B3RqGyebA-yqh ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] eBZecB0a5kI: Requested format is not available. Use --list-formats for a list of available formats\n",
+    "errorAt": "2025-09-24T07:00:10.569Z"
+  }
+}
