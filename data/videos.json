@@ -1,5 +1,27 @@
 [
   {
+    "id": "d07DU3kO7g8",
+    "title": "20250925 公視手語新聞 完整版｜花蓮堰塞湖溢流14死32傷 6歲童小沂平安獲救",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-09-25T05:20:51Z",
+    "thumbnail": "https://i.ytimg.com/vi/d07DU3kO7g8/hqdefault.jpg",
+    "addedAt": "2025-09-25T07:00:04.025Z",
+    "processingStatus": {
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: WARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/377ca75b/player_ias.vflset/en_US/base.js\nWARNING: [youtube] d07DU3kO7g8: nsig extraction failed: Some formats may be missing\n         n = Np5OEzLU_hCmRM9J ; player = https://www.youtube.com/s/player/377ca75b/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] d07DU3kO7g8: nsig extraction failed: Some formats may be missing\n         n = CqpsY_Il_3CoIvvh ; player = https://www.youtube.com/s/player/377ca75b/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] d07DU3kO7g8: nsig extraction failed: Some formats may be missing\n         n = 1CP5dZu5GpHMsZXf ; player = https://www.youtube.com/s/player/377ca75b/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] d07DU3kO7g8: nsig extraction failed: Some formats may be missing\n         n = CmcWJOvlpbXUKZ0n ; player = https://www.youtube.com/s/player/377ca75b/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] d07DU3kO7g8: nsig extraction failed: Some formats may be missing\n         n = YRmni3sXCplgvXi_ ; player = https://www.youtube.com/s/player/377ca75b/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] d07DU3kO7g8: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] d07DU3kO7g8: Requested format is not available. Use --list-formats for a list of available formats\n",
+      "errorAt": "2025-09-25T07:00:10.686Z"
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
     "id": "eBZecB0a5kI",
     "title": "20250924 公視手語新聞 完整版｜樺加沙釀災14死 堰塞湖溢流重創花蓮光復",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,13 +29,10 @@
     "thumbnail": "https://i.ytimg.com/vi/eBZecB0a5kI/hqdefault.jpg",
     "addedAt": "2025-09-24T07:00:03.891Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: WARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = eUnYQfULDfi1wFchY ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = NYKJ8xLEtZEmc1fjj ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = BuQ6Yym0y-J6j1TcH ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = 8G6WAykyoUKwJyNbH ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: nsig extraction failed: Some formats may be missing\n         n = Eoj8B3RqGyebA-yqh ; player = https://www.youtube.com/s/player/2b83d2e0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] eBZecB0a5kI: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] eBZecB0a5kI: Requested format is not available. Use --list-formats for a list of available formats\n",
-      "errorAt": "2025-09-24T07:00:10.569Z"
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "stats": {
       "transcriptSegments": 0,
@@ -29,7 +48,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1QU2xIGkrMY/hqdefault.jpg",
     "addedAt": "2025-09-23T07:00:03.634Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -55,7 +74,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1NFhtMBuLQE/hqdefault.jpg",
     "addedAt": "2025-09-22T07:00:03.847Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -81,7 +100,7 @@
     "thumbnail": "https://i.ytimg.com/vi/YWvLC_aKNBw/hqdefault.jpg",
     "addedAt": "2025-09-19T17:36:07.224Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -107,7 +126,7 @@
     "thumbnail": "https://i.ytimg.com/vi/p4vcGeyi8D0/hqdefault.jpg",
     "addedAt": "2025-09-17T09:07:09.163Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -133,7 +152,7 @@
     "thumbnail": "https://i.ytimg.com/vi/3e0sF-2mCN0/hqdefault.jpg",
     "addedAt": "2025-09-16T07:46:36.481Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -159,7 +178,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Vu9Lk7O3jLI/hqdefault.jpg",
     "addedAt": "2025-09-15T10:23:18.603Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -185,7 +204,7 @@
     "thumbnail": "https://i.ytimg.com/vi/PtSayplGV74/hqdefault.jpg",
     "addedAt": "2025-09-12T06:33:53.508Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -211,7 +230,7 @@
     "thumbnail": "https://i.ytimg.com/vi/wn9j8a7BwXs/hqdefault.jpg",
     "addedAt": "2025-09-11T10:59:49.325Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -237,7 +256,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RFpflFvHRH8/hqdefault.jpg",
     "addedAt": "2025-09-10T19:44:57.060Z",
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -263,7 +282,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZJAwKR6EOQI/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -289,7 +308,7 @@
     "thumbnail": "https://i.ytimg.com/vi/P4BDUWGhSAk/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -315,7 +334,7 @@
     "thumbnail": "https://i.ytimg.com/vi/i7MYN_AApBM/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -341,7 +360,7 @@
     "thumbnail": "https://i.ytimg.com/vi/hnovDfuVkuI/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -367,7 +386,7 @@
     "thumbnail": "https://i.ytimg.com/vi/looNrmdwVjo/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -393,7 +412,7 @@
     "thumbnail": "https://i.ytimg.com/vi/BWv85smVHGU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -419,7 +438,7 @@
     "thumbnail": "https://i.ytimg.com/vi/d6DJ1Nj_MbU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -445,7 +464,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1s8AzqqxIqQ/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -471,7 +490,7 @@
     "thumbnail": "https://i.ytimg.com/vi/5twSaestUco/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -497,7 +516,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ngae5Ael8lc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -523,7 +542,7 @@
     "thumbnail": "https://i.ytimg.com/vi/SBa13SHCpjQ/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -549,7 +568,7 @@
     "thumbnail": "https://i.ytimg.com/vi/YGuKPPd4pik/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-09-24T07:00:05.894Z",
+      "lastUpdated": "2025-09-25T07:00:06.026Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
