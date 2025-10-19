@@ -1,1 +1,2366 @@
-[]
+[
+  {
+    "start": 0,
+    "duration": 11,
+    "text": "[音樂]",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 11,
+    "duration": 3,
+    "text": "看新聞 開視野",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 14,
+    "duration": 6,
+    "text": "歡迎收看今天9月26號的公視手語新聞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 20,
+    "duration": 2,
+    "text": "首先來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22,
+    "duration": 4,
+    "text": "花蓮 馬太安溪 燕瑟湖溢流災情",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 26,
+    "duration": 6,
+    "text": "根據中央災害應變中心統計的最新數字",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 32,
+    "duration": 4,
+    "text": "死亡14人 失聯14人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 36,
+    "duration": 6,
+    "text": "對於事發之初 是不是有收到警報簡訊",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 42,
+    "duration": 6,
+    "text": "在地的居民 有的說有 有的說沒有",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 48,
+    "duration": 4,
+    "text": "廣播有的聽到了 有的聽不到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 52,
+    "duration": 6,
+    "text": "馬太安溪 燕瑟湖截至25號上午為止",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 58,
+    "duration": 7,
+    "text": "監測數據 看溢流後蓄水量只剩下12%",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 65,
+    "duration": 5,
+    "text": "正評估 儘速重新安裝水位計",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 70,
+    "duration": 4,
+    "text": "以監控水位變化的情況",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 74,
+    "duration": 6,
+    "text": "工作人員在飛機上仔細觀察燕瑟湖的現況",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 80,
+    "duration": 2,
+    "text": "根據航遙測分數資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 82,
+    "duration": 4,
+    "text": "25號上午水位1026公尺 水位降低113公尺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 86,
+    "duration": 4,
+    "text": "湖面面積16公頃 蓄水量1100萬噸",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 90,
+    "duration": 2,
+    "text": "溢流後蓄水量僅剩12%",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 92,
+    "duration": 5,
+    "text": "黃線部分為原來燕瑟湖湖面範圍 紅線為目前範圍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 97,
+    "duration": 4,
+    "text": "因先前安裝的水位計已於23號燕瑟湖溢流時滅失",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 101,
+    "duration": 3,
+    "text": "花蓮分署正評估儘速重新安裝監控",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 104,
+    "duration": 4,
+    "text": "花蓮縣官員表示 目前中央沒有提供資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 108,
+    "duration": 3,
+    "text": "希望中央盡快針對罷題的狀況以及後續引流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 111,
+    "duration": 5,
+    "text": "重新避難疏散範圍 讓地方當局得以持續相關作業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 116,
+    "duration": 15,
+    "text": "泥沙、濁水衝進家裡 接到滿目瘡痍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 131,
+    "duration": 2,
+    "text": "災後重建辛苦了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 133,
+    "duration": 2,
+    "text": "對於當初到底有沒有收到通知",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 135,
+    "duration": 4,
+    "text": "當局的簡訊廣播所不達的警訊是否確切傳達",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 139,
+    "duration": 3,
+    "text": "還有居民的啟動跟反應更有不易",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 165,
+    "duration": 4,
+    "text": "你現在慢慢過來的 那我們走不用五分鐘就淹起來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 169,
+    "duration": 8,
+    "text": "一度下落不明的六歲女童小姨24號順利巡獲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 177,
+    "duration": 3,
+    "text": "家中兩名年長親人不幸罹難",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 180,
+    "duration": 3,
+    "text": "小姨的阿姨強調沒有收到撤離通知",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 183,
+    "duration": 7,
+    "text": "有災民控訴未有撤離通知 簡訊告警",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 190,
+    "duration": 4,
+    "text": "社群也有人自述是罹難者家屬 準備成立自救會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 194,
+    "duration": 3,
+    "text": "曾經檢方也分案 調查從監測到撤離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 197,
+    "duration": 3,
+    "text": "各個環節上是否有涉及人為疏失",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 200,
+    "duration": 2,
+    "text": "公視新聞綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 224,
+    "duration": 5,
+    "text": "警方徹底檢討 並且把相關資料提供給檢調",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 254,
+    "duration": 3,
+    "text": "以後的通報單 我們都有強烈建議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 257,
+    "duration": 5,
+    "text": "就是地方政府在應變中心趕快強制撤離 疏散",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 262,
+    "duration": 14,
+    "text": "至於有罹難者家屬表示 沒有聽到任何撤離通知",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 276,
+    "duration": 4,
+    "text": "消防署回應 收到現場回報 村裡廣播出問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 280,
+    "duration": 3,
+    "text": "有用CBS手機細胞簡訊發出去",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 283,
+    "duration": 2,
+    "text": "強調細胞簡訊的告警系統發出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 285,
+    "duration": 5,
+    "text": "在警戒區域範圍2個小時內 只要靠近 訊號就會出來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 290,
+    "duration": 7,
+    "text": "村裡廣播有點問題 所以警察派鎖警車出動的廣播",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 297,
+    "duration": 5,
+    "text": "跟消防分隊的消防車出動巡邏的廣播 不斷在進行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 302,
+    "duration": 4,
+    "text": "這個告警系統 很多人以為說一次發送出去就結束",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 306,
+    "duration": 4,
+    "text": "不是 如果他的危機或者是潛在的危險還在的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 310,
+    "duration": 4,
+    "text": "每兩個小時你只要靠近他那個相關的警戒範圍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 314,
+    "duration": 2,
+    "text": "他就會自動告訴你",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 316,
+    "duration": 3,
+    "text": "劉氏芳強調 中央跟地方雖然提前啟動預警跟撤離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 319,
+    "duration": 5,
+    "text": "但仍有十多條人命消失 而且都在評估強制撤離範圍內",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 324,
+    "duration": 4,
+    "text": "顯示撤離作為跟實際出現落差 不只會徹底檢討",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 328,
+    "duration": 4,
+    "text": "也會把撤離情況跟相關資料提供給檢調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 332,
+    "duration": 3,
+    "text": "公視新聞 歐陽許家瑞綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 336,
+    "duration": 4,
+    "text": "獨報時間來看到 中國時報是",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 340,
+    "duration": 5,
+    "text": "台北市公館圓環拆除施工作業",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 345,
+    "duration": 5,
+    "text": "原本預計要65天完工 進度超前",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 350,
+    "duration": 5,
+    "text": "僅花16天就完成整體工程",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 355,
+    "duration": 5,
+    "text": "台北市交通局表示 預計29日上午6點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 360,
+    "duration": 4,
+    "text": "就可以開放正交路口同車",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 365,
+    "duration": 3,
+    "text": "再來看自由時報的報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 368,
+    "duration": 4,
+    "text": "現年65歲的女性男子",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 372,
+    "duration": 5,
+    "text": "32年前捲入女大生性侵殺害案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 377,
+    "duration": 7,
+    "text": "一度判死 最後跟六審判刑20年入獄",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 384,
+    "duration": 5,
+    "text": "19年後假釋出監 他尋求翻案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 389,
+    "duration": 5,
+    "text": "高等法院依最新的DNA鑑定結果",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 394,
+    "duration": 4,
+    "text": "認定女性男子應該沒有犯案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 398,
+    "duration": 3,
+    "text": "昨天改判無罪",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 401,
+    "duration": 7,
+    "text": "聯合報提到了 台北地方法院審理",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 408,
+    "duration": 4,
+    "text": "民進黨工共諜案 昨天宣判",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 412,
+    "duration": 5,
+    "text": "時任副總統賴清德機要的吳尚宇",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 417,
+    "duration": 4,
+    "text": "任最後交保 判處四年徒刑",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 421,
+    "duration": 4,
+    "text": "其餘三名仍然羈押的被告",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 425,
+    "duration": 5,
+    "text": "分別被判六年兩個月到十年徒刑",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 430,
+    "duration": 3,
+    "text": "全案仍可上訴",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 433,
+    "duration": 4,
+    "text": "看完報紙重點繼續來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 437,
+    "duration": 6,
+    "text": "花蓮馬太安溪豔澀湖一流重創光復鄉",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 443,
+    "duration": 3,
+    "text": "昨天搜救第三天",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 446,
+    "duration": 5,
+    "text": "特搜人員持續以人力地毯式搜尋",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 451,
+    "duration": 3,
+    "text": "截至昨天晚上六點鐘",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 454,
+    "duration": 5,
+    "text": "台中特搜隊已經成功救出13人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 459,
+    "duration": 4,
+    "text": "不過也尋獲一具罹難者遺體",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 463,
+    "duration": 4,
+    "text": "另一邊 高雄特搜隊則是在擬令中",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 467,
+    "duration": 2,
+    "text": "救出一隻受困的小狗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 469,
+    "duration": 5,
+    "text": "災區同時也有善心團體來響應",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 474,
+    "duration": 5,
+    "text": "送衣物到教會為居民帶來溫暖",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 479,
+    "duration": 4,
+    "text": "我發現一名罹難者",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 483,
+    "duration": 3,
+    "text": "台中特搜隊人員徒手搬開樹枝與雜物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 486,
+    "duration": 3,
+    "text": "在下方找到一具男性遺體",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 489,
+    "duration": 2,
+    "text": "我走入272巷堤防邊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 491,
+    "duration": 3,
+    "text": "找到男性遺體一具",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 494,
+    "duration": 1,
+    "text": "年約六十幾歲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 495,
+    "duration": 4,
+    "text": "然後使用人力將其快速地拉出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 499,
+    "duration": 2,
+    "text": "配合屏東縣特種搜救隊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 501,
+    "duration": 6,
+    "text": "將其遺體及時代安裝交給警方處置",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 507,
+    "duration": 3,
+    "text": "初步判定這名罹難者年約六十多歲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 510,
+    "duration": 4,
+    "text": "隨後通報警方與家屬進行後續相驗事宜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 514,
+    "duration": 1,
+    "text": "截至二十五號晚間六點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 515,
+    "duration": 3,
+    "text": "台中特搜隊已成功救援13人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 518,
+    "duration": 2,
+    "text": "快出來 一定就會出來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 520,
+    "duration": 1,
+    "text": "另一個救援現場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 521,
+    "duration": 2,
+    "text": "高雄特搜隊尋聲搜尋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 523,
+    "duration": 2,
+    "text": "發現一隻受困泥沼的小狗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 525,
+    "duration": 2,
+    "text": "頭部已被水淹到下顎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 527,
+    "duration": 1,
+    "text": "情況危急",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 528,
+    "duration": 2,
+    "text": "搜救人員徒手挖掘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 530,
+    "duration": 3,
+    "text": "耗費半小時才將牠救出",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 533,
+    "duration": 1,
+    "text": "沿著聲音去找到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 534,
+    "duration": 2,
+    "text": "結果是一隻小狗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 536,
+    "duration": 2,
+    "text": "牠是受困在泥沼裡面",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 538,
+    "duration": 2,
+    "text": "發現牠的時候水已經蓋到這邊了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 540,
+    "duration": 1,
+    "text": "可能在沒多久",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 541,
+    "duration": 2,
+    "text": "水如果在上海就會把牠給淹沒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 543,
+    "duration": 3,
+    "text": "大概花了三四十分鐘的時間",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 546,
+    "duration": 1,
+    "text": "用徒手下去挖掘的方式",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 547,
+    "duration": 2,
+    "text": "然後把牠救出來",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 549,
+    "duration": 1,
+    "text": "高雄特搜隊表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 550,
+    "duration": 3,
+    "text": "脫困瞬間毛孩渾身濕泥已經奄奄一息",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 553,
+    "duration": 4,
+    "text": "所幸這次有隨行獸醫師趕赴花蓮支援",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 557,
+    "duration": 2,
+    "text": "在隊員將小狗洗淨後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 559,
+    "duration": 2,
+    "text": "獸醫師施打抗生素與緊急治療",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 561,
+    "duration": 2,
+    "text": "穩住生命真相",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 563,
+    "duration": 4,
+    "text": "民眾前來領取換洗衣物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 567,
+    "duration": 1,
+    "text": "馬太安長老教會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 568,
+    "duration": 3,
+    "text": "有善心團體提供衣服給災民",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 571,
+    "duration": 2,
+    "text": "搜救與送暖同時進行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 573,
+    "duration": 1,
+    "text": "救人 救狗 送物資",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 574,
+    "duration": 2,
+    "text": "都是為了幫助受災者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 576,
+    "duration": 2,
+    "text": "盡快恢復正常生活",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 578,
+    "duration": 1,
+    "text": "公視新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 579,
+    "duration": 1,
+    "text": "邱子培 王周庭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 580,
+    "duration": 2,
+    "text": "政委人 鍾捷剛 綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 582,
+    "duration": 3,
+    "text": "總統賴清德",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 585,
+    "duration": 3,
+    "text": "昨天趕往光復鄉看災",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 588,
+    "duration": 2,
+    "text": "花蓮縣長徐貞慧",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 590,
+    "duration": 4,
+    "text": "因為有救災會議和記者會",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 594,
+    "duration": 2,
+    "text": "並沒有同行",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 596,
+    "duration": 2,
+    "text": "賴總統致電徐貞慧",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 598,
+    "duration": 5,
+    "text": "強調中央負責大力支持救災",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 603,
+    "duration": 3,
+    "text": "安置在飯店旅館的費用",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 606,
+    "duration": 2,
+    "text": "由政府支付",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 608,
+    "duration": 3,
+    "text": "總統也到光復鄉教會",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 611,
+    "duration": 3,
+    "text": "視察災民安置的情況",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 614,
+    "duration": 3,
+    "text": "現場已經有醫生進駐",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 617,
+    "duration": 3,
+    "text": "並且提供熱水讓嬰幼兒洗澡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 620,
+    "duration": 4,
+    "text": "小朋友一泡到溫水水盆裡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 624,
+    "duration": 1,
+    "text": "笑得好開心",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 625,
+    "duration": 1,
+    "text": "畢竟災區環境不佳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 626,
+    "duration": 3,
+    "text": "已經足足兩天沒洗澡了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 629,
+    "duration": 2,
+    "text": "比之前還要開心",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 631,
+    "duration": 1,
+    "text": "比較不好睡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 632,
+    "duration": 1,
+    "text": "對 就瑟瑟星星",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 633,
+    "duration": 2,
+    "text": "毛巾 嬰兒沐浴乳還有尿布",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 635,
+    "duration": 1,
+    "text": "統統都有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 636,
+    "duration": 2,
+    "text": "為在花蓮光復鄉教會的安置所",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 638,
+    "duration": 1,
+    "text": "除了幫忙燒熱水",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 639,
+    "duration": 3,
+    "text": "又先提供給6歲以下嬰幼兒洗澡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 642,
+    "duration": 2,
+    "text": "禮拜堂內更有醫療團隊進駐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 644,
+    "duration": 1,
+    "text": "幫忙看診",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 645,
+    "duration": 2,
+    "text": "除了一位醫師 一位藥劑師",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 647,
+    "duration": 1,
+    "text": "還有三到四位護理師",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 648,
+    "duration": 2,
+    "text": "當中更有人自己",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 650,
+    "duration": 1,
+    "text": "就是光復鄉的受災戶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 651,
+    "duration": 2,
+    "text": "在發生事情的當下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 653,
+    "duration": 2,
+    "text": "自己也還在上班",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 655,
+    "duration": 2,
+    "text": "很想當下就是跟主管說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 657,
+    "duration": 2,
+    "text": "不好意思 我真的想回家一趟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 659,
+    "duration": 2,
+    "text": "是非常害怕",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 661,
+    "duration": 3,
+    "text": "因為光復幾乎都是長輩跟小小孩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 664,
+    "duration": 2,
+    "text": "我想用我的專業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 666,
+    "duration": 3,
+    "text": "然後盡一點心力照顧他們",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 669,
+    "duration": 3,
+    "text": "然後大家一起修復這個家園",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 672,
+    "duration": 2,
+    "text": "昨天就進駐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 674,
+    "duration": 4,
+    "text": "那知道他們很多是因為長者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 678,
+    "duration": 2,
+    "text": "有拿慢性病處方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 680,
+    "duration": 3,
+    "text": "有一些被逃難的過程裡面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 683,
+    "duration": 3,
+    "text": "傷到的傷口我們就做處理",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 686,
+    "duration": 4,
+    "text": "現在也在遭遇這些心理諮商",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 690,
+    "duration": 2,
+    "text": "跟精神科醫療的團隊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 692,
+    "duration": 3,
+    "text": "而總統25號也趕赴花蓮前進指揮所",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 695,
+    "duration": 1,
+    "text": "聽取救災報告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 696,
+    "duration": 2,
+    "text": "不過由於花蓮縣長徐貞蔚",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 698,
+    "duration": 2,
+    "text": "仍在召開縣府的救災會議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 700,
+    "duration": 1,
+    "text": "因此無法到場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 701,
+    "duration": 2,
+    "text": "來總統當場致電喊話加油喔",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 703,
+    "duration": 3,
+    "text": "強調中央會大力支持救災",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 706,
+    "duration": 2,
+    "text": "馬太安縣澀湖一流第三天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 708,
+    "duration": 2,
+    "text": "總統賴清德除了視察災區之外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 710,
+    "duration": 2,
+    "text": "也來到馬太安長老教會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 712,
+    "duration": 1,
+    "text": "要看看民眾安置的情況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 713,
+    "duration": 2,
+    "text": "更帶來好消息",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 715,
+    "duration": 2,
+    "text": "我有要求國防部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 717,
+    "duration": 3,
+    "text": "國防部顧立雄部長也支持",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 720,
+    "duration": 2,
+    "text": "只要民眾願意",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 722,
+    "duration": 4,
+    "text": "國軍可以進入屋內協助大家",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 726,
+    "duration": 3,
+    "text": "安理大建的家具",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 729,
+    "duration": 2,
+    "text": "也可以做清理的工作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 731,
+    "duration": 3,
+    "text": "如果住在這裡的父老鄉親",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 734,
+    "duration": 3,
+    "text": "認為這邊不方便生活不方便",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 737,
+    "duration": 4,
+    "text": "那你們可以去找民宿",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 741,
+    "duration": 3,
+    "text": "找旅館去住在那裡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 744,
+    "duration": 2,
+    "text": "錢由中央來付",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 746,
+    "duration": 2,
+    "text": "喊話救災視同作戰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 748,
+    "duration": 2,
+    "text": "除了要加速恢復災民的家園",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 750,
+    "duration": 2,
+    "text": "期間的等待與安置",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 752,
+    "duration": 1,
+    "text": "賴總統更多次強調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 753,
+    "duration": 2,
+    "text": "中央會負起責任",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 755,
+    "duration": 1,
+    "text": "國人新聞女軍張明如",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 756,
+    "duration": 1,
+    "text": "花蓮採訪報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 757,
+    "duration": 4,
+    "text": "立法院長韓國瑜",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 761,
+    "duration": 5,
+    "text": "率隊共12名跨黨派立委訪問日本",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 766,
+    "duration": 3,
+    "text": "第一站他們前往自民黨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 769,
+    "duration": 3,
+    "text": "拜會最高顧問麻生太郎",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 772,
+    "duration": 5,
+    "text": "麻生致辭時向花蓮災民表達關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 777,
+    "duration": 4,
+    "text": "並說台灣是共享價值的國家",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 781,
+    "duration": 2,
+    "text": "不論新黨魁是誰",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 783,
+    "duration": 3,
+    "text": "都不會改變友好關係",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 786,
+    "duration": 4,
+    "text": "另外日華議員懇談會",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 790,
+    "duration": 5,
+    "text": "也有超過60名國會議員出面迎接",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 795,
+    "duration": 4,
+    "text": "會長也稱今年雙十節",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 799,
+    "duration": 4,
+    "text": "將組成世界最大的使節團",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 803,
+    "duration": 2,
+    "text": "前往台灣",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 811,
+    "duration": 2,
+    "text": "親切握手還宣立法院長韓國瑜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 813,
+    "duration": 2,
+    "text": "率領跨黨派立委訪問日本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 815,
+    "duration": 2,
+    "text": "第一站來到自民黨本部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 817,
+    "duration": 2,
+    "text": "拜會最高顧問麻生太郎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 819,
+    "duration": 9,
+    "text": "一開場麻生就先向花蓮災民表達慰問",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 828,
+    "duration": 3,
+    "text": "接著他強調台日共享普世價值",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 831,
+    "duration": 2,
+    "text": "不論接下來誰當選新任黨魁",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 833,
+    "duration": 2,
+    "text": "都不會改變台日友好關係",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 841,
+    "duration": 2,
+    "text": "韓國瑜率領立法院訪問團抵達日本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 843,
+    "duration": 2,
+    "text": "立刻前往自民黨總部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 845,
+    "duration": 2,
+    "text": "拜會最高顧問麻生太郎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 847,
+    "duration": 2,
+    "text": "接著又馬不停提到國會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 849,
+    "duration": 2,
+    "text": "拜會日華議員懇談會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 851,
+    "duration": 2,
+    "text": "受到熱烈歡迎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 853,
+    "duration": 13,
+    "text": "會談結束後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 866,
+    "duration": 1,
+    "text": "立委們直奔國會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 867,
+    "duration": 2,
+    "text": "和最大跨黨派議員團體",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 869,
+    "duration": 2,
+    "text": "懇談會參序",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 871,
+    "duration": 1,
+    "text": "日方誠意十足",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 872,
+    "duration": 2,
+    "text": "共68名議員出席",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 874,
+    "duration": 2,
+    "text": "連前陣子在參議院選舉中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 876,
+    "duration": 1,
+    "text": "被稱為黑馬的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 877,
+    "duration": 2,
+    "text": "參政黨代表沈古宗弼也現身",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 879,
+    "duration": 2,
+    "text": "而會長古屋歸斯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 881,
+    "duration": 1,
+    "text": "則拿出請託書",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 882,
+    "duration": 1,
+    "text": "親手交給韓國瑜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 883,
+    "duration": 2,
+    "text": "希望台灣能盡快全面解除",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 885,
+    "duration": 2,
+    "text": "日本食品進口限制",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 887,
+    "duration": 2,
+    "text": "並且透露雙十節將率團訪問台灣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 899,
+    "duration": 2,
+    "text": "過去將近70年來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 901,
+    "duration": 1,
+    "text": "日華懇談會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 902,
+    "duration": 3,
+    "text": "一直是最好的平台的橋樑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 905,
+    "duration": 2,
+    "text": "讓中華人民的立法院",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 907,
+    "duration": 2,
+    "text": "各界跟日華懇談會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 909,
+    "duration": 2,
+    "text": "都有很深入各方面的交流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 911,
+    "duration": 2,
+    "text": "這一點我們至上最高的開心",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 929,
+    "duration": 2,
+    "text": "以傑安特品牌",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 931,
+    "duration": 3,
+    "text": "聞名全球的巨大集團",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 934,
+    "duration": 3,
+    "text": "捲入國際貿易危機",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 937,
+    "duration": 3,
+    "text": "美國海關暨邊境保護局",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 940,
+    "duration": 4,
+    "text": "認為巨大涉及強迫勞動",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 944,
+    "duration": 3,
+    "text": "因此發布戰扣令",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 947,
+    "duration": 4,
+    "text": "禁止台廠產品銷往美國",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 951,
+    "duration": 3,
+    "text": "巨大集團緊急澄清",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 954,
+    "duration": 2,
+    "text": "對任何形式的強迫勞動",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 956,
+    "duration": 3,
+    "text": "採取零容忍政策",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 959,
+    "duration": 3,
+    "text": "將積極展開申訴程序",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 962,
+    "duration": 2,
+    "text": "經濟部長龔明星表示",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 964,
+    "duration": 4,
+    "text": "將會協助業者與美方溝通",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 968,
+    "duration": 7,
+    "text": "受到美國對等關稅衝擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 975,
+    "duration": 2,
+    "text": "自行車大廠巨大集團",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 977,
+    "duration": 2,
+    "text": "9月初才自嘲使監困產業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 979,
+    "duration": 2,
+    "text": "如今卻面臨更大危機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 981,
+    "duration": 2,
+    "text": "美國海關暨邊境保護局CPP",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 983,
+    "duration": 3,
+    "text": "24日針對集團旗下自行車與零組件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 986,
+    "duration": 2,
+    "text": "發布戰扣令",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 988,
+    "duration": 2,
+    "text": "禁止相關產品進口美國市場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1012,
+    "duration": 1,
+    "text": "巨大集團喊冤表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1013,
+    "duration": 2,
+    "text": "目前已經與美國當地律師聯繫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1015,
+    "duration": 2,
+    "text": "並會儘速提出申訴",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1017,
+    "duration": 2,
+    "text": "爭取撤銷戰扣令",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1019,
+    "duration": 1,
+    "text": "而目前影響範圍是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1020,
+    "duration": 2,
+    "text": "台灣製造廠數往美國產品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1022,
+    "duration": 3,
+    "text": "初步影響合併營收約4%至5%",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1025,
+    "duration": 2,
+    "text": "而根據CPP公佈資訊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1027,
+    "duration": 2,
+    "text": "目前美國當局懷疑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1029,
+    "duration": 2,
+    "text": "巨大台灣廠涉及強迫勞動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1031,
+    "duration": 2,
+    "text": "並且依據國際勞工組織的框架",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1033,
+    "duration": 2,
+    "text": "確認5項強迫勞動指標",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1035,
+    "duration": 1,
+    "text": "包含濫用弱勢處境",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1036,
+    "duration": 2,
+    "text": "可可的工作與生活條件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1038,
+    "duration": 3,
+    "text": "債務束縛、口流工資與超時工作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1041,
+    "duration": 2,
+    "text": "有強迫勞動的禁止",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1043,
+    "duration": 2,
+    "text": "它是全世界接染的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1045,
+    "duration": 2,
+    "text": "你只要不去威脅到它",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1047,
+    "duration": 2,
+    "text": "跟它講你如果今天不加班的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1049,
+    "duration": 2,
+    "text": "明天你開始就不用來了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1051,
+    "duration": 3,
+    "text": "那其實這個就已經該當這個強迫勞動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1054,
+    "duration": 2,
+    "text": "目前巨大和經濟部貿易處取得聯繫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1056,
+    "duration": 2,
+    "text": "經濟部將會代為聯繫美方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1058,
+    "duration": 1,
+    "text": "盡量協助企業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1059,
+    "duration": 2,
+    "text": "而勞動部則表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1061,
+    "duration": 2,
+    "text": "會協同地方政府入場實地瞭解",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1063,
+    "duration": 3,
+    "text": "並積極協助提出改善方案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1071,
+    "duration": 2,
+    "text": "勞動疑似超時工作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1073,
+    "duration": 3,
+    "text": "驅逐環境、扣薪等強迫勞動議題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1076,
+    "duration": 2,
+    "text": "進行入場指導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1078,
+    "duration": 1,
+    "text": "巨大股價25日開盤",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1079,
+    "duration": 1,
+    "text": "跳紅大跌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1080,
+    "duration": 2,
+    "text": "盤中最低觸及91.5元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1082,
+    "duration": 2,
+    "text": "跌幅將近9%",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1084,
+    "duration": 2,
+    "text": "收盤緩募拉回99.9元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1086,
+    "duration": 1,
+    "text": "跌破百元大關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1087,
+    "duration": 1,
+    "text": "根據勞團推測",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1088,
+    "duration": 2,
+    "text": "巨大應該是遭到檢舉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1090,
+    "duration": 2,
+    "text": "項目多與義工有關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1092,
+    "duration": 2,
+    "text": "與政府積極跟進國際立法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1094,
+    "duration": 3,
+    "text": "更新企業與人權國家行動計畫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1097,
+    "duration": 4,
+    "text": "公司宣傳網站謝謝您 台北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1127,
+    "duration": 8,
+    "text": "餵服部健保會24號召開總額協商會議",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1135,
+    "duration": 3,
+    "text": "自上午到晚間近12小時馬拉松式討論",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1138,
+    "duration": 2,
+    "text": "付費者與一屆代表",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1140,
+    "duration": 2,
+    "text": "出現史上第一次完全共識",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1142,
+    "duration": 2,
+    "text": "115年健保總額成長率",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1144,
+    "duration": 2,
+    "text": "採高推估5.5%通過",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1146,
+    "duration": 2,
+    "text": "金額逼近1兆元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1148,
+    "duration": 2,
+    "text": "是由總額協商制度23年以來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1150,
+    "duration": 3,
+    "text": "付費者與一屆代表首次達成共識",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1153,
+    "duration": 1,
+    "text": "完成協商",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1154,
+    "duration": 3,
+    "text": "秉除過去以成本思維的考量",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1157,
+    "duration": 3,
+    "text": "醫療能夠扭轉目前的劣勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1160,
+    "duration": 3,
+    "text": "往好的方向前進的一個重要的里程",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1163,
+    "duration": 2,
+    "text": "餵服部長石重良表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1165,
+    "duration": 2,
+    "text": "115年健保總額預估",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1167,
+    "duration": 2,
+    "text": "比今年增加近600億元預算",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1169,
+    "duration": 3,
+    "text": "將特別針對兩大重點方向推動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1172,
+    "duration": 2,
+    "text": "包括強化護理人力流任與改善條件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1174,
+    "duration": 2,
+    "text": "以及因應少子化",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1176,
+    "duration": 2,
+    "text": "針對零到六歲兒童相關醫療",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1178,
+    "duration": 3,
+    "text": "給付點值優先保障達到一點億元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1181,
+    "duration": 1,
+    "text": "避免兒科服務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1182,
+    "duration": 3,
+    "text": "因為少子化萎縮 重新盤整財務後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1185,
+    "duration": 3,
+    "text": "也確認不會因為支出增加調漲保費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1188,
+    "duration": 3,
+    "text": "那麼到明年以5.5%成長率的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1191,
+    "duration": 5,
+    "text": "預估也還會有近兩個月的安全準備金",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1196,
+    "duration": 4,
+    "text": "所以可以確定的是明年不會調漲保費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1200,
+    "duration": 2,
+    "text": "護理師公會全聯會呼籲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1202,
+    "duration": 2,
+    "text": "關鍵將是合理擠布與無縫銜接",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1204,
+    "duration": 3,
+    "text": "提出合理調整居家護理訪視費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1207,
+    "duration": 2,
+    "text": "建立醫療到社區的無縫銜接機制",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1209,
+    "duration": 4,
+    "text": "以及擴大護理人力政策覆蓋三大訴求",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1213,
+    "duration": 15,
+    "text": "不過罕見疾病基金會則發出聲明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1228,
+    "duration": 3,
+    "text": "認為總額協商的罕要專款預算大幅不足",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1231,
+    "duration": 2,
+    "text": "希望政府加強支持",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1233,
+    "duration": 2,
+    "text": "而醫改會則呼籲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1235,
+    "duration": 1,
+    "text": "應將協商過程公開",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1236,
+    "duration": 3,
+    "text": "確保未來每一分錢都花在刀口上",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1239,
+    "duration": 2,
+    "text": "公視新聞記者綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1266,
+    "duration": 3,
+    "text": "華基拉醫院前的薩姆森路塌陷得非常嚴重",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1269,
+    "duration": 2,
+    "text": "管線破裂 水電中斷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1271,
+    "duration": 3,
+    "text": "中間有輛車子又後輪還懸空",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1274,
+    "duration": 3,
+    "text": "塌陷區域位於正在施工的地鐵站上方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1277,
+    "duration": 2,
+    "text": "是否因此造成馬路塌陷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1279,
+    "duration": 1,
+    "text": "當局調查中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1280,
+    "duration": 3,
+    "text": "當局已緊急撤離周邊居民並封鎖現場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1296,
+    "duration": 2,
+    "text": "一位在附近的上班族表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1298,
+    "duration": 1,
+    "text": "先是聽到巨響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1299,
+    "duration": 3,
+    "text": "出來看到四線道馬路全部塌陷 極為震驚",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1302,
+    "duration": 2,
+    "text": "這是由泰國大眾捷運管理局",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1304,
+    "duration": 3,
+    "text": "施工中的曼谷地鐵隧道及相關結構",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1307,
+    "duration": 4,
+    "text": "華基拉醫院為泰國頂尖醫學大學的教學醫院",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1311,
+    "duration": 2,
+    "text": "發生塌陷後暫停門診兩天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1313,
+    "duration": 2,
+    "text": "住院病人不受影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1326,
+    "duration": 20,
+    "text": "根據最新天氣預報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1346,
+    "duration": 3,
+    "text": "曼谷預計在週日28號跟週一29號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1349,
+    "duration": 1,
+    "text": "會有間歇性降雨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1350,
+    "duration": 4,
+    "text": "當局也要求捷運局必須加快封閉隧道作業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1354,
+    "duration": 2,
+    "text": "以防止土壤進一步滑落",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1356,
+    "duration": 3,
+    "text": "曼谷市府已經評估塌陷範圍周邊建築",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1359,
+    "duration": 2,
+    "text": "華基拉醫院應是高樓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1361,
+    "duration": 2,
+    "text": "而且下方有混凝土緩衝層",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1363,
+    "duration": 2,
+    "text": "因此在安全範圍內",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1365,
+    "duration": 28,
+    "text": "故事新聞黃瑞倫編譯",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1395,
+    "duration": 10,
+    "text": "氣溫方面普遍高溫落在32到35度間",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1405,
+    "duration": 5,
+    "text": "接著提供您各地的氣象資料",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1425,
+    "duration": 27,
+    "text": "感謝您收看這一節公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1452,
+    "duration": 2,
+    "text": "我是王小舒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1454,
+    "duration": 3,
+    "text": "下週一同一時間再會",
+    "hasSignLanguage": false
+  }
+]

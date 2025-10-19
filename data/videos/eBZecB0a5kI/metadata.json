@@ -6,9 +6,16 @@
   "thumbnail": "https://i.ytimg.com/vi/eBZecB0a5kI/hqdefault.jpg",
   "addedAt": "2025-09-24T07:00:03.891Z",
   "processingStatus": {
-    "lastUpdated": "2025-09-26T07:00:05.997Z",
+    "lastUpdated": "2025-10-17T07:00:06.637Z",
     "isNew": false,
     "needsWhisperProcessing": false,
     "needsClassification": false
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-10-19T23:29:06.589457",
+    "totalSegments": 492,
+    "signLanguageSegments": 100,
+    "coverage": 24.304267161410017
   }
 }

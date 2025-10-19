@@ -1,0 +1,3800 @@
+[
+  {
+    "start": 0,
+    "duration": 11.38,
+    "text": "[音樂]",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 11.38,
+    "duration": 1.8599999999999994,
+    "text": "看新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 13.24,
+    "duration": 1.0399999999999991,
+    "text": "台視野",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 14.28,
+    "duration": 1.200000000000001,
+    "text": "歡迎收看今天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 15.48,
+    "duration": 4,
+    "text": "9月29號的公視手語新聞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 19.48,
+    "duration": 1.6400000000000006,
+    "text": "首先來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 21.12,
+    "duration": 3.6400000000000006,
+    "text": "花蓮光復鄉受到洪災",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 24.76,
+    "duration": 4.539999999999999,
+    "text": "滾滾泥水淹入了道路還有房屋",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 29.3,
+    "duration": 2.84,
+    "text": "至今仍有7人失聯",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 32.14,
+    "duration": 3.299999999999997,
+    "text": "特搜隊現在針對重點區域",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 35.44,
+    "duration": 4.900000000000006,
+    "text": "包括了佛祖街和下游處持續開挖",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 40.34,
+    "duration": 2.1399999999999935,
+    "text": "不過昨天中午",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 42.48,
+    "duration": 2.260000000000005,
+    "text": "當地一度謠傳",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 44.74,
+    "duration": 1.8999999999999986,
+    "text": "雁色湖再度溢流",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 46.64,
+    "duration": 2.6400000000000006,
+    "text": "讓現場一片混亂",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 49.28,
+    "duration": 4.18,
+    "text": "行政府也趕緊公佈撤離警報",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 53.46,
+    "duration": 2.4399999999999977,
+    "text": "是短明5秒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 55.9,
+    "duration": 1.3599999999999994,
+    "text": "停5秒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 57.26,
+    "duration": 2.0600000000000023,
+    "text": "重複9次",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 59.32,
+    "duration": 3.4399999999999977,
+    "text": "避免民眾再度恐慌",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 62.76,
+    "duration": 5.440000000000005,
+    "text": "街上志工倉促逃離",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 68.2,
+    "duration": 1.9399999999999977,
+    "text": "救災車輛也急著撤退",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 70.14,
+    "duration": 1.2999999999999972,
+    "text": "因為28號中午",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 71.44,
+    "duration": 2.4399999999999977,
+    "text": "一度謠傳雁色湖再度溢流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 73.88,
+    "duration": 0.7600000000000051,
+    "text": "很緊張啊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 74.64,
+    "duration": 1.0400000000000063,
+    "text": "因為全部人都一直衝啊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 75.68,
+    "duration": 1.6999999999999886,
+    "text": "連送進去都往外衝啊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 77.38,
+    "duration": 1.460000000000008,
+    "text": "沒辦法擋得下來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 78.84,
+    "duration": 1.6400000000000006,
+    "text": "現階段一直在潮流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 80.48,
+    "duration": 2.5,
+    "text": "那現階段有一些溢流出來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 82.98,
+    "duration": 1.2000000000000028,
+    "text": "上面溢流出來的部分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 84.18,
+    "duration": 1.539999999999992,
+    "text": "應該是不會有大風險的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 85.72,
+    "duration": 2.239999999999995,
+    "text": "水利署乾淨闢謠是引流失敗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 87.96,
+    "duration": 2.1000000000000085,
+    "text": "導致部分水流進市區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 90.06,
+    "duration": 2.5600000000000023,
+    "text": "目前當地仍維持紅色警戒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 92.62,
+    "duration": 1.7399999999999949,
+    "text": "一旦需要緊急撤離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 94.36,
+    "duration": 2.239999999999995,
+    "text": "正確的警報聲會這樣響起",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 96.6,
+    "duration": 8.5,
+    "text": "短明5秒停5秒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 105.1,
+    "duration": 1.440000000000012,
+    "text": "共循環9次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 106.54,
+    "duration": 0.9599999999999937,
+    "text": "聽到警報的人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 107.5,
+    "duration": 2.680000000000007,
+    "text": "要立刻前往高處或二樓避難",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 110.18,
+    "duration": 2.0999999999999943,
+    "text": "而目前仍有7人失聯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 112.28,
+    "duration": 2.799999999999997,
+    "text": "特搜人員針對熱點佛祖街開挖",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 115.08,
+    "duration": 1.1400000000000006,
+    "text": "並且在下游處",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 116.22,
+    "duration": 2.200000000000003,
+    "text": "分成六個地方同步搜索",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 118.42,
+    "duration": 20.42,
+    "text": "各地特搜隊紛紛馳援送暖",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 138.84,
+    "duration": 1.6999999999999886,
+    "text": "臺北市搜救隊表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 140.54,
+    "duration": 1.5,
+    "text": "當地環境惡劣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 142.04,
+    "duration": 1.4399999999999977,
+    "text": "沒有鋪門器材",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 143.48,
+    "duration": 2.3000000000000114,
+    "text": "只能土法煉鋼從現場走",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 145.78,
+    "duration": 2.6399999999999864,
+    "text": "也幫助十六位民眾順利脫困",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 148.42,
+    "duration": 24.24000000000001,
+    "text": "今天週一也是連假結束日",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 172.66,
+    "duration": 2.740000000000009,
+    "text": "由於可能會有大量職工回程返家",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 175.4,
+    "duration": 1.8599999999999852,
+    "text": "交通部將匯同花蓮縣府",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 177.26,
+    "duration": 1.5,
+    "text": "運理交通管制",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 178.76,
+    "duration": 1.8799999999999955,
+    "text": "並評估火車加掛車廂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 180.64,
+    "duration": 2.0200000000000102,
+    "text": "或增加班次的可能性",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 182.66,
+    "duration": 2.9399999999999977,
+    "text": "避免當地混亂影響到救災工作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 185.6,
+    "duration": 1.5999999999999943,
+    "text": "公視新聞綜合報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 187.2,
+    "duration": 4.0400000000000205,
+    "text": "趁著教師節連假",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 191.24,
+    "duration": 2.5,
+    "text": "許多熱心的鏟子超人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 193.74,
+    "duration": 2.1799999999999784,
+    "text": "前進花蓮光復",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 195.92,
+    "duration": 2.7600000000000193,
+    "text": "協助災後復原",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 198.68,
+    "duration": 3.1399999999999864,
+    "text": "而中央也設了調度站",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 201.82,
+    "duration": 2.9399999999999977,
+    "text": "不過人力以及資源分配",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 204.76,
+    "duration": 2.960000000000008,
+    "text": "都是一大挑戰",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 207.72,
+    "duration": 2.3400000000000034,
+    "text": "連假只剩下今天",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 210.06,
+    "duration": 2.8400000000000034,
+    "text": "面對志工陸續離開",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 212.9,
+    "duration": 3.460000000000008,
+    "text": "總統賴清德下令增派國軍",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 216.36,
+    "duration": 4.039999999999992,
+    "text": "力拼中秋假期前能夠完成勤餘",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 220.4,
+    "duration": 7.1200000000000045,
+    "text": "人手一支刮刀協助災民清理",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 227.52,
+    "duration": 3.0999999999999943,
+    "text": "從國軍到志工都集結投入救災",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 230.62,
+    "duration": 1.6999999999999886,
+    "text": "工廂的敦厚路災情嚴重",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 232.32,
+    "duration": 1,
+    "text": "災民等了好幾天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 233.32,
+    "duration": 1.460000000000008,
+    "text": "終於迎來人力進駐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 234.78,
+    "duration": 1.4799999999999898,
+    "text": "連外首都來了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 236.26,
+    "duration": 1.200000000000017,
+    "text": "不過在住家外頭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 237.46,
+    "duration": 2,
+    "text": "依舊堆滿泥沙與廢棄物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 239.46,
+    "duration": 2.1999999999999886,
+    "text": "別的地方都差不多了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 241.66,
+    "duration": 3,
+    "text": "我們這邊到現在已經第四天了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 244.66,
+    "duration": 1.3000000000000114,
+    "text": "到現在一直堆",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 245.96,
+    "duration": 2.4000000000000057,
+    "text": "我們怕衛生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 248.36,
+    "duration": 3.3799999999999955,
+    "text": "我們這兩三天的便當",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 251.74,
+    "duration": 3.3999999999999773,
+    "text": "都沒有人那個",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 255.14,
+    "duration": 1.259999999999991,
+    "text": "什麼要去領",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 256.4,
+    "duration": 0.6400000000000432,
+    "text": "要去那邊領",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 257.04,
+    "duration": 2.5,
+    "text": "問題是我們連代步的工具都沒有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 259.54,
+    "duration": 2.1399999999999864,
+    "text": "就是飯糰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 261.68,
+    "duration": 2.259999999999991,
+    "text": "那個什麼麵包就這樣裹附箱",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 263.94,
+    "duration": 1.9399999999999977,
+    "text": "花蓮光附箱災後第六天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 265.88,
+    "duration": 3.1000000000000227,
+    "text": "災民的清掃與飲食依舊有難題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 268.98,
+    "duration": 2.1999999999999886,
+    "text": "外縣市民眾則趁連續假期",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 271.18,
+    "duration": 1.6800000000000068,
+    "text": "到場盡一份力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 272.86,
+    "duration": 2.3999999999999773,
+    "text": "我們現在有幾個部落反映就是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 275.26,
+    "duration": 3.1399999999999864,
+    "text": "我們協助的志工有點偏少",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 278.4,
+    "duration": 3.1000000000000227,
+    "text": "他們的清理速度比較慢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 281.5,
+    "duration": 2.5600000000000023,
+    "text": "車站滿滿人潮都是自發協助",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 284.06,
+    "duration": 2.680000000000007,
+    "text": "但志工量多 分流一度先質疑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 286.74,
+    "duration": 2.240000000000009,
+    "text": "中央緊急開設分配佔調度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 288.98,
+    "duration": 1.2199999999999704,
+    "text": "但原民會坦言",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 290.2,
+    "duration": 2.740000000000009,
+    "text": "偏遠災區的人力投入相對不足",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 292.94,
+    "duration": 0.8999999999999773,
+    "text": "分配不精啦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 293.84,
+    "duration": 1.580000000000041,
+    "text": "分配一下好不好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 295.42,
+    "duration": 1.259999999999991,
+    "text": "行政府長佛榮泰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 296.68,
+    "duration": 1.740000000000009,
+    "text": "28號下午到場視察",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 298.42,
+    "duration": 3.0399999999999636,
+    "text": "也碰上民眾大聲反映分配問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 301.46,
+    "duration": 3.2000000000000455,
+    "text": "更有志工清掃 受傷 狀況不斷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 304.66,
+    "duration": 1.599999999999966,
+    "text": "雨鞋磨到那個腳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 306.26,
+    "duration": 2.5,
+    "text": "然後破皮 不太能走路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 308.76,
+    "duration": 1.6000000000000227,
+    "text": "有滿大一部分都是外傷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 310.36,
+    "duration": 4.699999999999989,
+    "text": "就是各種插錯傷 割傷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 315.06,
+    "duration": 1.6399999999999864,
+    "text": "然後甚至有一些人是因為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 316.7,
+    "duration": 2.3600000000000136,
+    "text": "一直不斷的殘土之後造成的扭傷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 319.06,
+    "duration": 2.6999999999999886,
+    "text": "那一科的病人大概大部分都是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 321.76,
+    "duration": 2.680000000000007,
+    "text": "因為天氣太熱了 有一些熱傷害",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 324.44,
+    "duration": 2.339999999999975,
+    "text": "緊急低傷藥水處理患者眼睛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 326.78,
+    "duration": 2.8000000000000114,
+    "text": "光是一處醫療站 每天就治療百人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 329.58,
+    "duration": 1.8000000000000114,
+    "text": "但廉價已接近尾聲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 331.38,
+    "duration": 2.6999999999999886,
+    "text": "有不少志工也得啟程離開",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 334.08,
+    "duration": 1.5,
+    "text": "到明天才會離開",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 335.58,
+    "duration": 1.3400000000000318,
+    "text": "就整個廉價都在這邊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 336.92,
+    "duration": 1.0600000000000023,
+    "text": "對對對",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 337.98,
+    "duration": 1.6999999999999886,
+    "text": "之後平日有可能有機會出來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 339.68,
+    "duration": 2,
+    "text": "我住彰化可能就車程",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 341.68,
+    "duration": 1.3799999999999955,
+    "text": "因為我昨天光開來這間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 343.06,
+    "duration": 1.3999999999999773,
+    "text": "我就開了八個小時了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 344.46,
+    "duration": 2,
+    "text": "就只有這一天比較有空這樣子",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 346.46,
+    "duration": 1.2000000000000455,
+    "text": "明天還有其他事情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 347.66,
+    "duration": 3.099999999999966,
+    "text": "所以就我從高雄來這邊當天來回",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 350.76,
+    "duration": 1.5400000000000205,
+    "text": "光復鄉災情範圍廣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 352.3,
+    "duration": 2.5399999999999636,
+    "text": "目前還有多處都未清理完畢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 354.84,
+    "duration": 1.3600000000000136,
+    "text": "就怕假期過後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 356.2,
+    "duration": 3.079999999999984,
+    "text": "平日志工銳減影響災後復原速度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 359.28,
+    "duration": 2.900000000000034,
+    "text": "總統賴清德也下令增派國軍進駐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 362.18,
+    "duration": 3.1999999999999886,
+    "text": "力拼中秋假期前能夠完成勤餘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 365.38,
+    "duration": 1.3400000000000318,
+    "text": "國時新聞 重點訊息小蕊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 366.72,
+    "duration": 2.6199999999999477,
+    "text": "花蓮報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 369.34,
+    "duration": 3.3800000000000523,
+    "text": "花蓮光復就災行動持續",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 372.72,
+    "duration": 3.359999999999957,
+    "text": "現場也開設了多個臨時醫療站",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 376.08,
+    "duration": 3.640000000000043,
+    "text": "有災民腿上出現嚴重傷口潰爛",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 379.72,
+    "duration": 1.8799999999999955,
+    "text": "醫療團隊直接在現場",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 381.6,
+    "duration": 2.599999999999966,
+    "text": "進行了清創手術",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 384.2,
+    "duration": 4.360000000000014,
+    "text": "而由於災區現況充滿積水以及淤泥",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 388.56,
+    "duration": 3.1399999999999864,
+    "text": "疾管署也提醒志工還有救災人員",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 391.7,
+    "duration": 3.4399999999999977,
+    "text": "類鼻居等疾病的傳播風險可能增加",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 395.14,
+    "duration": 4.439999999999998,
+    "text": "務必要做好防護",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 399.58,
+    "duration": 1.5,
+    "text": "不會一定扣 我要稍微忍耐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 401.08,
+    "duration": 1.740000000000009,
+    "text": "因為災災都要注意",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 402.82,
+    "duration": 2.160000000000025,
+    "text": "帶著頭燈仔細評估傷口地點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 404.98,
+    "duration": 2.1999999999999886,
+    "text": "卻不在醫護人員熟悉的診間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 407.18,
+    "duration": 2.599999999999966,
+    "text": "花蓮光復商就災行動持續",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 409.78,
+    "duration": 2,
+    "text": "二十八日上午高雄市消防局",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 411.78,
+    "duration": 1.7800000000000296,
+    "text": "特搜隊接獲求救",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 413.56,
+    "duration": 1.839999999999975,
+    "text": "一名五十七歲男性災民",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 415.4,
+    "duration": 2.400000000000034,
+    "text": "出現緊急傷勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 417.8,
+    "duration": 1.8999999999999773,
+    "text": "醫療團隊評估災民的傷口",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 419.7,
+    "duration": 2.0600000000000023,
+    "text": "已經出現感染並伴隨腐肉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 421.76,
+    "duration": 1.7800000000000296,
+    "text": "和局部組織壞死",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 423.54,
+    "duration": 2.2999999999999545,
+    "text": "為了防止併發蜂窩性組織炎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 425.84,
+    "duration": 1.900000000000034,
+    "text": "醫療團隊現場局部麻醉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 427.74,
+    "duration": 2.3000000000000114,
+    "text": "開刀清創一氣呵全",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 430.04,
+    "duration": 1.8999999999999773,
+    "text": "順利完成現場手術",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 431.94,
+    "duration": 2.0400000000000205,
+    "text": "另外災區防疫防護還有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 433.98,
+    "duration": 4.240000000000009,
+    "text": "國軍第二作戰區也協調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 438.22,
+    "duration": 2.859999999999957,
+    "text": "國軍花蓮總醫院開設臨時醫療站",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 441.08,
+    "duration": 1.080000000000041,
+    "text": "包含光復地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 442.16,
+    "duration": 1.5600000000000023,
+    "text": "就有光復糖廠救護站",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 443.72,
+    "duration": 2.099999999999966,
+    "text": "每天八點到晚上九點診療",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 445.82,
+    "duration": 1.6800000000000068,
+    "text": "還有光復車站救護站",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 447.5,
+    "duration": 2.1200000000000045,
+    "text": "提供全天候的診療服務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 449.62,
+    "duration": 1.6800000000000068,
+    "text": "另外鳳林國小瑞穗國中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 451.3,
+    "duration": 1.3999999999999773,
+    "text": "兩個災民收容地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 452.7,
+    "duration": 2.400000000000034,
+    "text": "同樣每天八點到晚上九點診療",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 455.1,
+    "duration": 1.2399999999999523,
+    "text": "夜間夜診服務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 456.34,
+    "duration": 1.8400000000000318,
+    "text": "則在官兵住宿區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 458.18,
+    "duration": 2.0600000000000023,
+    "text": "清除大型的家具",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 460.24,
+    "duration": 3,
+    "text": "以及有腐敗的相關的食材",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 463.24,
+    "duration": 3.3000000000000114,
+    "text": "這些廚餘之類的東西",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 466.54,
+    "duration": 2.6399999999999864,
+    "text": "會導致因為天候變熱之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 469.18,
+    "duration": 1.8600000000000136,
+    "text": "會支撐病媒紋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 471.04,
+    "duration": 2.680000000000007,
+    "text": "國軍也出動大約八十名化學兵支援",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 473.72,
+    "duration": 3,
+    "text": "遲施局部消毒防止病媒紋滋生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 476.72,
+    "duration": 1.1999999999999886,
+    "text": "而為了防堵疫情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 477.92,
+    "duration": 1.1399999999999864,
+    "text": "疾管署也宣佈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 479.06,
+    "duration": 2.4399999999999977,
+    "text": "十月一日即將開打的公費流感",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 481.5,
+    "duration": 3.1999999999999886,
+    "text": "以及新冠疫苗納入光復箱全體居民",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 484.7,
+    "duration": 2.3600000000000136,
+    "text": "衛生所工作人員及救災人員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 487.06,
+    "duration": 1.7799999999999727,
+    "text": "預估約一點二萬人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 488.84,
+    "duration": 1.7000000000000455,
+    "text": "另外也提醒現場人員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 490.54,
+    "duration": 2.359999999999957,
+    "text": "清理環境時務必注意防疫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 492.9,
+    "duration": 2.5400000000000205,
+    "text": "可能帶有的就是所謂的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 495.44,
+    "duration": 2.5,
+    "text": "內鼻居跟所謂的過段螺旋體",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 497.94,
+    "duration": 0.9599999999999795,
+    "text": "那內鼻居的發生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 498.9,
+    "duration": 1.9800000000000182,
+    "text": "它其實它早期的症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 500.88,
+    "duration": 2.259999999999991,
+    "text": "就是很像普通感冒一樣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 503.14,
+    "duration": 2.8799999999999955,
+    "text": "可能會有發燒呼吸道的症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 506.02,
+    "duration": 1.5600000000000023,
+    "text": "醫師提醒務必戴手套",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 507.58,
+    "duration": 1.6999999999999886,
+    "text": "避免皮膚接觸淤泥",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 509.28,
+    "duration": 1.0400000000000205,
+    "text": "另外飲水飲食",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 510.32,
+    "duration": 1.3600000000000136,
+    "text": "最好選擇瓶裝水",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 511.68,
+    "duration": 1.8799999999999386,
+    "text": "以及徹底煮熟的食物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 513.56,
+    "duration": 1.3000000000000682,
+    "text": "另外在結束打掃後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 514.86,
+    "duration": 1.5599999999999454,
+    "text": "應該徹底清潔全身",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 516.42,
+    "duration": 1.3799999999999955,
+    "text": "還有居家環境建議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 517.8,
+    "duration": 2.1000000000000227,
+    "text": "以漂白水稀釋擦拭消毒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 519.9,
+    "duration": 1.2000000000000455,
+    "text": "杜絕疾病",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 521.1,
+    "duration": 4.340000000000032,
+    "text": "郭順旭 網際新聞台北花蓮報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 525.44,
+    "duration": 2.8999999999999773,
+    "text": "獨報時間來看到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 528.34,
+    "duration": 4.399999999999977,
+    "text": "中國時報是國造前艦海昆號",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 532.74,
+    "duration": 2.939999999999941,
+    "text": "仍在測試階段",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 535.68,
+    "duration": 2.6000000000000227,
+    "text": "而主要的推手黃曙光",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 538.28,
+    "duration": 3.0400000000000773,
+    "text": "昨天以家庭因素為由",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 541.32,
+    "duration": 3.8999999999999773,
+    "text": "請辭國安會諮詢委員",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 545.22,
+    "duration": 2.339999999999918,
+    "text": "艾金德總統為了無效",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 547.56,
+    "duration": 4.600000000000023,
+    "text": "請辭獲准",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 552.16,
+    "duration": 1.740000000000009,
+    "text": "再來看到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 553.9,
+    "duration": 2.8600000000000136,
+    "text": "自由時報報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 556.76,
+    "duration": 2.5,
+    "text": "主計總處調查",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 559.26,
+    "duration": 2.980000000000018,
+    "text": "去年大學教育程度",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 562.24,
+    "duration": 1.9600000000000364,
+    "text": "可支配所得",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 564.2,
+    "duration": 4.8799999999999955,
+    "text": "平均數是68.35萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 569.08,
+    "duration": 5.039999999999964,
+    "text": "反超專科的66.36萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 574.12,
+    "duration": 5.340000000000032,
+    "text": "但是中位數大學56.27萬",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 579.46,
+    "duration": 4.699999999999932,
+    "text": "仍然低於專科的56.86萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 584.16,
+    "duration": 4.5,
+    "text": "已經連續15年低於專科",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 588.66,
+    "duration": 2.0400000000000773,
+    "text": "聯合報提到了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 590.7,
+    "duration": 1.3599999999999,
+    "text": "健保統計",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 592.06,
+    "duration": 4.840000000000032,
+    "text": "去年給付藥費2536億元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 596.9,
+    "duration": 3.480000000000018,
+    "text": "占健保總額將近三成",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 600.38,
+    "duration": 2.2000000000000455,
+    "text": "平均每個人的健保藥費",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 602.58,
+    "duration": 3.599999999999909,
+    "text": "是10584元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 606.18,
+    "duration": 2.8600000000000136,
+    "text": "當中止痛藥纏連使用人數",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 609.04,
+    "duration": 2.1800000000000637,
+    "text": "最多藥品之貫",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 611.22,
+    "duration": 3.339999999999918,
+    "text": "共919萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 614.56,
+    "duration": 4.060000000000059,
+    "text": "比前年多出了20萬人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 618.62,
+    "duration": 1.3400000000000318,
+    "text": "看完報紙重點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 619.96,
+    "duration": 2.099999999999909,
+    "text": "繼續來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 622.06,
+    "duration": 1.900000000000091,
+    "text": "外交部長林佳龍",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 623.96,
+    "duration": 2.339999999999918,
+    "text": "受邀前往波蘭",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 626.3,
+    "duration": 3.840000000000032,
+    "text": "參加第12屆華沙安全論壇",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 630.14,
+    "duration": 2.840000000000032,
+    "text": "並且將會發表演說",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 632.98,
+    "duration": 1.3600000000000136,
+    "text": "不過對於明年度",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 634.34,
+    "duration": 2.699999999999932,
+    "text": "外交部預算扁裂增加",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 637.04,
+    "duration": 3.340000000000032,
+    "text": "但是邦交國數量下滑",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 640.38,
+    "duration": 2,
+    "text": "聲援臺灣的國家數",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 642.38,
+    "duration": 3.0399999999999636,
+    "text": "也沒有顯著增長",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 645.42,
+    "duration": 2.660000000000082,
+    "text": "立法院預算中心認為",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 648.08,
+    "duration": 3.7799999999999727,
+    "text": "應該要周延考量預算",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 651.86,
+    "duration": 1.1999999999999318,
+    "text": "在社群平臺發文",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 653.06,
+    "duration": 2.1000000000000227,
+    "text": "表示正在前往波蘭的航程中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 655.16,
+    "duration": 1,
+    "text": "外交部長林佳龍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 656.16,
+    "duration": 2.6399999999999864,
+    "text": "受邀參加第12屆華沙安全論壇",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 658.8,
+    "duration": 1.8000000000000682,
+    "text": "將以重塑全球民主供應鏈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 660.6,
+    "duration": 1.3400000000000318,
+    "text": "為題發表演說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 661.94,
+    "duration": 2.4599999999999227,
+    "text": "期許未來臺歐合作更加緊密",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 664.4,
+    "duration": 1.240000000000009,
+    "text": "而適逢聯合國大會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 665.64,
+    "duration": 1.4600000000000364,
+    "text": "總辯論進行期間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 667.1,
+    "duration": 2.840000000000032,
+    "text": "友邦持續發聲挺臺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 669.94,
+    "duration": 3.2399999999998954,
+    "text": "臺灣的貢獻在公共健康",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 673.18,
+    "duration": 3,
+    "text": "技術和災難反應",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 676.18,
+    "duration": 1.9800000000000182,
+    "text": "並非獨立",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 678.16,
+    "duration": 3.519999999999982,
+    "text": "在這些領域維持合作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 681.68,
+    "duration": 3.6800000000000637,
+    "text": "是要威脅世界無法允許",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 685.36,
+    "duration": 3.8799999999999955,
+    "text": "促成聯大第2758號決議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 689.24,
+    "duration": 2.3199999999999363,
+    "text": "為排除臺灣參與聯合國體系",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 691.56,
+    "duration": 1.4800000000000182,
+    "text": "目前已有8個邦交國",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 693.04,
+    "duration": 2.3600000000000136,
+    "text": "呼籲聯合國應接納臺灣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 695.4,
+    "duration": 2.2799999999999727,
+    "text": "不過立法院預算中心近期指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 697.68,
+    "duration": 2.560000000000059,
+    "text": "每年度外交部預算便列415億元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 700.24,
+    "duration": 4.039999999999964,
+    "text": "就今年度追加預算前增加109.2億元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 704.28,
+    "duration": 1.6399999999999864,
+    "text": "但我國近五年邦交國",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 705.92,
+    "duration": 2.240000000000009,
+    "text": "並未能允許英國國務協會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 708.16,
+    "duration": 2.1200000000000045,
+    "text": "參與聯合國參與聯合國領域",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 710.28,
+    "duration": 1.9800000000000182,
+    "text": "而促成聯大第2758號決議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 712.26,
+    "duration": 2.4600000000000364,
+    "text": "為排除臺灣參與聯合國體系",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 714.72,
+    "duration": 1.7999999999999545,
+    "text": "近五年邦交國數下滑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 716.52,
+    "duration": 1.080000000000041,
+    "text": "且國際組織中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 717.6,
+    "duration": 2.3999999999999773,
+    "text": "聲援國家數也沒有顯著增長",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 720,
+    "duration": 2.6000000000000227,
+    "text": "認為經費資源未能有效轉化",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 722.6,
+    "duration": 1.6000000000000227,
+    "text": "提升我外交地位",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 724.2,
+    "duration": 2,
+    "text": "應該周延考量",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 726.2,
+    "duration": 4.399999999999977,
+    "text": "這個外交部再提倡在外交的一些",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 730.6,
+    "duration": 1.4800000000000182,
+    "text": "這個能量跟能力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 732.08,
+    "duration": 2.3999999999999773,
+    "text": "但是問題是我們看不到成績",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 734.48,
+    "duration": 3.439999999999941,
+    "text": "那請問一下 預算增加何來有之",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 737.92,
+    "duration": 3.2000000000000455,
+    "text": "用邦交國的數量在衡量我國",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 741.12,
+    "duration": 1.4399999999999409,
+    "text": "包括外交部同仁",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 742.56,
+    "duration": 2.240000000000009,
+    "text": "在外交上的努力成果",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 744.8,
+    "duration": 2.2000000000000455,
+    "text": "這是非常非常的落伍的觀念",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 747,
+    "duration": 0.9199999999999591,
+    "text": "在立委強調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 747.92,
+    "duration": 2,
+    "text": "立法院將確實監督預算",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 749.92,
+    "duration": 1.0400000000000773,
+    "text": "民進黨立委認為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 750.96,
+    "duration": 1.5599999999999454,
+    "text": "面對中國不斷打壓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 752.52,
+    "duration": 2.560000000000059,
+    "text": "外交經費有所調整是合理的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 755.08,
+    "duration": 1.4799999999999045,
+    "text": "外交部官員則指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 756.56,
+    "duration": 2.4400000000000546,
+    "text": "兩岸外交預算差距達八倍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 759,
+    "duration": 2.67999999999995,
+    "text": "我國有必要強化外交能量應對",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 761.68,
+    "duration": 1.9600000000000364,
+    "text": "後續在立法院審查時",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 763.64,
+    "duration": 1.9600000000000364,
+    "text": "會詳細說明用途",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 765.6,
+    "duration": 4.279999999999973,
+    "text": "公視新聞宣傳 台北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 769.88,
+    "duration": 2.159999999999968,
+    "text": "台電通宵發電廠",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 772.04,
+    "duration": 4.1200000000000045,
+    "text": "近年來陸續進行機組汰換",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 776.16,
+    "duration": 1.1600000000000819,
+    "text": "前天晚間",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 777.32,
+    "duration": 4.159999999999968,
+    "text": "就將已經除以第四號機組的大煙囪",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 781.48,
+    "duration": 3.7200000000000273,
+    "text": "進行放導作業",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 785.2,
+    "duration": 2.439999999999941,
+    "text": "瞬間發出了巨大聲響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 787.64,
+    "duration": 3.32000000000005,
+    "text": "也震撼當地居民",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 790.96,
+    "duration": 1.5599999999999454,
+    "text": "這座曾經被視為",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 792.52,
+    "duration": 3.6800000000000637,
+    "text": "苗栗通宵海岸最醒目的地標",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 796.2,
+    "duration": 3.9599999999999227,
+    "text": "甚至還被當作偷渡客舉營的大煙囪",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 800.16,
+    "duration": 2.0400000000000773,
+    "text": "也成為歷史",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 802.2,
+    "duration": 6.399999999999977,
+    "text": "就像是砍大樹一樣",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 808.6,
+    "duration": 2.9599999999999227,
+    "text": "苗栗通宵電廠的四號機組大煙囪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 811.56,
+    "duration": 2.2800000000000864,
+    "text": "在27號晚間直直倒下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 813.84,
+    "duration": 2.5599999999999454,
+    "text": "發出巨響也激起大量的煙塵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 816.4,
+    "duration": 2.2000000000000455,
+    "text": "吸引不少民眾來感受這一幕",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 818.6,
+    "duration": 2.5599999999999454,
+    "text": "大聲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 821.16,
+    "duration": 3,
+    "text": "它倒了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 824.16,
+    "duration": 2.080000000000041,
+    "text": "這是煙 你看",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 826.24,
+    "duration": 4.840000000000032,
+    "text": "用下面用花筒去把它打個洞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 831.08,
+    "duration": 1.0399999999999636,
+    "text": "打個洞之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 832.12,
+    "duration": 1.8400000000000318,
+    "text": "然後整個拉倒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 833.96,
+    "duration": 3.9599999999999227,
+    "text": "不同一般的爆破",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 837.92,
+    "duration": 2.2800000000000864,
+    "text": "拆這個煙囪尤其是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 840.2,
+    "duration": 1.67999999999995,
+    "text": "這煙囪很大隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 841.88,
+    "duration": 1.3999999999999773,
+    "text": "居民說有點不捨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 843.28,
+    "duration": 1.0400000000000773,
+    "text": "因為這裡的煙囪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 844.32,
+    "duration": 1.9599999999999227,
+    "text": "不僅是苗栗通宵的地標",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 846.28,
+    "duration": 1.8000000000000682,
+    "text": "在之前還被偷渡客",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 848.08,
+    "duration": 2.3199999999999363,
+    "text": "當成是來到台灣的上岸指引",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 850.4,
+    "duration": 1.5600000000000591,
+    "text": "苗栗通宵火力發電廠的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 851.96,
+    "duration": 1.919999999999959,
+    "text": "四號舊機組煙囪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 853.88,
+    "duration": 1.5600000000000591,
+    "text": "高度120公尺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 855.44,
+    "duration": 2.3599999999999,
+    "text": "於1992年開始並聯發電",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 857.8,
+    "duration": 1.9600000000000364,
+    "text": "現在都是改燃氣的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 859.76,
+    "duration": 2.519999999999982,
+    "text": "它原來基礎已經處理的是煙囪還在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 862.28,
+    "duration": 3.9200000000000728,
+    "text": "但是原來的地因為要蓋新的燃氣的電廠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 866.2,
+    "duration": 4.399999999999977,
+    "text": "所以我們就把原來佔地的煙囪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 870.6,
+    "duration": 2.159999999999968,
+    "text": "就把它拆下來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 872.76,
+    "duration": 1,
+    "text": "台電表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 873.76,
+    "duration": 1.2799999999999727,
+    "text": "未來包括中火",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 875.04,
+    "duration": 2.9600000000000364,
+    "text": "都將以燃氣機組來汰換老舊機組",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 878,
+    "duration": 1.5199999999999818,
+    "text": "舊有機組的煙囪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 879.52,
+    "duration": 1.759999999999991,
+    "text": "也都會經過縝密規劃",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 881.28,
+    "duration": 1.8000000000000682,
+    "text": "以及提高安全規格",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 883.08,
+    "duration": 3.0799999999999272,
+    "text": "讓放導作業可以順利來進行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 886.16,
+    "duration": 1.8799999999999955,
+    "text": "公司新聞您健身澎湃群",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 888.04,
+    "duration": 1.4400000000000546,
+    "text": "苗栗報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 889.48,
+    "duration": 5.759999999999991,
+    "text": "健身品牌全徵瑜伽健身",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 895.24,
+    "duration": 1.240000000000009,
+    "text": "近期宣布",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 896.48,
+    "duration": 3.840000000000032,
+    "text": "全台六個分店暫停營業",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 900.32,
+    "duration": 2.2799999999999727,
+    "text": "引發大批會員不滿",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 902.6,
+    "duration": 2.1200000000000045,
+    "text": "提出申訴",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 904.72,
+    "duration": 1.1599999999999682,
+    "text": "業者強調",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 905.88,
+    "duration": 2.560000000000059,
+    "text": "目前尚未進入破產或清算",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 908.44,
+    "duration": 2.7199999999999136,
+    "text": "正在積極爭取資金挹注",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 911.16,
+    "duration": 2.240000000000009,
+    "text": "而對此臺北市法務局",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 913.4,
+    "duration": 1.32000000000005,
+    "text": "則要求業者",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 914.72,
+    "duration": 2.6000000000000227,
+    "text": "九月底之前要提出營運計畫",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 917.32,
+    "duration": 3.67999999999995,
+    "text": "與退費方案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 921,
+    "duration": 1.2000000000000455,
+    "text": "一早就有大批會員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 922.2,
+    "duration": 1.3999999999999773,
+    "text": "等待在健身房門口",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 923.6,
+    "duration": 2.9599999999999227,
+    "text": "來自新加坡的連鎖品牌全徵瑜伽健身",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 926.56,
+    "duration": 2,
+    "text": "在二十四日突然發出公告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 928.56,
+    "duration": 2.880000000000109,
+    "text": "全臺敦南古亭天母等六個分館",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 931.44,
+    "duration": 1.1999999999999318,
+    "text": "暫停營業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 932.64,
+    "duration": 1.5199999999999818,
+    "text": "但又在兩天後宣布",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 934.16,
+    "duration": 1.6800000000000637,
+    "text": "只是改變營業時間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 935.84,
+    "duration": 2.6399999999999864,
+    "text": "像我是繳了三年預繳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 938.48,
+    "duration": 1.4399999999999409,
+    "text": "我還有兩年多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 939.92,
+    "duration": 3.9200000000000728,
+    "text": "結果現在臺北幾乎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 943.84,
+    "duration": 1.6399999999999864,
+    "text": "幾乎都停了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 945.48,
+    "duration": 1.1999999999999318,
+    "text": "對",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 946.68,
+    "duration": 1.8000000000000682,
+    "text": "所以不曉得怎麼辦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 948.48,
+    "duration": 1.5599999999999454,
+    "text": "截至二十七日上午九點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 950.04,
+    "duration": 0.8799999999999955,
+    "text": "臺北市法務局",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 950.92,
+    "duration": 1.6399999999999864,
+    "text": "已經收到七百三十八件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 952.56,
+    "duration": 1.1600000000000819,
+    "text": "相關消費申訴",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 953.72,
+    "duration": 1.6399999999999864,
+    "text": "也展開行政調查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 955.36,
+    "duration": 1.1999999999999318,
+    "text": "全城公司也坦言",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 956.56,
+    "duration": 1.4800000000000182,
+    "text": "因資金周轉困難",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 958.04,
+    "duration": 1.2800000000000864,
+    "text": "導致薪資短缺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 959.32,
+    "duration": 2.2399999999998954,
+    "text": "進而造成場館人力不足",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 961.56,
+    "duration": 2.0400000000000773,
+    "text": "也強調目前尚未進入破產",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 963.6,
+    "duration": 1.0799999999999272,
+    "text": "或清算程序",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 964.68,
+    "duration": 2.4400000000000546,
+    "text": "正在積極爭取股東資金挹注",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 967.12,
+    "duration": 0.7599999999999909,
+    "text": "實際瞭解",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 967.88,
+    "duration": 1.2000000000000455,
+    "text": "目前場館現狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 969.08,
+    "duration": 2,
+    "text": "則是部分員工沒收到薪水",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 971.08,
+    "duration": 1.1200000000000045,
+    "text": "拒絕上班",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 972.2,
+    "duration": 1.6399999999999864,
+    "text": "因此改成沒教練課",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 973.84,
+    "duration": 1.6399999999999864,
+    "text": "僅開放使用器材",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 975.48,
+    "duration": 1.7200000000000273,
+    "text": "我們是要求全城公司",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 977.2,
+    "duration": 2.1200000000000045,
+    "text": "他必須要在九月三四號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 979.32,
+    "duration": 2.759999999999991,
+    "text": "提出各館的運營計畫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 982.08,
+    "duration": 2.5599999999999454,
+    "text": "以及相關的退費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 984.64,
+    "duration": 3.080000000000041,
+    "text": "以及賠償消費者的方案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 987.72,
+    "duration": 0.36000000000001364,
+    "text": "這個部分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 988.08,
+    "duration": 1.1599999999999682,
+    "text": "他必須要具體說明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 989.24,
+    "duration": 1.759999999999991,
+    "text": "而全城現存會員匯集費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 991,
+    "duration": 1.3600000000000136,
+    "text": "以及教練課程費用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 992.36,
+    "duration": 0.7999999999999545,
+    "text": "截至十五日",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 993.16,
+    "duration": 1.6800000000000637,
+    "text": "還有兩億一千兩百萬元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 994.84,
+    "duration": 1.9599999999999227,
+    "text": "存在會員信託專戶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 996.8,
+    "duration": 1.0400000000000773,
+    "text": "法務局則要求",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 997.84,
+    "duration": 1.3199999999999363,
+    "text": "陽性銀行暫緩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 999.16,
+    "duration": 1.3999999999999773,
+    "text": "移轉信託財產",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1000.56,
+    "duration": 1.080000000000041,
+    "text": "截稿前全城警",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1001.64,
+    "duration": 1.080000000000041,
+    "text": "透過公告表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1002.72,
+    "duration": 0.6399999999999864,
+    "text": "如果會員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1003.36,
+    "duration": 1,
+    "text": "因為暫停營業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1004.36,
+    "duration": 1.0399999999999636,
+    "text": "或縮減服務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1005.4,
+    "duration": 1.8400000000000318,
+    "text": "預終止契約或賠償者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1007.24,
+    "duration": 1.7999999999999545,
+    "text": "可來信客服信箱",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1009.04,
+    "duration": 1.1200000000000045,
+    "text": "告訴全網IT 謝哲磊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1010.16,
+    "duration": 2.800000000000068,
+    "text": "臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1012.96,
+    "duration": 2.519999999999982,
+    "text": "新聞極緊來看到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1015.48,
+    "duration": 1.3999999999999773,
+    "text": "內政部為了要打造",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1016.88,
+    "duration": 2.240000000000009,
+    "text": "合理公平的住宅市場",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1019.12,
+    "duration": 2.840000000000032,
+    "text": "推動需評改革",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1021.96,
+    "duration": 4.2000000000000455,
+    "text": "渴望讓公社比下降百分之五",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1026.16,
+    "duration": 4.919999999999845,
+    "text": "最快明年一月上路",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1031.08,
+    "duration": 1.5600000000001728,
+    "text": "還有最低工資",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1032.64,
+    "duration": 2.7199999999998,
+    "text": "連續十年調漲",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1035.36,
+    "duration": 2.0800000000001546,
+    "text": "明年起月薪調高到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1037.44,
+    "duration": 2.9600000000000364,
+    "text": "兩萬九千五百元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1040.4,
+    "duration": 1.5599999999999454,
+    "text": "時薪則調高到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1041.96,
+    "duration": 3.240000000000009,
+    "text": "一百九十六元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1045.2,
+    "duration": 2.0799999999999272,
+    "text": "另外昨天教師節",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1047.28,
+    "duration": 0.9600000000000364,
+    "text": "有一群老師",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1048.24,
+    "duration": 2.5599999999999454,
+    "text": "集結在教育部前抗議",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1050.8,
+    "duration": 2.8400000000001455,
+    "text": "點名校事制度三大亂象",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1053.64,
+    "duration": 1.6399999999998727,
+    "text": "要求廢除",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1055.28,
+    "duration": 2.6000000000001364,
+    "text": "來看我們的整理報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1086.28,
+    "duration": 1.400000000000091,
+    "text": "會前勞團喊話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1087.68,
+    "duration": 1.8399999999999181,
+    "text": "必須反映物價上漲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1089.52,
+    "duration": 2.5599999999999454,
+    "text": "合理漲幅應該接近百分之四",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1092.08,
+    "duration": 1.800000000000182,
+    "text": "經過四個半小時的討論後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1093.88,
+    "duration": 0.7999999999999545,
+    "text": "拍板決定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1094.68,
+    "duration": 1.7999999999999545,
+    "text": "明年起基本工資月薪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1096.48,
+    "duration": 2.3199999999999363,
+    "text": "由兩萬八千五百九十元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1098.8,
+    "duration": 2.0800000000001546,
+    "text": "調到兩萬九千五百元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1100.88,
+    "duration": 1.3999999999998636,
+    "text": "時薪由一百九十元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1102.28,
+    "duration": 1.5199999999999818,
+    "text": "漲到一百九十六元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1103.8,
+    "duration": 2.0800000000001546,
+    "text": "調幅為百分之三點一八",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1105.88,
+    "duration": 1.7999999999999545,
+    "text": "最低工資連續十年調漲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1107.68,
+    "duration": 2.119999999999891,
+    "text": "預估有近兩百四十七萬名",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1109.8,
+    "duration": 2,
+    "text": "勞工受惠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1111.8,
+    "duration": 1.4800000000000182,
+    "text": "內政部推動需評改革",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1113.28,
+    "duration": 2.2000000000000455,
+    "text": "重點包含修正增列電梯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1115.48,
+    "duration": 1.8799999999998818,
+    "text": "納入免計容積項目",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1117.36,
+    "duration": 0.9600000000000364,
+    "text": "另外還要限制",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1118.32,
+    "duration": 1.4400000000000546,
+    "text": "管委會使用空間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1119.76,
+    "duration": 2.7200000000000273,
+    "text": "總容積以百分之一為上限",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1122.48,
+    "duration": 1,
+    "text": "再來是停車位",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1123.48,
+    "duration": 2.2000000000000455,
+    "text": "和車道空間調整為專有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1125.68,
+    "duration": 1.6799999999998363,
+    "text": "未來沒有買車位的住戶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1127.36,
+    "duration": 1.9200000000000728,
+    "text": "不用再負擔車道面積",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1129.28,
+    "duration": 3.2799999999999727,
+    "text": "修正後可望讓公社比下降百分之五",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1132.56,
+    "duration": 1.400000000000091,
+    "text": "預期未來能夠減少",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1133.96,
+    "duration": 1.7200000000000273,
+    "text": "模糊計算評述空間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1135.68,
+    "duration": 3,
+    "text": "讓購物市場回歸到總價考量",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1138.68,
+    "duration": 1.7999999999999545,
+    "text": "記者綜合報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1142,
+    "duration": 3.6800000000000637,
+    "text": "一年一度南投日月潭萬人湧渡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1145.68,
+    "duration": 1.599999999999909,
+    "text": "昨天登場",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1147.28,
+    "duration": 2.7999999999999545,
+    "text": "共有兩萬四千多人報名",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1150.08,
+    "duration": 3.6000000000001364,
+    "text": "其中包括了130名的身障勇者",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1153.68,
+    "duration": 3.599999999999909,
+    "text": "他們也都全部完成湧渡的壯舉",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1157.28,
+    "duration": 7.600000000000136,
+    "text": "大批泳科技連下水",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1164.88,
+    "duration": 2.3199999999999363,
+    "text": "一年一度的日月潭萬人湧渡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1167.2,
+    "duration": 3.0799999999999272,
+    "text": "在周日登場場面壯觀又熱鬧",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1173,
+    "duration": 1.7999999999999545,
+    "text": "透過空拍角度來看",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1174.8,
+    "duration": 2.0800000000001546,
+    "text": "水面上形成長長的人龍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1176.88,
+    "duration": 2,
+    "text": "搭配日月潭的湖光山色",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1178.88,
+    "duration": 1.599999999999909,
+    "text": "成了特別的景致",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1180.48,
+    "duration": 1.7999999999999545,
+    "text": "不少人為了挑戰自己",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1182.28,
+    "duration": 2.3600000000001273,
+    "text": "就算得凌晨從外縣市出發",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1184.64,
+    "duration": 2.439999999999827,
+    "text": "還是起了大早要來參加湧渡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1187.08,
+    "duration": 1.800000000000182,
+    "text": "講說年紀已經有了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1188.88,
+    "duration": 2.199999999999818,
+    "text": "就來嘗試一次看看吧",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1191.08,
+    "duration": 1.1200000000001182,
+    "text": "我本身是消防員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1192.2,
+    "duration": 2.2000000000000455,
+    "text": "所以我們在裡面有訓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1194.4,
+    "duration": 1.8799999999998818,
+    "text": "就是有一些擁有訓練",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1196.28,
+    "duration": 1.400000000000091,
+    "text": "而前總統馬英九",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1197.68,
+    "duration": 1.7999999999999545,
+    "text": "今年是第十二度參加",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1199.48,
+    "duration": 1.400000000000091,
+    "text": "七十五歲的他",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1200.88,
+    "duration": 1.8799999999998818,
+    "text": "下水前還向民眾表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1202.76,
+    "duration": 1.7999999999999545,
+    "text": "自己的身體沒問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1204.56,
+    "duration": 1.7999999999999545,
+    "text": "不料卻差點踩空",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1206.36,
+    "duration": 1.9200000000000728,
+    "text": "總統水溫感覺怎麼樣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1208.28,
+    "duration": 4.880000000000109,
+    "text": "水溫感覺如何",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1213.16,
+    "duration": 2.7200000000000273,
+    "text": "所幸旁人及時扶助有驚無險",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1215.88,
+    "duration": 1.0799999999999272,
+    "text": "縣府表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1216.96,
+    "duration": 1.759999999999991,
+    "text": "湧渡日月潭的年齡上限",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1218.72,
+    "duration": 1.599999999999909,
+    "text": "是79歲以下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1220.32,
+    "duration": 2.8400000000001455,
+    "text": "但75歲到79歲的高齡勇者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1223.16,
+    "duration": 1.5599999999999454,
+    "text": "需要透過專案申請",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1224.72,
+    "duration": 2.4400000000000546,
+    "text": "除了要檢附醫師的健康證明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1227.16,
+    "duration": 2.7999999999999545,
+    "text": "並且有兩名具備救生員資格的勇者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1229.96,
+    "duration": 2.0799999999999272,
+    "text": "全程陪同才能參加",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1232.04,
+    "duration": 2.6000000000001364,
+    "text": "而今年參加的人數也創下新高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1234.64,
+    "duration": 3.7999999999999545,
+    "text": "總共有24736位的勇者報名",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1238.44,
+    "duration": 1.759999999999991,
+    "text": "其中包括了來自國際",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1240.2,
+    "duration": 2.0399999999999636,
+    "text": "海內外的35個國家",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1242.24,
+    "duration": 2.3599999999999,
+    "text": "同時我們還有130位的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1244.6,
+    "duration": 2.4400000000000546,
+    "text": "身障朋友一起來參與活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1247.04,
+    "duration": 2.7200000000000273,
+    "text": "撞來撞去會沒有安全感",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1249.76,
+    "duration": 2.880000000000109,
+    "text": "但是你要突破你自己的難關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1252.64,
+    "duration": 1.5199999999999818,
+    "text": "這回參加的身障勇者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1254.16,
+    "duration": 1.3999999999998636,
+    "text": "也有130人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1255.56,
+    "duration": 1.8800000000001091,
+    "text": "全都完成湧渡壯舉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1257.44,
+    "duration": 2.3599999999999,
+    "text": "也證明雖然身體有些許不便",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1259.8,
+    "duration": 2.5599999999999454,
+    "text": "但意志力可以戰勝一切",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1262.36,
+    "duration": 1.8400000000001455,
+    "text": "公司新聞 林健身 彭幻群",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1264.2,
+    "duration": 1.1599999999998545,
+    "text": "南投報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1265.36,
+    "duration": 6.600000000000136,
+    "text": "第31屆亞洲棒球錦標賽冠軍戰",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1271.96,
+    "duration": 3.2000000000000455,
+    "text": "台灣昨天晚間再度與日本交手",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1275.16,
+    "duration": 1.7999999999999545,
+    "text": "結果日本攻勢猛烈",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1276.96,
+    "duration": 2.7999999999999545,
+    "text": "全場狂敲了15支安打",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1279.76,
+    "duration": 3.839999999999918,
+    "text": "中場台灣就以0比11落敗取決亞軍",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1283.6,
+    "duration": 3.759999999999991,
+    "text": "還寫下冠軍戰比數最大分差紀錄",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1289.36,
+    "duration": 1.8800000000001091,
+    "text": "這球被帶在棒頭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1291.24,
+    "duration": 2.400000000000091,
+    "text": "帶在棒頭 有距離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1293.64,
+    "duration": 2.199999999999818,
+    "text": "掉了下來 這是一支長打了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1295.84,
+    "duration": 1.5199999999999818,
+    "text": "開賽就面臨十分危機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1297.36,
+    "duration": 2.2800000000002,
+    "text": "旅美星星那提紅人隊的先發投手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1299.64,
+    "duration": 2.9199999999998454,
+    "text": "林聖恩被連敲三瞻打失掉兩分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1302.56,
+    "duration": 2.0800000000001546,
+    "text": "28號晚間的亞軍賽冠軍戰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1304.64,
+    "duration": 1.599999999999909,
+    "text": "台灣再度交手日本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1306.24,
+    "duration": 1.7999999999999545,
+    "text": "只是林聖恩一局都沒有投完",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1308.04,
+    "duration": 1.5599999999999454,
+    "text": "就失掉三分退場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1309.6,
+    "duration": 2.160000000000082,
+    "text": "還留下120友人的危機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1311.76,
+    "duration": 2.2000000000000455,
+    "text": "不過接手的旅日歐力士猛牛隊投手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1313.96,
+    "duration": 2.7999999999999545,
+    "text": "陳慕恆也沒能踩住煞車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1316.76,
+    "duration": 3.400000000000091,
+    "text": "變化球還是沒有進好球袋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1320.16,
+    "duration": 1.240000000000009,
+    "text": "換言之",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1321.4,
+    "duration": 3.1599999999998545,
+    "text": "出現了連續的四壞球保送",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1324.56,
+    "duration": 2.2000000000000455,
+    "text": "日本隊再下一場4比0",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1326.76,
+    "duration": 2,
+    "text": "開局就陷入0比4落後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1328.76,
+    "duration": 2.4400000000000546,
+    "text": "而且陳慕恆和接下來兩位投手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1331.2,
+    "duration": 2,
+    "text": "效力中職同一師的高偉強",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1333.2,
+    "duration": 1.3999999999998636,
+    "text": "以及未全龍的李志玲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1334.6,
+    "duration": 1.9600000000000364,
+    "text": "都沒能有效壓制對手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1336.56,
+    "duration": 1.400000000000091,
+    "text": "前五局打完已經被日本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1337.96,
+    "duration": 1.8399999999999181,
+    "text": "取得8比0大幅領先",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1339.8,
+    "duration": 1.2000000000000455,
+    "text": "反觀台灣打線",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1341,
+    "duration": 2.6400000000001,
+    "text": "雖然前五局每局都能敲磚打",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1343.64,
+    "duration": 2.3199999999999363,
+    "text": "卻總欠缺 臨門一腳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1345.96,
+    "duration": 1.8399999999999181,
+    "text": "變化球打得在角落",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1347.8,
+    "duration": 1.6000000000001364,
+    "text": "在角落",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1349.4,
+    "duration": 1.199999999999818,
+    "text": "被追到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1350.6,
+    "duration": 1.4400000000000546,
+    "text": "受制於日本先發投手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1352.04,
+    "duration": 3.7200000000000273,
+    "text": "效力社會人球隊J24國的進騰一來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1355.76,
+    "duration": 1.6400000000001,
+    "text": "台灣全場雖然有六支安打",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1357.4,
+    "duration": 1.959999999999809,
+    "text": "但攻勢沒能有效串聯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1359.36,
+    "duration": 2.0800000000001546,
+    "text": "計分板掛上九顆壓彈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1361.44,
+    "duration": 2.3999999999998636,
+    "text": "中場台灣就以0比11吞敗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1363.84,
+    "duration": 2.7200000000000273,
+    "text": "協下冠軍戰比數最大分差幾路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1366.56,
+    "duration": 1.2799999999999727,
+    "text": "日本隊拿下二連霸",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1367.84,
+    "duration": 0.7200000000000273,
+    "text": "加上並列",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1368.56,
+    "duration": 2.4400000000000546,
+    "text": "勾在這項賽事21度奪冠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1371,
+    "duration": 2.759999999999991,
+    "text": "這球揮棒落空 三陣出局",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1373.76,
+    "duration": 1.4800000000000182,
+    "text": "台灣連續兩箭拿下亞軍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1375.24,
+    "duration": 2.3199999999999363,
+    "text": "賽後球員落下不甘心的淚水",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1377.56,
+    "duration": 1.0399999999999636,
+    "text": "不過台灣與日本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1378.6,
+    "duration": 1.2000000000000455,
+    "text": "南韓攜手取得",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1379.8,
+    "duration": 2.0399999999999636,
+    "text": "明年U23世界盃門票",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1381.84,
+    "duration": 1.759999999999991,
+    "text": "表現亮眼的游擊手林雨莉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1383.6,
+    "duration": 2.4400000000000546,
+    "text": "獲選賽會最佳防守球員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1386.04,
+    "duration": 2.7200000000000273,
+    "text": "高裕偉則入選明星隊三壘手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1388.76,
+    "duration": 0.4800000000000182,
+    "text": "公視新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1389.24,
+    "duration": 1.599999999999909,
+    "text": "這位中研綱綜合報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1390.84,
+    "duration": 6.160000000000082,
+    "text": "印度再度發生死亡踩踏事件",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1397,
+    "duration": 5.3599999999999,
+    "text": "去年轉戰政壇的印度知名演員維傑",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1402.36,
+    "duration": 2.2800000000002,
+    "text": "27號在印度南部",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1404.64,
+    "duration": 3.9199999999998454,
+    "text": "為明年初的選舉來進行造勢",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1408.56,
+    "duration": 2.6800000000000637,
+    "text": "吸引5萬人左右到場",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1411.24,
+    "duration": 4,
+    "text": "但是卻不幸爆發了踩踏意外",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1415.24,
+    "duration": 3.400000000000091,
+    "text": "造成包括婦女還有兒童在內",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1418.64,
+    "duration": 2.9199999999998454,
+    "text": "至少有39個人死亡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1421.56,
+    "duration": 2.480000000000018,
+    "text": "還有50多人重傷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1424.04,
+    "duration": 2.2000000000000455,
+    "text": "政府下令展開調查",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1426.24,
+    "duration": 5.400000000000091,
+    "text": "28號凌晨印度踩踏事件發生的地點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1431.64,
+    "duration": 1.7999999999999545,
+    "text": "位於南部的坦密爾納杜邦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1433.44,
+    "duration": 1.7200000000000273,
+    "text": "警方已拉起封鎖線",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1435.16,
+    "duration": 2.6799999999998363,
+    "text": "搭配民眾遺留下來的鞋子跟衣物堆疊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1437.84,
+    "duration": 1.7200000000000273,
+    "text": "現場一片狼藉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1439.56,
+    "duration": 1.400000000000091,
+    "text": "醫院外則擠滿傷患",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1440.96,
+    "duration": 2,
+    "text": "與心痛的罹難者家屬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1442.96,
+    "duration": 2.6800000000000637,
+    "text": "當地首長也陸續趕往醫院探視",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1445.64,
+    "duration": 12.199999999999818,
+    "text": "這起嚴重的踩踏死亡意外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1457.84,
+    "duration": 2.400000000000091,
+    "text": "發生在坦密爾納杜邦的卡路爾市",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1460.24,
+    "duration": 1.7200000000000273,
+    "text": "27號晚間7點多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1461.96,
+    "duration": 2.8799999999998818,
+    "text": "去年轉戰印度政壇的知名隱形維傑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1464.84,
+    "duration": 1.400000000000091,
+    "text": "帶領他所屬政黨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1466.24,
+    "duration": 2.599999999999909,
+    "text": "在當地替明年的國會大選造勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1468.84,
+    "duration": 2.400000000000091,
+    "text": "許多民眾為了爭奪明星風采",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1471.24,
+    "duration": 1.599999999999909,
+    "text": "不斷湧入會場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1472.84,
+    "duration": 1.400000000000091,
+    "text": "人們主辦單位預估",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1474.24,
+    "duration": 1.599999999999909,
+    "text": "會有1萬人到場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1475.84,
+    "duration": 1.400000000000091,
+    "text": "到晚間7點半",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1477.24,
+    "duration": 1.599999999999909,
+    "text": "已塞滿近5萬人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1478.84,
+    "duration": 2.6000000000001364,
+    "text": "但現場只配置500名警力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1481.44,
+    "duration": 1.7200000000000273,
+    "text": "許多婦女跟兒童陸續昏倒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1483.16,
+    "duration": 1.199999999999818,
+    "text": "引發恐慌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1484.36,
+    "duration": 3.2800000000002,
+    "text": "群眾相互推擠踩踏場面混亂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1487.64,
+    "duration": 1.7999999999999545,
+    "text": "人們在台上演講的維傑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1489.44,
+    "duration": 1.7999999999999545,
+    "text": "也被迫停止活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1491.24,
+    "duration": 2.8799999999998818,
+    "text": "救護車緊急將大量傷患 送醫搶救",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1494.12,
+    "duration": 16.40000000000009,
+    "text": "印度過去屢次因為宗教慶典",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1510.52,
+    "duration": 2.839999999999918,
+    "text": "體育賽事發生致命踩踏意外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1513.36,
+    "duration": 2.0800000000001546,
+    "text": "印度總理莫迪27號發文",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1515.44,
+    "duration": 2.0799999999999272,
+    "text": "對這起事件表達哀悼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1517.52,
+    "duration": 1.240000000000009,
+    "text": "卡路爾的警方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1518.76,
+    "duration": 2.6800000000000637,
+    "text": "已起訴維傑搜索政黨的多名要員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1521.44,
+    "duration": 2.240000000000009,
+    "text": "並下令對意外進行調查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1523.68,
+    "duration": 1.5599999999999454,
+    "text": "7點51歲的維傑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1525.24,
+    "duration": 2.400000000000091,
+    "text": "是坦密爾納杜邦電影界30年來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1527.64,
+    "duration": 2,
+    "text": "最有號召力的演員之一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1529.64,
+    "duration": 1.3199999999999363,
+    "text": "但他的造勢場合",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1530.96,
+    "duration": 1.8399999999999181,
+    "text": "不是第一次出人命",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1532.8,
+    "duration": 1.0399999999999636,
+    "text": "去年10月",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1533.84,
+    "duration": 2.040000000000191,
+    "text": "維傑創黨後的首次集會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1535.88,
+    "duration": 2.2399999999997817,
+    "text": "就至少有6人死亡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1538.12,
+    "duration": 2.2000000000000455,
+    "text": "國人新聞就很請別異",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1540.32,
+    "duration": 2.9200000000000728,
+    "text": "關心天氣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1543.24,
+    "duration": 3.2799999999999727,
+    "text": "節節提供您各地的奇想資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1549.6,
+    "duration": 2,
+    "text": "(音樂)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1578.96,
+    "duration": 2,
+    "text": "(音樂)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1580.96,
+    "duration": 8.3599999999999,
+    "text": "感謝您收看這一集的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1589.32,
+    "duration": 0.9200000000000728,
+    "text": "我是劉萱雯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1590.24,
+    "duration": 2,
+    "text": "明天同一時間再會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1608.76,
+    "duration": 2,
+    "text": "(音樂)",
+    "hasSignLanguage": false
+  }
+]

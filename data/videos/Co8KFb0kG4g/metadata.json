@@ -1,0 +1,25 @@
+{
+  "id": "Co8KFb0kG4g",
+  "title": "20251017 公視手語新聞 完整版｜台積電Q3營收新高 擬再尋地擴建美廠",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-10-17T05:50:45Z",
+  "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
+  "addedAt": "2025-10-17T07:00:04.634Z",
+  "processingStatus": {
+    "lastUpdated": "2025-10-17T07:00:06.637Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-10-19T14:23:29.719Z",
+    "transcriptSegments": 430,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-10-19T22:26:20.822007",
+    "totalSegments": 430,
+    "signLanguageSegments": 125,
+    "coverage": 29.01234567901235
+  }
+}

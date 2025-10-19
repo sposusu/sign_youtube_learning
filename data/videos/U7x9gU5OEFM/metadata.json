@@ -6,12 +6,16 @@
   "thumbnail": "https://i.ytimg.com/vi/U7x9gU5OEFM/hqdefault.jpg",
   "addedAt": "2025-09-26T07:00:03.994Z",
   "processingStatus": {
-    "lastUpdated": "2025-09-26T07:00:05.997Z",
-    "isNew": true,
-    "needsWhisperProcessing": true,
-    "needsClassification": true,
-    "whisperProcessed": false,
-    "processingError": "Command failed with code 1: WARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/a61444a1/player_ias.vflset/en_US/base.js\nWARNING: [youtube] U7x9gU5OEFM: nsig extraction failed: Some formats may be missing\n         n = pEY4wrictMkCdfbN ; player = https://www.youtube.com/s/player/a61444a1/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] U7x9gU5OEFM: nsig extraction failed: Some formats may be missing\n         n = Off-nv9E-nWIoPKk ; player = https://www.youtube.com/s/player/a61444a1/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] U7x9gU5OEFM: nsig extraction failed: Some formats may be missing\n         n = 3BrzMn74deNtUxw0 ; player = https://www.youtube.com/s/player/a61444a1/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] U7x9gU5OEFM: nsig extraction failed: Some formats may be missing\n         n = MgV1SLirAnNSx79I ; player = https://www.youtube.com/s/player/a61444a1/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] U7x9gU5OEFM: nsig extraction failed: Some formats may be missing\n         n = NAs7TQS1vv8FI0D4 ; player = https://www.youtube.com/s/player/a61444a1/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] U7x9gU5OEFM: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] U7x9gU5OEFM: Requested format is not available. Use --list-formats for a list of available formats\n",
-    "errorAt": "2025-09-26T07:00:10.352Z"
+    "lastUpdated": "2025-10-17T07:00:06.637Z",
+    "isNew": false,
+    "needsWhisperProcessing": false,
+    "needsClassification": false
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-10-19T23:18:21.396372",
+    "totalSegments": 394,
+    "signLanguageSegments": 110,
+    "coverage": 33.106267029972756
   }
 }

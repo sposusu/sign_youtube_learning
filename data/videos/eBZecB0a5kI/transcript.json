@@ -1,1 +1,2954 @@
-[]
+[
+  {
+    "start": 0,
+    "duration": 12,
+    "text": "(音樂)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 12,
+    "duration": 2,
+    "text": "看新聞 開視野",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 14,
+    "duration": 5,
+    "text": "歡迎收看今天九月二十四號的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 19,
+    "duration": 5,
+    "text": "小鄉來關心 隨著牆台劃家沙離開",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 24,
+    "duration": 5,
+    "text": "海上颱風警報 已經在昨晚八點半解除",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 29,
+    "duration": 4,
+    "text": "不過這次颱風 已經造成14個人死亡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 33,
+    "duration": 3,
+    "text": "還有18個人受傷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 36,
+    "duration": 4,
+    "text": "災情最嚴重的是在花蓮",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 40,
+    "duration": 3,
+    "text": "馬太安溪的燕色湖溢流",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 43,
+    "duration": 4,
+    "text": "洪水夾雜著沙石衝向下游",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 47,
+    "duration": 3,
+    "text": "大橋瞬間被沖毀",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 50,
+    "duration": 4,
+    "text": "下午更是直接淹進了光復市區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 54,
+    "duration": 3,
+    "text": "當地成了汪洋一片",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 57,
+    "duration": 4,
+    "text": "許多人緊急逃到二三樓避難",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 61,
+    "duration": 9,
+    "text": "滾滾泥流灌進超市 貨架商品東倒西歪",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 70,
+    "duration": 3,
+    "text": "店員抓著木板前進 保命優先",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 73,
+    "duration": 2,
+    "text": "衝上來了 衝上來了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 75,
+    "duration": 2,
+    "text": "真的很誇張耶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 77,
+    "duration": 2,
+    "text": "花蓮光復水淹進一層樓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 79,
+    "duration": 2,
+    "text": "全是因為滾滾洪水襲來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 81,
+    "duration": 3,
+    "text": "湍急水勢夾帶土石不停宣洩而出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 84,
+    "duration": 2,
+    "text": "驚悚場面引爆災情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 86,
+    "duration": 3,
+    "text": "橋不見了 橋掉了 橋掉了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 89,
+    "duration": 3,
+    "text": "眼前的馬太安溪橋瞬間被泥流沖斷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 92,
+    "duration": 3,
+    "text": "整座橋不抵水勢 吞沒在溪流中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 95,
+    "duration": 2,
+    "text": "在場的監控人員也立刻上車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 97,
+    "duration": 2,
+    "text": "催油門逃離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 99,
+    "duration": 3,
+    "text": "完了 沒有橋了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 102,
+    "duration": 2,
+    "text": "馬太安溪水位突然暴漲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 104,
+    "duration": 3,
+    "text": "因為上游燕色湖在二十三號下午兩點多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 107,
+    "duration": 2,
+    "text": "陸續發生兩波溢流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 109,
+    "duration": 3,
+    "text": "統計共有六千萬噸蓄水傾瀉而出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 112,
+    "duration": 5,
+    "text": "哇 比剛才還大 一斤高的一米多了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 117,
+    "duration": 3,
+    "text": "你看 很像浪啊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 120,
+    "duration": 2,
+    "text": "洪水直衝光復鄉市區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 122,
+    "duration": 3,
+    "text": "泰巴朗河北富村等聚落一一都被淹沒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 125,
+    "duration": 2,
+    "text": "一名婦人反應不急",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 127,
+    "duration": 3,
+    "text": "只能夠警報柱子 索性最後平安獲救",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 130,
+    "duration": 3,
+    "text": "驚險畫面宛如災難電影",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 133,
+    "duration": 2,
+    "text": "白色車子裡面有了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 135,
+    "duration": 2,
+    "text": "這台灰色不知道裡面有了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 137,
+    "duration": 1,
+    "text": "好 因為現在這個人在那邊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 138,
+    "duration": 2,
+    "text": "他們不知道什麼事",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 140,
+    "duration": 3,
+    "text": "不知道什麼事吧 你們不要這麼放啊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 143,
+    "duration": 2,
+    "text": "幫護照給我變一下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 145,
+    "duration": 2,
+    "text": "民眾看傻了眼 不敢相信黑色泥流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 147,
+    "duration": 3,
+    "text": "直接衝破家門 沉了汪洋一片",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 150,
+    "duration": 5,
+    "text": "我的天啊 媽媽 我要淹過來了啦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 155,
+    "duration": 3,
+    "text": "有兒子抱著行動不便的父親到屋頂避難",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 158,
+    "duration": 2,
+    "text": "也有人帶布的輪椅被沖走",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 160,
+    "duration": 2,
+    "text": "下半身全是泥濘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 162,
+    "duration": 3,
+    "text": "我現在東西可以扶 好好好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 165,
+    "duration": 2,
+    "text": "花蓮縣長徐珍衛緊急作證指揮中心",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 167,
+    "duration": 3,
+    "text": "表示大同水門和大安水門開啟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 170,
+    "duration": 3,
+    "text": "成功把洪水引導回光復溪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 173,
+    "duration": 2,
+    "text": "東赴一帶昨天晚間水勢已退",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 175,
+    "duration": 3,
+    "text": "但是當地淹水又停電 交通不便",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 178,
+    "duration": 3,
+    "text": "臺九線馬太安溪橋無法通行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 181,
+    "duration": 3,
+    "text": "臺十一線花蓮大橋也封閉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 197,
+    "duration": 16,
+    "text": "直到週三清晨 當地降雨人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 213,
+    "duration": 3,
+    "text": "持續 各單位嚴加戒備監測",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 216,
+    "duration": 3,
+    "text": "災民也盼望家園能夠儘速回歸日常",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 219,
+    "duration": 4,
+    "text": "公視新聞綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 223,
+    "duration": 3,
+    "text": "花蓮的夜色湖溢流非常嚴重",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 226,
+    "duration": 4,
+    "text": "幾乎把整個市區給淹沒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 230,
+    "duration": 4,
+    "text": "而現在光復市區的水已經退了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 234,
+    "duration": 4,
+    "text": "前進指揮中心正漏夜的清淤",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 238,
+    "duration": 4,
+    "text": "不少縣市也都派出救災人員",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 242,
+    "duration": 6,
+    "text": "以及救生艇等器材前往支援",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 248,
+    "duration": 2,
+    "text": "馬太安溪橋被洪水沖毀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 250,
+    "duration": 3,
+    "text": "多處道路因水勢雨沖刷受損或被破封閉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 253,
+    "duration": 3,
+    "text": "許多車輛因道路嚴重積水過不去",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 256,
+    "duration": 2,
+    "text": "包含警車在內也受困",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 258,
+    "duration": 17,
+    "text": "光復鄉仁愛路十四號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 275,
+    "duration": 3,
+    "text": "因水深急溪且多泥濘 無法進入",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 278,
+    "duration": 2,
+    "text": "中正路與敦厚路口派出所旁泥濘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 280,
+    "duration": 2,
+    "text": "約有二十到三十公分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 282,
+    "duration": 2,
+    "text": "目前光復市區水已退",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 284,
+    "duration": 2,
+    "text": "前進指揮中心正漏夜清淤",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 286,
+    "duration": 2,
+    "text": "宜蘭方面派出消防弟兄及裝備",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 288,
+    "duration": 2,
+    "text": "等前往協助 出發前",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 290,
+    "duration": 2,
+    "text": "宜蘭代理縣長林茂勝",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 292,
+    "duration": 2,
+    "text": "為支援的消防弟兄精神講話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 294,
+    "duration": 3,
+    "text": "並提醒注意自身安全",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 306,
+    "duration": 3,
+    "text": "屏東縣政府二十三號傍晚五點半",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 309,
+    "duration": 3,
+    "text": "接獲消防署及花蓮縣政府請求支援",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 312,
+    "duration": 2,
+    "text": "立即啟動跨縣市救援機制",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 314,
+    "duration": 2,
+    "text": "出動八車二十三人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 316,
+    "duration": 1,
+    "text": "並有四艘動力救生艇",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 317,
+    "duration": 4,
+    "text": "三艘守華式橡皮艇及相關救災器材協助",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 321,
+    "duration": 2,
+    "text": "花蓮縣消防局表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 323,
+    "duration": 4,
+    "text": "目前已有新北 宜蘭 臺東及屏東等縣市支援",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 327,
+    "duration": 2,
+    "text": "暫無需其他縣市增援",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 329,
+    "duration": 2,
+    "text": "此外臺北市也派員前往",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 331,
+    "duration": 2,
+    "text": "高雄市主動表達支援意願",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 333,
+    "duration": 3,
+    "text": "特搜大隊則完成人員 器材及車輛整備",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 336,
+    "duration": 3,
+    "text": "若有進一步需求將立即投入協助",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 339,
+    "duration": 2,
+    "text": "總統賴清德二十三號晚間表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 341,
+    "duration": 2,
+    "text": "已請行政府長卓榮泰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 343,
+    "duration": 3,
+    "text": "指示中央災害應變中心統合各部會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 346,
+    "duration": 3,
+    "text": "全力協助花蓮縣府採取緊急應變措施",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 349,
+    "duration": 3,
+    "text": "並投入救援受困民眾 公視新聞溫家凱",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 352,
+    "duration": 3,
+    "text": "林建倫 黃瑞玲 鍾建剛綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 355,
+    "duration": 4,
+    "text": "牆臺 華家沙已經遠離",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 359,
+    "duration": 5,
+    "text": "不過現在又有一個颱風波羅一生成",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 364,
+    "duration": 4,
+    "text": "氣象署預測朝著海南島的方向前進",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 368,
+    "duration": 4,
+    "text": "對臺灣沒有直接的影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 372,
+    "duration": 2,
+    "text": "而氣象署提醒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 374,
+    "duration": 3,
+    "text": "今天花蓮 臺東的民眾",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 377,
+    "duration": 3,
+    "text": "還是要嚴防超大豪雨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 380,
+    "duration": 5,
+    "text": "儘管華家沙颱風已經遠離",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 385,
+    "duration": 2,
+    "text": "昨天外圍環流帶來風雨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 387,
+    "duration": 2,
+    "text": "對臺灣造成不小災情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 389,
+    "duration": 2,
+    "text": "花蓮馬太安溪煙色湖溢流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 391,
+    "duration": 2,
+    "text": "沖斷馬太安溪橋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 393,
+    "duration": 3,
+    "text": "重創下游的光復鄉等地",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 396,
+    "duration": 2,
+    "text": "緊鄰的臺東包含太馬里溪多處",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 398,
+    "duration": 2,
+    "text": "也是有溪水暴漲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 400,
+    "duration": 2,
+    "text": "市區的南網以及豐榮里",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 402,
+    "duration": 1,
+    "text": "則是出現淹水",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 403,
+    "duration": 2,
+    "text": "在恆春半島以及小琉球",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 405,
+    "duration": 2,
+    "text": "感受上是風比雨大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 407,
+    "duration": 4,
+    "text": "氣象署資料顯示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 411,
+    "duration": 2,
+    "text": "二十三號上午九點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 413,
+    "duration": 3,
+    "text": "小琉球浪高最高六點八公尺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 416,
+    "duration": 2,
+    "text": "恆春半島也有類似情況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 418,
+    "duration": 2,
+    "text": "當地還發出警報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 420,
+    "duration": 1,
+    "text": "強風也一度造成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 421,
+    "duration": 2,
+    "text": "屏東縣將近兩千戶停電",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 423,
+    "duration": 2,
+    "text": "多位於山區鄉鎮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 425,
+    "duration": 2,
+    "text": "尤其獅子鄉停電戶數最多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 427,
+    "duration": 9,
+    "text": "只是當地道路泥濘難行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 436,
+    "duration": 3,
+    "text": "得由公班帶機具徒步進路",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 439,
+    "duration": 3,
+    "text": "先排除倒塌枝幹才能搶修",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 446,
+    "duration": 5,
+    "text": "不只東部北部基隆的雨勢",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 451,
+    "duration": 2,
+    "text": "同樣一陣一陣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 453,
+    "duration": 2,
+    "text": "就在威海營區的舊址內",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 455,
+    "duration": 2,
+    "text": "怪獸持續在泥水中作業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 457,
+    "duration": 2,
+    "text": "因為二十三號上午",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 459,
+    "duration": 2,
+    "text": "一旁的中正路才剛淹水",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 461,
+    "duration": 2,
+    "text": "最深處超過五十公分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 463,
+    "duration": 2,
+    "text": "範圍超過一百公尺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 465,
+    "duration": 3,
+    "text": "而昨天生成的熱帶性低氣壓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 468,
+    "duration": 2,
+    "text": "在凌晨兩點發展成為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 470,
+    "duration": 2,
+    "text": "第二十號颱風波羅一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 476,
+    "duration": 2,
+    "text": "在菲律賓東方海面生成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 478,
+    "duration": 2,
+    "text": "在通過菲律賓的時候",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 480,
+    "duration": 2,
+    "text": "距離臺灣算是有一段",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 482,
+    "duration": 2,
+    "text": "蠻長的一個距離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 484,
+    "duration": 1,
+    "text": "所以對臺灣的影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 485,
+    "duration": 2,
+    "text": "並不是那麼明顯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 487,
+    "duration": 2,
+    "text": "通過菲律賓中部之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 489,
+    "duration": 1,
+    "text": "他會進到南海",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 490,
+    "duration": 1,
+    "text": "進到南海過後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 491,
+    "duration": 3,
+    "text": "大概也還是會朝向海南道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 494,
+    "duration": 1,
+    "text": "這個方向前進",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 495,
+    "duration": 1,
+    "text": "氣象署表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 496,
+    "duration": 2,
+    "text": "波羅一有機會發展成為中臺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 498,
+    "duration": 2,
+    "text": "對臺灣沒有直接影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 500,
+    "duration": 2,
+    "text": "而目前西太平洋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 502,
+    "duration": 3,
+    "text": "已經有強臺化加沙和中臺晚熊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 505,
+    "duration": 2,
+    "text": "再加上波羅一再度形成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 507,
+    "duration": 2,
+    "text": "三臺共舞的局面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 509,
+    "duration": 3,
+    "text": "公視新聞綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 535,
+    "duration": 7,
+    "text": "在一月內要完成全面下架回收",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 542,
+    "duration": 3,
+    "text": "再來看到自由時報報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 545,
+    "duration": 4,
+    "text": "醫學中心急診優色的問題嚴重",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 549,
+    "duration": 5,
+    "text": "衛福部提出假日急症中心解方",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 554,
+    "duration": 2,
+    "text": "在大型醫院附近",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 556,
+    "duration": 1,
+    "text": "手指發燒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 557,
+    "duration": 4,
+    "text": "外傷縫合等輕度症狀的患者",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 561,
+    "duration": 2,
+    "text": "分流病患",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 563,
+    "duration": 2,
+    "text": "衛福部昨天表示",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 565,
+    "duration": 2,
+    "text": "最快十一月上路",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 567,
+    "duration": 5,
+    "text": "其中臺北市跟桃園市已經選定據點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 572,
+    "duration": 2,
+    "text": "聯合報提到了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 574,
+    "duration": 4,
+    "text": "晶片巨頭揮達前天宣布",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 578,
+    "duration": 4,
+    "text": "將要投資人工智慧大廠OpenAI",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 582,
+    "duration": 3,
+    "text": "高達一千億美元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 585,
+    "duration": 3,
+    "text": "約臺幣三兆元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 588,
+    "duration": 6,
+    "text": "打造下一代AI數據中心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 594,
+    "duration": 2,
+    "text": "而看完報紙的重點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 596,
+    "duration": 2,
+    "text": "繼續再來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 598,
+    "duration": 2,
+    "text": "普發現金一萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 600,
+    "duration": 3,
+    "text": "最快預計十月發放",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 603,
+    "duration": 3,
+    "text": "要不要有不領取的選項",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 606,
+    "duration": 2,
+    "text": "行政府昨天表示",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 608,
+    "duration": 2,
+    "text": "考量到另一件系統",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 610,
+    "duration": 3,
+    "text": "將會延宕發放的時程",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 613,
+    "duration": 4,
+    "text": "因此決議不增設不領取的選項",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 617,
+    "duration": 3,
+    "text": "不過民眾要特別留意",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 620,
+    "duration": 2,
+    "text": "現在錢還沒發放",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 622,
+    "duration": 2,
+    "text": "已經有詐騙集團",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 624,
+    "duration": 2,
+    "text": "用普發現金的名義",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 626,
+    "duration": 2,
+    "text": "假冒政府機關",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 628,
+    "duration": 4,
+    "text": "誘騙民眾點擊釣魚網址",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 632,
+    "duration": 4,
+    "text": "有人就被盜刷了五萬多元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 636,
+    "duration": 9,
+    "text": "普發現金一萬最快十月發放",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 645,
+    "duration": 3,
+    "text": "行政府長卓宏泰原先只是研議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 648,
+    "duration": 2,
+    "text": "增加不領取選項的可行性",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 650,
+    "duration": 1,
+    "text": "不只引發爭議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 651,
+    "duration": 2,
+    "text": "就連民進黨立委也有聲音",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 653,
+    "duration": 2,
+    "text": "吳思瑤就在臉書po文",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 655,
+    "duration": 2,
+    "text": "認為是擾民多此一舉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 657,
+    "duration": 3,
+    "text": "要求負面政策要趕快改",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 660,
+    "duration": 6,
+    "text": "行政府二十三號表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 666,
+    "duration": 1,
+    "text": "為了防止個資冒用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 667,
+    "duration": 2,
+    "text": "如果增設不領取頁面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 669,
+    "duration": 2,
+    "text": "必須建置另一套身份驗證系統",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 671,
+    "duration": 3,
+    "text": "將延宕整體普發現金時程",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 674,
+    "duration": 3,
+    "text": "決議維持原有的領取管道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 677,
+    "duration": 13,
+    "text": "詐騙集團也看準時機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 690,
+    "duration": 3,
+    "text": "從八月普發現金議題發酵開始",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 693,
+    "duration": 1,
+    "text": "大量發送假冒財政部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 694,
+    "duration": 2,
+    "text": "等政府機關的電子郵件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 696,
+    "duration": 2,
+    "text": "跟釣魚簡訊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 698,
+    "duration": 1,
+    "text": "已經有民眾點擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 699,
+    "duration": 3,
+    "text": "假冒政府email連結假網址後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 702,
+    "duration": 2,
+    "text": "輸入信用卡資訊甚至不已有他",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 704,
+    "duration": 3,
+    "text": "按照網頁指示輸入OTP驗證碼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 707,
+    "duration": 2,
+    "text": "被盜刷五萬多元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 709,
+    "duration": 12,
+    "text": "刑事局分析",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 721,
+    "duration": 1,
+    "text": "詐團的釣魚網址",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 722,
+    "duration": 1,
+    "text": "都是運用類似於",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 723,
+    "duration": 2,
+    "text": "政府官方網頁的帳號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 725,
+    "duration": 2,
+    "text": "針對這類的假網站 假連結",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 727,
+    "duration": 1,
+    "text": "以強力追查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 728,
+    "duration": 2,
+    "text": "並且予以封鎖屏蔽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 730,
+    "duration": 1,
+    "text": "財政部提醒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 731,
+    "duration": 2,
+    "text": "政府機關專用網址結尾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 733,
+    "duration": 2,
+    "text": "是.gov.tw",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 735,
+    "duration": 2,
+    "text": "政府不會發簡訊或電子郵件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 737,
+    "duration": 2,
+    "text": "通知領錢或登錄",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 739,
+    "duration": 2,
+    "text": "不會用電話要求到ATM",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 741,
+    "duration": 1,
+    "text": "或網銀操作轉帳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 742,
+    "duration": 3,
+    "text": "呼籲民眾要提高警覺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 745,
+    "duration": 2,
+    "text": "公視新聞 張明如臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 761,
+    "duration": 27,
+    "text": "臺中成功地傳出打靶意外",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 788,
+    "duration": 1,
+    "text": "造成一名十八歲的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 789,
+    "duration": 3,
+    "text": "紹興士兵 左臉大面積受創",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 792,
+    "duration": 2,
+    "text": "生命跡象雖然穩定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 794,
+    "duration": 2,
+    "text": "但還沒有脫離險境",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 796,
+    "duration": 2,
+    "text": "軍方也在二十三號下午對外說明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 798,
+    "duration": 2,
+    "text": "初步排除是機械",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 800,
+    "duration": 17,
+    "text": "以及彈藥出了問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 817,
+    "duration": 2,
+    "text": "軍方指出 隸屬於機部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 819,
+    "duration": 2,
+    "text": "二三四旅的紹興士兵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 821,
+    "duration": 2,
+    "text": "二十二號下午真的靶場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 823,
+    "duration": 2,
+    "text": "進行T九一步槍的例行性訓練",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 825,
+    "duration": 2,
+    "text": "當時射擊線上的其他林兵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 827,
+    "duration": 2,
+    "text": "都已經完成射擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 829,
+    "duration": 2,
+    "text": "他是最後一位射擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 831,
+    "duration": 2,
+    "text": "也是該靶槍的最後一發子彈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 833,
+    "duration": 2,
+    "text": "事發之後 槍支送往鑑定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 835,
+    "duration": 2,
+    "text": "也排除他人誤擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 847,
+    "duration": 2,
+    "text": "院方表示 目前以維持生命",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 849,
+    "duration": 2,
+    "text": "真相穩定為目標",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 851,
+    "duration": 2,
+    "text": "因為需要兩個星期的觀察",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 853,
+    "duration": 2,
+    "text": "也已經轉院到臺北三總持續治療",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 855,
+    "duration": 2,
+    "text": "而軍事專家則指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 857,
+    "duration": 2,
+    "text": "T九一步槍是目前國軍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 859,
+    "duration": 2,
+    "text": "使用的主力槍支",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 861,
+    "duration": 3,
+    "text": "初步推測並非槍支本身出了問題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 864,
+    "duration": 3,
+    "text": "但從該槍只能從右側射擊來研判",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 867,
+    "duration": 3,
+    "text": "士兵的左臉受傷有不少疑點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 870,
+    "duration": 4,
+    "text": "這代表他並不是在射擊線上",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 874,
+    "duration": 2,
+    "text": "所發生的狀況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 876,
+    "duration": 2,
+    "text": "而是不是在我們什麼開保險",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 878,
+    "duration": 2,
+    "text": "然後這個正常的使用狀況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 880,
+    "duration": 2,
+    "text": "在不同的姿態之下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 882,
+    "duration": 2,
+    "text": "然後就不明原因的射擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 884,
+    "duration": 14,
+    "text": "臺中地檢署也已經指派",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 898,
+    "duration": 2,
+    "text": "有職業軍人專業背景的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 900,
+    "duration": 2,
+    "text": "檢察官指揮偵辦",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 902,
+    "duration": 2,
+    "text": "軍方也將現場的錄影畫面交給檢方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 904,
+    "duration": 2,
+    "text": "同時啟動內部調查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 906,
+    "duration": 2,
+    "text": "要儘早釐清事故的真相",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 908,
+    "duration": 3,
+    "text": "公視新聞林建生 臺中報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 934,
+    "duration": 3,
+    "text": "開學後出現了多起校園群聚",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 937,
+    "duration": 2,
+    "text": "二十二號甚至傳出",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 939,
+    "duration": 2,
+    "text": "有一名未接種流感疫苗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 941,
+    "duration": 2,
+    "text": "的幼兒園大班幼童",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 943,
+    "duration": 4,
+    "text": "因為流感重症不治死亡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 947,
+    "duration": 2,
+    "text": "前期幼兒園不論是老師",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 949,
+    "duration": 2,
+    "text": "還是小朋友全都得仔細",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 951,
+    "duration": 2,
+    "text": "吸收才能避免病毒早上升",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 953,
+    "duration": 2,
+    "text": "因為雲林縣許多學校或幼兒園",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 955,
+    "duration": 3,
+    "text": "在開學後傳出多起群聚事件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 958,
+    "duration": 2,
+    "text": "某位雲林幼兒園",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 960,
+    "duration": 2,
+    "text": "未接種流感疫苗的大班幼童",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 962,
+    "duration": 2,
+    "text": "這個月十三號發燒 隔天到診所",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 964,
+    "duration": 2,
+    "text": "做快篩確診A流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 966,
+    "duration": 2,
+    "text": "但吃藥後仍高燒不退",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 968,
+    "duration": 2,
+    "text": "送醫急診後又轉入加護病房",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 970,
+    "duration": 2,
+    "text": "仍在二十二號因重症死亡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 990,
+    "duration": 2,
+    "text": "雲林校園群聚情況嚴重",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 992,
+    "duration": 2,
+    "text": "鏡頭轉到北市的一般診所",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 994,
+    "duration": 2,
+    "text": "小兒科醫師也有感 九月開學以後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 996,
+    "duration": 2,
+    "text": "流感患者比例明顯增多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 998,
+    "duration": 12,
+    "text": "疾管署二十三號開記者會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1010,
+    "duration": 2,
+    "text": "公佈國內十四號到二十號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1012,
+    "duration": 2,
+    "text": "類流感門急診就診餘十一點五萬人次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1014,
+    "duration": 3,
+    "text": "比起前一週上升百分之十三點一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1017,
+    "duration": 2,
+    "text": "至於急診就診比例來到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1019,
+    "duration": 2,
+    "text": "百分之十一點五 目前社區中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1021,
+    "duration": 2,
+    "text": "流行的呼吸道病原體",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1023,
+    "duration": 2,
+    "text": "以流感病毒為主 其中又",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1025,
+    "duration": 2,
+    "text": "A型H1N1居多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1027,
+    "duration": 20,
+    "text": "疾管署表示預防流感最有效的方法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1047,
+    "duration": 2,
+    "text": "就是接種流感疫苗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1049,
+    "duration": 2,
+    "text": "疾管署已採購近六百四十八萬劑的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1051,
+    "duration": 3,
+    "text": "公費流感疫苗 從十月一號起將分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1054,
+    "duration": 3,
+    "text": "兩階段施打 呼籲民眾踴躍接種",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1057,
+    "duration": 2,
+    "text": "才能獲得足夠保護力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1059,
+    "duration": 2,
+    "text": "光是新聞郵件社 郭劇女王維雄",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1061,
+    "duration": 2,
+    "text": "臺北雲林報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1063,
+    "duration": 2,
+    "text": "移民署宣佈",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1065,
+    "duration": 2,
+    "text": "臺灣將正式推行",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1067,
+    "duration": 4,
+    "text": "網路填寫入國登記表",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1071,
+    "duration": 3,
+    "text": "外國以及中國旅客來臺",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1074,
+    "duration": 2,
+    "text": "原本填寫的紙本入境卡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1076,
+    "duration": 6,
+    "text": "將在十月一號正式步入歷史",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1082,
+    "duration": 2,
+    "text": "親自可由其中一個人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1084,
+    "duration": 3,
+    "text": "幫忙其他同行者填寫",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1087,
+    "duration": 5,
+    "text": "最多可以填寫十六名旅客",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1092,
+    "duration": 2,
+    "text": "內政部移民署宣佈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1094,
+    "duration": 2,
+    "text": "從十月開始要全面實施",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1096,
+    "duration": 3,
+    "text": "線上入國登記表等於正式淘汰紙本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1099,
+    "duration": 2,
+    "text": "除了要加速通關的效率之外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1101,
+    "duration": 2,
+    "text": "也要減少旅客手寫卡片的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1103,
+    "duration": 7,
+    "text": "繁瑣程序",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1110,
+    "duration": 2,
+    "text": "電子A卡從今年五月五號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1112,
+    "duration": 3,
+    "text": "退出 具備中英 日韓 太越 印尼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1115,
+    "duration": 1,
+    "text": "等七國語言說明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1116,
+    "duration": 3,
+    "text": "以及自動帶入護照資料等功能",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1119,
+    "duration": 2,
+    "text": "外國旅客多數覺得電子化是趨勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1121,
+    "duration": 2,
+    "text": "但也憂心取消紙本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1123,
+    "duration": 2,
+    "text": "會讓長輩們不知所措",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1134,
+    "duration": 2,
+    "text": "我也是在中國做的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1136,
+    "duration": 3,
+    "text": "我在五年前來到台灣的時候",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1139,
+    "duration": 2,
+    "text": "我還在紙上做的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1141,
+    "duration": 2,
+    "text": "很多人都在幫忙",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1143,
+    "duration": 2,
+    "text": "甚至有很多年輕人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1145,
+    "duration": 2,
+    "text": "都可以從他們身上得到幫助",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1147,
+    "duration": 2,
+    "text": "所以我覺得這是一步",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1149,
+    "duration": 2,
+    "text": "我們必須在網上做的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1151,
+    "duration": 2,
+    "text": "但是他們也在服務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1153,
+    "duration": 2,
+    "text": "所以我覺得還可以",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1155,
+    "duration": 2,
+    "text": "以民署提醒 需要填寫的對象",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1157,
+    "duration": 2,
+    "text": "包括外國旅客 中國大陸地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1159,
+    "duration": 2,
+    "text": "人民 港澳居民",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1161,
+    "duration": 1,
+    "text": "以及無戶籍的國民",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1162,
+    "duration": 1,
+    "text": "而為了考量家庭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1163,
+    "duration": 2,
+    "text": "以及團體旅客的需求",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1165,
+    "duration": 2,
+    "text": "TWAC支援一人最多可幫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1167,
+    "duration": 3,
+    "text": "十六名同行者進行填寫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1170,
+    "duration": 1,
+    "text": "其實我覺得比較可惜的環通",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1171,
+    "duration": 1,
+    "text": "其實比較短",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1172,
+    "duration": 2,
+    "text": "韓國那邊就是今年公佈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1174,
+    "duration": 1,
+    "text": "要開始電子化之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1175,
+    "duration": 2,
+    "text": "它就是電子化跟紙本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1177,
+    "duration": 1,
+    "text": "兩個同行的方法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1178,
+    "duration": 2,
+    "text": "所以我覺得是比較可惜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1180,
+    "duration": 2,
+    "text": "雖然我們在韓國",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1182,
+    "duration": 1,
+    "text": "開始電子化之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1183,
+    "duration": 2,
+    "text": "它就是電子化跟紙本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1185,
+    "duration": 1,
+    "text": "兩個同時並行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1186,
+    "duration": 3,
+    "text": "一直到今年二零二五年的十二月",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1189,
+    "duration": 2,
+    "text": "才會全面取消紙本的部分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1191,
+    "duration": 1,
+    "text": "臺灣能夠有協助的人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1192,
+    "duration": 1,
+    "text": "協助這些旅客的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1193,
+    "duration": 2,
+    "text": "我覺得會比較好一點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1195,
+    "duration": 2,
+    "text": "TWAC是免付費",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1197,
+    "duration": 2,
+    "text": "外來旅客與抵達臺灣前三天內",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1199,
+    "duration": 2,
+    "text": "需完成填報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1201,
+    "duration": 1,
+    "text": "為了配合新制上路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1202,
+    "duration": 2,
+    "text": "移民署已經提供QR code連結",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1204,
+    "duration": 2,
+    "text": "並協調各大海空運輸業者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1206,
+    "duration": 2,
+    "text": "在機場及港口設置公告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1208,
+    "duration": 1,
+    "text": "方便旅客掃碼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1209,
+    "duration": 1,
+    "text": "如果沒有事先完成的人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1210,
+    "duration": 3,
+    "text": "最晚必須在抵臺後護照查驗之前",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1213,
+    "duration": 1,
+    "text": "完成申報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1214,
+    "duration": 3,
+    "text": "觀眾 臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1217,
+    "duration": 3,
+    "text": "有民眾在臺北市信義區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1220,
+    "duration": 3,
+    "text": "地下停車場直播的時候",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1223,
+    "duration": 2,
+    "text": "發現有動物",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1225,
+    "duration": 4,
+    "text": "沒想到竟然是山槍",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1229,
+    "duration": 2,
+    "text": "趕緊通報動保處",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1231,
+    "duration": 2,
+    "text": "派人來捕捉",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1233,
+    "duration": 7,
+    "text": "再到山區野方",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1240,
+    "duration": 1,
+    "text": "山槍的走法是跳的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1241,
+    "duration": 2,
+    "text": "跳的跳的跳的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1243,
+    "duration": 2,
+    "text": "就跟卡通一樣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1245,
+    "duration": 1,
+    "text": "民眾楊先生",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1246,
+    "duration": 2,
+    "text": "二十二號下午兩點多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1248,
+    "duration": 1,
+    "text": "在地下停車場直播中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1249,
+    "duration": 2,
+    "text": "原以為出現在鏡頭裡的動物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1251,
+    "duration": 1,
+    "text": "是貓或狗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1252,
+    "duration": 3,
+    "text": "沒想到竟然是野生動物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1255,
+    "duration": 2,
+    "text": "這是山槍 野生動物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1257,
+    "duration": 2,
+    "text": "山槍沿著牆壁躲人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1259,
+    "duration": 2,
+    "text": "受驚嚇時還跳得很高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1261,
+    "duration": 2,
+    "text": "楊先生趕緊通報動保處",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1263,
+    "duration": 1,
+    "text": "才在車底下找到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1264,
+    "duration": 3,
+    "text": "經過一番功夫動保人員總算抓到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1267,
+    "duration": 3,
+    "text": "楊先生說很擔心山槍沒抓到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1270,
+    "duration": 2,
+    "text": "逃到馬路上會命喪淪下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1272,
+    "duration": 3,
+    "text": "如果衝出去以他那種速度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1275,
+    "duration": 3,
+    "text": "我估計那個騎機車的 開車的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1278,
+    "duration": 2,
+    "text": "不知道有多少人會被他嚇到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1280,
+    "duration": 2,
+    "text": "你會怕擔心他被路殺嗎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1282,
+    "duration": 1,
+    "text": "怕路殺 老實講",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1283,
+    "duration": 3,
+    "text": "北市動保處評估山槍狀況不錯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1286,
+    "duration": 1,
+    "text": "隨後帶去野方",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1287,
+    "duration": 1,
+    "text": "其實三年來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1288,
+    "duration": 3,
+    "text": "已接獲民眾通報有山槍約八十件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1291,
+    "duration": 2,
+    "text": "研判與靠山邊有關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1293,
+    "duration": 2,
+    "text": "更呼籲民眾山槍很膽小",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1295,
+    "duration": 2,
+    "text": "遇到十千萬別自己抓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1297,
+    "duration": 14,
+    "text": "淺山包圍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1311,
+    "duration": 1,
+    "text": "位於東湖的宮市",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1312,
+    "duration": 2,
+    "text": "也曾有山槍造訪進入餐廳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1314,
+    "duration": 2,
+    "text": "通報動保處捕捉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1316,
+    "duration": 2,
+    "text": "基隆也有民眾派下山槍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1318,
+    "duration": 2,
+    "text": "跑到公寓樓梯十分緊張",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1320,
+    "duration": 2,
+    "text": "脫逃速度非常快",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1322,
+    "duration": 2,
+    "text": "專家指出山槍跑到都市",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1324,
+    "duration": 2,
+    "text": "與人狹路相逢機率提高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1326,
+    "duration": 2,
+    "text": "主要是數量變多了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1328,
+    "duration": 14,
+    "text": "山槍已從保育類",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1342,
+    "duration": 2,
+    "text": "降級為一般類野生動物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1344,
+    "duration": 2,
+    "text": "專家表示聽過有機農民抱怨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1346,
+    "duration": 2,
+    "text": "山槍進入田區吃食作物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1348,
+    "duration": 3,
+    "text": "蓋一公尺高為敵也擋不了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1351,
+    "duration": 2,
+    "text": "認為即彌猴數量增加",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1353,
+    "duration": 1,
+    "text": "人猴衝突頻傳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1354,
+    "duration": 2,
+    "text": "山槍應該是下個物種",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1356,
+    "duration": 3,
+    "text": "人槍衝突恐成未來隱憂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1359,
+    "duration": 3,
+    "text": "公視新聞 臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1375,
+    "duration": 3,
+    "text": "而新列車從外觀到內裝",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1378,
+    "duration": 2,
+    "text": "都有不同以往的設計",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1380,
+    "duration": 2,
+    "text": "現在就跟著公視",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1382,
+    "duration": 2,
+    "text": "國際記者的鏡頭",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1384,
+    "duration": 4,
+    "text": "到JR列車基地來搶先狙擊",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1388,
+    "duration": 5,
+    "text": "潛入日本JR新幹線的車輛基地",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1393,
+    "duration": 3,
+    "text": "這輛最新款N700S車型",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1396,
+    "duration": 2,
+    "text": "外觀看似跟一般列車沒有太大不同",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1398,
+    "duration": 3,
+    "text": "但其實從裡到外都大有來頭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1401,
+    "duration": 2,
+    "text": "這裡是日本新幹線的N700S車廂",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1403,
+    "duration": 1,
+    "text": "那麼未來臺灣的高鐵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1404,
+    "duration": 2,
+    "text": "也會採取相同的車廂類型",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1406,
+    "duration": 3,
+    "text": "除了可以看到行李置物的空間變大以外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1409,
+    "duration": 2,
+    "text": "未來在每一個座位上都會設置插頭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1411,
+    "duration": 1,
+    "text": "讓旅客充電",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1412,
+    "duration": 3,
+    "text": "上頭空間能放得下26寸行李箱",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1415,
+    "duration": 2,
+    "text": "比現行的大出許多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1417,
+    "duration": 1,
+    "text": "全自動車廂門",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1418,
+    "duration": 2,
+    "text": "就算大包小包也能移動自如",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1420,
+    "duration": 2,
+    "text": "廁所設置獨立洗手台",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1422,
+    "duration": 2,
+    "text": "座椅上有個人閱讀燈",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1424,
+    "duration": 1,
+    "text": "餐桌面積加大等",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1425,
+    "duration": 3,
+    "text": "在內裝部分充滿貼心設計",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1428,
+    "duration": 2,
+    "text": "車輛本身性能更有大突破",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1430,
+    "duration": 4,
+    "text": "採用這個車型它可以減少20%的耗能",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1434,
+    "duration": 4,
+    "text": "那它還有減少20%的煞車距離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1438,
+    "duration": 2,
+    "text": "兼顧到安全這個功能",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1440,
+    "duration": 4,
+    "text": "那相對的它也有增加一個自走電池的功能",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1444,
+    "duration": 3,
+    "text": "它可以讓我們在遇到緊急狀況的時候",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1447,
+    "duration": 2,
+    "text": "讓車子在沒有電的狀況下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1449,
+    "duration": 2,
+    "text": "移動到安全的地點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1451,
+    "duration": 2,
+    "text": "新研發的至尊雙翼型車頭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1453,
+    "duration": 3,
+    "text": "扁平流線造型減少行駛阻力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1456,
+    "duration": 1,
+    "text": "車間全包覆設計",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1457,
+    "duration": 4,
+    "text": "隔絕噪音搭配減震器提升列車穩定度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1461,
+    "duration": 3,
+    "text": "台灣高鐵向日本採購12組新列車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1464,
+    "duration": 2,
+    "text": "車輛型號將加上一個T",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1466,
+    "duration": 3,
+    "text": "就稱為N700ST",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1488,
+    "duration": 4,
+    "text": "新車輛預計明年運抵台灣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1492,
+    "duration": 2,
+    "text": "2027年下半年投入營運",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1494,
+    "duration": 2,
+    "text": "全數列車上線後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1496,
+    "duration": 3,
+    "text": "尖峰發車能力預估將提高25%",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1499,
+    "duration": 2,
+    "text": "有望解決眼前課題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1501,
+    "duration": 2,
+    "text": "日方過去努力促成高鐵採購案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1503,
+    "duration": 2,
+    "text": "未來新車輛上路後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1505,
+    "duration": 2,
+    "text": "勢必更加深化臺日間的牽絆",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1507,
+    "duration": 4,
+    "text": "公視國積極者十四號日本東京採訪報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1511,
+    "duration": 6,
+    "text": "關心天氣 接著提供您各地的氣象資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1541,
+    "duration": 6,
+    "text": "請不吝點贊訂閱轉發打賞支持明鏡與點點欄目",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1572,
+    "duration": 6,
+    "text": "感謝您收看這一節的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1578,
+    "duration": 3,
+    "text": "我是牛軒文 明天同一時間再會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1601,
+    "duration": 4,
+    "text": "多謝您收睇時局新聞,再會!",
+    "hasSignLanguage": false
+  }
+]
