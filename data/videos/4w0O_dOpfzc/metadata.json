@@ -4,16 +4,11 @@
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
   "publishedAt": "2025-10-15T06:04:26Z",
   "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
-  "addedAt": "2025-10-15T07:00:03.941Z",
-  "processingStatus": {
-    "lastUpdated": "2025-10-20T07:00:06.104Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
-  },
+  "addedAt": null,
+  "processingStatus": null,
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-10-19T22:34:24.396453",
+    "processedAt": "2025-10-22T15:20:49.847459",
     "totalSegments": 566,
     "signLanguageSegments": 110,
     "coverage": 27.70448548812665

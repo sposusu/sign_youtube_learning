@@ -5,14 +5,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-21T05:54:19Z",
     "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": null,
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "9OOqJAwiqV8",
@@ -20,20 +34,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-20T05:54:01Z",
     "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:04:57.853711",
-      "totalSegments": 529,
-      "signLanguageSegments": 123,
-      "coverage": 24.691358024691358
-    },
-    "stats": {
-      "transcriptSegments": 529,
-      "signLanguageGroups": 10,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "Co8KFb0kG4g",
@@ -41,20 +63,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-17T05:50:45Z",
     "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:09:56.136505",
-      "totalSegments": 430,
-      "signLanguageSegments": 125,
-      "coverage": 29.01234567901235
-    },
-    "stats": {
-      "transcriptSegments": 430,
-      "signLanguageGroups": 10,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "jpxpnEehB38",
@@ -62,20 +92,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-16T02:31:33Z",
     "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:16:07.985999",
-      "totalSegments": 499,
-      "signLanguageSegments": 121,
-      "coverage": 24.459542927733168
-    },
-    "stats": {
-      "transcriptSegments": 499,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "4w0O_dOpfzc",
@@ -83,20 +121,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-15T06:04:26Z",
     "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:20:49.847459",
-      "totalSegments": 566,
-      "signLanguageSegments": 110,
-      "coverage": 27.70448548812665
-    },
-    "stats": {
-      "transcriptSegments": 566,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "AaAMSxY8gRw",
@@ -104,20 +150,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-14T05:47:29Z",
     "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:25:15.985644",
-      "totalSegments": 526,
-      "signLanguageSegments": 134,
-      "coverage": 26.033057851239672
-    },
-    "stats": {
-      "transcriptSegments": 526,
-      "signLanguageGroups": 8,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "D0R6mDXYrMU",
@@ -125,20 +179,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-13T01:13:15Z",
     "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:31:21.810582",
-      "totalSegments": 466,
-      "signLanguageSegments": 121,
-      "coverage": 27.413366336633665
-    },
-    "stats": {
-      "transcriptSegments": 466,
-      "signLanguageGroups": 11,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "FFeGOoOJ1k0",
@@ -146,20 +208,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-10T02:10:07Z",
     "thumbnail": "https://i.ytimg.com/vi/FFeGOoOJ1k0/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:37:50.635864",
-      "totalSegments": 535,
-      "signLanguageSegments": 176,
-      "coverage": 35.5775169857937
-    },
-    "stats": {
-      "transcriptSegments": 535,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "F1CH5J7bu7g",
@@ -167,20 +237,28 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-09T01:44:25Z",
     "thumbnail": "https://i.ytimg.com/vi/F1CH5J7bu7g/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:43:24.985401",
-      "totalSegments": 456,
-      "signLanguageSegments": 115,
-      "coverage": 24.242424242424242
-    },
-    "stats": {
-      "transcriptSegments": 456,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   },
   {
     "id": "-Lwda7sUyDw",
@@ -188,19 +266,27 @@
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-08T03:07:25Z",
     "thumbnail": "https://i.ytimg.com/vi/-Lwda7sUyDw/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": null,
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:49:27.484097",
-      "totalSegments": 496,
-      "signLanguageSegments": 129,
-      "coverage": 28.333333333333332
-    },
-    "stats": {
-      "transcriptSegments": 496,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
+    "transcript": [
+      {
+        "text": "各位觀眾大家好",
+        "start": 0.5,
+        "duration": 2.3
+      },
+      {
+        "text": "歡迎收看公視手語新聞",
+        "start": 2.8,
+        "duration": 2.5
+      },
+      {
+        "text": "我是手語主播",
+        "start": 5.3,
+        "duration": 1.8
+      },
+      {
+        "text": "今天的新聞重點",
+        "start": 7.1,
+        "duration": 2.2
+      }
+    ]
   }
 ]
