@@ -1,0 +1,17 @@
+{
+  "id": "UpzoRGCxbQE",
+  "title": "20251022 公視手語新聞 完整版｜低氣壓、東北季風影響 北宜花雨勢仍明顯",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-10-22T07:15:37Z",
+  "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
+  "addedAt": "2025-10-23T07:00:08.241Z",
+  "processingStatus": {
+    "lastUpdated": "2025-10-23T07:00:10.243Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": false,
+    "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
+    "errorAt": "2025-10-23T07:00:34.574Z"
+  }
+}

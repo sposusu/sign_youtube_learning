@@ -5,7 +5,12 @@
   "publishedAt": "2025-10-15T06:04:26Z",
   "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
   "addedAt": null,
-  "processingStatus": null,
+  "processingStatus": {
+    "lastUpdated": "2025-10-23T07:00:10.244Z",
+    "isNew": false,
+    "needsWhisperProcessing": false,
+    "needsClassification": false
+  },
   "detectionSummary": {
     "mode": "anchor_banner",
     "processedAt": "2025-10-22T15:20:49.847459",

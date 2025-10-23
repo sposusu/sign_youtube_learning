@@ -1,61 +1,12 @@
 [
   {
-    "id": "umGLbQzbfnk",
-    "title": "20251023 公視手語新聞 完整版｜國內首檢出非洲豬瘟陽性 禁運禁宰5天.禁止廚餘養豬",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-23T05:52:31Z",
-    "thumbnail": "https://i.ytimg.com/vi/umGLbQzbfnk/hqdefault.jpg",
-    "addedAt": "2025-10-23T07:00:05.198Z",
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.243Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
-      "errorAt": "2025-10-23T07:00:20.254Z"
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "UpzoRGCxbQE",
-    "title": "20251022 公視手語新聞 完整版｜低氣壓、東北季風影響 北宜花雨勢仍明顯",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-22T07:15:37Z",
-    "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
-    "addedAt": "2025-10-23T07:00:08.241Z",
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.243Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
-      "errorAt": "2025-10-23T07:00:34.574Z"
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
     "id": "1kNt3okrHnw",
     "title": "20251021 公視手語新聞 完整版｜共伴效應雙北大雨 劇烈降雨還沒結束",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
     "publishedAt": "2025-10-21T05:54:19Z",
     "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.243Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": null,
     "stats": {
       "transcriptSegments": 0,
@@ -70,12 +21,7 @@
     "publishedAt": "2025-10-20T05:54:01Z",
     "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.243Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:04:57.853711",
@@ -96,12 +42,7 @@
     "publishedAt": "2025-10-17T05:50:45Z",
     "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.243Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:09:56.136505",
@@ -122,12 +63,7 @@
     "publishedAt": "2025-10-16T02:31:33Z",
     "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:16:07.985999",
@@ -148,12 +84,7 @@
     "publishedAt": "2025-10-15T06:04:26Z",
     "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:20:49.847459",
@@ -174,12 +105,7 @@
     "publishedAt": "2025-10-14T05:47:29Z",
     "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:25:15.985644",
@@ -200,12 +126,7 @@
     "publishedAt": "2025-10-13T01:13:15Z",
     "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:31:21.810582",
@@ -226,12 +147,7 @@
     "publishedAt": "2025-10-10T02:10:07Z",
     "thumbnail": "https://i.ytimg.com/vi/FFeGOoOJ1k0/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:37:50.635864",
@@ -252,12 +168,7 @@
     "publishedAt": "2025-10-09T01:44:25Z",
     "thumbnail": "https://i.ytimg.com/vi/F1CH5J7bu7g/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:43:24.985401",
@@ -278,12 +189,7 @@
     "publishedAt": "2025-10-08T03:07:25Z",
     "thumbnail": "https://i.ytimg.com/vi/-Lwda7sUyDw/hqdefault.jpg",
     "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-10-23T07:00:10.244Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
+    "processingStatus": null,
     "detectionSummary": {
       "mode": "anchor_banner",
       "processedAt": "2025-10-22T15:49:27.484097",
