@@ -1,0 +1,3446 @@
+[
+  {
+    "start": 0,
+    "duration": 11.8,
+    "text": "[音樂]",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 11.8,
+    "duration": 3.039999999999999,
+    "text": "看新聞 開視野",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 14.84,
+    "duration": 5.399999999999999,
+    "text": "歡迎收看今天10月24號的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 20.24,
+    "duration": 2.7600000000000016,
+    "text": "首先來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 23,
+    "duration": 2.960000000000001,
+    "text": "行政府昨天晚間公布",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 25.96,
+    "duration": 5.599999999999998,
+    "text": "普發現金一萬元領取的資格以及方式",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 31.56,
+    "duration": 3.8000000000000007,
+    "text": "民眾可以透過五種不同的方式領取",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 35.36,
+    "duration": 1.1199999999999974,
+    "text": "聽帳朋友",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 36.48,
+    "duration": 3.200000000000003,
+    "text": "遊領身心障礙者生活補助費",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 39.68,
+    "duration": 0.8800000000000026,
+    "text": "免登記",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 40.56,
+    "duration": 3.1599999999999966,
+    "text": "11月12號會直接入帳",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 43.72,
+    "duration": 3.240000000000002,
+    "text": "至於沒有領取生活補助的聽帳朋友",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 46.96,
+    "duration": 2.3200000000000003,
+    "text": "跟一般民眾一樣",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 49.28,
+    "duration": 2.0799999999999983,
+    "text": "11月5號開始",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 51.36,
+    "duration": 2.799999999999997,
+    "text": "可以到網路來登記",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 54.16,
+    "duration": 1.7600000000000051,
+    "text": "11月17號起",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 55.92,
+    "duration": 3.1599999999999966,
+    "text": "也可以直接到ATM領現金",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 59.08,
+    "duration": 1.4400000000000048,
+    "text": "11月24號",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 60.52,
+    "duration": 2.9599999999999937,
+    "text": "開放到郵局領櫃領現",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 63.48,
+    "duration": 4.000000000000007,
+    "text": "到明年4月30號前都能領取",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 67.48,
+    "duration": 3.280000000000001,
+    "text": "書發部也呼籲民眾任命官方網址",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 70.76,
+    "duration": 3.319999999999993,
+    "text": "強調僅此一家別無分號",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 74.08,
+    "duration": 4.680000000000007,
+    "text": "政府不會主動發電子郵件或是簡訊",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 78.76,
+    "duration": 3.519999999999996,
+    "text": "通知民眾登記領錢",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 82.28,
+    "duration": 3.8799999999999955,
+    "text": "請民眾務必要提高警覺避免受騙",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 86.16,
+    "duration": 4.52000000000001,
+    "text": "普發現金一萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 90.68,
+    "duration": 1.7999999999999972,
+    "text": "總統府23號晚間公告後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 92.48,
+    "duration": 3,
+    "text": "行政府隨即舉行記者會宣布領取辦法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 95.48,
+    "duration": 0.7999999999999972,
+    "text": "根據公告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 96.28,
+    "duration": 2.6799999999999926,
+    "text": "領取對象包括國內現有戶籍國民",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 98.96,
+    "duration": 3,
+    "text": "和取得永久居留許可的外國人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 101.96,
+    "duration": 3.4000000000000057,
+    "text": "至於無戶籍國民和陸港澳外籍配偶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 105.36,
+    "duration": 2.4000000000000057,
+    "text": "只要有居留許可就能領取",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 107.76,
+    "duration": 3.319999999999993,
+    "text": "以及駐外公務員和齊聚我國籍眷屬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 111.08,
+    "duration": 3.799999999999997,
+    "text": "還有明年4月30號前出生的新生兒也有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 114.88,
+    "duration": 1,
+    "text": "怎麼領呢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 115.88,
+    "duration": 5,
+    "text": "我們這邊比照112年的普發現金6000塊錢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 120.88,
+    "duration": 3.0799999999999983,
+    "text": "我們採取了五種方式",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 123.96,
+    "duration": 2.9200000000000017,
+    "text": "首先第一種方式是登記入帳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 126.88,
+    "duration": 2.0800000000000125,
+    "text": "那這個大家一般民眾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 128.96,
+    "duration": 3,
+    "text": "通通都可以在自己的家裡的網頁",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 131.96,
+    "duration": 2.319999999999993,
+    "text": "去上網官網登記",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 134.28,
+    "duration": 3.0800000000000125,
+    "text": "11月5號開放登記最快12號入帳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 137.36,
+    "duration": 3.799999999999983,
+    "text": "比照112年普發現金6000元採登記入帳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 141.16,
+    "duration": 2,
+    "text": "ATM郵局領先直接入帳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 143.16,
+    "duration": 3,
+    "text": "以及偏鄉地區特殊族群造冊發放",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 146.16,
+    "duration": 2.200000000000017,
+    "text": "共五種不同方式領取",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 148.36,
+    "duration": 1.2799999999999727,
+    "text": "登記網站已經上線",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 149.64,
+    "duration": 1.8000000000000114,
+    "text": "但11月5號到9號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 151.44,
+    "duration": 2.319999999999993,
+    "text": "按身分證尾數分流登記",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 153.76,
+    "duration": 1.8799999999999955,
+    "text": "10號起就不設限",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 155.64,
+    "duration": 2.7200000000000273,
+    "text": "開始登記的時間是11月5號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 158.36,
+    "duration": 1.4799999999999898,
+    "text": "然後我們有五天的分流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 159.84,
+    "duration": 1.5999999999999943,
+    "text": "在11月10號之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 161.44,
+    "duration": 1.1200000000000045,
+    "text": "任何尾數的號碼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 162.56,
+    "duration": 2.4000000000000057,
+    "text": "任何身分證字號統一編號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 164.96,
+    "duration": 2.2399999999999807,
+    "text": "都可以在那時候來登記",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 167.2,
+    "duration": 1.6000000000000227,
+    "text": "這邊16家金融機構",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 168.8,
+    "duration": 2.4399999999999977,
+    "text": "總共有8家公國行庫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 171.24,
+    "duration": 2.5999999999999943,
+    "text": "然後有7家民營銀行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 173.84,
+    "duration": 2.1999999999999886,
+    "text": "還有一家是中華郵政",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 176.04,
+    "duration": 2,
+    "text": "考量花蓮光富鄉受災情況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 178.04,
+    "duration": 2,
+    "text": "當地郵局將在週末加班",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 180.04,
+    "duration": 1.7199999999999989,
+    "text": "方便民眾登記領取",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 181.76,
+    "duration": 2.680000000000007,
+    "text": "速發部也呼籲民眾任命官方網址",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 184.44,
+    "duration": 2.1599999999999966,
+    "text": "強調僅此一家別無分號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 186.6,
+    "duration": 2.5999999999999943,
+    "text": "政府不會主動發放電子郵件或簡訊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 189.2,
+    "duration": 1.960000000000008,
+    "text": "通知民眾登記或領錢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 191.16,
+    "duration": 2.5999999999999943,
+    "text": "民眾務必提高警覺避免受騙",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 193.76,
+    "duration": 3.719999999999999,
+    "text": "高新聞界為人吳立昌 政鵬報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 197.48,
+    "duration": 3.920000000000016,
+    "text": "國內爆發非洲豬瘟疑似案例",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 201.4,
+    "duration": 2.4399999999999977,
+    "text": "農業部第一時間宣布",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 203.84,
+    "duration": 3.319999999999993,
+    "text": "禁運禁載5天",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 207.16,
+    "duration": 3.200000000000017,
+    "text": "但是因為病毒潛伏期長",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 210.36,
+    "duration": 4.719999999999999,
+    "text": "昨天宣布再延長為15天",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 215.08,
+    "duration": 3.519999999999982,
+    "text": "如果觀察疫情並沒有擴散",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 218.6,
+    "duration": 4.0800000000000125,
+    "text": "管制期可以提前結束",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 222.68,
+    "duration": 3,
+    "text": "而有專家指出這次的病毒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 225.68,
+    "duration": 3.079999999999984,
+    "text": "是基因重組的病毒株",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 228.76,
+    "duration": 3.7600000000000193,
+    "text": "並沒有以前常見 多處出血",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 232.52,
+    "duration": 3.5999999999999943,
+    "text": "或脾臟腫大等症狀",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 236.12,
+    "duration": 6.280000000000001,
+    "text": "收醫在第一時間不容易判斷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 242.4,
+    "duration": 2.319999999999993,
+    "text": "臺北市衛生局與市場處人員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 244.72,
+    "duration": 2.1599999999999966,
+    "text": "一早前往傳統市場稽查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 246.88,
+    "duration": 2.319999999999993,
+    "text": "國內爆發非洲豬瘟疑似案例",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 249.2,
+    "duration": 1.8400000000000034,
+    "text": "北市到肉攤豬皮檢查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 251.04,
+    "duration": 1.960000000000008,
+    "text": "屠宰證明跟進貨來源",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 253,
+    "duration": 2.719999999999999,
+    "text": "要嚴禁販售來源不明的豬肉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 255.72,
+    "duration": 3.0000000000000284,
+    "text": "與加工品 非洲豬瘟讓全臺警戒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 258.72,
+    "duration": 1.079999999999984,
+    "text": "上午在立法院",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 259.8,
+    "duration": 1.5199999999999818,
+    "text": "有立委問農業部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 261.32,
+    "duration": 1.5600000000000023,
+    "text": "現在幾乎可確認",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 262.88,
+    "duration": 1.8400000000000318,
+    "text": "就是非洲豬瘟了嗎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 264.72,
+    "duration": 1.9599999999999795,
+    "text": "應該99.9%是非洲豬瘟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 266.68,
+    "duration": 1.1599999999999682,
+    "text": "應該是這樣吧",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 267.84,
+    "duration": 3.0400000000000205,
+    "text": "以我們現在對於核酸核酸的片段的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 270.88,
+    "duration": 2,
+    "text": "的確認跟序列的確認",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 272.88,
+    "duration": 1.6800000000000068,
+    "text": "他應該就是 剩下程序",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 274.56,
+    "duration": 1.1200000000000045,
+    "text": "把它走完而已",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 275.68,
+    "duration": 2.5600000000000023,
+    "text": "走完程序就會通報是非洲豬瘟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 278.24,
+    "duration": 0.9599999999999795,
+    "text": "農業部表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 279.2,
+    "duration": 2.480000000000018,
+    "text": "其實他的潛伏期長達十五天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 281.68,
+    "duration": 1.4800000000000182,
+    "text": "因此禁運禁宰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 283.16,
+    "duration": 1.7999999999999545,
+    "text": "以及禁止廚餘養豬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 284.96,
+    "duration": 2.0400000000000205,
+    "text": "要拉長到十五天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 287,
+    "duration": 17.75999999999999,
+    "text": "上午 獸醫所也指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 304.76,
+    "duration": 1.6399999999999864,
+    "text": "這株基因重組的病毒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 306.4,
+    "duration": 2.2800000000000296,
+    "text": "是東南亞與中國的流行豬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 308.68,
+    "duration": 1.599999999999966,
+    "text": "學者解釋 非洲豬瘟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 310.28,
+    "duration": 1.6000000000000227,
+    "text": "有二十四個基因型",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 311.88,
+    "duration": 2.6399999999999864,
+    "text": "過去在中國發生嚴重疫情的是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 314.52,
+    "duration": 1.920000000000016,
+    "text": "最毒的第二基因型",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 316.44,
+    "duration": 1.240000000000009,
+    "text": "此次在臺灣初步",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 317.68,
+    "duration": 2.920000000000016,
+    "text": "發現是第一跟第二基因型重組",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 320.6,
+    "duration": 2.1200000000000045,
+    "text": "臨床上並無皮臟腫大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 322.72,
+    "duration": 1.759999999999991,
+    "text": "多處出血等症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 324.48,
+    "duration": 2.319999999999993,
+    "text": "他認為不應苛責第一線獸醫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 326.8,
+    "duration": 1.759999999999991,
+    "text": "在第一時間的判斷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 339.36,
+    "duration": 3.319999999999993,
+    "text": "李淑輝博士重申",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 342.68,
+    "duration": 1.3600000000000136,
+    "text": "除於風險過高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 344.04,
+    "duration": 1.7999999999999545,
+    "text": "應永遠禁止餵豬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 345.84,
+    "duration": 1.2000000000000455,
+    "text": "而情緒牧場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 347.04,
+    "duration": 1.9599999999999795,
+    "text": "高達一千四百場的嘉義縣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 349,
+    "duration": 2.7200000000000273,
+    "text": "此次嚴陣以待 出動五十人次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 351.72,
+    "duration": 2.599999999999966,
+    "text": "進行五千多場次消毒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 354.32,
+    "duration": 7.759999999999991,
+    "text": "發生異常死亡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 362.08,
+    "duration": 1.0400000000000205,
+    "text": "就要立即通報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 363.12,
+    "duration": 1.5199999999999818,
+    "text": "此次臺中無期豬農",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 364.64,
+    "duration": 1.6800000000000068,
+    "text": "也在出現異常死亡後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 366.32,
+    "duration": 1.759999999999991,
+    "text": "通報獸醫與市府",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 368.08,
+    "duration": 1.8400000000000318,
+    "text": "但一開始並沒有採樣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 369.92,
+    "duration": 1.1200000000000045,
+    "text": "農業部表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 371.04,
+    "duration": 2.4399999999999977,
+    "text": "一號起 化質廠就陸續回報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 373.48,
+    "duration": 2.3999999999999773,
+    "text": "該豬場有五批異常死亡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 375.88,
+    "duration": 1.3600000000000136,
+    "text": "若能及早採檢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 377.24,
+    "duration": 1.4399999999999977,
+    "text": "就更不容易擴散",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 378.68,
+    "duration": 2.2799999999999727,
+    "text": "認為程序有精進的空間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 380.96,
+    "duration": 3.4399999999999977,
+    "text": "至於未來發現豬隻有出血等疑似症狀",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 384.4,
+    "duration": 4.360000000000014,
+    "text": "則一律採檢 公視新聞綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 388.76,
+    "duration": 4.600000000000023,
+    "text": "初試的養豬場未在臺中無期",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 393.36,
+    "duration": 3.8000000000000114,
+    "text": "但是在豬隻被全面撲殺之前",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 397.16,
+    "duration": 2,
+    "text": "已經有28頭豬",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 399.16,
+    "duration": 4.639999999999986,
+    "text": "13號透過大安肉品市場賣出",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 403.8,
+    "duration": 3.8000000000000114,
+    "text": "其中23頭賣到了臺中市",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 407.6,
+    "duration": 3.319999999999993,
+    "text": "其他則銷往彰化和嘉義",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 410.92,
+    "duration": 5.279999999999973,
+    "text": "再銷售到北中南等縣市",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 416.2,
+    "duration": 2.920000000000016,
+    "text": "而新北市衛生局調查",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 419.12,
+    "duration": 2.2799999999999727,
+    "text": "流向新北市的豬肉",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 421.4,
+    "duration": 3.8799999999999955,
+    "text": "共約688公斤",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 425.28,
+    "duration": 4.520000000000039,
+    "text": "已經賣出了468公斤",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 429.8,
+    "duration": 3.4399999999999977,
+    "text": "高雄市衛生局也追查確認",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 433.24,
+    "duration": 4.759999999999991,
+    "text": "300公斤的肉品仍在物流業貨車上",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 438,
+    "duration": 3.480000000000018,
+    "text": "確認未流入市面",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 441.48,
+    "duration": 2.4399999999999977,
+    "text": "臺中傳出疑似非洲豬瘟疫情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 443.92,
+    "duration": 1.3999999999999773,
+    "text": "市場不少強調",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 445.32,
+    "duration": 2.1200000000000045,
+    "text": "買溫體豬的攤商停止營業",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 447.44,
+    "duration": 2.160000000000025,
+    "text": "有營業的攤商所賣的豬肉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 449.6,
+    "duration": 1.5600000000000023,
+    "text": "也是之前宰殺的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 451.16,
+    "duration": 1.5199999999999818,
+    "text": "因此各地都有民眾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 452.68,
+    "duration": 1.7199999999999704,
+    "text": "一早就到市場來搶買",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 454.4,
+    "duration": 1.400000000000034,
+    "text": "比例會更下降",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 455.8,
+    "duration": 1.2799999999999727,
+    "text": "我會替代魚",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 457.08,
+    "duration": 2.1999999999999886,
+    "text": "然後雞肉去替代牠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 459.28,
+    "duration": 2.32000000000005,
+    "text": "你就會連續5天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 461.6,
+    "duration": 3.079999999999984,
+    "text": "不然你就沒辦法吃了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 464.68,
+    "duration": 2.0400000000000205,
+    "text": "攤商說豬隻靜運靜載",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 466.72,
+    "duration": 2,
+    "text": "只能夠跟著休息好幾天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 468.72,
+    "duration": 2.079999999999984,
+    "text": "而疑似非洲豬瘟的接觸豬場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 470.8,
+    "duration": 2,
+    "text": "10月10號到20號之間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 472.8,
+    "duration": 2.599999999999966,
+    "text": "有117頭豬隻異常死亡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 475.4,
+    "duration": 1.6000000000000227,
+    "text": "但是業者在13號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 477,
+    "duration": 1.6399999999999864,
+    "text": "還是有28頭豬隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 478.64,
+    "duration": 2.0400000000000205,
+    "text": "透過大安肉品市場賣出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 480.68,
+    "duration": 1.5600000000000023,
+    "text": "市府也追出流向",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 482.24,
+    "duration": 2.519999999999982,
+    "text": "那賣了23隻在這12處",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 484.76,
+    "duration": 1.240000000000009,
+    "text": "台中市的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 486,
+    "duration": 1.7200000000000273,
+    "text": "那個人的話有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 487.72,
+    "duration": 3.0399999999999636,
+    "text": "個人戶有10處 有19隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 490.76,
+    "duration": 2.1999999999999886,
+    "text": "那公司戶的話有2處",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 492.96,
+    "duration": 1.4800000000000182,
+    "text": "有賣了4隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 494.44,
+    "duration": 2.1200000000000045,
+    "text": "賣到彰化的有2處",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 496.56,
+    "duration": 1.2799999999999727,
+    "text": "有賣了4隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 497.84,
+    "duration": 1.6800000000000068,
+    "text": "台中市衛生局表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 499.52,
+    "duration": 2.240000000000009,
+    "text": "會追查台中市下層的流向",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 501.76,
+    "duration": 2.519999999999982,
+    "text": "並已經通知彰化和嘉義縣府",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 504.28,
+    "duration": 1.5600000000000023,
+    "text": "他是進到我們縣下內",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 505.84,
+    "duration": 2.240000000000009,
+    "text": "某一家肉品這個商行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 508.08,
+    "duration": 2.160000000000025,
+    "text": "那已經透過這個分工切割",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 510.24,
+    "duration": 3.2000000000000455,
+    "text": "到各個攤販裡面去監視收完",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 513.44,
+    "duration": 3.7999999999999545,
+    "text": "有2隻在台中的大安屠宰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 517.24,
+    "duration": 3.080000000000041,
+    "text": "然後另外有2隻是活的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 520.32,
+    "duration": 1.4399999999999409,
+    "text": "其中有一隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 521.76,
+    "duration": 1.919999999999959,
+    "text": "他後來覺得那隻不漂亮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 523.68,
+    "duration": 1.5600000000000591,
+    "text": "所以退回去了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 525.24,
+    "duration": 2.1200000000000045,
+    "text": "嘉義的部分13號已經賣完",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 527.36,
+    "duration": 2,
+    "text": "而彰化縣也有部分賣出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 529.36,
+    "duration": 2.3999999999999773,
+    "text": "將持續追查更下游的流向",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 531.76,
+    "duration": 2.6800000000000637,
+    "text": "另外台中市也針對學校的營養午餐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 534.44,
+    "duration": 2.0399999999999636,
+    "text": "即日起禁用溫體豬肉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 536.48,
+    "duration": 2.0799999999999272,
+    "text": "剩餘的食物也禁止打包",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 538.56,
+    "duration": 3,
+    "text": "需要使用CAS冷凍豬肉的產品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 541.56,
+    "duration": 2.400000000000091,
+    "text": "並且自即日起禁止使用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 543.96,
+    "duration": 2.519999999999982,
+    "text": "溫體豬肉到11月30號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 546.48,
+    "duration": 3,
+    "text": "這28頭經過層層把關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 549.48,
+    "duration": 1.7999999999999545,
+    "text": "三重從健康證明書",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 551.28,
+    "duration": 3.0400000000000773,
+    "text": "從圖前檢查從圖後檢查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 554.32,
+    "duration": 0.8799999999999955,
+    "text": "都是安全的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 555.2,
+    "duration": 1.5599999999999454,
+    "text": "所以上市是無虞的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 556.76,
+    "duration": 1.0399999999999636,
+    "text": "敦文貞表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 557.8,
+    "duration": 2.080000000000041,
+    "text": "這28頭豬來源都合法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 559.88,
+    "duration": 1.5199999999999818,
+    "text": "也經過層層把關",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 561.4,
+    "duration": 1.9200000000000728,
+    "text": "非洲豬們並不會人畜共通",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 563.32,
+    "duration": 2.6399999999999864,
+    "text": "也請國人不要過度驚慌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 565.96,
+    "duration": 3.199999999999932,
+    "text": "公視新聞林建森 王農濤 楊淑琴 林靜倫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 569.16,
+    "duration": 1.8799999999999955,
+    "text": "台中彰化宜蘭報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 571.04,
+    "duration": 5.32000000000005,
+    "text": "台中爆發疑似非洲豬瘟",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 576.36,
+    "duration": 3.0399999999999636,
+    "text": "警方主動介入調查",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 579.4,
+    "duration": 3.2799999999999727,
+    "text": "昨天傳發了陳姓豬農父子的案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 582.68,
+    "duration": 4.680000000000064,
+    "text": "並前往住處保權證據與勘驗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 587.36,
+    "duration": 4,
+    "text": "兩人在訊後請回",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 591.36,
+    "duration": 2.2799999999999727,
+    "text": "而對外界質疑",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 593.64,
+    "duration": 2.480000000000018,
+    "text": "台中市政府通報延誤",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 596.12,
+    "duration": 1.9600000000000364,
+    "text": "以及撲殺的豬隻",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 598.08,
+    "duration": 1.7199999999999136,
+    "text": "是用掩埋處理",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 599.8,
+    "duration": 2.4400000000000546,
+    "text": "沒有焚化等問題",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 602.24,
+    "duration": 3.919999999999959,
+    "text": "市府表示都依照規定辦理",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 606.16,
+    "duration": 1.6800000000000637,
+    "text": "行政府長卓榮泰",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 607.84,
+    "duration": 4.399999999999977,
+    "text": "到台中非洲豬瘟前進應變所",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 612.24,
+    "duration": 4.279999999999973,
+    "text": "強調防疫如同作戰",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 616.52,
+    "duration": 1.8000000000000682,
+    "text": "將一塊一塊的清查",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 618.32,
+    "duration": 2.159999999999968,
+    "text": "以區塊圍堵的方式",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 620.48,
+    "duration": 5.1200000000000045,
+    "text": "把影響降到最低",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 625.6,
+    "duration": 2.240000000000009,
+    "text": "行政府長卓榮泰到台中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 627.84,
+    "duration": 2.2799999999999727,
+    "text": "非洲豬瘟前進應變所示導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 630.12,
+    "duration": 2.7200000000000273,
+    "text": "並替台中市長盧秀燕加油打氣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 632.84,
+    "duration": 1.1999999999999318,
+    "text": "卓榮泰表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 634.04,
+    "duration": 1.3600000000000136,
+    "text": "防疫就是戰役",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 635.4,
+    "duration": 2.6399999999999864,
+    "text": "希望用120個小時的黃金時間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 638.04,
+    "duration": 1.5199999999999818,
+    "text": "進行有效防堵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 639.56,
+    "duration": 2.400000000000091,
+    "text": "區塊圍堵的策略跟這個計畫",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 641.96,
+    "duration": 2.480000000000018,
+    "text": "是目前首先要做的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 644.44,
+    "duration": 2.7999999999999545,
+    "text": "結論希望達到的就是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 647.24,
+    "duration": 1.9600000000000364,
+    "text": "阻絕疫情擴散",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 649.2,
+    "duration": 2.7199999999999136,
+    "text": "我們希望這個案件能夠是個案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 651.92,
+    "duration": 3.2800000000000864,
+    "text": "我們要全力的防堵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 655.2,
+    "duration": 1.4399999999999409,
+    "text": "它事態的擴大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 656.64,
+    "duration": 2.159999999999968,
+    "text": "出現一次非洲豬瘟的養豬場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 658.8,
+    "duration": 2.1200000000000045,
+    "text": "10號有豬隻陸續死亡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 660.92,
+    "duration": 2.2800000000000864,
+    "text": "14號台中市府前往瞭解",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 663.2,
+    "duration": 1.1599999999999682,
+    "text": "但受益認定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 664.36,
+    "duration": 2.7200000000000273,
+    "text": "暫不符合典型非洲豬瘟的病徵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 667.08,
+    "duration": 1.8799999999999955,
+    "text": "因此無法強制採檢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 668.96,
+    "duration": 2.3199999999999363,
+    "text": "之後豬隻死亡持續增加",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 671.28,
+    "duration": 2.6000000000000227,
+    "text": "20號市府與受益師再次評估後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 673.88,
+    "duration": 2.519999999999982,
+    "text": "認為死亡的情形還是屬於異常",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 676.4,
+    "duration": 1.8400000000000318,
+    "text": "因此採樣之後送檢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 678.24,
+    "duration": 2.2000000000000455,
+    "text": "21號驗出疑似感染",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 680.44,
+    "duration": 1.6399999999999864,
+    "text": "但是否延誤採檢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 682.08,
+    "duration": 1.7199999999999136,
+    "text": "檢體送檢是否合規",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 683.8,
+    "duration": 1.4800000000000182,
+    "text": "都引發疑慮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 685.28,
+    "duration": 1.2799999999999727,
+    "text": "第一次的話就是說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 686.56,
+    "duration": 1.6800000000000637,
+    "text": "我們也是用高標準",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 688.24,
+    "duration": 1.3199999999999363,
+    "text": "然後就把它當作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 689.56,
+    "duration": 2.4400000000000546,
+    "text": "就當作是我們一般檢體在計送",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 692,
+    "duration": 1.6399999999999864,
+    "text": "第二次的話當然我們",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 693.64,
+    "duration": 1.8400000000000318,
+    "text": "就是說因為比較緊急",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 695.48,
+    "duration": 1.759999999999991,
+    "text": "所以我們就是輕送",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 697.24,
+    "duration": 1.5599999999999454,
+    "text": "台中市動房處說明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 698.8,
+    "duration": 2.800000000000068,
+    "text": "檢體在20號依照規定兩度送檢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 701.6,
+    "duration": 1.919999999999959,
+    "text": "21號確定結果後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 703.52,
+    "duration": 1.8000000000000682,
+    "text": "就啟動防疫以及撲殺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 705.32,
+    "duration": 2.67999999999995,
+    "text": "而撲殺後以掩埋的方式處理豬隻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 708,
+    "duration": 1.1599999999999682,
+    "text": "也遭到質疑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 709.16,
+    "duration": 2.519999999999982,
+    "text": "農業局強調一切依照規定",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 711.68,
+    "duration": 3.480000000000018,
+    "text": "台中檢方也主動邀集相關單位來研商",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 715.16,
+    "duration": 1.6800000000000637,
+    "text": "並且已經分案調查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 716.84,
+    "duration": 2.519999999999982,
+    "text": "先後傳訊證人陳姓朱農",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 719.36,
+    "duration": 2.1200000000000045,
+    "text": "及其子黎清案情",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 721.48,
+    "duration": 2.8799999999999955,
+    "text": "並至本案養豬場進行探驗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 724.36,
+    "duration": 1.9600000000000364,
+    "text": "兩名證人經檢察官訊後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 726.32,
+    "duration": 1.6399999999999864,
+    "text": "均預知請回",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 727.96,
+    "duration": 1.6399999999999864,
+    "text": "非洲豬瘟病毒是否因為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 729.6,
+    "duration": 1.67999999999995,
+    "text": "國境管控的漏洞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 731.28,
+    "duration": 1.4400000000000546,
+    "text": "才會從境外移入",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 732.72,
+    "duration": 2.480000000000018,
+    "text": "而相關主管機關是否延誤通報",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 735.2,
+    "duration": 2.7199999999999136,
+    "text": "相關責任都有待進一步釐清",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 737.92,
+    "duration": 1.759999999999991,
+    "text": "公司新聞零件生王龍湯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 739.68,
+    "duration": 1.3600000000000136,
+    "text": "台中報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 767.92,
+    "duration": 3.3600000000000136,
+    "text": "而林保署昨天最新監測顯示",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 771.28,
+    "duration": 4.240000000000009,
+    "text": "新生的燕色狐已經幾乎消失",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 775.52,
+    "duration": 3.6800000000000637,
+    "text": "而另外利物西燕子口的燕色狐",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 779.2,
+    "duration": 3.199999999999932,
+    "text": "昨天也解除了警戒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 782.4,
+    "duration": 2.6800000000000637,
+    "text": "並且已經完成招標",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 785.08,
+    "duration": 3.599999999999909,
+    "text": "將啟動降蛙工程",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 788.68,
+    "duration": 2.4400000000000546,
+    "text": "《聯合報》提到了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 791.12,
+    "duration": 3.6000000000000227,
+    "text": "前天下午1點解除了紅色警戒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 794.72,
+    "duration": 3.159999999999968,
+    "text": "而林保署昨天最新監測顯示",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 797.88,
+    "duration": 2.480000000000018,
+    "text": "對於受災戶的安置",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 800.36,
+    "duration": 2.919999999999959,
+    "text": "第一階段中繼屋已經選定",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 803.28,
+    "duration": 2.800000000000068,
+    "text": "光復堂場員工宿舍",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 806.08,
+    "duration": 3.8799999999999955,
+    "text": "還有大晉國小東側農地",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 809.96,
+    "duration": 3.9599999999999227,
+    "text": "可以提供大約40戶",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 813.92,
+    "duration": 3.1200000000000045,
+    "text": "會趕在12月底前完成",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 817.04,
+    "duration": 5.840000000000032,
+    "text": "讓災民可以盡快入住",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 822.88,
+    "duration": 3.3600000000000136,
+    "text": "而看完報紙重點繼續來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 826.24,
+    "duration": 3.519999999999982,
+    "text": "這幾天北部地區連日強降雨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 829.76,
+    "duration": 4.600000000000023,
+    "text": "台鐵平溪線鐵軌陸機掏空",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 834.36,
+    "duration": 2.1200000000000045,
+    "text": "台鐵經過會勘",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 836.48,
+    "duration": 4.439999999999941,
+    "text": "確定要到11月底才能夠修復",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 840.92,
+    "duration": 2.2000000000000455,
+    "text": "而修復前每逢假日",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 843.12,
+    "duration": 2.9600000000000364,
+    "text": "火車將開行瑞芳到十分",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 846.08,
+    "duration": 6.719999999999914,
+    "text": "平日則全線停駛",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 852.8,
+    "duration": 1.759999999999991,
+    "text": "懸空的鐵軌下方邊坡土石",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 854.56,
+    "duration": 1.6400000000001,
+    "text": "持續遭到雨水沖刷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 856.2,
+    "duration": 1.2799999999999727,
+    "text": "早被沖斷只剩局部的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 857.48,
+    "duration": 1.1599999999999682,
+    "text": "柏油路變道",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 858.64,
+    "duration": 1.759999999999991,
+    "text": "較前一天裂縫又更大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 860.4,
+    "duration": 1.759999999999991,
+    "text": "隨時有在斷裂的風險",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 862.16,
+    "duration": 1.2000000000000455,
+    "text": "趁著雨勢稍緩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 863.36,
+    "duration": 2.1200000000000045,
+    "text": "台鐵公路段人員到現場會勘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 865.48,
+    "duration": 1.8799999999999955,
+    "text": "因坍塌處沒有連外的道路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 867.36,
+    "duration": 2.3600000000000136,
+    "text": "機局和土方全得由軌道車運送",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 869.72,
+    "duration": 2.67999999999995,
+    "text": "推估要到11月底才能搶收完成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 872.4,
+    "duration": 2.4400000000000546,
+    "text": "因為那邊沒有東線",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 874.84,
+    "duration": 4.159999999999968,
+    "text": "土方這些要由鐵路載進去現場",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 879,
+    "duration": 2.2799999999999727,
+    "text": "去施速填補",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 881.28,
+    "duration": 1.3600000000000136,
+    "text": "因平溪線停駛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 882.64,
+    "duration": 1.8400000000000318,
+    "text": "台鐵繼續啟動公路接駁",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 884.48,
+    "duration": 2.1200000000000045,
+    "text": "不少旅客來到瑞芳車站等候",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 886.6,
+    "duration": 1.4399999999999409,
+    "text": "接駁車幾乎客滿",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 888.04,
+    "duration": 1.4800000000000182,
+    "text": "我沒希望他能提早一點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 889.52,
+    "duration": 0.6399999999999864,
+    "text": "因為這樣的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 890.16,
+    "duration": 1.240000000000009,
+    "text": "我們上班也來不及",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 891.4,
+    "duration": 0.8799999999999955,
+    "text": "下面也來不及",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 892.28,
+    "duration": 0.9600000000000364,
+    "text": "所以就很困擾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 893.24,
+    "duration": 1.7200000000000273,
+    "text": "交通時間會差多少",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 894.96,
+    "duration": 3.7199999999999136,
+    "text": "差一兩個小時 可能這幾天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 898.68,
+    "duration": 2.3600000000000136,
+    "text": "台鐵表示因10月24號到26號",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 901.04,
+    "duration": 1.8000000000000682,
+    "text": "三天光復節連續假期",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 902.84,
+    "duration": 2.6000000000000227,
+    "text": "平溪線會行駛瑞芳到十分間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 905.44,
+    "duration": 2.4799999999999045,
+    "text": "十分到青銅啟動公路接駁",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 907.92,
+    "duration": 0.8799999999999955,
+    "text": "接下來的平日",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 908.8,
+    "duration": 2.160000000000082,
+    "text": "還是全線停駛全力搶修",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 910.96,
+    "duration": 2.9599999999999227,
+    "text": "全線以公路接駁替代",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 913.92,
+    "duration": 0.8799999999999955,
+    "text": "東北疾風影響",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 914.8,
+    "duration": 1.3600000000000136,
+    "text": "北市山區豪雨不斷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 916.16,
+    "duration": 1.7200000000000273,
+    "text": "山區道路宛如河流",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 917.88,
+    "duration": 1,
+    "text": "而陽明山青山路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 918.88,
+    "duration": 0.9199999999999591,
+    "text": "這一處私有民宅",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 919.8,
+    "duration": 1.4800000000000182,
+    "text": "擋土牆被沖毀之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 921.28,
+    "duration": 1.5600000000000591,
+    "text": "大片泥流樹木崩落",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 922.84,
+    "duration": 1.6399999999999864,
+    "text": "一度阻斷青山路",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 924.48,
+    "duration": 1.4800000000000182,
+    "text": "工作人員冒雨輕韻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 925.96,
+    "duration": 2,
+    "text": "出動機具清除土石與廢棄物",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 927.96,
+    "duration": 1.599999999999909,
+    "text": "私人的擋土牆壞掉了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 929.56,
+    "duration": 1,
+    "text": "那這一部分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 930.56,
+    "duration": 1.8800000000001091,
+    "text": "因為它是屬於私人財產",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 932.44,
+    "duration": 1.5199999999999818,
+    "text": "那因為影響到公共安全",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 933.96,
+    "duration": 1.9599999999999227,
+    "text": "所以我們今天一直在找地主",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 935.92,
+    "duration": 1.8400000000000318,
+    "text": "來瞭解 從今天白天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 937.76,
+    "duration": 2,
+    "text": "今天晚間 明天白天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 939.76,
+    "duration": 1.080000000000041,
+    "text": "到這個明天晚間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 940.84,
+    "duration": 0.7199999999999136,
+    "text": "後天清晨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 941.56,
+    "duration": 2.5200000000000955,
+    "text": "這一段看起來通通如果是在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 944.08,
+    "duration": 1.6399999999999864,
+    "text": "這種北部 東北部地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 945.72,
+    "duration": 2.0399999999999636,
+    "text": "看起來雨都還是會持續的下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 947.76,
+    "duration": 1.3600000000000136,
+    "text": "但光復節連假第一天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 949.12,
+    "duration": 1.67999999999995,
+    "text": "24號雪氣又增多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 950.8,
+    "duration": 1.5200000000000955,
+    "text": "未來一週北部 東北部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 952.32,
+    "duration": 0.7999999999999545,
+    "text": "以及東半部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 953.12,
+    "duration": 2.480000000000018,
+    "text": "都還是陰雨失糧的天氣型態",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 955.6,
+    "duration": 2,
+    "text": "公視新聞記者 綜合報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 957.6,
+    "duration": 2.8799999999999955,
+    "text": "中央銀行將要啟動",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 960.48,
+    "duration": 2.7999999999999545,
+    "text": "鈔票改版計畫",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 963.28,
+    "duration": 1.240000000000009,
+    "text": "而改版的過程",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 964.52,
+    "duration": 2.8799999999999955,
+    "text": "將會納入公民參與",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 967.4,
+    "duration": 3,
+    "text": "目前確定500元的梅花路",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 970.4,
+    "duration": 2.800000000000068,
+    "text": "應該會改掉",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 973.2,
+    "duration": 1.2799999999999727,
+    "text": "圖案原則上",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 974.48,
+    "duration": 3.3600000000000136,
+    "text": "不會納入政治人物",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 977.84,
+    "duration": 1.7999999999999545,
+    "text": "而至於流通率較低的",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 979.64,
+    "duration": 1.8799999999999955,
+    "text": "2000元與200元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 981.52,
+    "duration": 1.6800000000000637,
+    "text": "是否要繼續發行",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 983.2,
+    "duration": 3,
+    "text": "會再討論",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 986.2,
+    "duration": 1,
+    "text": "已經使用24年的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 987.2,
+    "duration": 2.67999999999995,
+    "text": "現行新台幣超券共5款將改版",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 989.88,
+    "duration": 1.1200000000000045,
+    "text": "中央銀行表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 991,
+    "duration": 2.0399999999999636,
+    "text": "必要適時升級防衛功能",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 993.04,
+    "duration": 2.3600000000000136,
+    "text": "將採用更先進安全防衛特徵",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 995.4,
+    "duration": 1,
+    "text": "且參考國際間",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 996.4,
+    "duration": 1.7200000000000273,
+    "text": "綠色超券發展趨勢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 998.12,
+    "duration": 1.6399999999999864,
+    "text": "採用更環保的原物料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 999.76,
+    "duration": 1.7200000000000273,
+    "text": "硬幣一面額小數量多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1001.48,
+    "duration": 1.1200000000000045,
+    "text": "改版效益不高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1002.6,
+    "duration": 1.240000000000009,
+    "text": "這次不列入改版",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1003.84,
+    "duration": 23.159999999999968,
+    "text": "中央銀行將照程序設立諮詢委員會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1027,
+    "duration": 2.519999999999982,
+    "text": "邀集生態科技體育等各領域專家",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1029.52,
+    "duration": 2.0399999999999636,
+    "text": "也會納入公民參與等機制",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1031.56,
+    "duration": 1.0800000000001546,
+    "text": "由明代觀竊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1032.64,
+    "duration": 2.119999999999891,
+    "text": "正面圖樣為南王國小少棒選手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1034.76,
+    "duration": 0.9200000000000728,
+    "text": "被命為梅花鹿的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1035.68,
+    "duration": 2.0399999999999636,
+    "text": "現行五百元是否改設計",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1037.72,
+    "duration": 0.9200000000000728,
+    "text": "楊金龍證實",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1038.64,
+    "duration": 2.1599999999998545,
+    "text": "因為梅花鹿的保育意義已經轉變",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1040.8,
+    "duration": 2.3600000000001273,
+    "text": "五百元面額將會重新設計主題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1043.16,
+    "duration": 10.279999999999973,
+    "text": "即畢業者表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1053.44,
+    "duration": 1.5599999999999454,
+    "text": "新台幣相較世界各國",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1055,
+    "duration": 1.9200000000000728,
+    "text": "設計相對較為中規中矩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1056.92,
+    "duration": 1.0799999999999272,
+    "text": "就以使用率很高的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1058,
+    "duration": 1.240000000000009,
+    "text": "百元超券為例",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1059.24,
+    "duration": 1.4400000000000546,
+    "text": "目前為國父頭像",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1060.68,
+    "duration": 1.3199999999999363,
+    "text": "現行超券的前一個版本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1062,
+    "duration": 2.519999999999982,
+    "text": "為民國61年發行的綠色百元超",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1064.52,
+    "duration": 1.599999999999909,
+    "text": "同樣也是國父頭像",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1066.12,
+    "duration": 1.8400000000001455,
+    "text": "對於改版寄予期待",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1067.96,
+    "duration": 16.279999999999973,
+    "text": "翻開新台幣改版歷史",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1084.24,
+    "duration": 1.6800000000000637,
+    "text": "自民國38年起發行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1085.92,
+    "duration": 2.5599999999999454,
+    "text": "當時最小面額是五角且為直式",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1088.48,
+    "duration": 2.759999999999991,
+    "text": "自民國49年起改版為橫式超券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1091.24,
+    "duration": 1.7200000000000273,
+    "text": "走入歷史的直式超券中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1092.96,
+    "duration": 1.1599999999998545,
+    "text": "以這張面額100元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1094.12,
+    "duration": 1.6800000000000637,
+    "text": "因笑相周邊有彩色圖案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1095.8,
+    "duration": 1.7200000000000273,
+    "text": "被暱稱為大花的超券",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1097.52,
+    "duration": 1.759999999999991,
+    "text": "最受收藏家的青睞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1099.28,
+    "duration": 1.5199999999999818,
+    "text": "公視新聞記者綜合報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1100.8,
+    "duration": 5.480000000000018,
+    "text": "高齡長輩使用的電動代步車",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1106.28,
+    "duration": 2.9600000000000364,
+    "text": "目前屬於行人輔具",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1109.24,
+    "duration": 2.8799999999998818,
+    "text": "要在人行道使用",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1112.12,
+    "duration": 2.9200000000000728,
+    "text": "不過鄉下地方很少人行道",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1115.04,
+    "duration": 3.6400000000001,
+    "text": "電動代步車要靠路邊使用",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1118.68,
+    "duration": 2.2799999999999727,
+    "text": "不少長輩可能會不注意",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1120.96,
+    "duration": 2.0799999999999272,
+    "text": "一不小心發生意外",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1123.04,
+    "duration": 5.240000000000009,
+    "text": "而台東路野鄉就有社區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1128.28,
+    "duration": 3.2000000000000455,
+    "text": "以趣味闖關競賽的方式",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1131.48,
+    "duration": 2.5599999999999454,
+    "text": "讓長輩更了解",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1134.04,
+    "duration": 4.279999999999973,
+    "text": "使用電動代步車上路的安全問題",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1143.2,
+    "duration": 2.9600000000000364,
+    "text": "這場電動代步車安全宣導活動很特別",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1146.16,
+    "duration": 1.5599999999999454,
+    "text": "由台東路野龍田社區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1147.72,
+    "duration": 1.599999999999909,
+    "text": "一家餐飲業者發起",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1149.32,
+    "duration": 1.7999999999999545,
+    "text": "在社區活動中心外面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1151.12,
+    "duration": 2.9200000000000728,
+    "text": "規劃向監理站烤駕照一樣的場地",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1154.04,
+    "duration": 1.5199999999999818,
+    "text": "設置了上車起步",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1155.56,
+    "duration": 1.3600000000001273,
+    "text": "停車採買物品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1156.92,
+    "duration": 1.3199999999999363,
+    "text": "再轉彎慢行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1158.24,
+    "duration": 2.7200000000000273,
+    "text": "到查看耗智停車再開的關卡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1160.96,
+    "duration": 2.2799999999999727,
+    "text": "讓高齡長輩們從闖關中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1163.24,
+    "duration": 3.2799999999999727,
+    "text": "學到安全使用電動代步車的知識和技巧",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1166.52,
+    "duration": 1.599999999999909,
+    "text": "也都闖關成功",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1168.12,
+    "duration": 1.7600000000002183,
+    "text": "我叫長輩去騎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1169.88,
+    "duration": 3.7999999999999545,
+    "text": "我們這樣騎平就要騎這樣騎平 左騎平 左騎平",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1173.68,
+    "duration": 1.5599999999999454,
+    "text": "現在越來越多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1175.24,
+    "duration": 3.119999999999891,
+    "text": "讓大家知道說你開出去要注意安全",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1178.36,
+    "duration": 2.2000000000000455,
+    "text": "高齡長輩使用的電動代步車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1180.56,
+    "duration": 1.5199999999999818,
+    "text": "屬於行人輔具",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1182.08,
+    "duration": 1.6000000000001364,
+    "text": "警方也利用這個機會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1183.68,
+    "duration": 2.7200000000000273,
+    "text": "向長輩們宣導正確的使用觀念",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1186.4,
+    "duration": 3.0799999999999272,
+    "text": "這電動代步車是打我們代步而已",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1189.48,
+    "duration": 2.7200000000000273,
+    "text": "這是行人 所以行人就要走路邊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1192.2,
+    "duration": 0.9199999999998454,
+    "text": "人口高齡化",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1193.12,
+    "duration": 2.6400000000001,
+    "text": "在路上的電動代步車越來越常見",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1195.76,
+    "duration": 1.9200000000000728,
+    "text": "也經常傳出交通意外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1197.68,
+    "duration": 2.0799999999999272,
+    "text": "去年台東就發生14件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1199.76,
+    "duration": 2.240000000000009,
+    "text": "警方特別呼籲長輩和家屬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1202,
+    "duration": 1.240000000000009,
+    "text": "使用電動代步車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1203.24,
+    "duration": 2.480000000000018,
+    "text": "一定要走人行道或是緊靠路邊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1205.72,
+    "duration": 2.480000000000018,
+    "text": "也要遵守交通號誌指示通行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1208.2,
+    "duration": 3.3199999999999363,
+    "text": "公視新聞 張敏哲 台東報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1211.52,
+    "duration": 3.599999999999909,
+    "text": "柬埔寨的詐騙集團猖獗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1215.12,
+    "duration": 4.400000000000091,
+    "text": "根據南韓國家情報院的最新報告",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1219.52,
+    "duration": 3.9200000000000728,
+    "text": "當地估計有20萬名詐騙人員",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1223.44,
+    "duration": 3.8799999999998818,
+    "text": "其中包括一兩千個韓國人",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1227.32,
+    "duration": 6.039999999999964,
+    "text": "集團每年獲利將近新台幣6000億",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1233.36,
+    "duration": 4,
+    "text": "而為了要切斷歹徒的通訊",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1237.36,
+    "duration": 3.2000000000000455,
+    "text": "馬斯克旗下的SpaceX",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1240.56,
+    "duration": 9.400000000000091,
+    "text": "已經切斷詐騙園區附近的心鏈服務",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1249.96,
+    "duration": 1.2799999999999727,
+    "text": "從遠處看過去",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1251.24,
+    "duration": 2.5599999999999454,
+    "text": "能夠看到緬甸的最大詐騙集團",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1253.8,
+    "duration": 0.6800000000000637,
+    "text": "聚聯之一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1254.48,
+    "duration": 4.240000000000009,
+    "text": "KK園區的建築物頂上有不少疑似心鏈的衛星天線",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1258.72,
+    "duration": 2.9600000000000364,
+    "text": "緬甸軍方20號大規模清剿KK園區之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1261.68,
+    "duration": 1.2000000000000455,
+    "text": "釋放2000多人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1262.88,
+    "duration": 1.9199999999998454,
+    "text": "還有不少人向北邊撤離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1264.8,
+    "duration": 0.8800000000001091,
+    "text": "有人不行",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1265.68,
+    "duration": 1.0799999999999272,
+    "text": "有人騎摩托車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1266.76,
+    "duration": 2.1200000000001182,
+    "text": "還有人擠皮卡車逃離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1268.88,
+    "duration": 2.2399999999997817,
+    "text": "除了釋放被誘騙到園區的人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1271.12,
+    "duration": 3.800000000000182,
+    "text": "緬甸軍方還沒收了30套心鏈網路終端設備",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1274.92,
+    "duration": 3.240000000000009,
+    "text": "印證了長期以來活動人士一直提出的警告",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1278.16,
+    "duration": 3.9199999999998454,
+    "text": "表示心鏈技術遭到來自中國的犯罪集團濫用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1282.08,
+    "duration": 4.680000000000064,
+    "text": "隨後SpaceX公司的心鏈業務營運副總裁德雷爾",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1286.76,
+    "duration": 1.7999999999999545,
+    "text": "在社交平台X發文",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1288.56,
+    "duration": 2.5599999999999454,
+    "text": "表示在緬甸疑似詐騙園區附近",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1291.12,
+    "duration": 3.6400000000001,
+    "text": "主動偵測出超過2500組的心鏈裝置",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1294.76,
+    "duration": 1.599999999999909,
+    "text": "已經終斷服務",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1296.36,
+    "duration": 0.6400000000001,
+    "text": "外媒報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1297,
+    "duration": 3.599999999999909,
+    "text": "泰國緬甸邊境有30多個詐騙集團在營運",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1300.6,
+    "duration": 3.400000000000091,
+    "text": "又騙來自全球各地的人口從事詐騙活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1304,
+    "duration": 3.4400000000000546,
+    "text": "南韓國家情報院22號就提出一份報告指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1307.44,
+    "duration": 2.7200000000000273,
+    "text": "柬埔寨約有20萬名詐騙人員",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1310.16,
+    "duration": 2.6399999999998727,
+    "text": "估計有約一千名到兩千名的韓國人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1312.8,
+    "duration": 4.039999999999964,
+    "text": "因此捲入柬埔寨境內的詐騙與犯罪園區的活動",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1316.84,
+    "duration": 18,
+    "text": "今年就有一名南韓大學生在柬埔寨遭到犯罪集團虐殺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1334.84,
+    "duration": 1.9600000000000364,
+    "text": "引發了南韓人強烈抗議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1336.8,
+    "duration": 4.480000000000018,
+    "text": "從2023年到2025年的8月也有550人被誘騙",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1341.28,
+    "duration": 1.3600000000001273,
+    "text": "綁架到柬埔寨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1342.64,
+    "duration": 2.0399999999999636,
+    "text": "其中450人已經揪回",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1344.68,
+    "duration": 1.8799999999998818,
+    "text": "但仍有一半人下落不明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1346.56,
+    "duration": 2.2799999999999727,
+    "text": "讓當局也激出了略有警戒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1367.28,
+    "duration": 0.9200000000000728,
+    "text": "國情院表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1368.2,
+    "duration": 3.119999999999891,
+    "text": "柬埔寨全國約有50個詐團園區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1371.32,
+    "duration": 2.400000000000091,
+    "text": "部分的園區還設置在經濟特區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1373.72,
+    "duration": 2.6399999999998727,
+    "text": "或是由非政府武裝團體控制的區域",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1376.36,
+    "duration": 1.9200000000000728,
+    "text": "讓建國政府更難取締",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1378.28,
+    "duration": 3.240000000000009,
+    "text": "這些犯罪集團每年獲利約一把25億美元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1381.52,
+    "duration": 2.0399999999999636,
+    "text": "約台幣5800億元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1383.56,
+    "duration": 3.6800000000000637,
+    "text": "相當於柬埔寨2023年國內生產總值的一半",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1387.24,
+    "duration": 2.839999999999918,
+    "text": "成為當地不可忽視的黑色經濟體",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1390.08,
+    "duration": 1.0399999999999636,
+    "text": "國際新聞全球動變",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1391.12,
+    "duration": 4.960000000000036,
+    "text": "日前法國巴黎羅浮宮",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1396.08,
+    "duration": 2.2000000000000455,
+    "text": "發生了珍藏寶物盜竊案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1398.28,
+    "duration": 3.480000000000018,
+    "text": "而在休館三天之後",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1401.76,
+    "duration": 2.240000000000009,
+    "text": "除了遭竊的阿波羅長廊",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1404,
+    "duration": 1.6800000000000637,
+    "text": "終於重新開放",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1405.68,
+    "duration": 5.759999999999991,
+    "text": "不過館內外監視系統嚴重不足",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1411.44,
+    "duration": 2.0799999999999272,
+    "text": "還是存在危安漏洞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1413.52,
+    "duration": 4.720000000000027,
+    "text": "發生重大竊案的巴黎羅浮宮",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1418.24,
+    "duration": 1.1199999999998909,
+    "text": "在閉館三天後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1419.36,
+    "duration": 2.8400000000001455,
+    "text": "重新開放失竊區域以外的展區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1422.2,
+    "duration": 1.4800000000000182,
+    "text": "現場遊客仍然不少",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1423.68,
+    "duration": 2.0799999999999272,
+    "text": "不同的是多了警衛和警犬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1425.76,
+    "duration": 1.0399999999999636,
+    "text": "四處巡邏",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1426.8,
+    "duration": 1.8400000000001455,
+    "text": "這批歹徒如入無人之境",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1428.64,
+    "duration": 2.240000000000009,
+    "text": "不到七分鐘就得手價值高達",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1430.88,
+    "duration": 2.9199999999998454,
+    "text": "31億新台幣的法國文化貴寶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1433.8,
+    "duration": 1.8400000000001455,
+    "text": "而且還躲過監視器",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1435.64,
+    "duration": 2.3999999999998636,
+    "text": "這猶如電影情節般的竊盜手法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1438.04,
+    "duration": 2.519999999999982,
+    "text": "其實1976年就曾發生過",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1440.56,
+    "duration": 2.0399999999999636,
+    "text": "當時遭竊取的是查理時事",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1442.6,
+    "duration": 3.880000000000109,
+    "text": "用於1824年加冕典禮上的鑽石樁事件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1446.48,
+    "duration": 2.6800000000000637,
+    "text": "而這件文物至今仍下落不明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1449.16,
+    "duration": 6.240000000000009,
+    "text": "超過40年來 任何總統任何總統",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1455.4,
+    "duration": 3.0799999999999272,
+    "text": "都沒有嘗試過改善這個錯誤",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1458.48,
+    "duration": 3,
+    "text": "這個失去外面的影片",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1461.48,
+    "duration": 1.240000000000009,
+    "text": "這個問題仍然存在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1462.72,
+    "duration": 1.759999999999991,
+    "text": "在參議員的嚴厲質問下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1464.48,
+    "duration": 2.2000000000000455,
+    "text": "羅浮宮館長戴卡赫也坦承",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1466.68,
+    "duration": 3.2000000000000455,
+    "text": "博物館外牆的監視器確實覆蓋率不足",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1469.88,
+    "duration": 2.959999999999809,
+    "text": "甚至失竊展區阿波羅長廊內頭",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1472.84,
+    "duration": 1.400000000000091,
+    "text": "唯一安裝的攝影機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1474.24,
+    "duration": 2.9200000000000728,
+    "text": "根本沒有拍到被闖入的那個陽台",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1477.16,
+    "duration": 3.9199999999998454,
+    "text": "我們所見的影片是非常困難的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1481.08,
+    "duration": 5.519999999999982,
+    "text": "但實際上是非常容易 非常可怕",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1486.6,
+    "duration": 2.4400000000000546,
+    "text": "這是我們的弱點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1489.04,
+    "duration": 4.720000000000027,
+    "text": "如果我們直接回到弱點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1493.76,
+    "duration": 3.0799999999999272,
+    "text": "我們根本沒有提早檢查到",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1496.84,
+    "duration": 1.1200000000001182,
+    "text": "偷襲的情況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1497.96,
+    "duration": 3.119999999999891,
+    "text": "法國總統馬克宏22日透過發言人表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1501.08,
+    "duration": 4.279999999999973,
+    "text": "必須儘速加強羅浮宮的保安措施",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1505.36,
+    "duration": 1.6000000000001364,
+    "text": "而八件失竊文物之外",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1506.96,
+    "duration": 2.0399999999999636,
+    "text": "一件屬於拿破崙三世妻子",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1509,
+    "duration": 1.6400000000001,
+    "text": "歐仁尼皇后的後冠",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1510.64,
+    "duration": 1.0799999999999272,
+    "text": "竟然在案發後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1511.72,
+    "duration": 2.839999999999918,
+    "text": "被巴黎警方在羅浮宮附近巡獲",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1514.56,
+    "duration": 2.160000000000082,
+    "text": "不過它的結構嚴重受損",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1516.72,
+    "duration": 3.0399999999999636,
+    "text": "研判可能是取出展示櫃時損壞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1519.76,
+    "duration": 2.400000000000091,
+    "text": "官方也將進行修復",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1522.16,
+    "duration": 1.9199999999998454,
+    "text": "公布新聞 公務沒編譯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1524.08,
+    "duration": 2.880000000000109,
+    "text": "關心天氣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1526.96,
+    "duration": 2.4400000000000546,
+    "text": "接著提供您各地的跡象資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1537.96,
+    "duration": 5.1599999999998545,
+    "text": "請不吝點贊訂閱轉發打賞支持明鏡與點點欄目",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1567.96,
+    "duration": 3.240000000000009,
+    "text": "感謝您收看這一節的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1571.2,
+    "duration": 1.2000000000000455,
+    "text": "我是王小樞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1572.4,
+    "duration": 2,
+    "text": "下週同一時間再會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1596.96,
+    "duration": 23.039999999999964,
+    "text": "MING PAO CANADA | MING PAO TORONTO",
+    "hasSignLanguage": false
+  }
+]

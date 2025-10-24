@@ -1,35 +1,5 @@
 [
   {
-    "id": "3Sr1-QYMbLQ",
-    "title": "20251024 公視手語新聞 完整版｜普發1萬網站正式上線 11/5起開放登記",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-24T05:27:36Z",
-    "thumbnail": "https://i.ytimg.com/vi/3Sr1-QYMbLQ/hqdefault.jpg",
-    "addedAt": "2025-10-24T07:00:04.277Z",
-    "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-10-24T07:09:03.838Z",
-      "transcriptSegments": 574,
-      "asrModel": "whisper"
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-24T15:14:03.719740",
-      "totalSegments": 574,
-      "signLanguageSegments": 135,
-      "coverage": 28.641975308641975
-    },
-    "stats": {
-      "transcriptSegments": 574,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
-  },
-  {
     "id": "umGLbQzbfnk",
     "title": "20251023 公視手語新聞 完整版｜國內首檢出非洲豬瘟陽性 禁運禁宰5天.禁止廚餘養豬",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -37,12 +7,14 @@
     "thumbnail": "https://i.ytimg.com/vi/umGLbQzbfnk/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:05.198Z",
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2025-10-23T07:00:10.243Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
+      "errorAt": "2025-10-23T15:31:20.238Z"
     },
-    "detectionSummary": null,
     "stats": {
       "transcriptSegments": 0,
       "signLanguageGroups": 0,
@@ -57,12 +29,14 @@
     "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:08.241Z",
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2025-10-23T07:00:10.243Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
+      "errorAt": "2025-10-23T15:31:33.473Z"
     },
-    "detectionSummary": null,
     "stats": {
       "transcriptSegments": 0,
       "signLanguageGroups": 0,
@@ -77,10 +51,13 @@
     "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.243Z",
       "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "needsWhisperProcessing": true,
+      "needsClassification": false,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
+      "errorAt": "2025-10-23T15:31:46.492Z"
     },
     "detectionSummary": null,
     "stats": {
@@ -97,7 +74,7 @@
     "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.243Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -123,7 +100,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.243Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -149,7 +126,7 @@
     "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -175,7 +152,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -201,7 +178,7 @@
     "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -227,7 +204,7 @@
     "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -253,7 +230,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FFeGOoOJ1k0/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -279,7 +256,7 @@
     "thumbnail": "https://i.ytimg.com/vi/F1CH5J7bu7g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -305,7 +282,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-Lwda7sUyDw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-10-23T07:00:10.244Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false

@@ -6,12 +6,10 @@
   "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
   "addedAt": "2025-10-23T07:00:08.241Z",
   "processingStatus": {
-    "lastUpdated": "2025-10-23T07:00:10.243Z",
-    "isNew": true,
-    "needsWhisperProcessing": true,
-    "needsClassification": true,
-    "whisperProcessed": false,
-    "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
-    "errorAt": "2025-10-23T07:00:34.574Z"
-  }
+    "lastUpdated": "2025-10-24T07:00:06.281Z",
+    "isNew": false,
+    "needsWhisperProcessing": false,
+    "needsClassification": false
+  },
+  "detectionSummary": null
 }
