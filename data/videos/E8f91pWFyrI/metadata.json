@@ -1,0 +1,25 @@
+{
+  "id": "E8f91pWFyrI",
+  "title": "20251027 公視手語新聞 完整版｜防堵豬瘟\"禁運禁宰\"再延10天 大榮貨運涉規避調查遭罰",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-10-27T06:10:39Z",
+  "thumbnail": "https://i.ytimg.com/vi/E8f91pWFyrI/hqdefault.jpg",
+  "addedAt": "2025-10-27T07:00:04.370Z",
+  "processingStatus": {
+    "lastUpdated": "2025-10-27T07:00:06.373Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-10-27T07:07:29.902Z",
+    "transcriptSegments": 439,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-10-27T15:13:02.221612",
+    "totalSegments": 439,
+    "signLanguageSegments": 119,
+    "coverage": 31.001472754050074
+  }
+}
