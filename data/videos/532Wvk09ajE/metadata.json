@@ -1,0 +1,25 @@
+{
+  "id": "532Wvk09ajE",
+  "title": "20251028 公視手語新聞 完整版｜中職台灣大賽樂天桃猿封王 睽違6年隊史第8冠",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-10-28T06:27:29Z",
+  "thumbnail": "https://i.ytimg.com/vi/532Wvk09ajE/hqdefault.jpg",
+  "addedAt": "2025-10-28T07:00:05.015Z",
+  "processingStatus": {
+    "lastUpdated": "2025-10-28T07:00:07.018Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-10-28T07:10:27.696Z",
+    "transcriptSegments": 491,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-10-28T15:16:27.283784",
+    "totalSegments": 491,
+    "signLanguageSegments": 140,
+    "coverage": 26.60493827160494
+  }
+}
