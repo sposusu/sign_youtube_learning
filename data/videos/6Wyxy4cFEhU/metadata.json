@@ -1,0 +1,25 @@
+{
+  "id": "6Wyxy4cFEhU",
+  "title": "20251030 公視手語新聞 完整版｜燕子口堰塞湖壩體沖毀未釀災 警戒解除",
+  "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-10-30T07:13:26Z",
+  "thumbnail": "https://i.ytimg.com/vi/6Wyxy4cFEhU/hqdefault.jpg",
+  "addedAt": "2025-10-31T07:00:06.831Z",
+  "processingStatus": {
+    "lastUpdated": "2025-10-31T07:00:08.832Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-10-31T07:13:46.558Z",
+    "transcriptSegments": 270,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-10-31T15:25:42.055070",
+    "totalSegments": 270,
+    "signLanguageSegments": 69,
+    "coverage": 25.493827160493826
+  }
+}
