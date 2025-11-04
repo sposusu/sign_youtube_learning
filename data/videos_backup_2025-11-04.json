@@ -1,5 +1,165 @@
 [
   {
+    "id": "FU-2pWpk9dk",
+    "title": "20251103 公視手語新聞 完整版｜台中市府擅自清消案例場 農業部憂檢驗結果出現誤判",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-03T01:43:57Z",
+    "thumbnail": "https://i.ytimg.com/vi/FU-2pWpk9dk/hqdefault.jpg",
+    "addedAt": "2025-11-03T07:00:04.489Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-11-03T07:05:41.615Z",
+      "transcriptSegments": 469,
+      "asrModel": "whisper"
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-03T15:10:49.696198",
+      "totalSegments": 469,
+      "signLanguageSegments": 139,
+      "coverage": 30.806340454858717
+    },
+    "stats": {
+      "transcriptSegments": 469,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "sT0ach52n4g",
+    "title": "20251031 公視手語新聞 完整版｜禁令致溫體豬缺貨 台中雞魚價格漲1-3成",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-10-31T06:26:20Z",
+    "thumbnail": "https://i.ytimg.com/vi/sT0ach52n4g/hqdefault.jpg",
+    "addedAt": "2025-10-31T07:00:03.965Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-10-31T15:20:55.509661",
+      "totalSegments": 494,
+      "signLanguageSegments": 119,
+      "coverage": 28.02469135802469
+    },
+    "stats": {
+      "transcriptSegments": 494,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "6Wyxy4cFEhU",
+    "title": "20251030 公視手語新聞 完整版｜燕子口堰塞湖壩體沖毀未釀災 警戒解除",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-10-30T07:13:26Z",
+    "thumbnail": "https://i.ytimg.com/vi/6Wyxy4cFEhU/hqdefault.jpg",
+    "addedAt": "2025-10-31T07:00:06.831Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-10-31T15:25:42.055070",
+      "totalSegments": 270,
+      "signLanguageSegments": 69,
+      "coverage": 25.493827160493826
+    },
+    "stats": {
+      "transcriptSegments": 270,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "re4P-Tdq7jI",
+    "title": "20250101 公視手語新聞 完整版｜上週類流感就診逾11萬人次 增13例死亡",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-10-29T06:45:53Z",
+    "thumbnail": "https://i.ytimg.com/vi/re4P-Tdq7jI/hqdefault.jpg",
+    "addedAt": "2025-10-30T07:00:04.268Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-10-30T15:09:34.237307",
+      "totalSegments": 104,
+      "signLanguageSegments": 28,
+      "coverage": 25.205070842654738
+    },
+    "stats": {
+      "transcriptSegments": 104,
+      "signLanguageGroups": 8,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "532Wvk09ajE",
+    "title": "20251028 公視手語新聞 完整版｜中職台灣大賽樂天桃猿封王 睽違6年隊史第8冠",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-10-28T06:27:29Z",
+    "thumbnail": "https://i.ytimg.com/vi/532Wvk09ajE/hqdefault.jpg",
+    "addedAt": "2025-10-28T07:00:05.015Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-10-28T15:16:27.283784",
+      "totalSegments": 491,
+      "signLanguageSegments": 140,
+      "coverage": 26.60493827160494
+    },
+    "stats": {
+      "transcriptSegments": 491,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "E8f91pWFyrI",
+    "title": "20251027 公視手語新聞 完整版｜防堵豬瘟\"禁運禁宰\"再延10天 大榮貨運涉規避調查遭罰",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-10-27T06:10:39Z",
+    "thumbnail": "https://i.ytimg.com/vi/E8f91pWFyrI/hqdefault.jpg",
+    "addedAt": "2025-10-27T07:00:04.370Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-10-27T15:13:02.221612",
+      "totalSegments": 439,
+      "signLanguageSegments": 119,
+      "coverage": 31.001472754050074
+    },
+    "stats": {
+      "transcriptSegments": 439,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": false
+    }
+  },
+  {
     "id": "3Sr1-QYMbLQ",
     "title": "20251024 公視手語新聞 完整版｜普發1萬網站正式上線 11/5起開放登記",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,16 +167,10 @@
     "thumbnail": "https://i.ytimg.com/vi/3Sr1-QYMbLQ/hqdefault.jpg",
     "addedAt": "2025-10-24T07:00:04.277Z",
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "whisperProcessedAt": "2025-10-24T07:09:03.838Z",
-      "transcriptSegments": 574,
-      "asrModel": "whisper",
-      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
-      "errorAt": "2025-10-26T12:42:20.590Z"
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -39,13 +193,10 @@
     "thumbnail": "https://i.ytimg.com/vi/umGLbQzbfnk/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:05.198Z",
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
-      "errorAt": "2025-10-26T12:42:33.637Z"
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": null,
     "stats": {
@@ -62,16 +213,10 @@
     "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:08.241Z",
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
-      "needsWhisperProcessing": true,
-      "needsClassification": false,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: Deprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nERROR: unable to download video data: HTTP Error 403: Forbidden\n",
-      "errorAt": "2025-10-26T12:42:46.731Z",
-      "whisperProcessedAt": "2025-10-24T18:03:29.394Z",
-      "transcriptSegments": 560,
-      "asrModel": "whisper"
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": null,
     "stats": {
@@ -88,7 +233,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -108,7 +253,7 @@
     "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -134,7 +279,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -160,7 +305,7 @@
     "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -186,7 +331,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -212,7 +357,7 @@
     "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -238,7 +383,7 @@
     "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -264,7 +409,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FFeGOoOJ1k0/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -290,7 +435,7 @@
     "thumbnail": "https://i.ytimg.com/vi/F1CH5J7bu7g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -316,7 +461,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-Lwda7sUyDw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-10-24T07:00:06.281Z",
+      "lastUpdated": "2025-11-03T07:00:06.492Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
