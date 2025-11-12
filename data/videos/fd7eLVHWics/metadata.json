@@ -1,21 +1,25 @@
 {
-  "id": "TC3OP0G9TJw",
-  "title": "20251111 公視手語新聞 完整版｜東京聽奧授旗 副總統鼓勵選手勇敢追夢",
+  "id": "fd7eLVHWics",
+  "title": "20251112 公視手語新聞 完整版｜蘇澳淹水最高達1層樓 國軍出動兩棲突擊車救援",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-11-11T02:40:52Z",
-  "thumbnail": "https://i.ytimg.com/vi/TC3OP0G9TJw/hqdefault.jpg",
-  "addedAt": "2025-11-11T07:00:04.388Z",
+  "publishedAt": "2025-11-12T06:19:58Z",
+  "thumbnail": "https://i.ytimg.com/vi/fd7eLVHWics/hqdefault.jpg",
+  "addedAt": "2025-11-12T07:00:05.115Z",
   "processingStatus": {
     "lastUpdated": "2025-11-12T07:00:07.118Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-11-12T07:07:42.916Z",
+    "transcriptSegments": 440,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-11-11T15:10:03.988815",
-    "totalSegments": 404,
-    "signLanguageSegments": 105,
-    "coverage": 28.731836195508585
+    "processedAt": "2025-11-12T15:13:35.063110",
+    "totalSegments": 440,
+    "signLanguageSegments": 116,
+    "coverage": 26.00958247775496
   }
 }
