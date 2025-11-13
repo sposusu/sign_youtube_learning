@@ -1,21 +1,25 @@
 {
-  "id": "L47_H6sJfJw",
-  "title": "20251107 公視手語新聞 完整版｜台日聾人合作電影  \"黃色的孩子\"入圍東京影展",
+  "id": "aNn8dLXg1zQ",
+  "title": "20251113 公視手語新聞 完整版｜定向越野考體力 方向感 東京聽奧吳思穎等4人出賽",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-11-07T02:45:04Z",
-  "thumbnail": "https://i.ytimg.com/vi/L47_H6sJfJw/hqdefault.jpg",
-  "addedAt": "2025-11-07T07:00:05.064Z",
+  "publishedAt": "2025-11-13T05:29:01Z",
+  "thumbnail": "https://i.ytimg.com/vi/aNn8dLXg1zQ/hqdefault.jpg",
+  "addedAt": "2025-11-13T07:00:04.143Z",
   "processingStatus": {
     "lastUpdated": "2025-11-13T07:00:06.145Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-11-13T07:06:24.280Z",
+    "transcriptSegments": 562,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-11-07T15:13:40.069230",
-    "totalSegments": 612,
-    "signLanguageSegments": 155,
-    "coverage": 28.51851851851852
+    "processedAt": "2025-11-13T15:12:35.810305",
+    "totalSegments": 562,
+    "signLanguageSegments": 124,
+    "coverage": 25.185185185185183
   }
 }

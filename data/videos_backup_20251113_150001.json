@@ -1,5 +1,191 @@
 [
   {
+    "id": "fd7eLVHWics",
+    "title": "20251112 公視手語新聞 完整版｜蘇澳淹水最高達1層樓 國軍出動兩棲突擊車救援",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-12T06:19:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/fd7eLVHWics/hqdefault.jpg",
+    "addedAt": "2025-11-12T07:00:05.115Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-11-12T07:07:42.916Z",
+      "transcriptSegments": 440,
+      "asrModel": "whisper"
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-12T15:13:35.063110",
+      "totalSegments": 440,
+      "signLanguageSegments": 116,
+      "coverage": 26.00958247775496
+    },
+    "stats": {
+      "transcriptSegments": 440,
+      "signLanguageGroups": 8,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "TC3OP0G9TJw",
+    "title": "20251111 公視手語新聞 完整版｜東京聽奧授旗 副總統鼓勵選手勇敢追夢",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-11T02:40:52Z",
+    "thumbnail": "https://i.ytimg.com/vi/TC3OP0G9TJw/hqdefault.jpg",
+    "addedAt": "2025-11-11T07:00:04.388Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-11T15:10:03.988815",
+      "totalSegments": 404,
+      "signLanguageSegments": 105,
+      "coverage": 28.731836195508585
+    },
+    "stats": {
+      "transcriptSegments": 404,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "VfrOPqTKusM",
+    "title": "20251110 公視手語新聞 完整版｜11/5-11/26東京聽奧百年盛會 賽前一週 聽奧點將錄專題報導",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-10T02:40:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/VfrOPqTKusM/hqdefault.jpg",
+    "addedAt": "2025-11-10T07:00:03.931Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-10T15:13:37.983115",
+      "totalSegments": 601,
+      "signLanguageSegments": 147,
+      "coverage": 27.59259259259259
+    },
+    "stats": {
+      "transcriptSegments": 601,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "L47_H6sJfJw",
+    "title": "20251107 公視手語新聞 完整版｜台日聾人合作電影  \"黃色的孩子\"入圍東京影展",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-07T02:45:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/L47_H6sJfJw/hqdefault.jpg",
+    "addedAt": "2025-11-07T07:00:05.064Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-07T15:13:40.069230",
+      "totalSegments": 612,
+      "signLanguageSegments": 155,
+      "coverage": 28.51851851851852
+    },
+    "stats": {
+      "transcriptSegments": 612,
+      "signLanguageGroups": 11,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "GRlVzkOYrbA",
+    "title": "20251106 公視手語新聞 完整版｜輕颱\"鳳凰\"形成 下週二、三接近台灣影響降雨",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-06T05:55:07Z",
+    "thumbnail": "https://i.ytimg.com/vi/GRlVzkOYrbA/hqdefault.jpg",
+    "addedAt": "2025-11-06T07:00:04.003Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-06T15:14:16.062217",
+      "totalSegments": 516,
+      "signLanguageSegments": 127,
+      "coverage": 29.885829415715243
+    },
+    "stats": {
+      "transcriptSegments": 516,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "71DG-GXH4kg",
+    "title": "20251105 公視手語新聞 完整版｜普發現金登記開跑 今天開放身分證末碼0、1",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-05T01:53:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/71DG-GXH4kg/hqdefault.jpg",
+    "addedAt": "2025-11-05T07:00:04.358Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-05T15:12:19.590875",
+      "totalSegments": 439,
+      "signLanguageSegments": 112,
+      "coverage": 27.662424648359007
+    },
+    "stats": {
+      "transcriptSegments": 439,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "XbewVRtnPRE",
+    "title": "20251104 公視手語新聞 完整版｜台中非洲豬瘟案場紀錄造假 豬農父子收押",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-11-04T05:49:48Z",
+    "thumbnail": "https://i.ytimg.com/vi/XbewVRtnPRE/hqdefault.jpg",
+    "addedAt": "2025-11-04T07:00:04.082Z",
+    "processingStatus": {
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-11-04T15:14:45.681643",
+      "totalSegments": 530,
+      "signLanguageSegments": 141,
+      "coverage": 28.580246913580247
+    },
+    "stats": {
+      "transcriptSegments": 530,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
     "id": "FU-2pWpk9dk",
     "title": "20251103 公視手語新聞 完整版｜台中市府擅自清消案例場 農業部憂檢驗結果出現誤判",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,14 +193,10 @@
     "thumbnail": "https://i.ytimg.com/vi/FU-2pWpk9dk/hqdefault.jpg",
     "addedAt": "2025-11-03T07:00:04.489Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-11-03T07:05:41.615Z",
-      "transcriptSegments": 469,
-      "asrModel": "whisper"
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -37,7 +219,7 @@
     "thumbnail": "https://i.ytimg.com/vi/sT0ach52n4g/hqdefault.jpg",
     "addedAt": "2025-10-31T07:00:03.965Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -63,7 +245,7 @@
     "thumbnail": "https://i.ytimg.com/vi/6Wyxy4cFEhU/hqdefault.jpg",
     "addedAt": "2025-10-31T07:00:06.831Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -89,7 +271,7 @@
     "thumbnail": "https://i.ytimg.com/vi/re4P-Tdq7jI/hqdefault.jpg",
     "addedAt": "2025-10-30T07:00:04.268Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -115,7 +297,7 @@
     "thumbnail": "https://i.ytimg.com/vi/532Wvk09ajE/hqdefault.jpg",
     "addedAt": "2025-10-28T07:00:05.015Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -141,7 +323,7 @@
     "thumbnail": "https://i.ytimg.com/vi/E8f91pWFyrI/hqdefault.jpg",
     "addedAt": "2025-10-27T07:00:04.370Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -167,7 +349,7 @@
     "thumbnail": "https://i.ytimg.com/vi/3Sr1-QYMbLQ/hqdefault.jpg",
     "addedAt": "2025-10-24T07:00:04.277Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -193,7 +375,7 @@
     "thumbnail": "https://i.ytimg.com/vi/umGLbQzbfnk/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:05.198Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -213,7 +395,7 @@
     "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:08.241Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -233,7 +415,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -253,7 +435,7 @@
     "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -279,7 +461,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -305,7 +487,7 @@
     "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -331,7 +513,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -357,7 +539,7 @@
     "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -383,7 +565,7 @@
     "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -409,7 +591,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FFeGOoOJ1k0/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -435,7 +617,7 @@
     "thumbnail": "https://i.ytimg.com/vi/F1CH5J7bu7g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -461,7 +643,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-Lwda7sUyDw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-03T07:00:06.492Z",
+      "lastUpdated": "2025-11-12T07:00:07.118Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
