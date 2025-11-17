@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0,
+    "duration": 5,
+    "text": "今天東北季風增強",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 5,
+    "duration": 4,
+    "text": "各地天氣轉涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 9,
+    "duration": 4,
+    "text": "明天受到東北季風影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 13,
+    "duration": 2,
+    "text": "中部以北",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 15,
+    "duration": 5,
+    "text": "東北不及東部天氣明顯偏涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 20,
+    "duration": 5,
+    "text": "其他地區早晚也是比較涼的天氣型態",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 30,
+    "duration": 5,
+    "text": "(東北季風影響)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 35,
+    "duration": 5,
+    "text": "(東北風影響)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 40,
+    "duration": 5,
+    "text": "(東北季風影響)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 45,
+    "duration": 5,
+    "text": "(東北季風影響)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 50,
+    "duration": 5,
+    "text": "(東北季風影響)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 55,
+    "duration": 5,
+    "text": "(東北季風影響)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 60,
+    "duration": 5,
+    "text": "(東北季風影響)",
+    "hasSignLanguage": false
+  }
+]

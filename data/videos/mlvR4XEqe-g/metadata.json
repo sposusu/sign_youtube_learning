@@ -1,0 +1,25 @@
+{
+  "id": "mlvR4XEqe-g",
+  "title": "20251117 公視AI手語天氣報導 ｜東北季風增強，秋意漸濃，迎風面留意局部大雨",
+  "description": "今日東北季風增強，各地天氣轉涼，明日東北季風影響，中部以北、東北部及東部天氣明顯偏涼，其他地區早晚亦涼。\n\n-\n每週一到週五歡迎收看\n-\n▌訂閱我們    / ‪@ptsai.2025‬  \n▌到臉書互動 https://www.facebook.com/profile.php?...\n\n#臺灣手語 #TaiwanSignLanguage #TSL #AI手語 #文化部國家語言整體方案支持 #國家語言主流化\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-11-17T02:57:59Z",
+  "thumbnail": "https://i.ytimg.com/vi/mlvR4XEqe-g/hqdefault.jpg",
+  "addedAt": "2025-11-17T07:00:07.793Z",
+  "processingStatus": {
+    "lastUpdated": "2025-11-17T07:00:09.796Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-11-17T07:08:31.966Z",
+    "transcriptSegments": 13,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-11-17T15:14:56.219028",
+    "totalSegments": 13,
+    "signLanguageSegments": 6,
+    "coverage": 42.42424242424242
+  }
+}
