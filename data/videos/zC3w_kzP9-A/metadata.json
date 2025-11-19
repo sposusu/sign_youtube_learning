@@ -11,7 +11,7 @@
     "needsWhisperProcessing": true,
     "needsClassification": true,
     "whisperProcessed": true,
-    "whisperProcessedAt": "2025-11-18T07:08:42.972Z",
+    "whisperProcessedAt": "2025-11-19T07:05:27.519Z",
     "transcriptSegments": 518,
     "asrModel": "whisper"
   },
