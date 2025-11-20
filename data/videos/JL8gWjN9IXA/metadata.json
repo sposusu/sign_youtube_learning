@@ -1,21 +1,25 @@
 {
-  "id": "XbewVRtnPRE",
-  "title": "20251104 公視手語新聞 完整版｜台中非洲豬瘟案場紀錄造假 豬農父子收押",
+  "id": "JL8gWjN9IXA",
+  "title": "20251119 公視手語新聞 完整版｜我東京聽奧首面獎牌 危宇澤十項全能奪銀",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-11-04T05:49:48Z",
-  "thumbnail": "https://i.ytimg.com/vi/XbewVRtnPRE/hqdefault.jpg",
-  "addedAt": "2025-11-04T07:00:04.082Z",
+  "publishedAt": "2025-11-19T08:31:52Z",
+  "thumbnail": "https://i.ytimg.com/vi/JL8gWjN9IXA/hqdefault.jpg",
+  "addedAt": "2025-11-20T07:00:06.888Z",
   "processingStatus": {
     "lastUpdated": "2025-11-20T07:00:08.891Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-11-20T07:10:58.070Z",
+    "transcriptSegments": 557,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-11-04T15:14:45.681643",
-    "totalSegments": 530,
-    "signLanguageSegments": 141,
-    "coverage": 28.580246913580247
+    "processedAt": "2025-11-20T15:19:54.942941",
+    "totalSegments": 557,
+    "signLanguageSegments": 123,
+    "coverage": 26.41975308641975
   }
 }
