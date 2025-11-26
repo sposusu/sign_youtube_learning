@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0,
+    "duration": 2.36,
+    "text": "今天以及明天",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 2.36,
+    "duration": 2.8000000000000003,
+    "text": "受到東北季風影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 5.16,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 10.16,
+    "duration": 5,
+    "text": "其他地區 早晚也偏涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 15.16,
+    "duration": 2.5,
+    "text": "今天中南部要留意",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 17.66,
+    "duration": 5,
+    "text": "日夜溫差大",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22.66,
+    "duration": 7,
+    "text": "接著提供您各地的溫度預測",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 29.66,
+    "duration": 4.9999999999999964,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 34.66,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 39.66,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 44.66,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 49.66,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 54.66,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 59.66,
+    "duration": 5,
+    "text": "北部 東北不及東部天氣轉涼",
+    "hasSignLanguage": false
+  }
+]

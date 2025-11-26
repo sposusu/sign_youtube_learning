@@ -1,0 +1,25 @@
+{
+  "id": "0Hw8luAVQMo",
+  "title": "20251126 公視AI手語天氣報導 ｜北臺灣天氣涼 今晚起水氣增",
+  "description": "今天以及明天，受到東北季風影響，北部、東北部以及東部天氣轉涼，其他地區、早晚也偏涼，今天中南部要留意日夜溫差大。接著提供您各地的溫度預測。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-11-26T02:31:29Z",
+  "thumbnail": "https://i.ytimg.com/vi/0Hw8luAVQMo/hqdefault.jpg",
+  "addedAt": "2025-11-26T07:00:06.834Z",
+  "processingStatus": {
+    "lastUpdated": "2025-11-26T07:00:08.837Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-11-26T07:06:35.629Z",
+    "transcriptSegments": 14,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-11-26T15:12:39.646770",
+    "totalSegments": 14,
+    "signLanguageSegments": 8,
+    "coverage": 42.857142857142854
+  }
+}
