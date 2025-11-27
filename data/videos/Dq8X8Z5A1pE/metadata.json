@@ -1,0 +1,25 @@
+{
+  "id": "Dq8X8Z5A1pE",
+  "title": "20251127 公視AI手語天氣報導 ｜東北季風影響天氣較涼，水氣稍多降雨機率略增",
+  "description": "今天以及明天，受到東北季風影響，北部、東北部、以及東部，天氣比較涼，其他地區早晚也會比較涼；此外，今天水氣稍微增多，桃園以北、台灣東半部地區以及恆春半島，會有局部短暫雨。接著來看各地的溫度預測。\n\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-11-27T04:14:35Z",
+  "thumbnail": "https://i.ytimg.com/vi/Dq8X8Z5A1pE/hqdefault.jpg",
+  "addedAt": "2025-11-27T07:00:04.696Z",
+  "processingStatus": {
+    "lastUpdated": "2025-11-27T07:00:09.459Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-11-27T07:00:33.762Z",
+    "transcriptSegments": 9,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-11-27T15:05:56.819589",
+    "totalSegments": 9,
+    "signLanguageSegments": 8,
+    "coverage": 47.2972972972973
+  }
+}
