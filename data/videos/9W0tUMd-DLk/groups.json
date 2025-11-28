@@ -1,0 +1,72 @@
+[
+  {
+    "paragraph_id": "p1",
+    "start_timestamp": 21,
+    "end_timestamp": 53,
+    "duration_seconds": 33,
+    "frame_count": 33
+  },
+  {
+    "paragraph_id": "p2",
+    "start_timestamp": 154,
+    "end_timestamp": 208,
+    "duration_seconds": 55,
+    "frame_count": 55
+  },
+  {
+    "paragraph_id": "p3",
+    "start_timestamp": 328,
+    "end_timestamp": 374,
+    "duration_seconds": 47,
+    "frame_count": 47
+  },
+  {
+    "paragraph_id": "p4",
+    "start_timestamp": 471,
+    "end_timestamp": 602,
+    "duration_seconds": 132,
+    "frame_count": 132
+  },
+  {
+    "paragraph_id": "p5",
+    "start_timestamp": 699,
+    "end_timestamp": 728,
+    "duration_seconds": 30,
+    "frame_count": 30
+  },
+  {
+    "paragraph_id": "p6",
+    "start_timestamp": 864,
+    "end_timestamp": 896,
+    "duration_seconds": 33,
+    "frame_count": 33
+  },
+  {
+    "paragraph_id": "p7",
+    "start_timestamp": 1043,
+    "end_timestamp": 1076,
+    "duration_seconds": 34,
+    "frame_count": 34
+  },
+  {
+    "paragraph_id": "p8",
+    "start_timestamp": 1142,
+    "end_timestamp": 1187,
+    "duration_seconds": 46,
+    "frame_count": 46
+  },
+  {
+    "paragraph_id": "p9",
+    "start_timestamp": 1312,
+    "end_timestamp": 1338,
+    "duration_seconds": 27,
+    "frame_count": 27
+  },
+  {
+    "paragraph_id": "p10",
+    "start_timestamp": 1415,
+    "end_timestamp": 1452,
+    "duration_seconds": 38,
+    "frame_count": 38
+  }
+]

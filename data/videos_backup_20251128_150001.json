@@ -1,35 +1,5 @@
 [
   {
-    "id": "9W0tUMd-DLk",
-    "title": "20251128 手語新聞 完整版｜台南聽障體協推出手語書 介紹府城各地手語比法",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-11-28T03:27:00Z",
-    "thumbnail": "https://i.ytimg.com/vi/9W0tUMd-DLk/hqdefault.jpg",
-    "addedAt": "2025-11-28T07:00:04.247Z",
-    "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-11-28T07:06:08.502Z",
-      "transcriptSegments": 440,
-      "asrModel": "whisper"
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-11-28T15:10:13.092328",
-      "totalSegments": 440,
-      "signLanguageSegments": 124,
-      "coverage": 29.32098765432099
-    },
-    "stats": {
-      "transcriptSegments": 440,
-      "signLanguageGroups": 10,
-      "hasSignLanguage": true
-    }
-  },
-  {
     "id": "Dq8X8Z5A1pE",
     "title": "20251127 公視AI手語天氣報導 ｜東北季風影響天氣較涼，水氣稍多降雨機率略增",
     "description": "今天以及明天，受到東北季風影響，北部、東北部、以及東部，天氣比較涼，其他地區早晚也會比較涼；此外，今天水氣稍微增多，桃園以北、台灣東半部地區以及恆春半島，會有局部短暫雨。接著來看各地的溫度預測。\n\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -37,10 +7,14 @@
     "thumbnail": "https://i.ytimg.com/vi/Dq8X8Z5A1pE/hqdefault.jpg",
     "addedAt": "2025-11-27T07:00:04.696Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-11-27T07:00:33.762Z",
+      "transcriptSegments": 9,
+      "asrModel": "whisper"
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -63,10 +37,14 @@
     "thumbnail": "https://i.ytimg.com/vi/7CMCgpJOFXU/hqdefault.jpg",
     "addedAt": "2025-11-27T07:00:07.456Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-11-27T07:05:29.772Z",
+      "transcriptSegments": 476,
+      "asrModel": "whisper"
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -89,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/2HQV2cZ31PY/hqdefault.jpg",
     "addedAt": "2025-11-26T07:00:04.186Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -115,7 +93,7 @@
     "thumbnail": "https://i.ytimg.com/vi/0Hw8luAVQMo/hqdefault.jpg",
     "addedAt": "2025-11-26T07:00:06.834Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -141,7 +119,7 @@
     "thumbnail": "https://i.ytimg.com/vi/HcnGar5wSH0/hqdefault.jpg",
     "addedAt": "2025-11-25T07:00:05.024Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -167,7 +145,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VfRWyubBBgY/hqdefault.jpg",
     "addedAt": "2025-11-25T07:00:07.652Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -193,7 +171,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RxwruSFFwME/hqdefault.jpg",
     "addedAt": "2025-11-25T07:00:10.309Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -219,7 +197,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-m2ECPB2R6U/hqdefault.jpg",
     "addedAt": "2025-11-24T07:00:04.461Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -245,7 +223,7 @@
     "thumbnail": "https://i.ytimg.com/vi/_N6Hm6N37BI/hqdefault.jpg",
     "addedAt": "2025-11-21T07:00:03.859Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -271,7 +249,7 @@
     "thumbnail": "https://i.ytimg.com/vi/a0gawrczSn4/hqdefault.jpg",
     "addedAt": "2025-11-21T07:00:06.691Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -297,7 +275,7 @@
     "thumbnail": "https://i.ytimg.com/vi/v0HTjxh82R0/hqdefault.jpg",
     "addedAt": "2025-11-20T07:00:04.320Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -323,7 +301,7 @@
     "thumbnail": "https://i.ytimg.com/vi/JL8gWjN9IXA/hqdefault.jpg",
     "addedAt": "2025-11-20T07:00:06.888Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -349,7 +327,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zC3w_kzP9-A/hqdefault.jpg",
     "addedAt": "2025-11-18T07:00:04.006Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -375,7 +353,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4ppnSLiTwVQ/hqdefault.jpg",
     "addedAt": "2025-11-17T07:00:05.137Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -401,7 +379,7 @@
     "thumbnail": "https://i.ytimg.com/vi/mlvR4XEqe-g/hqdefault.jpg",
     "addedAt": "2025-11-17T07:00:07.793Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -427,7 +405,7 @@
     "thumbnail": "https://i.ytimg.com/vi/BOONEjdNQEM/hqdefault.jpg",
     "addedAt": "2025-11-14T07:00:04.893Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -453,7 +431,7 @@
     "thumbnail": "https://i.ytimg.com/vi/aNn8dLXg1zQ/hqdefault.jpg",
     "addedAt": "2025-11-13T07:00:04.143Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -479,7 +457,7 @@
     "thumbnail": "https://i.ytimg.com/vi/fd7eLVHWics/hqdefault.jpg",
     "addedAt": "2025-11-12T07:00:05.115Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -505,7 +483,7 @@
     "thumbnail": "https://i.ytimg.com/vi/TC3OP0G9TJw/hqdefault.jpg",
     "addedAt": "2025-11-11T07:00:04.388Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -531,7 +509,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VfrOPqTKusM/hqdefault.jpg",
     "addedAt": "2025-11-10T07:00:03.931Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -557,7 +535,7 @@
     "thumbnail": "https://i.ytimg.com/vi/L47_H6sJfJw/hqdefault.jpg",
     "addedAt": "2025-11-07T07:00:05.064Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -583,7 +561,7 @@
     "thumbnail": "https://i.ytimg.com/vi/GRlVzkOYrbA/hqdefault.jpg",
     "addedAt": "2025-11-06T07:00:04.003Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -609,7 +587,7 @@
     "thumbnail": "https://i.ytimg.com/vi/71DG-GXH4kg/hqdefault.jpg",
     "addedAt": "2025-11-05T07:00:04.358Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -635,7 +613,7 @@
     "thumbnail": "https://i.ytimg.com/vi/XbewVRtnPRE/hqdefault.jpg",
     "addedAt": "2025-11-04T07:00:04.082Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -661,7 +639,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FU-2pWpk9dk/hqdefault.jpg",
     "addedAt": "2025-11-03T07:00:04.489Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -687,7 +665,7 @@
     "thumbnail": "https://i.ytimg.com/vi/sT0ach52n4g/hqdefault.jpg",
     "addedAt": "2025-10-31T07:00:03.965Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -713,7 +691,7 @@
     "thumbnail": "https://i.ytimg.com/vi/6Wyxy4cFEhU/hqdefault.jpg",
     "addedAt": "2025-10-31T07:00:06.831Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -739,7 +717,7 @@
     "thumbnail": "https://i.ytimg.com/vi/re4P-Tdq7jI/hqdefault.jpg",
     "addedAt": "2025-10-30T07:00:04.268Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -765,7 +743,7 @@
     "thumbnail": "https://i.ytimg.com/vi/532Wvk09ajE/hqdefault.jpg",
     "addedAt": "2025-10-28T07:00:05.015Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -791,7 +769,7 @@
     "thumbnail": "https://i.ytimg.com/vi/E8f91pWFyrI/hqdefault.jpg",
     "addedAt": "2025-10-27T07:00:04.370Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -817,7 +795,7 @@
     "thumbnail": "https://i.ytimg.com/vi/3Sr1-QYMbLQ/hqdefault.jpg",
     "addedAt": "2025-10-24T07:00:04.277Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -843,7 +821,7 @@
     "thumbnail": "https://i.ytimg.com/vi/umGLbQzbfnk/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:05.198Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -863,7 +841,7 @@
     "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
     "addedAt": "2025-10-23T07:00:08.241Z",
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -883,7 +861,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -903,7 +881,7 @@
     "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -929,7 +907,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -955,7 +933,7 @@
     "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -981,7 +959,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1007,7 +985,7 @@
     "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1033,7 +1011,7 @@
     "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1059,7 +1037,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FFeGOoOJ1k0/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1085,7 +1063,7 @@
     "thumbnail": "https://i.ytimg.com/vi/F1CH5J7bu7g/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1111,7 +1089,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-Lwda7sUyDw/hqdefault.jpg",
     "addedAt": null,
     "processingStatus": {
-      "lastUpdated": "2025-11-28T07:00:06.250Z",
+      "lastUpdated": "2025-11-27T07:00:09.459Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
