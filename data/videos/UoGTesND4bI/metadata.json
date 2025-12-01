@@ -1,21 +1,25 @@
 {
-  "id": "VfRWyubBBgY",
-  "title": "20251125 公視手語新聞 完整版｜保齡球女團擊敗韓國 東京聽奧首面金牌入袋",
+  "id": "UoGTesND4bI",
+  "title": "20251201 手語新聞 完整版｜手語服務新紀元  AI手語主播\"蕎蕎\"登場",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-11-25T01:50:09Z",
-  "thumbnail": "https://i.ytimg.com/vi/VfRWyubBBgY/hqdefault.jpg",
-  "addedAt": "2025-11-25T07:00:07.652Z",
+  "publishedAt": "2025-12-01T02:43:57Z",
+  "thumbnail": "https://i.ytimg.com/vi/UoGTesND4bI/hqdefault.jpg",
+  "addedAt": "2025-12-01T07:00:04.316Z",
   "processingStatus": {
     "lastUpdated": "2025-12-01T07:00:06.319Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-01T07:05:10.487Z",
+    "transcriptSegments": 561,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-11-25T15:14:01.452377",
-    "totalSegments": 329,
-    "signLanguageSegments": 118,
-    "coverage": 27.60141093474427
+    "processedAt": "2025-12-01T15:09:48.606257",
+    "totalSegments": 561,
+    "signLanguageSegments": 149,
+    "coverage": 27.962962962962962
   }
 }
