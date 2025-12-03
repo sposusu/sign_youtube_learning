@@ -1,0 +1,25 @@
+{
+  "id": "vIoTqQeLK30",
+  "title": "20251203 公視AI手語天氣報導 ｜東北季風增強，迎風面降雨增，中部以北降溫明顯，高山可望飄瑞雪",
+  "description": "今天東北季風增強，台灣中部以北、東北部及東部的天氣明顯轉涼，其他地區早晚也會比較涼；基隆北海岸、大台北地區以及東北部地區有雨，並且還會有局部較大雨勢發生的機率。接著來看各地的溫度預測。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-12-03T01:54:01Z",
+  "thumbnail": "https://i.ytimg.com/vi/vIoTqQeLK30/hqdefault.jpg",
+  "addedAt": "2025-12-03T07:00:04.654Z",
+  "processingStatus": {
+    "lastUpdated": "2025-12-03T07:00:09.420Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-03T07:00:32.189Z",
+    "transcriptSegments": 7,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-12-03T15:07:14.751371",
+    "totalSegments": 7,
+    "signLanguageSegments": 6,
+    "coverage": 47.22222222222222
+  }
+}
