@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0,
+    "duration": 5.3,
+    "text": "今天和明天受到東北季風的影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 5.3,
+    "duration": 5.500000000000001,
+    "text": "北部、東北部以及東部的天氣較涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 10.8,
+    "duration": 6.099999999999998,
+    "text": "其他地區早晚也會比較涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 16.9,
+    "duration": 4.800000000000001,
+    "text": "而今天在基隆北海岸和台灣東北部地區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 21.7,
+    "duration": 3.6999999999999993,
+    "text": "還會有局部短暫雨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 25.4,
+    "duration": 4.400000000000002,
+    "text": "接著來看各地的溫度預測",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 29.8,
+    "duration": 2.8000000000000007,
+    "text": "(第一天)",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 60.3,
+    "duration": 3,
+    "text": "(第二天)",
+    "hasSignLanguage": false
+  }
+]
