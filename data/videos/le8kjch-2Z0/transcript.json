@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0,
+    "duration": 3.76,
+    "text": "今天受到東北季風的影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 3.76,
+    "duration": 5,
+    "text": "北部、東北部及東部天氣較涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 8.76,
+    "duration": 5,
+    "text": "其他地區早晚也會比較涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 13.76,
+    "duration": 7.000000000000002,
+    "text": "基隆北海岸、台灣東北部地區及大台北山區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 20.76,
+    "duration": 4,
+    "text": "有局不短暫雨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 24.76,
+    "duration": 4,
+    "text": "接著來看各地的詳細資料",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 28.76,
+    "duration": 3.9999999999999964,
+    "text": "北部地區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 32.76,
+    "duration": 5,
+    "text": "北部地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 37.76,
+    "duration": 5,
+    "text": "北部地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 42.76,
+    "duration": 5,
+    "text": "北部地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 47.76,
+    "duration": 5,
+    "text": "北部地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 52.76,
+    "duration": 7,
+    "text": "北部地區",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 59.76,
+    "duration": 7.000000000000007,
+    "text": "北部地區",
+    "hasSignLanguage": false
+  }
+]
