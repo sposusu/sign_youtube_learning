@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0,
+    "duration": 3.5,
+    "text": "今天東北季風增強",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 3.5,
+    "duration": 3.5999999999999996,
+    "text": "明天受到東北季風影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 7.1,
+    "duration": 4.300000000000001,
+    "text": "北部及東北部天氣稍微轉涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 11.4,
+    "duration": 4.9,
+    "text": "其他地區早晚也會比較涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 16.3,
+    "duration": 5,
+    "text": "台灣東北部及大台北地區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 21.3,
+    "duration": 4,
+    "text": "基隆北海岸有震雨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 25.3,
+    "duration": 4,
+    "text": "並且會有局部大雨發生的機率",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 29.3,
+    "duration": 3.9999999999999964,
+    "text": "接著來看各地的詳細資料",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 59.3,
+    "duration": 3,
+    "text": "多謝您收睇時局新聞,再會!",
+    "hasSignLanguage": false
+  }
+]
