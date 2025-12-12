@@ -1,21 +1,25 @@
 {
-  "id": "O5nbU5A9MfA",
-  "title": "20251211 公視手語新聞 完整版｜公廣 工研院合作 客台AI手語氣象主播本週上線",
+  "id": "lC6LRKJ-P18",
+  "title": "20251212 公視手語新聞 完整版｜“未來視界”台灣手語社群論壇 首場台中聚焦語言教育及權利",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-12-11T02:48:14Z",
-  "thumbnail": "https://i.ytimg.com/vi/O5nbU5A9MfA/hqdefault.jpg",
-  "addedAt": "2025-12-11T07:00:04.416Z",
+  "publishedAt": "2025-12-12T03:27:59Z",
+  "thumbnail": "https://i.ytimg.com/vi/lC6LRKJ-P18/hqdefault.jpg",
+  "addedAt": "2025-12-12T07:00:03.849Z",
   "processingStatus": {
     "lastUpdated": "2025-12-12T07:00:08.686Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-12T07:07:34.409Z",
+    "transcriptSegments": 415,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-12-11T15:12:20.376536",
-    "totalSegments": 511,
-    "signLanguageSegments": 126,
-    "coverage": 31.337047353760443
+    "processedAt": "2025-12-12T15:12:11.754771",
+    "totalSegments": 415,
+    "signLanguageSegments": 112,
+    "coverage": 30.679012345679013
   }
 }
