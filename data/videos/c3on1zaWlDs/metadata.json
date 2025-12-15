@@ -1,21 +1,25 @@
 {
-  "id": "aNn8dLXg1zQ",
-  "title": "20251113 公視手語新聞 完整版｜定向越野考體力 方向感 東京聽奧吳思穎等4人出賽",
+  "id": "c3on1zaWlDs",
+  "title": "20251215 公視手語新聞 完整版｜社會救助法攸關中低收認定 民團主張自述收入取代虛擬所得",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-11-13T05:29:01Z",
-  "thumbnail": "https://i.ytimg.com/vi/aNn8dLXg1zQ/hqdefault.jpg",
-  "addedAt": "2025-11-13T07:00:04.143Z",
+  "publishedAt": "2025-12-15T04:00:28Z",
+  "thumbnail": "https://i.ytimg.com/vi/c3on1zaWlDs/hqdefault.jpg",
+  "addedAt": "2025-12-15T07:00:04.080Z",
   "processingStatus": {
     "lastUpdated": "2025-12-15T07:00:08.812Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-15T07:04:56.652Z",
+    "transcriptSegments": 491,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-11-13T15:12:35.810305",
-    "totalSegments": 562,
-    "signLanguageSegments": 124,
-    "coverage": 25.185185185185183
+    "processedAt": "2025-12-15T15:09:40.102174",
+    "totalSegments": 491,
+    "signLanguageSegments": 139,
+    "coverage": 29.197530864197528
   }
 }

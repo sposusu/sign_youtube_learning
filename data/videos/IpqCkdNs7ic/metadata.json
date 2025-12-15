@@ -1,0 +1,25 @@
+{
+  "id": "IpqCkdNs7ic",
+  "title": "20251215 公視AI手語天氣報導 ｜冷氣團影響及輻射冷卻影響 各地早晚偏冷 白天氣溫回升",
+  "description": "今天清晨受到大陸冷氣團以及輻射冷卻的影響，各地都是偏冷的天氣，白天開始、大陸冷氣團減弱，氣溫回升。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-12-15T01:27:06Z",
+  "thumbnail": "https://i.ytimg.com/vi/IpqCkdNs7ic/hqdefault.jpg",
+  "addedAt": "2025-12-15T07:00:06.810Z",
+  "processingStatus": {
+    "lastUpdated": "2025-12-15T07:00:08.812Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-15T07:05:18.826Z",
+    "transcriptSegments": 5,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-12-15T15:09:59.108526",
+    "totalSegments": 5,
+    "signLanguageSegments": 4,
+    "coverage": 38.80597014925373
+  }
+}
