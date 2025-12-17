@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0,
+    "duration": 7.74,
+    "text": "[音樂]",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 7.74,
+    "duration": 4.98,
+    "text": "今天清晨受到輻射冷卻的影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 12.72,
+    "duration": 5.359999999999998,
+    "text": "各地天氣都比較冷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 18.08,
+    "duration": 4.780000000000001,
+    "text": "日夜溫差大",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22.86,
+    "duration": 5.699999999999999,
+    "text": "接著來看各地的詳細資料",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 28.56,
+    "duration": 8.940000000000001,
+    "text": "[音樂]",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 37.5,
+    "duration": 13.020000000000003,
+    "text": "[音樂]",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 50.52,
+    "duration": 12.779999999999994,
+    "text": "[音樂]",
+    "hasSignLanguage": false
+  }
+]

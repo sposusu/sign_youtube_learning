@@ -1,5 +1,351 @@
 [
   {
+    "id": "EjrF4KcfRhg",
+    "title": "20251216 公視AI手語天氣報導 ｜早晚稍冷 西半部日夜溫差大 晴到多雲為主 迎風面零星雨",
+    "description": "今天凌晨受到輻射冷卻的影響，各地早晚天氣都比較冷，西半部的日夜溫差大；台灣各地、及澎湖、金門、馬祖、晴到多雲，只有基隆北海岸、東北部、東南部地區以及恆春半島有零星短暫雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-16T02:43:26Z",
+    "thumbnail": "https://i.ytimg.com/vi/EjrF4KcfRhg/hqdefault.jpg",
+    "addedAt": "2025-12-16T07:00:07.508Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-12-16T07:00:31.754Z",
+      "transcriptSegments": 9,
+      "asrModel": "whisper"
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-16T15:07:47.836735",
+      "totalSegments": 9,
+      "signLanguageSegments": 7,
+      "coverage": 52.22222222222223
+    },
+    "stats": {
+      "transcriptSegments": 9,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "1LczsFMVi90",
+    "title": "20251216 公視手語新聞 完整版｜憲政首例 卓揆宣布不副署《財劃法》",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-16T02:40:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/1LczsFMVi90/hqdefault.jpg",
+    "addedAt": "2025-12-16T07:00:04.741Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2025-12-16T07:07:18.629Z",
+      "transcriptSegments": 569,
+      "asrModel": "whisper"
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-16T15:11:51.116526",
+      "totalSegments": 569,
+      "signLanguageSegments": 151,
+      "coverage": 28.482972136222912
+    },
+    "stats": {
+      "transcriptSegments": 569,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "c3on1zaWlDs",
+    "title": "20251215 公視手語新聞 完整版｜社會救助法攸關中低收認定 民團主張自述收入取代虛擬所得",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-15T04:00:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/c3on1zaWlDs/hqdefault.jpg",
+    "addedAt": "2025-12-15T07:00:04.080Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-15T15:09:40.102174",
+      "totalSegments": 491,
+      "signLanguageSegments": 139,
+      "coverage": 29.197530864197528
+    },
+    "stats": {
+      "transcriptSegments": 491,
+      "signLanguageGroups": 11,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "IpqCkdNs7ic",
+    "title": "20251215 公視AI手語天氣報導 ｜冷氣團影響及輻射冷卻影響 各地早晚偏冷 白天氣溫回升",
+    "description": "今天清晨受到大陸冷氣團以及輻射冷卻的影響，各地都是偏冷的天氣，白天開始、大陸冷氣團減弱，氣溫回升。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-15T01:27:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/IpqCkdNs7ic/hqdefault.jpg",
+    "addedAt": "2025-12-15T07:00:06.810Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-15T15:09:59.108526",
+      "totalSegments": 5,
+      "signLanguageSegments": 4,
+      "coverage": 38.80597014925373
+    },
+    "stats": {
+      "transcriptSegments": 5,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "7rKVqYQkEKQ",
+    "title": "20251212 公視AI手語天氣報導 ｜東北季風影響 迎風面天氣濕涼 中南部多雲到晴 日夜溫差大",
+    "description": "+\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-12T03:28:57Z",
+    "thumbnail": "https://i.ytimg.com/vi/7rKVqYQkEKQ/hqdefault.jpg",
+    "addedAt": "2025-12-12T07:00:06.684Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-12T15:08:05.096695",
+      "totalSegments": 9,
+      "signLanguageSegments": 8,
+      "coverage": 50.602409638554214
+    },
+    "stats": {
+      "transcriptSegments": 9,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "lC6LRKJ-P18",
+    "title": "20251212 公視手語新聞 完整版｜“未來視界”台灣手語社群論壇 首場台中聚焦語言教育及權利",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-12T03:27:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/lC6LRKJ-P18/hqdefault.jpg",
+    "addedAt": "2025-12-12T07:00:03.849Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-12T15:12:11.754771",
+      "totalSegments": 415,
+      "signLanguageSegments": 112,
+      "coverage": 30.679012345679013
+    },
+    "stats": {
+      "transcriptSegments": 415,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "O5nbU5A9MfA",
+    "title": "20251211 公視手語新聞 完整版｜公廣 工研院合作 客台AI手語氣象主播本週上線",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-11T02:48:14Z",
+    "thumbnail": "https://i.ytimg.com/vi/O5nbU5A9MfA/hqdefault.jpg",
+    "addedAt": "2025-12-11T07:00:04.416Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-11T15:12:20.376536",
+      "totalSegments": 511,
+      "signLanguageSegments": 126,
+      "coverage": 31.337047353760443
+    },
+    "stats": {
+      "transcriptSegments": 511,
+      "signLanguageGroups": 9,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "cAuCKGJZZyI",
+    "title": "20251211 公視AI手語天氣報導 ｜下午起東北季風稍增強 迎風面水氣增 西半部日夜溫差大",
+    "description": "今天各地、早晚的氣溫稍涼，中南部、日夜溫差大；上午台灣各地、及澎湖、金門、馬祖、是多雲到晴的天氣，只有基隆北海岸、大台北山區、東半部地區、及恆春半島、會有零星短暫雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-11T01:24:44Z",
+    "thumbnail": "https://i.ytimg.com/vi/cAuCKGJZZyI/hqdefault.jpg",
+    "addedAt": "2025-12-11T07:00:07.057Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-11T15:12:47.568538",
+      "totalSegments": 12,
+      "signLanguageSegments": 11,
+      "coverage": 52.74725274725275
+    },
+    "stats": {
+      "transcriptSegments": 12,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "VmjOlmm1yzs",
+    "title": "20251210 公視手語新聞 完整版｜長期致力聽障體育 陳康連任ICSD道德委員",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-10T03:02:56Z",
+    "thumbnail": "https://i.ytimg.com/vi/VmjOlmm1yzs/hqdefault.jpg",
+    "addedAt": "2025-12-10T07:00:05.024Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-10T15:08:50.959313",
+      "totalSegments": 349,
+      "signLanguageSegments": 117,
+      "coverage": 32.59515570934256
+    },
+    "stats": {
+      "transcriptSegments": 349,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "_eyL_DM2L9A",
+    "title": "20251209 公視手語新聞 完整版｜花蓮近海昨晚規模5.7地震 未來3天留意規模5餘震",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-09T03:40:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/_eyL_DM2L9A/hqdefault.jpg",
+    "addedAt": "2025-12-09T07:00:03.927Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-09T15:09:54.006582",
+      "totalSegments": 546,
+      "signLanguageSegments": 152,
+      "coverage": 28.16553428042001
+    },
+    "stats": {
+      "transcriptSegments": 546,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "XwvWsQ_mj5Y",
+    "title": "20251209 公視AI手語天氣報導 ｜東北季風增強 北臺灣天氣濕涼 迎風面局部大雨",
+    "description": "今天受到東北季風的影響，北部、及東北部天氣較涼，其他地區早晚也會比較涼；基隆北海岸、大台北山區、及台灣東北部地區有雨，並且會有局部大雨發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-09T01:30:40Z",
+    "thumbnail": "https://i.ytimg.com/vi/XwvWsQ_mj5Y/hqdefault.jpg",
+    "addedAt": "2025-12-09T07:00:06.586Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-09T15:10:16.457180",
+      "totalSegments": 8,
+      "signLanguageSegments": 7,
+      "coverage": 44.73684210526316
+    },
+    "stats": {
+      "transcriptSegments": 8,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "EtG5PgoJorI",
+    "title": "20251208 公視手語新聞 完整版｜北車通行障礙多 身障團體籲全面檢視改善",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-08T03:04:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/EtG5PgoJorI/hqdefault.jpg",
+    "addedAt": "2025-12-08T07:00:04.363Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-08T15:10:34.256623",
+      "totalSegments": 609,
+      "signLanguageSegments": 158,
+      "coverage": 29.09203211859172
+    },
+    "stats": {
+      "transcriptSegments": 609,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "FRVfNmSvBis",
+    "title": "20251208 公視AI手語天氣報導 ｜東北季風增強 北部及東北部天氣轉濕涼 並有局部大雨",
+    "description": "今天東北季風增強，明天受到東北季風影響，北部及東北部天氣稍微轉涼，其他地區早晚也會比較涼；臺灣東北部及大臺北地區、基隆北海岸有陣雨，並且會有局部大雨發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-08T01:50:19Z",
+    "thumbnail": "https://i.ytimg.com/vi/FRVfNmSvBis/hqdefault.jpg",
+    "addedAt": "2025-12-08T07:00:07.023Z",
+    "processingStatus": {
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-08T15:10:57.792606",
+      "totalSegments": 9,
+      "signLanguageSegments": 8,
+      "coverage": 47.368421052631575
+    },
+    "stats": {
+      "transcriptSegments": 9,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
     "id": "CWU-bftIUXI",
     "title": "20251205 公視手語新聞 完整版｜鯛魚排檢驗有誤 高市衛生局昨出面致歉",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,14 +353,10 @@
     "thumbnail": "https://i.ytimg.com/vi/CWU-bftIUXI/hqdefault.jpg",
     "addedAt": "2025-12-05T07:00:04.785Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-12-05T07:05:28.501Z",
-      "transcriptSegments": 423,
-      "asrModel": "whisper"
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -37,14 +379,10 @@
     "thumbnail": "https://i.ytimg.com/vi/le8kjch-2Z0/hqdefault.jpg",
     "addedAt": "2025-12-05T07:00:07.551Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2025-12-05T07:05:54.388Z",
-      "transcriptSegments": 13,
-      "asrModel": "whisper"
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -67,7 +405,7 @@
     "thumbnail": "https://i.ytimg.com/vi/qhdARim5ehw/hqdefault.jpg",
     "addedAt": "2025-12-04T07:00:04.540Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -93,7 +431,7 @@
     "thumbnail": "https://i.ytimg.com/vi/GOWKGo7Jhp8/hqdefault.jpg",
     "addedAt": "2025-12-04T07:00:07.352Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -119,7 +457,7 @@
     "thumbnail": "https://i.ytimg.com/vi/vIoTqQeLK30/hqdefault.jpg",
     "addedAt": "2025-12-03T07:00:04.654Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -145,7 +483,7 @@
     "thumbnail": "https://i.ytimg.com/vi/N77LWJZICrI/hqdefault.jpg",
     "addedAt": "2025-12-03T07:00:07.417Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -171,7 +509,7 @@
     "thumbnail": "https://i.ytimg.com/vi/jJElOX9FdtI/hqdefault.jpg",
     "addedAt": "2025-12-02T07:00:07.724Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -197,7 +535,7 @@
     "thumbnail": "https://i.ytimg.com/vi/hdzuKu8mjd0/hqdefault.jpg",
     "addedAt": "2025-12-02T07:00:04.799Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -223,7 +561,7 @@
     "thumbnail": "https://i.ytimg.com/vi/UoGTesND4bI/hqdefault.jpg",
     "addedAt": "2025-12-01T07:00:04.316Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -249,7 +587,7 @@
     "thumbnail": "https://i.ytimg.com/vi/9W0tUMd-DLk/hqdefault.jpg",
     "addedAt": "2025-11-28T07:00:04.247Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -275,7 +613,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Dq8X8Z5A1pE/hqdefault.jpg",
     "addedAt": "2025-11-27T07:00:04.696Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -301,7 +639,7 @@
     "thumbnail": "https://i.ytimg.com/vi/7CMCgpJOFXU/hqdefault.jpg",
     "addedAt": "2025-11-27T07:00:07.456Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -327,7 +665,7 @@
     "thumbnail": "https://i.ytimg.com/vi/2HQV2cZ31PY/hqdefault.jpg",
     "addedAt": "2025-11-26T07:00:04.186Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -353,7 +691,7 @@
     "thumbnail": "https://i.ytimg.com/vi/0Hw8luAVQMo/hqdefault.jpg",
     "addedAt": "2025-11-26T07:00:06.834Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -379,7 +717,7 @@
     "thumbnail": "https://i.ytimg.com/vi/HcnGar5wSH0/hqdefault.jpg",
     "addedAt": "2025-11-25T07:00:05.024Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -405,7 +743,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VfRWyubBBgY/hqdefault.jpg",
     "addedAt": "2025-11-25T07:00:07.652Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -431,7 +769,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RxwruSFFwME/hqdefault.jpg",
     "addedAt": "2025-11-25T07:00:10.309Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -457,7 +795,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-m2ECPB2R6U/hqdefault.jpg",
     "addedAt": "2025-11-24T07:00:04.461Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -483,7 +821,7 @@
     "thumbnail": "https://i.ytimg.com/vi/_N6Hm6N37BI/hqdefault.jpg",
     "addedAt": "2025-11-21T07:00:03.859Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -509,7 +847,7 @@
     "thumbnail": "https://i.ytimg.com/vi/a0gawrczSn4/hqdefault.jpg",
     "addedAt": "2025-11-21T07:00:06.691Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -535,7 +873,7 @@
     "thumbnail": "https://i.ytimg.com/vi/v0HTjxh82R0/hqdefault.jpg",
     "addedAt": "2025-11-20T07:00:04.320Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -561,7 +899,7 @@
     "thumbnail": "https://i.ytimg.com/vi/JL8gWjN9IXA/hqdefault.jpg",
     "addedAt": "2025-11-20T07:00:06.888Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -587,7 +925,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zC3w_kzP9-A/hqdefault.jpg",
     "addedAt": "2025-11-18T07:00:04.006Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -613,7 +951,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4ppnSLiTwVQ/hqdefault.jpg",
     "addedAt": "2025-11-17T07:00:05.137Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -639,7 +977,7 @@
     "thumbnail": "https://i.ytimg.com/vi/mlvR4XEqe-g/hqdefault.jpg",
     "addedAt": "2025-11-17T07:00:07.793Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -665,7 +1003,7 @@
     "thumbnail": "https://i.ytimg.com/vi/BOONEjdNQEM/hqdefault.jpg",
     "addedAt": "2025-11-14T07:00:04.893Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -691,7 +1029,7 @@
     "thumbnail": "https://i.ytimg.com/vi/aNn8dLXg1zQ/hqdefault.jpg",
     "addedAt": "2025-11-13T07:00:04.143Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -717,7 +1055,7 @@
     "thumbnail": "https://i.ytimg.com/vi/fd7eLVHWics/hqdefault.jpg",
     "addedAt": "2025-11-12T07:00:05.115Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -743,7 +1081,7 @@
     "thumbnail": "https://i.ytimg.com/vi/TC3OP0G9TJw/hqdefault.jpg",
     "addedAt": "2025-11-11T07:00:04.388Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -769,7 +1107,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VfrOPqTKusM/hqdefault.jpg",
     "addedAt": "2025-11-10T07:00:03.931Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -795,7 +1133,7 @@
     "thumbnail": "https://i.ytimg.com/vi/L47_H6sJfJw/hqdefault.jpg",
     "addedAt": "2025-11-07T07:00:05.064Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -821,7 +1159,7 @@
     "thumbnail": "https://i.ytimg.com/vi/GRlVzkOYrbA/hqdefault.jpg",
     "addedAt": "2025-11-06T07:00:04.003Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -847,7 +1185,7 @@
     "thumbnail": "https://i.ytimg.com/vi/71DG-GXH4kg/hqdefault.jpg",
     "addedAt": "2025-11-05T07:00:04.358Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -873,7 +1211,7 @@
     "thumbnail": "https://i.ytimg.com/vi/XbewVRtnPRE/hqdefault.jpg",
     "addedAt": "2025-11-04T07:00:04.082Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -899,7 +1237,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FU-2pWpk9dk/hqdefault.jpg",
     "addedAt": "2025-11-03T07:00:04.489Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -925,7 +1263,7 @@
     "thumbnail": "https://i.ytimg.com/vi/sT0ach52n4g/hqdefault.jpg",
     "addedAt": "2025-10-31T07:00:03.965Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -951,7 +1289,7 @@
     "thumbnail": "https://i.ytimg.com/vi/6Wyxy4cFEhU/hqdefault.jpg",
     "addedAt": "2025-10-31T07:00:06.831Z",
     "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
+      "lastUpdated": "2025-12-16T07:00:09.511Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -966,326 +1304,6 @@
     "stats": {
       "transcriptSegments": 270,
       "signLanguageGroups": 10,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "re4P-Tdq7jI",
-    "title": "20250101 公視手語新聞 完整版｜上週類流感就診逾11萬人次 增13例死亡",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-29T06:45:53Z",
-    "thumbnail": "https://i.ytimg.com/vi/re4P-Tdq7jI/hqdefault.jpg",
-    "addedAt": "2025-10-30T07:00:04.268Z",
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-30T15:09:34.237307",
-      "totalSegments": 104,
-      "signLanguageSegments": 28,
-      "coverage": 25.205070842654738
-    },
-    "stats": {
-      "transcriptSegments": 104,
-      "signLanguageGroups": 8,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "532Wvk09ajE",
-    "title": "20251028 公視手語新聞 完整版｜中職台灣大賽樂天桃猿封王 睽違6年隊史第8冠",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-28T06:27:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/532Wvk09ajE/hqdefault.jpg",
-    "addedAt": "2025-10-28T07:00:05.015Z",
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-28T15:16:27.283784",
-      "totalSegments": 491,
-      "signLanguageSegments": 140,
-      "coverage": 26.60493827160494
-    },
-    "stats": {
-      "transcriptSegments": 491,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "E8f91pWFyrI",
-    "title": "20251027 公視手語新聞 完整版｜防堵豬瘟\"禁運禁宰\"再延10天 大榮貨運涉規避調查遭罰",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-27T06:10:39Z",
-    "thumbnail": "https://i.ytimg.com/vi/E8f91pWFyrI/hqdefault.jpg",
-    "addedAt": "2025-10-27T07:00:04.370Z",
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-27T15:13:02.221612",
-      "totalSegments": 439,
-      "signLanguageSegments": 119,
-      "coverage": 31.001472754050074
-    },
-    "stats": {
-      "transcriptSegments": 439,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "3Sr1-QYMbLQ",
-    "title": "20251024 公視手語新聞 完整版｜普發1萬網站正式上線 11/5起開放登記",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-24T05:27:36Z",
-    "thumbnail": "https://i.ytimg.com/vi/3Sr1-QYMbLQ/hqdefault.jpg",
-    "addedAt": "2025-10-24T07:00:04.277Z",
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-24T15:14:03.719740",
-      "totalSegments": 574,
-      "signLanguageSegments": 135,
-      "coverage": 28.641975308641975
-    },
-    "stats": {
-      "transcriptSegments": 574,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "umGLbQzbfnk",
-    "title": "20251023 公視手語新聞 完整版｜國內首檢出非洲豬瘟陽性 禁運禁宰5天.禁止廚餘養豬",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-23T05:52:31Z",
-    "thumbnail": "https://i.ytimg.com/vi/umGLbQzbfnk/hqdefault.jpg",
-    "addedAt": "2025-10-23T07:00:05.198Z",
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": null,
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "UpzoRGCxbQE",
-    "title": "20251022 公視手語新聞 完整版｜低氣壓、東北季風影響 北宜花雨勢仍明顯",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-22T07:15:37Z",
-    "thumbnail": "https://i.ytimg.com/vi/UpzoRGCxbQE/hqdefault.jpg",
-    "addedAt": "2025-10-23T07:00:08.241Z",
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": null,
-    "stats": {
-      "transcriptSegments": 560,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "1kNt3okrHnw",
-    "title": "20251021 公視手語新聞 完整版｜共伴效應雙北大雨 劇烈降雨還沒結束",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-21T05:54:19Z",
-    "thumbnail": "https://i.ytimg.com/vi/1kNt3okrHnw/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": null,
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "9OOqJAwiqV8",
-    "title": "20251020 公視手語新聞 完整版｜東北季風、颱風外圍環流影響 桃園以北 東部嚴防豪大雨",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-20T05:54:01Z",
-    "thumbnail": "https://i.ytimg.com/vi/9OOqJAwiqV8/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:04:57.853711",
-      "totalSegments": 529,
-      "signLanguageSegments": 123,
-      "coverage": 24.691358024691358
-    },
-    "stats": {
-      "transcriptSegments": 529,
-      "signLanguageGroups": 10,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "Co8KFb0kG4g",
-    "title": "20251017 公視手語新聞 完整版｜台積電Q3營收新高 擬再尋地擴建美廠",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-17T05:50:45Z",
-    "thumbnail": "https://i.ytimg.com/vi/Co8KFb0kG4g/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:09:56.136505",
-      "totalSegments": 430,
-      "signLanguageSegments": 125,
-      "coverage": 29.01234567901235
-    },
-    "stats": {
-      "transcriptSegments": 430,
-      "signLanguageGroups": 10,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "jpxpnEehB38",
-    "title": "20251016 公視手語新聞 完整版｜1歲半童溺斃園區生態池 負責人出面道歉",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-16T02:31:33Z",
-    "thumbnail": "https://i.ytimg.com/vi/jpxpnEehB38/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:16:07.985999",
-      "totalSegments": 499,
-      "signLanguageSegments": 121,
-      "coverage": 24.459542927733168
-    },
-    "stats": {
-      "transcriptSegments": 499,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "4w0O_dOpfzc",
-    "title": "20251015 公視手語新聞 完整版｜植入人工電子耳 避免使用鼻噴式流感疫苗",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-15T06:04:26Z",
-    "thumbnail": "https://i.ytimg.com/vi/4w0O_dOpfzc/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:20:49.847459",
-      "totalSegments": 566,
-      "signLanguageSegments": 110,
-      "coverage": 27.70448548812665
-    },
-    "stats": {
-      "transcriptSegments": 566,
-      "signLanguageGroups": 9,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "AaAMSxY8gRw",
-    "title": "20251014 公視手語新聞 完整版｜舞台劇AI浮空字幕投影 聾人觀賞如進入漫畫世界",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-14T05:47:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/AaAMSxY8gRw/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:25:15.985644",
-      "totalSegments": 526,
-      "signLanguageSegments": 134,
-      "coverage": 26.033057851239672
-    },
-    "stats": {
-      "transcriptSegments": 526,
-      "signLanguageGroups": 8,
-      "hasSignLanguage": true
-    }
-  },
-  {
-    "id": "D0R6mDXYrMU",
-    "title": "20251013 公視手語新聞 完整版｜47藥品擬退出台灣 衛福部：多有學名藥替代",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2025-10-13T01:13:15Z",
-    "thumbnail": "https://i.ytimg.com/vi/D0R6mDXYrMU/hqdefault.jpg",
-    "addedAt": null,
-    "processingStatus": {
-      "lastUpdated": "2025-12-05T07:00:09.555Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2025-10-22T15:31:21.810582",
-      "totalSegments": 466,
-      "signLanguageSegments": 121,
-      "coverage": 27.413366336633665
-    },
-    "stats": {
-      "transcriptSegments": 466,
-      "signLanguageGroups": 11,
       "hasSignLanguage": true
     }
   }

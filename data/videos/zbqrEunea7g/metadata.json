@@ -1,0 +1,25 @@
+{
+  "id": "zbqrEunea7g",
+  "title": "20251217 公視AI手語天氣報導 ｜東北季風稍增強 迎風面降雨增 北臺灣天氣較涼 新竹以南溫差大",
+  "description": "今天清晨受到輻射冷卻的影響，各地天氣都比較冷，日夜溫差大。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/article/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-12-17T01:54:22Z",
+  "thumbnail": "https://i.ytimg.com/vi/zbqrEunea7g/hqdefault.jpg",
+  "addedAt": "2025-12-17T07:00:04.324Z",
+  "processingStatus": {
+    "lastUpdated": "2025-12-17T07:00:09.034Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-17T07:00:29.714Z",
+    "transcriptSegments": 8,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-12-17T15:06:16.070240",
+    "totalSegments": 8,
+    "signLanguageSegments": 6,
+    "coverage": 36.507936507936506
+  }
+}
