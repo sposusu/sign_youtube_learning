@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0,
+    "duration": 12.4,
+    "text": "今天東北季風減弱",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 12.4,
+    "duration": 4.499999999999998,
+    "text": "北部 其東北部的氣溫稍微回升",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 16.9,
+    "duration": 5.240000000000002,
+    "text": "今天和明天 南方雲系北移",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 22.14,
+    "duration": 5.759999999999998,
+    "text": "台灣各地 以及澎湖 金門 馬祖",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 27.9,
+    "duration": 6.100000000000001,
+    "text": "有局部短暫陣雨",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 34,
+    "duration": 5.5,
+    "text": "東半部地區 會有局部較大雨勢 發生的機率",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 39.5,
+    "duration": 5.600000000000001,
+    "text": "接著來看各地的詳細資料",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 57.9,
+    "duration": 5.539999999999999,
+    "text": "南方雲系北移",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 63.44,
+    "duration": 5.460000000000008,
+    "text": "台灣各地 以及澎湖 金門 馬祖",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 68.9,
+    "duration": 5.699999999999989,
+    "text": "有局部短暫陣雨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 74.6,
+    "duration": 6.1000000000000085,
+    "text": "台灣各地 以及澎湖 金門 馬祖",
+    "hasSignLanguage": false
+  }
+]
