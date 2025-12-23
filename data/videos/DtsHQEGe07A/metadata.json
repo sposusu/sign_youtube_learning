@@ -1,0 +1,25 @@
+{
+  "id": "DtsHQEGe07A",
+  "title": "20251223 公視AI手語天氣報導 ｜東北季風減弱 多雲到晴 東局部雨",
+  "description": "今天東北季風減弱，北部和東北部的氣溫回升，各地早晚的天氣還是比較涼，新竹以南的日夜溫差大；台灣各地及澎湖、金門、馬祖大多是多雲到晴，只有東半部地區會有局部短暫雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-12-23T01:36:23Z",
+  "thumbnail": "https://i.ytimg.com/vi/DtsHQEGe07A/hqdefault.jpg",
+  "addedAt": "2025-12-23T07:00:07.536Z",
+  "processingStatus": {
+    "lastUpdated": "2025-12-23T07:00:09.538Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-23T07:00:43.494Z",
+    "transcriptSegments": 10,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-12-23T15:10:24.466749",
+    "totalSegments": 10,
+    "signLanguageSegments": 9,
+    "coverage": 52.87356321839081
+  }
+}
