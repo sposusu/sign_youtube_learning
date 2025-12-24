@@ -1,0 +1,25 @@
+{
+  "id": "Ce8QMgO9Tuo",
+  "title": "20251224 公視AI手語天氣報導 ｜東北季風增強 北部及東北部氣溫稍降 晚起水氣多 桃園以北及宜蘭有較大雨勢",
+  "description": "今天、東北季風稍微增強，北部以及東北部氣溫稍有下降，明天受到大陸冷氣團南下的影響，中部以北及東北部、東部天氣轉冷，其他地區早晚也會比較冷。接著，來看各地的溫度預測。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-12-24T01:36:43Z",
+  "thumbnail": "https://i.ytimg.com/vi/Ce8QMgO9Tuo/hqdefault.jpg",
+  "addedAt": "2025-12-24T07:00:06.707Z",
+  "processingStatus": {
+    "lastUpdated": "2025-12-24T07:00:08.709Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-24T07:00:49.094Z",
+    "transcriptSegments": 7,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-12-24T15:01:15.645298",
+    "totalSegments": 7,
+    "signLanguageSegments": 6,
+    "coverage": 44.0
+  }
+}
