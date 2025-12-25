@@ -1,21 +1,25 @@
 {
-  "id": "EtG5PgoJorI",
-  "title": "20251208 公視手語新聞 完整版｜北車通行障礙多 身障團體籲全面檢視改善",
+  "id": "6oXTaq_4LxU",
+  "title": "20251225 公視手語新聞 完整版｜台東卑南規模6 .1地震 台東體中校舍損壞",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-12-08T03:04:27Z",
-  "thumbnail": "https://i.ytimg.com/vi/EtG5PgoJorI/hqdefault.jpg",
-  "addedAt": "2025-12-08T07:00:04.363Z",
+  "publishedAt": "2025-12-25T01:47:32Z",
+  "thumbnail": "https://i.ytimg.com/vi/6oXTaq_4LxU/hqdefault.jpg",
+  "addedAt": "2025-12-25T07:00:05.449Z",
   "processingStatus": {
     "lastUpdated": "2025-12-25T07:00:10.419Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-25T07:05:55.462Z",
+    "transcriptSegments": 572,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-12-08T15:10:34.256623",
-    "totalSegments": 609,
-    "signLanguageSegments": 158,
-    "coverage": 29.09203211859172
+    "processedAt": "2025-12-25T15:11:59.759833",
+    "totalSegments": 572,
+    "signLanguageSegments": 199,
+    "coverage": 28.641975308641975
   }
 }
