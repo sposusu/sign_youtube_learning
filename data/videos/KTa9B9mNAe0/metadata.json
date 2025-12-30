@@ -1,0 +1,25 @@
+{
+  "id": "KTa9B9mNAe0",
+  "title": "20251230 公視AI手語天氣報導 ｜東北季風稍增強 迎風面雲雨增 局部大雨",
+  "description": "今天東北季風稍微增強，北部的氣溫稍微下降；而明天受到東北季風的影響，北部和東北部的天氣稍涼，其他地區早晚也會比較涼，中南部及東南部的日夜溫差大。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2025-12-30T01:47:09Z",
+  "thumbnail": "https://i.ytimg.com/vi/KTa9B9mNAe0/hqdefault.jpg",
+  "addedAt": "2025-12-30T07:00:07.826Z",
+  "processingStatus": {
+    "lastUpdated": "2025-12-30T07:00:09.830Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2025-12-30T07:05:23.489Z",
+    "transcriptSegments": 8,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2025-12-30T15:09:20.876416",
+    "totalSegments": 8,
+    "signLanguageSegments": 7,
+    "coverage": 50.0
+  }
+}
