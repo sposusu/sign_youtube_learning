@@ -1,21 +1,25 @@
 {
-  "id": "lC6LRKJ-P18",
-  "title": "20251212 公視手語新聞 完整版｜“未來視界”台灣手語社群論壇 首場台中聚焦語言教育及權利",
+  "id": "ptaYGgHeIvw",
+  "title": "20250101 公視手語新聞 完整版｜聾人咖啡店近台北101 跨年延長營業國際交流",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2025-12-12T03:27:59Z",
-  "thumbnail": "https://i.ytimg.com/vi/lC6LRKJ-P18/hqdefault.jpg",
-  "addedAt": "2025-12-12T07:00:03.849Z",
+  "publishedAt": "2026-01-01T02:10:33Z",
+  "thumbnail": "https://i.ytimg.com/vi/ptaYGgHeIvw/hqdefault.jpg",
+  "addedAt": "2026-01-01T07:00:05.105Z",
   "processingStatus": {
     "lastUpdated": "2026-01-01T07:00:10.014Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2026-01-01T07:06:27.747Z",
+    "transcriptSegments": 510,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2025-12-12T15:12:11.754771",
-    "totalSegments": 415,
-    "signLanguageSegments": 112,
-    "coverage": 30.679012345679013
+    "processedAt": "2026-01-01T15:11:52.338192",
+    "totalSegments": 510,
+    "signLanguageSegments": 130,
+    "coverage": 30.555555555555557
   }
 }
