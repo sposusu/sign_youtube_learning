@@ -1,0 +1,25 @@
+{
+  "id": "4rURZOs2I5I",
+  "title": "20260107 公視AI手語天氣報導 ｜強烈大陸冷氣團南下 氣溫逐漸下降 夜晚清晨留意低溫",
+  "description": "今天和明天受到強烈大陸冷氣團及輻射冷卻的影響，中部以北、東北部以及東部的天氣寒冷，其他地區則是早晚比較寒冷，白天也會偏涼。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2026-01-07T01:31:38Z",
+  "thumbnail": "https://i.ytimg.com/vi/4rURZOs2I5I/hqdefault.jpg",
+  "addedAt": "2026-01-07T07:00:07.629Z",
+  "processingStatus": {
+    "lastUpdated": "2026-01-07T07:00:09.631Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2026-01-07T07:07:05.293Z",
+    "transcriptSegments": 5,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2026-01-07T15:10:37.766359",
+    "totalSegments": 5,
+    "signLanguageSegments": 4,
+    "coverage": 44.15584415584416
+  }
+}
