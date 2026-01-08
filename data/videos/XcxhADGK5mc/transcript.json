@@ -1,0 +1,2312 @@
+[
+  {
+    "start": 0,
+    "duration": 11.7,
+    "text": "[音樂]",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 11.7,
+    "duration": 2.700000000000001,
+    "text": "看新聞 開視野",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 14.4,
+    "duration": 4.299999999999999,
+    "text": "歡迎收看今天1月8號的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 18.7,
+    "duration": 3,
+    "text": "首先來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 21.7,
+    "duration": 3,
+    "text": "空軍飛官辛柏毅",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 24.7,
+    "duration": 2.5,
+    "text": "駕駛的F16V戰機",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 27.9,
+    "duration": 2.3000000000000007,
+    "text": "週二晚間7點29分",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 30.2,
+    "duration": 3.400000000000002,
+    "text": "突然從雷達的螢幕當中消失",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 33.6,
+    "duration": 2.3999999999999986,
+    "text": "判斷已經墜海",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 36,
+    "duration": 3.3999999999999986,
+    "text": "辛柏毅在飛機失事前",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 39.4,
+    "duration": 1.6000000000000014,
+    "text": "曾經回報要跳傘",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 41,
+    "duration": 3.1000000000000014,
+    "text": "但是後續沒有再傳來消息",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 44.1,
+    "duration": 3.6999999999999957,
+    "text": "各方還在全力的搜救當中",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 47.8,
+    "duration": 2.8000000000000043,
+    "text": "而空軍已經下令",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 50.6,
+    "duration": 3.8999999999999986,
+    "text": "F16型戰機暫時全面停飛",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 55.8,
+    "duration": 2.700000000000003,
+    "text": "空勤總隊直升機7號飛抵花蓮外海",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 58.5,
+    "duration": 1,
+    "text": "俯瞰海面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 59.5,
+    "duration": 2.8999999999999986,
+    "text": "找尋失聯的空軍飛官上尉辛柏毅",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 62.4,
+    "duration": 3.000000000000007,
+    "text": "搜救行動從深夜到白天不間斷",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 65.4,
+    "duration": 5.699999999999989,
+    "text": "海軍船艦 台東艦 旗艦艇著低溫巨浪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 71.1,
+    "duration": 2.1000000000000085,
+    "text": "來到濕濕海域持續搜尋",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 73.2,
+    "duration": 3,
+    "text": "本艦目前正在進行搜救任務中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 76.2,
+    "duration": 3.0999999999999943,
+    "text": "現場海象不佳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 79.3,
+    "duration": 1.7999999999999972,
+    "text": "海軍軍艦也被直擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 81.1,
+    "duration": 1.2000000000000028,
+    "text": "陷中花蓮外海",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 82.3,
+    "duration": 1.7000000000000028,
+    "text": "但碰上海況不佳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 84.2,
+    "duration": 2.3999999999999915,
+    "text": "岸邊還有機動雷達車協助搜索",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 86.6,
+    "duration": 2,
+    "text": "花防部官兵則沿著海岸線",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 88.6,
+    "duration": 1.1000000000000085,
+    "text": "部署觀察哨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 89.7,
+    "duration": 1.8999999999999915,
+    "text": "緊盯岸邊海上狀況",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 91.6,
+    "duration": 2.3000000000000114,
+    "text": "國軍已派遣空中13架次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 93.9,
+    "duration": 2.6999999999999886,
+    "text": "11艘艦艇 119名人力",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 96.6,
+    "duration": 2,
+    "text": "結合無人機加強搜索",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 98.6,
+    "duration": 1.4000000000000057,
+    "text": "截至其後傍晚",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 100,
+    "duration": 2.700000000000003,
+    "text": "還沒有找到辛柏毅以及戰機殘骸",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 102.7,
+    "duration": 5.299999999999997,
+    "text": "飛官辛柏毅6號駕駛編號6拐動動的F16B戰機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 108,
+    "duration": 1.9000000000000057,
+    "text": "執行例行的夜航訓練",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 109.9,
+    "duration": 2.8999999999999915,
+    "text": "晚間6點17分從花蓮基地起飛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 113,
+    "duration": 2.5999999999999943,
+    "text": "沒想到在返航的時候短短一分鐘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 115.6,
+    "duration": 2,
+    "text": "先是回報在雲中失散",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 117.6,
+    "duration": 1.6000000000000085,
+    "text": "且高度持續下降",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 119.2,
+    "duration": 2.3999999999999915,
+    "text": "之後再次回報三次要跳傘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 121.6,
+    "duration": 1,
+    "text": "仍舊失聯",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 122.6,
+    "duration": 2.9000000000000057,
+    "text": "晚間7點29分在花蓮基地南面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 125.5,
+    "duration": 2,
+    "text": "31海里光點消失",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 143,
+    "duration": 4.300000000000011,
+    "text": "已經知道他空間名像也爆出來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 147.3,
+    "duration": 3,
+    "text": "同時他檢查他的高度表已經嚇掉",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 150.3,
+    "duration": 2.5,
+    "text": "我們飛行員的最後一道關卡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 152.8,
+    "duration": 1.6999999999999886,
+    "text": "就是彈射跳傘",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 154.5,
+    "duration": 1.6999999999999886,
+    "text": "所以他該做的都已經做了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 156.2,
+    "duration": 2.5,
+    "text": "空軍表示F16B有四大殺手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 158.7,
+    "duration": 2.8000000000000114,
+    "text": "當中夜航最容易發生空間名像",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 161.5,
+    "duration": 3,
+    "text": "長機當下有努力要把辛柏毅帶回來",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 164.5,
+    "duration": 1.3000000000000114,
+    "text": "至於失事的戰機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 165.8,
+    "duration": 2.0999999999999943,
+    "text": "從去年11月出場到現在",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 167.9,
+    "duration": 1.4000000000000057,
+    "text": "只有一般性故障",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 169.3,
+    "duration": 2.299999999999983,
+    "text": "這次在訓練前都有檢修",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 171.8,
+    "duration": 1.5999999999999943,
+    "text": "但辛柏毅在事發當下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 173.4,
+    "duration": 2.5,
+    "text": "卻回報模組化任務電腦MMC",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 175.9,
+    "duration": 1.799999999999983,
+    "text": "出現故障引發關注",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 177.7,
+    "duration": 5.200000000000017,
+    "text": "飛行員在訓練過程中確實有報告說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 182.9,
+    "duration": 1.799999999999983,
+    "text": "MMC有發生故障",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 184.7,
+    "duration": 4.300000000000011,
+    "text": "他並沒有回報說有哪些裝置故障",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 189,
+    "duration": 4,
+    "text": "不管不知道是一級還是二級",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 193,
+    "duration": 2.5999999999999943,
+    "text": "國軍海巡持續以座標消失為中心點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 195.6,
+    "duration": 1.700000000000017,
+    "text": "來擴散全力搜救",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 197.3,
+    "duration": 1.799999999999983,
+    "text": "空軍表示目前掌握",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 199.2,
+    "duration": 2.700000000000017,
+    "text": "只有這架失事的戰機有MMC故障",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 201.9,
+    "duration": 1.9000000000000057,
+    "text": "對此也下令F16型機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 203.8,
+    "duration": 1.5,
+    "text": "執行天安2號特檢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 205.3,
+    "duration": 2.5,
+    "text": "全面停飛 確保飛航安全",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 207.8,
+    "duration": 0.6999999999999886,
+    "text": "公司新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 208.5,
+    "duration": 1.8000000000000114,
+    "text": "黃子杰 張國良 陳柏育 溫家凱",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 210.3,
+    "duration": 1.0999999999999943,
+    "text": "台北華聯報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 211.4,
+    "duration": 4.099999999999994,
+    "text": "F16B戰機失聯",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 215.5,
+    "duration": 2.1999999999999886,
+    "text": "辛柏毅曾經回報",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 217.7,
+    "duration": 3.200000000000017,
+    "text": "模組化任務電腦MMC故障",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 220.9,
+    "duration": 3.4000000000000057,
+    "text": "發生空間名像 最終失事",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 224.3,
+    "duration": 3.1999999999999886,
+    "text": "而軍事專家就形容",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 227.8,
+    "duration": 4.899999999999977,
+    "text": "MMC就像是戰機的大腦和神經中樞",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 232.7,
+    "duration": 3.8000000000000114,
+    "text": "一旦故障就可能會喪失",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 236.5,
+    "duration": 3.9000000000000057,
+    "text": "雷達 水平 飛機姿態",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 240.4,
+    "duration": 2.6999999999999886,
+    "text": "以及高度等關鍵的資訊",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 243.1,
+    "duration": 4,
+    "text": "尤其是飛行員在雲中",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 247.1,
+    "duration": 3.9000000000000057,
+    "text": "或者是夜間等視覺參考不足的情況下",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 251,
+    "duration": 2.1999999999999886,
+    "text": "更容易產生空間名像",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 255.1,
+    "duration": 2.799999999999983,
+    "text": "失事非觀 辛柏毅目前仍在搜救中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 257.9,
+    "duration": 3.2000000000000455,
+    "text": "而這起事故也讓外界關注戰機飛行中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 261.1,
+    "duration": 2.2999999999999545,
+    "text": "飛行員高度依賴的關鍵系統",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 263.4,
+    "duration": 2.400000000000034,
+    "text": "模組化任務電腦MMC",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 265.8,
+    "duration": 1.5,
+    "text": "軍事專家形容",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 267.3,
+    "duration": 3.3000000000000114,
+    "text": "MMC就像戰機的大腦和神經中樞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 270.6,
+    "duration": 3.2999999999999545,
+    "text": "F16上面上百種的這些東西",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 273.9,
+    "duration": 2.3000000000000114,
+    "text": "都必須要靠它來做這個",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 276.2,
+    "duration": 2.3000000000000114,
+    "text": "我們來講說轉譯也好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 278.5,
+    "duration": 1.8999999999999773,
+    "text": "還是去顯示也好",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 280.4,
+    "duration": 2.3000000000000114,
+    "text": "所以它扮演的角色是這一個",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 282.8,
+    "duration": 2.3000000000000114,
+    "text": "F16機上有上百種感測器",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 285.1,
+    "duration": 1.7999999999999545,
+    "text": "航電與武器系統",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 286.9,
+    "duration": 3.400000000000034,
+    "text": "各類資訊必須透過MMC整合與顯示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 290.3,
+    "duration": 3.3000000000000114,
+    "text": "飛行員才能夠在高速高壓的飛行環境裡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 293.6,
+    "duration": 1.6999999999999886,
+    "text": "即時判斷操作",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 295.3,
+    "duration": 3.8999999999999773,
+    "text": "尤其在雲中 夜間等視覺參考不足的情況下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 299.2,
+    "duration": 2.1000000000000227,
+    "text": "更高度仰賴儀表資訊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 301.3,
+    "duration": 3.8000000000000114,
+    "text": "因為空間名像是飛行員最致命的風險之一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 305.1,
+    "duration": 2.3999999999999773,
+    "text": "我們坐火車的時候",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 307.5,
+    "duration": 1.6999999999999886,
+    "text": "最容易有這種經驗",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 309.2,
+    "duration": 1.5,
+    "text": "我就低頭去看個東西",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 310.7,
+    "duration": 1.5,
+    "text": "突然我看旁邊的車在走",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 312.3,
+    "duration": 2.1999999999999886,
+    "text": "其實我以為我的車在走",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 314.5,
+    "duration": 1.3999999999999773,
+    "text": "其實是旁邊的車在走",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 315.9,
+    "duration": 0.6000000000000227,
+    "text": "為什麼",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 316.5,
+    "duration": 2.6000000000000227,
+    "text": "因為我的視覺告訴我說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 319.1,
+    "duration": 2.599999999999966,
+    "text": "相對運動 相對運動出來了",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 321.7,
+    "duration": 1.8000000000000114,
+    "text": "根據官方公佈的資料",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 323.5,
+    "duration": 2.3999999999999773,
+    "text": "陣機在晚間7點27分時",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 325.9,
+    "duration": 2.400000000000034,
+    "text": "飛行高度大約7600尺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 328.3,
+    "duration": 2.3000000000000114,
+    "text": "新博弈反應雲中失散",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 330.6,
+    "duration": 3.099999999999966,
+    "text": "48秒後高度已經下降到4000尺",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 333.7,
+    "duration": 2.6999999999999886,
+    "text": "7點28分喊出三次跳傘後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 336.4,
+    "duration": 1.7000000000000455,
+    "text": "雷達光點消失",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 338.1,
+    "duration": 1.2999999999999545,
+    "text": "有專家認為",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 339.5,
+    "duration": 4.5,
+    "text": "震動機自動防撞地系統也能夠在緊急時刻有所幫助",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 344,
+    "duration": 3.3000000000000114,
+    "text": "我們比較早買F16提前享受",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 347.3,
+    "duration": 1.8000000000000114,
+    "text": "但問題是後續的批次",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 349.1,
+    "duration": 2,
+    "text": "它搞不好又有性能更新",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 351.1,
+    "duration": 1.6999999999999886,
+    "text": "性能更新 性能提升",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 352.8,
+    "duration": 2,
+    "text": "你舊的我們雖然說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 354.8,
+    "duration": 3.3000000000000114,
+    "text": "有經過鳳展專案去做更新",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 358.1,
+    "duration": 2.8999999999999773,
+    "text": "但是目前已知好像還是沒有裝",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 361,
+    "duration": 2.3000000000000114,
+    "text": "在搜救人持續進行的同時",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 363.3,
+    "duration": 1.8999999999999773,
+    "text": "事故原因仍待釐清",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 365.2,
+    "duration": 3.400000000000034,
+    "text": "外界也期盼盡快能夠傳回好消息",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 368.7,
+    "duration": 2.6999999999999886,
+    "text": "公視新聞 朱鳳竹 祁昌綜合報導",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 371.4,
+    "duration": 3.900000000000034,
+    "text": "獨報時間來看到",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 375.3,
+    "duration": 3,
+    "text": "聯合報提到了",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 378.3,
+    "duration": 3.8000000000000114,
+    "text": "被控跨國詐騙的太子集團",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 382.1,
+    "duration": 3.099999999999966,
+    "text": "創辦人兼董事長陳鋸",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 385.2,
+    "duration": 2.8000000000000114,
+    "text": "已經在柬埔寨被捕",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 388,
+    "duration": 4.5,
+    "text": "而且前送到中國接受相關部門調查",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 392.5,
+    "duration": 3,
+    "text": "中國時報是",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 395.5,
+    "duration": 2.5,
+    "text": "台北市敬老愛心卡",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 398.4,
+    "duration": 1.8000000000000114,
+    "text": "今年大升級",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 400.2,
+    "duration": 3.8000000000000114,
+    "text": "1月起已經開放點數扣抵",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 404,
+    "duration": 2.3999999999999773,
+    "text": "聯合醫院門診的掛號費",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 406.4,
+    "duration": 3.8000000000000114,
+    "text": "而2月起搭計程車",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 410.2,
+    "duration": 5,
+    "text": "扣抵點數單趟提高到了85點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 415.2,
+    "duration": 3.3000000000000114,
+    "text": "接著7月開始",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 418.5,
+    "duration": 5.399999999999977,
+    "text": "每個月的點數從480點會調升到600點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 425.6,
+    "duration": 5.099999999999966,
+    "text": "也會把老人健康檢查納入扣點的範疇",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 430.7,
+    "duration": 4.100000000000023,
+    "text": "自由時報是報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 434.8,
+    "duration": 5.300000000000011,
+    "text": "行政府會今天將通過動物保護法修正草案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 440.1,
+    "duration": 4.2999999999999545,
+    "text": "明確規範四主棄養動物",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 444.4,
+    "duration": 2.400000000000034,
+    "text": "可以重罰100萬元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 446.8,
+    "duration": 3.8999999999999773,
+    "text": "而虐待動物也加重刑度",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 450.7,
+    "duration": 4.400000000000034,
+    "text": "可處6個月以上5年以下的有期徒刑",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 455.9,
+    "duration": 4.5,
+    "text": "並扣30萬元以上300萬元以下的罰金",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 460.4,
+    "duration": 3.5,
+    "text": "而看完報紙重點繼續來關心",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 463.9,
+    "duration": 2.5,
+    "text": "防治非洲豬瘟",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 466.4,
+    "duration": 3.3000000000000114,
+    "text": "每年全面禁止廚餘養豬",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 469.7,
+    "duration": 4.900000000000034,
+    "text": "而今年是有條件可以用廚餘",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 474.6,
+    "duration": 5.099999999999966,
+    "text": "目前有249場完成了申請",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 481.4,
+    "duration": 4.900000000000034,
+    "text": "另外之前禁載禁運39萬頭豬隻",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 486.3,
+    "duration": 5.5,
+    "text": "現在預計可以提前在3月初前消化完成",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 491.8,
+    "duration": 5.199999999999989,
+    "text": "而目前的豬價比起疫情前來的低",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 497,
+    "duration": 4.5,
+    "text": "每公斤是來到了87元",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 501.5,
+    "duration": 7.600000000000023,
+    "text": "今年開始廚餘養豬必須加裝",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 509.1,
+    "duration": 3.1000000000000227,
+    "text": "即時引向監視系統 載運廚餘車輛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 512.2,
+    "duration": 3.199999999999932,
+    "text": "也要加裝GPS 如果違規用廚餘養豬",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 515.4,
+    "duration": 2.7000000000000455,
+    "text": "將被重罰 罰還40萬元起跳",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 518.1,
+    "duration": 3.3999999999999773,
+    "text": "農業部指出今年之前有18件違規案件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 521.5,
+    "duration": 2.3999999999999773,
+    "text": "已由地方政府調查與裁罰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 523.9,
+    "duration": 2.2000000000000455,
+    "text": "今年起則尚未有違規案例",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 526.1,
+    "duration": 3.3999999999999773,
+    "text": "不過廚餘養豬戶數量減少了近四成",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 539.7,
+    "duration": 1.5,
+    "text": "而為了防堵非洲豬瘟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 541.2,
+    "duration": 1.8999999999999773,
+    "text": "去年禁運禁載15天",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 543.1,
+    "duration": 2.7999999999999545,
+    "text": "39萬頭豬要依序釋出消化",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 545.9,
+    "duration": 2.7000000000000455,
+    "text": "農業部指出原本預定3月底前",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 548.6,
+    "duration": 4.600000000000023,
+    "text": "現在則預估可提前至2月底至3月初完成消化",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 553.2,
+    "duration": 3.099999999999909,
+    "text": "而比起疫情前豬價飆破每公斤百元",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 556.3,
+    "duration": 1.6000000000000227,
+    "text": "目前因為豬園較多",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 557.9,
+    "duration": 2.300000000000068,
+    "text": "這禮拜已經掉到90元以下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 569.1,
+    "duration": 8.100000000000023,
+    "text": "調節產銷是農業部的永恆課題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 577.2,
+    "duration": 1.8999999999999773,
+    "text": "上午在立法院經濟委員會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 579.1,
+    "duration": 1.7999999999999545,
+    "text": "國民黨立委鄭正前質疑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 580.9,
+    "duration": 3.3999999999999773,
+    "text": "以高麗菜為例 價格常常暴漲暴跌",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 584.3,
+    "duration": 1.7000000000000455,
+    "text": "為何產銷難以平衡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 586,
+    "duration": 3.1000000000000227,
+    "text": "是否有讓農民先進行種植登記",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 589.1,
+    "duration": 1.8999999999999773,
+    "text": "統計好種植面積呢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 591,
+    "duration": 1.7999999999999545,
+    "text": "農業部長陳俊基表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 592.8,
+    "duration": 2.900000000000091,
+    "text": "已經規劃這次會提出政策誘因",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 599.1,
+    "duration": 3,
+    "text": "部長陳俊基指出高麗菜單位產量面積高",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 602.1,
+    "duration": 2,
+    "text": "預颱風價格會翻數十倍",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 604.1,
+    "duration": 2,
+    "text": "是屬於比較取巧的蔬菜",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 606.1,
+    "duration": 2,
+    "text": "過去多以航拍監控",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 608.1,
+    "duration": 2,
+    "text": "種植面積進行預警",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 610.1,
+    "duration": 3,
+    "text": "一直要推讓農民種植登記始終沒成功",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 613.1,
+    "duration": 2,
+    "text": "但經過檢視與精進",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 615.1,
+    "duration": 4,
+    "text": "預計將在下個月對外公佈新版登記成功",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 619.1,
+    "duration": 2,
+    "text": "農業部議員陳俊基表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 621.1,
+    "duration": 2,
+    "text": "遵守國民黨立委的規劃",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 623.1,
+    "duration": 2,
+    "text": "而農業部議員陳俊基",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 625.1,
+    "duration": 4,
+    "text": "認為檢視與精進預計將在下個月對外公佈新版登記制度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 629.1,
+    "duration": 3,
+    "text": "公視新聞臨近朋友組臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 632.1,
+    "duration": 3,
+    "text": "立法院衛環委員會",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 635.1,
+    "duration": 6,
+    "text": "今天將要排審人工升職法修正草案",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 641.1,
+    "duration": 5,
+    "text": "而且至少有18個提案版本",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 646.1,
+    "duration": 5,
+    "text": "其中包括納入代理育母的章節",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 651.1,
+    "duration": 2,
+    "text": "有民間團體呼籲",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 653.1,
+    "duration": 6,
+    "text": "人工升職法修法應該與代孕制度脫鉤",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 659.1,
+    "duration": 4,
+    "text": "不過民眾黨立委陳昭姿認為",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 663.1,
+    "duration": 3,
+    "text": "對於子宮有病變的女性",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 666.1,
+    "duration": 3,
+    "text": "以及男同志伴侶",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 669.1,
+    "duration": 4,
+    "text": "代孕需求是真實存在",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 673.1,
+    "duration": 4,
+    "text": "代孕制度限難行",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 677.1,
+    "duration": 3,
+    "text": "20多個民間團體上午聯合召開記者會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 680.1,
+    "duration": 4,
+    "text": "呼籲人工升職法修法應與代孕脫鉤審查",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 684.1,
+    "duration": 3,
+    "text": "因為立法院衛環委員會臨時更改議程",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 687.1,
+    "duration": 3,
+    "text": "8號將排審人工升職法修正草案",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 690.1,
+    "duration": 2,
+    "text": "而且至少有18個提案版本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 692.1,
+    "duration": 2,
+    "text": "其中包括納入代理育母的章節",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 694.1,
+    "duration": 2,
+    "text": "民團發表聯合聲明",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 696.1,
+    "duration": 3,
+    "text": "呼籲應先行開放誕生女性與同志配偶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 699.1,
+    "duration": 2,
+    "text": "使用人工升職技術",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 701.1,
+    "duration": 2,
+    "text": "代理育母部分不應急就章",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 703.1,
+    "duration": 3,
+    "text": "代孕的制度涉及第三方的身體使用",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 706.1,
+    "duration": 3,
+    "text": "需要更嚴謹的制度來保障所有關係人的權益",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 709.1,
+    "duration": 2,
+    "text": "但很可惜目前立法院的版本",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 711.1,
+    "duration": 1,
+    "text": "大多都是空白授權",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 712.1,
+    "duration": 2,
+    "text": "然後制度的不夠完善",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 714.1,
+    "duration": 2,
+    "text": "所以我們期待可以脫鉤處理",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 716.1,
+    "duration": 2,
+    "text": "如果明天從早上念完條文",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 718.1,
+    "duration": 2,
+    "text": "下午開始審查之後",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 720.1,
+    "duration": 2,
+    "text": "竟然就可以出委員會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 722.1,
+    "duration": 1,
+    "text": "然後用協商的方式的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 723.1,
+    "duration": 3,
+    "text": "我就會認為立法院其實是做利益交換",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 726.1,
+    "duration": 4,
+    "text": "民團表示部分修法版本將代理育母納入其中",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 730.1,
+    "duration": 2,
+    "text": "但是內容並不完整",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 732.1,
+    "duration": 3,
+    "text": "不過長期推動代孕制度的民眾黨立委陳昭姿",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 735.1,
+    "duration": 4,
+    "text": "則是認為對於子宮有病變的女性及男童之伴侶",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 739.1,
+    "duration": 2,
+    "text": "代孕需求是真實存在的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 741.1,
+    "duration": 4,
+    "text": "推動代孕合法化是支持每一個想成為父母的人",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 745.1,
+    "duration": 3,
+    "text": "躲在暗夜哭泣的所謂的病友",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 748.1,
+    "duration": 3,
+    "text": "我必須我必須堅定的守住",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 751.1,
+    "duration": 2,
+    "text": "如果我放棄的話",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 753.1,
+    "duration": 3,
+    "text": "他們絕對會因為絕望而崩潰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 756.1,
+    "duration": 4,
+    "text": "代孕育母的部分因為在國內仍然還有一些爭議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 760.1,
+    "duration": 4,
+    "text": "所以在這一次的行政府版本裡面沒有",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 764.1,
+    "duration": 2,
+    "text": "納入代理育母",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 766.1,
+    "duration": 4,
+    "text": "石崇良強調人工生殖法修法已經討論多年",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 770.1,
+    "duration": 2,
+    "text": "法條必須與時俱進",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 772.1,
+    "duration": 4,
+    "text": "因此行政府版本將18歲以上單身女性及女女同婚者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 776.1,
+    "duration": 3,
+    "text": "擴大納入人工生殖法適用對象",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 779.1,
+    "duration": 5,
+    "text": "至於代理育母未來是否推行將再與各委員及黨團討論",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 784.1,
+    "duration": 2,
+    "text": "公視新聞賴淑敏講龍鄉臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 786.1,
+    "duration": 4,
+    "text": "詐騙猖獗",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 790.1,
+    "duration": 7,
+    "text": "車手在ATM提款的時候都會戴口罩或安全帽遮蔽五官",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 797.1,
+    "duration": 2,
+    "text": "增加查緝的難度",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 799.1,
+    "duration": 4,
+    "text": "警政署就像金管會建議",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 803.1,
+    "duration": 5,
+    "text": "推動使用ATM時要露出臉部",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 808.1,
+    "duration": 7,
+    "text": "而目前初步會在車手常提領現金的ATM熱點",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 815.1,
+    "duration": 3,
+    "text": "加裝臉部辨識",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 819.1,
+    "duration": 3,
+    "text": "如果沒有脫口罩脫帽",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 822.1,
+    "duration": 3,
+    "text": "就會有警示音來提醒民眾",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 825.1,
+    "duration": 4,
+    "text": "螢幕上也會有字幕顯示來提醒",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 829.1,
+    "duration": 4,
+    "text": "過去許多車手在ATM到領現金時",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 833.1,
+    "duration": 2,
+    "text": "往往會戴口罩或壓神帽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 835.1,
+    "duration": 2,
+    "text": "避免五官遭鏡頭拍下",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 837.1,
+    "duration": 2,
+    "text": "這樣的做法也增加查緝難度",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 839.1,
+    "duration": 2,
+    "text": "傳出警政署建議",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 841.1,
+    "duration": 3,
+    "text": "推動民眾使用ATM時要露出臉部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 844.1,
+    "duration": 2,
+    "text": "因為露出完整五官",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 846.1,
+    "duration": 2,
+    "text": "請脫帽、口罩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 848.1,
+    "duration": 2,
+    "text": "為了主戰抓車手",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 850.1,
+    "duration": 2,
+    "text": "現在戴口罩和戴安全帽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 852.1,
+    "duration": 2,
+    "text": "到底能不能在ATM提領現金",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 854.1,
+    "duration": 2,
+    "text": "也成為討論話題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 856.1,
+    "duration": 17,
+    "text": "實際到銀行的ATM走一趟",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 873.1,
+    "duration": 2,
+    "text": "發現如果你戴口罩到ATM領現金",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 875.1,
+    "duration": 2,
+    "text": "會出現警示音",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 877.1,
+    "duration": 2,
+    "text": "提醒你要露出五官",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 879.1,
+    "duration": 1,
+    "text": "但現行制度是",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 880.1,
+    "duration": 2,
+    "text": "即使你戴口罩或安全帽",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 882.1,
+    "duration": 1,
+    "text": "還是能提領現金",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 883.1,
+    "duration": 2,
+    "text": "傳出有銀行業者表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 885.1,
+    "duration": 2,
+    "text": "如果民眾是在醫院ATM提領現金",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 887.1,
+    "duration": 2,
+    "text": "許多民眾為了防止病毒感染",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 889.1,
+    "duration": 2,
+    "text": "都會戴上口罩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 891.1,
+    "duration": 2,
+    "text": "硬要民眾脫口罩才能領",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 893.1,
+    "duration": 2,
+    "text": "恐怕引發照明疑慮",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 907.1,
+    "duration": 2,
+    "text": "可能是跑來銀行去做申訴",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 909.1,
+    "duration": 2,
+    "text": "其實對於行員來說壓力蠻大",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 911.1,
+    "duration": 2,
+    "text": "是他可能業務很大一部分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 913.1,
+    "duration": 2,
+    "text": "就變成是他要去回復這些",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 915.1,
+    "duration": 1,
+    "text": "客訴處理這些客訴",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 916.1,
+    "duration": 12,
+    "text": "為避免強制脫口罩",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 928.1,
+    "duration": 2,
+    "text": "才能到ATM提領現金引發民怨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 930.1,
+    "duration": 2,
+    "text": "儘管會嚴厲採取漸進式做法",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 932.1,
+    "duration": 2,
+    "text": "由警政署提供銀行名單",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 934.1,
+    "duration": 3,
+    "text": "先從車手常提領現金的ATM熱點",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 937.1,
+    "duration": 2,
+    "text": "裝上臉部辨識的ATM",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 939.1,
+    "duration": 3,
+    "text": "同時鼓勵銀行多加裝ATM臉部辨識系統",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 942.1,
+    "duration": 2,
+    "text": "發揮警示功能",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 944.1,
+    "duration": 2,
+    "text": "公視新聞由燕慈郭駒林一條報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 964.1,
+    "duration": 5,
+    "text": "也將會由BL和GL的小說家來台",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 969.1,
+    "duration": 4,
+    "text": "而書展的網站",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 973.1,
+    "duration": 3,
+    "text": "也已經開放沙龍活動區",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 976.1,
+    "duration": 2,
+    "text": "手語翻譯",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 978.1,
+    "duration": 3,
+    "text": "以及聽打服務的申請",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 981.1,
+    "duration": 4,
+    "text": "到1月11號就截止",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 985.1,
+    "duration": 2,
+    "text": "有需要的聽證朋友",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 987.1,
+    "duration": 3,
+    "text": "請把握時間去申請",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 994.1,
+    "duration": 2,
+    "text": "臺灣能力設定以臺灣和泰國的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 996.1,
+    "duration": 2,
+    "text": "南南戀為主題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 998.1,
+    "duration": 2,
+    "text": "泰國知名小說家普拉普",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1000.1,
+    "duration": 2,
+    "text": "2025年的作品是牽起",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1002.1,
+    "duration": 4,
+    "text": "臺泰羈絆的跨國愛情故事Uphonic",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1006.1,
+    "duration": 17,
+    "text": "去年初參與臺北國際書展的印象太深刻",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1023.1,
+    "duration": 1.9999999999998863,
+    "text": "普拉普寫出這本小說",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1025.1,
+    "duration": 2,
+    "text": "而2026年臺北國際書展",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1027.1,
+    "duration": 2,
+    "text": "泰國是主題國",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1029.1,
+    "duration": 4,
+    "text": "普拉普將與泰國的BL與GL小說家來台",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1033.1,
+    "duration": 2,
+    "text": "泰國最出名的GL出版商",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1035.1,
+    "duration": 2,
+    "text": "也首次來台與讀者見面",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1037.1,
+    "duration": 2,
+    "text": "泰國商務處表示",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1039.1,
+    "duration": 3,
+    "text": "將以Creativity 泰式創意生活為主題",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1042.1,
+    "duration": 2,
+    "text": "展出多元作品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1053.1,
+    "duration": 3,
+    "text": "臺北書展基金會董事長好明義指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1056.1,
+    "duration": 2,
+    "text": "臺北國際書展是出版業與讀者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1058.1,
+    "duration": 3,
+    "text": "共同促成的嘉年華式閱讀盛會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1061.1,
+    "duration": 3,
+    "text": "臺灣讀者的熱情與其中的商機",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1064.1,
+    "duration": 3,
+    "text": "也讓包括去年的主題國義大利",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1067.1,
+    "duration": 2,
+    "text": "以及法國比利時傑克提供的",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1069.1,
+    "duration": 2,
+    "text": "藝術作品",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1071.1,
+    "duration": 2,
+    "text": "發展成為主題國的創意",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1073.1,
+    "duration": 3,
+    "text": "臺北書展基金會董事長好明義指出",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1076.1,
+    "duration": 3,
+    "text": "臺北國際書展是出版業與讀者",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1079.1,
+    "duration": 3,
+    "text": "共同促成的嘉年華式閱讀盛會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1082.1,
+    "duration": 4,
+    "text": "比利時傑克及印度願意一再回流參加",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1086.1,
+    "duration": 3,
+    "text": "公視新聞理想會沈志明臺北報導",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1089.1,
+    "duration": 4,
+    "text": "歐洲受到了強烈級地冷空氣的影響",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1093.1,
+    "duration": 4,
+    "text": "陷入相當寒冷的天氣當中",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1097.1,
+    "duration": 3,
+    "text": "荷蘭的主要機場已經因為積雪",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1100.1,
+    "duration": 4,
+    "text": "取消超過了八百個航班",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1104.1,
+    "duration": 4,
+    "text": "有上千名的旅客打地鋪過夜",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1112.1,
+    "duration": 2,
+    "text": "歐洲最繁忙航空樞紐之一",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1114.1,
+    "duration": 2,
+    "text": "阿姆斯特丹史基普機場被大雪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1116.1,
+    "duration": 2,
+    "text": "覆蓋成了銀白世界",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1118.1,
+    "duration": 2,
+    "text": "機場七號宣布數百航班取消",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1120.1,
+    "duration": 2,
+    "text": "航廈內擠滿無助的旅客",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1122.1,
+    "duration": 2,
+    "text": "有人等得太累直接睡在地上",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1124.1,
+    "duration": 3,
+    "text": "機場緊急增設數百張行軍床",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1127.1,
+    "duration": 1,
+    "text": "並提供早餐",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1143.1,
+    "duration": 1,
+    "text": "除了航空",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1144.1,
+    "duration": 2,
+    "text": "陸路交通同樣慘不忍睹",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1146.1,
+    "duration": 2,
+    "text": "卡車在高速公路上打滑",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1148.1,
+    "duration": 2,
+    "text": "纏雪車速度緩慢",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1150.1,
+    "duration": 3,
+    "text": "荷蘭公路出現約七百公里大塞車",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1153.1,
+    "duration": 2,
+    "text": "在蘇格蘭北部的亞伯丁郡",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1155.1,
+    "duration": 3,
+    "text": "將這場大雪侵襲宣告為重大事件",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1158.1,
+    "duration": 2,
+    "text": "學校與托兒所連續三天停課",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1170.1,
+    "duration": 2,
+    "text": "歐洲中部內陸國家匈牙利",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1172.1,
+    "duration": 2,
+    "text": "出現近年來最後的積雪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1174.1,
+    "duration": 2,
+    "text": "動物園裡的北極熊玩得不亦樂乎",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1176.1,
+    "duration": 3,
+    "text": "布達佩斯居民也高興出門玩雪",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1179.1,
+    "duration": 2,
+    "text": "但這場強烈極地冷空氣",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1181.1,
+    "duration": 2,
+    "text": "對巴爾幹半島帶來重大衝擊",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1183.1,
+    "duration": 3,
+    "text": "波士尼亞與赫塞哥維納首都塞拉耶佛",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1186.1,
+    "duration": 3,
+    "text": "通報過去48小時降雪70公分",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1189.1,
+    "duration": 2,
+    "text": "市區交通近乎癱瘓",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1191.1,
+    "duration": 6,
+    "text": "極地冷空氣南下還伴隨強降雨",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1197.1,
+    "duration": 2,
+    "text": "蒙特內哥羅友人因洪災撤離",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1199.1,
+    "duration": 3,
+    "text": "目前冷氣團仍無緩解跡象",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1202.1,
+    "duration": 3,
+    "text": "名為高雷地的風暴將侵襲英格蘭南部",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1205.1,
+    "duration": 3,
+    "text": "當局持續發布第二高等級的橙色警戒",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1208.1,
+    "duration": 2,
+    "text": "公視新聞 旁邊林冰",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1229.1,
+    "duration": 3,
+    "text": "中部以北 東北部",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1232.1,
+    "duration": 3,
+    "text": "以及東部的天氣寒冷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1235.1,
+    "duration": 4,
+    "text": "其他地區則是早晚比較寒冷",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1239.1,
+    "duration": 5,
+    "text": "白天也會偏涼",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1244.1,
+    "duration": 3,
+    "text": "接著來看各地的詳細資料",
+    "hasSignLanguage": true
+  },
+  {
+    "start": 1259.1,
+    "duration": 27,
+    "text": "(音樂)",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1286.1,
+    "duration": 3,
+    "text": "感謝您收看這一集的公視手語新聞",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1289.1,
+    "duration": 4,
+    "text": "我是王小舒 明天同一時間再會",
+    "hasSignLanguage": false
+  },
+  {
+    "start": 1316.1,
+    "duration": 7,
+    "text": "(音樂)",
+    "hasSignLanguage": false
+  }
+]
