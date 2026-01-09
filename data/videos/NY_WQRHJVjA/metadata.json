@@ -1,0 +1,25 @@
+{
+  "id": "NY_WQRHJVjA",
+  "title": "20260109 公視AI手語天氣報導 ｜輻射冷卻影響 夜晚清晨留意低溫溫",
+  "description": "今天到明天的白天、強烈大陸冷氣團稍微減弱，白天的氣溫也會稍微回升，但受到輻射冷卻的影響，各地早晚的天氣仍然寒冷，西半部地區的日夜溫差大。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2026-01-09T01:36:34Z",
+  "thumbnail": "https://i.ytimg.com/vi/NY_WQRHJVjA/hqdefault.jpg",
+  "addedAt": "2026-01-09T07:00:07.292Z",
+  "processingStatus": {
+    "lastUpdated": "2026-01-09T07:00:09.296Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2026-01-09T07:05:17.724Z",
+    "transcriptSegments": 8,
+    "asrModel": "whisper"
+  },
+  "detectionSummary": {
+    "mode": "anchor_banner",
+    "processedAt": "2026-01-09T15:09:30.840542",
+    "totalSegments": 8,
+    "signLanguageSegments": 7,
+    "coverage": 45.56962025316456
+  }
+}
