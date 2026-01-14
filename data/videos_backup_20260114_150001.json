@@ -1,59 +1,5 @@
 [
   {
-    "id": "7OzHY-bqxm4",
-    "title": "20260114 公視AI手語天氣報導 ｜環境偏乾 輻射冷卻影響 早晚偏冷",
-    "description": "今天白天開始大陸冷氣團減弱，而受到輻射冷卻的影響，各地早晚仍然會比較冷、日夜溫差大；今天和明天，台灣各地及澎湖、金門、馬祖大多會是多雲到晴的天氣，只有東半部地區及恆春半島會有零星短暫雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-01-14T01:43:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/7OzHY-bqxm4/hqdefault.jpg",
-    "addedAt": "2026-01-14T07:00:06.807Z",
-    "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.810Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2026-01-14T07:00:32.059Z",
-      "transcriptSegments": 11,
-      "asrModel": "whisper"
-    },
-    "detectionSummary": null,
-    "stats": {
-      "transcriptSegments": 11,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "Rsz3Humr-Ww",
-    "title": "20260114 公視手語新聞 完整版｜南韓前總統尹錫悅戒嚴案 涉內亂罪遭檢方求處死刑",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-01-14T01:40:19Z",
-    "thumbnail": "https://i.ytimg.com/vi/Rsz3Humr-Ww/hqdefault.jpg",
-    "addedAt": "2026-01-14T07:00:03.845Z",
-    "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": true,
-      "whisperProcessedAt": "2026-01-14T07:05:49.153Z",
-      "transcriptSegments": 517,
-      "asrModel": "whisper"
-    },
-    "detectionSummary": {
-      "mode": "anchor_banner",
-      "processedAt": "2026-01-14T15:10:48.633455",
-      "totalSegments": 517,
-      "signLanguageSegments": 140,
-      "coverage": 29.78986402966625
-    },
-    "stats": {
-      "transcriptSegments": 517,
-      "signLanguageGroups": 11,
-      "hasSignLanguage": true
-    }
-  },
-  {
     "id": "rqoj63Ut1Dc",
     "title": "20260113 公視AI手語天氣報導 ｜冷氣團南下並影響 晨夜輻射冷卻效應 留意早晚偏冷",
     "description": "今天和明天受到大陸冷氣團南下及輻射冷卻的影響，各地的氣溫早晚都比較冷，西半部地區的日夜溫差大；台灣各地及澎湖、金門、馬祖大多為多雲到晴的天氣，只有東部、東南部地區以及恆春半島會有局部短暫雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -61,10 +7,14 @@
     "thumbnail": "https://i.ytimg.com/vi/rqoj63Ut1Dc/hqdefault.jpg",
     "addedAt": "2026-01-13T07:00:07.350Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2026-01-13T07:00:31.755Z",
+      "transcriptSegments": 10,
+      "asrModel": "whisper"
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -87,10 +37,14 @@
     "thumbnail": "https://i.ytimg.com/vi/uPdF3AcpCjg/hqdefault.jpg",
     "addedAt": "2026-01-13T07:00:04.475Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": true,
+      "whisperProcessedAt": "2026-01-13T07:05:00.166Z",
+      "transcriptSegments": 487,
+      "asrModel": "whisper"
     },
     "detectionSummary": {
       "mode": "anchor_banner",
@@ -113,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/PkiaGiA3Vng/hqdefault.jpg",
     "addedAt": "2026-01-12T07:00:04.704Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -139,7 +93,7 @@
     "thumbnail": "https://i.ytimg.com/vi/pFGkT_48K0A/hqdefault.jpg",
     "addedAt": "2026-01-09T07:00:04.426Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -165,7 +119,7 @@
     "thumbnail": "https://i.ytimg.com/vi/NY_WQRHJVjA/hqdefault.jpg",
     "addedAt": "2026-01-09T07:00:07.292Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -191,7 +145,7 @@
     "thumbnail": "https://i.ytimg.com/vi/XcxhADGK5mc/hqdefault.jpg",
     "addedAt": "2026-01-08T07:00:04.132Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -217,7 +171,7 @@
     "thumbnail": "https://i.ytimg.com/vi/oK5JhHJOl1Y/hqdefault.jpg",
     "addedAt": "2026-01-08T07:00:07.012Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -243,7 +197,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-FTXLoS74gc/hqdefault.jpg",
     "addedAt": "2026-01-07T07:00:04.720Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -269,7 +223,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4rURZOs2I5I/hqdefault.jpg",
     "addedAt": "2026-01-07T07:00:07.629Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -295,7 +249,7 @@
     "thumbnail": "https://i.ytimg.com/vi/fioNHQckw7o/hqdefault.jpg",
     "addedAt": "2026-01-06T07:00:04.996Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -321,7 +275,7 @@
     "thumbnail": "https://i.ytimg.com/vi/mh0kMs2tnR8/hqdefault.jpg",
     "addedAt": "2026-01-06T07:00:07.856Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -347,7 +301,7 @@
     "thumbnail": "https://i.ytimg.com/vi/uVBxvbjS1jQ/hqdefault.jpg",
     "addedAt": "2026-01-05T07:00:03.824Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -373,7 +327,7 @@
     "thumbnail": "https://i.ytimg.com/vi/DU_9S5dVAhY/hqdefault.jpg",
     "addedAt": "2026-01-05T07:00:06.582Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -399,7 +353,7 @@
     "thumbnail": "https://i.ytimg.com/vi/LN_zgIlX4Z8/hqdefault.jpg",
     "addedAt": "2026-01-02T07:00:03.914Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -425,7 +379,7 @@
     "thumbnail": "https://i.ytimg.com/vi/AuX-Or3RR_8/hqdefault.jpg",
     "addedAt": "2026-01-02T07:00:06.633Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -451,7 +405,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ptaYGgHeIvw/hqdefault.jpg",
     "addedAt": "2026-01-01T07:00:05.105Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -477,7 +431,7 @@
     "thumbnail": "https://i.ytimg.com/vi/CG473EHjJhw/hqdefault.jpg",
     "addedAt": "2026-01-01T07:00:08.010Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -503,7 +457,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ahWyYwqqJcg/hqdefault.jpg",
     "addedAt": "2025-12-31T07:00:04.469Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -529,7 +483,7 @@
     "thumbnail": "https://i.ytimg.com/vi/LuHbbu3SgDc/hqdefault.jpg",
     "addedAt": "2025-12-31T07:00:07.338Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -555,7 +509,7 @@
     "thumbnail": "https://i.ytimg.com/vi/tPVKX8fC8_A/hqdefault.jpg",
     "addedAt": "2025-12-30T07:00:04.763Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -581,7 +535,7 @@
     "thumbnail": "https://i.ytimg.com/vi/KTa9B9mNAe0/hqdefault.jpg",
     "addedAt": "2025-12-30T07:00:07.826Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -607,7 +561,7 @@
     "thumbnail": "https://i.ytimg.com/vi/WA9Buncv7-U/hqdefault.jpg",
     "addedAt": "2025-12-29T07:00:07.423Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -633,7 +587,7 @@
     "thumbnail": "https://i.ytimg.com/vi/pmtLamrQU48/hqdefault.jpg",
     "addedAt": "2025-12-29T07:00:04.661Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -659,7 +613,7 @@
     "thumbnail": "https://i.ytimg.com/vi/jxZUGGWETLo/hqdefault.jpg",
     "addedAt": "2025-12-26T07:00:03.785Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -685,7 +639,7 @@
     "thumbnail": "https://i.ytimg.com/vi/EGqLjp3f688/hqdefault.jpg",
     "addedAt": "2025-12-26T07:00:06.545Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -711,7 +665,7 @@
     "thumbnail": "https://i.ytimg.com/vi/6oXTaq_4LxU/hqdefault.jpg",
     "addedAt": "2025-12-25T07:00:05.449Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -737,7 +691,7 @@
     "thumbnail": "https://i.ytimg.com/vi/vFNtSF0JAjY/hqdefault.jpg",
     "addedAt": "2025-12-25T07:00:08.416Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -763,7 +717,7 @@
     "thumbnail": "https://i.ytimg.com/vi/MWLk3QFspyw/hqdefault.jpg",
     "addedAt": "2025-12-24T07:00:04.009Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -783,7 +737,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ce8QMgO9Tuo/hqdefault.jpg",
     "addedAt": "2025-12-24T07:00:06.707Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -809,7 +763,7 @@
     "thumbnail": "https://i.ytimg.com/vi/DtsHQEGe07A/hqdefault.jpg",
     "addedAt": "2025-12-23T07:00:07.536Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -835,7 +789,7 @@
     "thumbnail": "https://i.ytimg.com/vi/BZEd1nYp5uI/hqdefault.jpg",
     "addedAt": "2025-12-23T07:00:04.467Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -861,7 +815,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ibU3oUd16gg/hqdefault.jpg",
     "addedAt": "2025-12-22T07:00:03.911Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -887,7 +841,7 @@
     "thumbnail": "https://i.ytimg.com/vi/s_5iiAQYaSg/hqdefault.jpg",
     "addedAt": "2025-12-19T07:00:04.309Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -913,7 +867,7 @@
     "thumbnail": "https://i.ytimg.com/vi/TTn-EM04Ya0/hqdefault.jpg",
     "addedAt": "2025-12-19T07:00:06.979Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -939,7 +893,7 @@
     "thumbnail": "https://i.ytimg.com/vi/gf5P2mA5kIA/hqdefault.jpg",
     "addedAt": "2025-12-18T07:00:04.601Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -965,7 +919,7 @@
     "thumbnail": "https://i.ytimg.com/vi/8pPUofhZ3Xw/hqdefault.jpg",
     "addedAt": "2025-12-18T07:00:07.428Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -991,7 +945,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zbqrEunea7g/hqdefault.jpg",
     "addedAt": "2025-12-17T07:00:04.324Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1017,7 +971,7 @@
     "thumbnail": "https://i.ytimg.com/vi/b0RYH4sEhpM/hqdefault.jpg",
     "addedAt": "2025-12-17T07:00:07.030Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1043,7 +997,7 @@
     "thumbnail": "https://i.ytimg.com/vi/EjrF4KcfRhg/hqdefault.jpg",
     "addedAt": "2025-12-16T07:00:07.508Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1069,7 +1023,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1LczsFMVi90/hqdefault.jpg",
     "addedAt": "2025-12-16T07:00:04.741Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1095,7 +1049,7 @@
     "thumbnail": "https://i.ytimg.com/vi/c3on1zaWlDs/hqdefault.jpg",
     "addedAt": "2025-12-15T07:00:04.080Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1121,7 +1075,7 @@
     "thumbnail": "https://i.ytimg.com/vi/IpqCkdNs7ic/hqdefault.jpg",
     "addedAt": "2025-12-15T07:00:06.810Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1147,7 +1101,7 @@
     "thumbnail": "https://i.ytimg.com/vi/7rKVqYQkEKQ/hqdefault.jpg",
     "addedAt": "2025-12-12T07:00:06.684Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1173,7 +1127,7 @@
     "thumbnail": "https://i.ytimg.com/vi/lC6LRKJ-P18/hqdefault.jpg",
     "addedAt": "2025-12-12T07:00:03.849Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1199,7 +1153,7 @@
     "thumbnail": "https://i.ytimg.com/vi/O5nbU5A9MfA/hqdefault.jpg",
     "addedAt": "2025-12-11T07:00:04.416Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1225,7 +1179,7 @@
     "thumbnail": "https://i.ytimg.com/vi/cAuCKGJZZyI/hqdefault.jpg",
     "addedAt": "2025-12-11T07:00:07.057Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1251,7 +1205,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VmjOlmm1yzs/hqdefault.jpg",
     "addedAt": "2025-12-10T07:00:05.024Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1277,7 +1231,7 @@
     "thumbnail": "https://i.ytimg.com/vi/_eyL_DM2L9A/hqdefault.jpg",
     "addedAt": "2025-12-09T07:00:03.927Z",
     "processingStatus": {
-      "lastUpdated": "2026-01-14T07:00:08.811Z",
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -1291,6 +1245,58 @@
     },
     "stats": {
       "transcriptSegments": 546,
+      "signLanguageGroups": 10,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "XwvWsQ_mj5Y",
+    "title": "20251209 公視AI手語天氣報導 ｜東北季風增強 北臺灣天氣濕涼 迎風面局部大雨",
+    "description": "今天受到東北季風的影響，北部、及東北部天氣較涼，其他地區早晚也會比較涼；基隆北海岸、大台北山區、及台灣東北部地區有雨，並且會有局部大雨發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-09T01:30:40Z",
+    "thumbnail": "https://i.ytimg.com/vi/XwvWsQ_mj5Y/hqdefault.jpg",
+    "addedAt": "2025-12-09T07:00:06.586Z",
+    "processingStatus": {
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-09T15:10:16.457180",
+      "totalSegments": 8,
+      "signLanguageSegments": 7,
+      "coverage": 44.73684210526316
+    },
+    "stats": {
+      "transcriptSegments": 8,
+      "signLanguageGroups": 1,
+      "hasSignLanguage": true
+    }
+  },
+  {
+    "id": "EtG5PgoJorI",
+    "title": "20251208 公視手語新聞 完整版｜北車通行障礙多 身障團體籲全面檢視改善",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2025-12-08T03:04:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/EtG5PgoJorI/hqdefault.jpg",
+    "addedAt": "2025-12-08T07:00:04.363Z",
+    "processingStatus": {
+      "lastUpdated": "2026-01-13T07:00:09.354Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "detectionSummary": {
+      "mode": "anchor_banner",
+      "processedAt": "2025-12-08T15:10:34.256623",
+      "totalSegments": 609,
+      "signLanguageSegments": 158,
+      "coverage": 29.09203211859172
+    },
+    "stats": {
+      "transcriptSegments": 609,
       "signLanguageGroups": 10,
       "hasSignLanguage": true
     }
