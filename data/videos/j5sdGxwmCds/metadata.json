@@ -1,21 +1,25 @@
 {
-  "id": "LN_zgIlX4Z8",
-  "title": "20250102 公視手語新聞 完整版｜強烈冷氣團襲 本島平地今最低溫新竹湖口9 6℃",
+  "id": "j5sdGxwmCds",
+  "title": "20260115 公視手語新聞 完整版｜美下週暫停75國移民簽證 泰、俄、伊朗等國受影響",
   "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw/\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-  "publishedAt": "2026-01-02T02:09:01Z",
-  "thumbnail": "https://i.ytimg.com/vi/LN_zgIlX4Z8/hqdefault.jpg",
-  "addedAt": "2026-01-02T07:00:03.914Z",
+  "publishedAt": "2026-01-15T06:11:19Z",
+  "thumbnail": "https://i.ytimg.com/vi/j5sdGxwmCds/hqdefault.jpg",
+  "addedAt": "2026-01-15T07:00:04.655Z",
   "processingStatus": {
     "lastUpdated": "2026-01-15T07:00:09.678Z",
-    "isNew": false,
-    "needsWhisperProcessing": false,
-    "needsClassification": false
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": true,
+    "whisperProcessedAt": "2026-01-15T07:05:38.739Z",
+    "transcriptSegments": 535,
+    "asrModel": "whisper"
   },
   "detectionSummary": {
     "mode": "anchor_banner",
-    "processedAt": "2026-01-02T15:09:08.377780",
-    "totalSegments": 544,
-    "signLanguageSegments": 132,
-    "coverage": 28.51851851851852
+    "processedAt": "2026-01-15T15:09:59.434773",
+    "totalSegments": 535,
+    "signLanguageSegments": 139,
+    "coverage": 29.197530864197528
   }
 }
