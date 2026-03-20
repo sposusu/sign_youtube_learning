@@ -1,5 +1,49 @@
 [
   {
+    "id": "Bw0DHqIquro",
+    "title": "20260320 公視手語新聞 完整版｜美日川高會登場 聚焦能源及區域穩定",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-03-20T02:45:34Z",
+    "thumbnail": "https://i.ytimg.com/vi/Bw0DHqIquro/hqdefault.jpg",
+    "addedAt": "2026-03-20T07:00:04.632Z",
+    "processingStatus": {
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/1ebf2aa6/player_ias.vflset/en_US/base.js\nWARNING: [youtube] Bw0DHqIquro: nsig extraction failed: Some formats may be missing\n         n = 9VEBHQNLtHLwSPgr ; player = https://www.youtube.com/s/player/1ebf2aa6/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] Bw0DHqIquro: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] Bw0DHqIquro: nsig extraction failed: Some formats may be missing\n         n = 2IGa_n68QD500tLi ; player = https://www.youtube.com/s/player/1ebf2aa6/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] Bw0DHqIquro: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] Bw0DHqIquro: Requested format is not available. Use --list-formats for a list of available formats\n",
+      "errorAt": "2026-03-20T07:00:21.483Z"
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "kUXPlizmLE4",
+    "title": "20260320 公視AI手語天氣報導｜今受東北季風影響 今明北部.東北部稍涼",
+    "description": "今、明兩天日東北季風影響，北部及東北部天氣稍涼，其他地區早晚亦涼；鋒面位於臺灣東北部海面，桃園以北、東半部地區、竹苗山區及恆春半島有局部短暫陣雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-03-20T01:31:10Z",
+    "thumbnail": "https://i.ytimg.com/vi/kUXPlizmLE4/hqdefault.jpg",
+    "addedAt": "2026-03-20T07:00:07.556Z",
+    "processingStatus": {
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/1ebf2aa6/player_ias.vflset/en_US/base.js\nWARNING: [youtube] kUXPlizmLE4: nsig extraction failed: Some formats may be missing\n         n = y5HaLzhZAv161q9N ; player = https://www.youtube.com/s/player/1ebf2aa6/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] kUXPlizmLE4: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] kUXPlizmLE4: nsig extraction failed: Some formats may be missing\n         n = Zvuut5WWWjD7pN58 ; player = https://www.youtube.com/s/player/1ebf2aa6/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] kUXPlizmLE4: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] kUXPlizmLE4: Requested format is not available. Use --list-formats for a list of available formats\n",
+      "errorAt": "2026-03-20T07:00:37.446Z"
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
     "id": "sb57BT5HHro",
     "title": "20260319 公視手語新聞 完整版｜戰火推升通膨隱憂 美聯準會利率按兵不動",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,13 +51,10 @@
     "thumbnail": "https://i.ytimg.com/vi/sb57BT5HHro/hqdefault.jpg",
     "addedAt": "2026-03-19T07:00:04.965Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/f4f314f0/player_ias.vflset/en_US/base.js\nWARNING: [youtube] sb57BT5HHro: nsig extraction failed: Some formats may be missing\n         n = 9KAQ-mYJRoDBnEnk ; player = https://www.youtube.com/s/player/f4f314f0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] sb57BT5HHro: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] sb57BT5HHro: nsig extraction failed: Some formats may be missing\n         n = k4YcIZaqEnlNKUph ; player = https://www.youtube.com/s/player/f4f314f0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] sb57BT5HHro: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] sb57BT5HHro: Requested format is not available. Use --list-formats for a list of available formats\n",
-      "errorAt": "2026-03-19T07:00:22.007Z"
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "stats": {
       "transcriptSegments": 0,
@@ -29,13 +70,10 @@
     "thumbnail": "https://i.ytimg.com/vi/DcC9-yNGYl4/hqdefault.jpg",
     "addedAt": "2026-03-19T07:00:08.081Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/f4f314f0/player_ias.vflset/en_US/base.js\nWARNING: [youtube] DcC9-yNGYl4: nsig extraction failed: Some formats may be missing\n         n = a1FJ1mkdsGPvt0Gr ; player = https://www.youtube.com/s/player/f4f314f0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] DcC9-yNGYl4: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] DcC9-yNGYl4: nsig extraction failed: Some formats may be missing\n         n = x9AHLy3E9Ubr53DH ; player = https://www.youtube.com/s/player/f4f314f0/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] DcC9-yNGYl4: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] DcC9-yNGYl4: Requested format is not available. Use --list-formats for a list of available formats\n",
-      "errorAt": "2026-03-19T07:00:38.460Z"
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "stats": {
       "transcriptSegments": 0,
@@ -51,7 +89,7 @@
     "thumbnail": "https://i.ytimg.com/vi/btPJCVivcIA/hqdefault.jpg",
     "addedAt": "2026-03-18T07:00:05.254Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -70,7 +108,7 @@
     "thumbnail": "https://i.ytimg.com/vi/gUovtqbFvQY/hqdefault.jpg",
     "addedAt": "2026-03-18T07:00:08.119Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -89,7 +127,7 @@
     "thumbnail": "https://i.ytimg.com/vi/T8mPddH9rhk/hqdefault.jpg",
     "addedAt": "2026-03-17T07:00:04.087Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -108,7 +146,7 @@
     "thumbnail": "https://i.ytimg.com/vi/m1EhMxf-SFY/hqdefault.jpg",
     "addedAt": "2026-03-16T07:00:04.396Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -127,7 +165,7 @@
     "thumbnail": "https://i.ytimg.com/vi/wpcGipJhOT4/hqdefault.jpg",
     "addedAt": "2026-03-16T07:00:07.026Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -146,7 +184,7 @@
     "thumbnail": "https://i.ytimg.com/vi/3Hz50mo1G64/hqdefault.jpg",
     "addedAt": "2026-03-13T07:00:07.044Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -165,7 +203,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VSlEqmSYSMU/hqdefault.jpg",
     "addedAt": "2026-03-13T07:00:04.183Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -184,7 +222,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ByiCAtSRwiM/hqdefault.jpg",
     "addedAt": "2026-03-12T07:00:03.684Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -203,7 +241,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Jdt6x71RH8s/hqdefault.jpg",
     "addedAt": "2026-03-12T07:00:06.372Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -222,7 +260,7 @@
     "thumbnail": "https://i.ytimg.com/vi/cfxQZ5-y9bs/hqdefault.jpg",
     "addedAt": "2026-03-11T07:00:08.044Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -241,7 +279,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZdAYIzYtQfU/hqdefault.jpg",
     "addedAt": "2026-03-11T07:00:05.351Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -260,7 +298,7 @@
     "thumbnail": "https://i.ytimg.com/vi/G9g3-RSMnKs/hqdefault.jpg",
     "addedAt": "2026-03-10T07:00:04.397Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -279,7 +317,7 @@
     "thumbnail": "https://i.ytimg.com/vi/KSum1ya_yWQ/hqdefault.jpg",
     "addedAt": "2026-03-09T07:00:07.980Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -298,7 +336,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ecOz5O2u9WY/hqdefault.jpg",
     "addedAt": "2026-03-09T07:00:05.129Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -317,7 +355,7 @@
     "thumbnail": "https://i.ytimg.com/vi/rk3Jn_fSwVs/hqdefault.jpg",
     "addedAt": "2026-03-06T07:00:04.637Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -336,7 +374,7 @@
     "thumbnail": "https://i.ytimg.com/vi/URrzWTpJcLY/hqdefault.jpg",
     "addedAt": "2026-03-06T07:00:07.606Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -355,7 +393,7 @@
     "thumbnail": "https://i.ytimg.com/vi/YKGpqDFNCe8/hqdefault.jpg",
     "addedAt": "2026-03-05T07:00:05.305Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -374,7 +412,7 @@
     "thumbnail": "https://i.ytimg.com/vi/bJ4V4ctat00/hqdefault.jpg",
     "addedAt": "2026-03-05T07:00:08.117Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -393,7 +431,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZeMFD-K7_EA/hqdefault.jpg",
     "addedAt": "2026-03-04T07:00:04.767Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -412,7 +450,7 @@
     "thumbnail": "https://i.ytimg.com/vi/t3M4WODs_X0/hqdefault.jpg",
     "addedAt": "2026-03-04T07:00:07.899Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -431,7 +469,7 @@
     "thumbnail": "https://i.ytimg.com/vi/HWHc-Os-oJM/hqdefault.jpg",
     "addedAt": "2026-03-02T07:00:05.541Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -450,7 +488,7 @@
     "thumbnail": "https://i.ytimg.com/vi/uKGEjoATKvA/hqdefault.jpg",
     "addedAt": "2026-03-02T07:00:08.323Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -469,7 +507,7 @@
     "thumbnail": "https://i.ytimg.com/vi/6MWm2SKcsXM/hqdefault.jpg",
     "addedAt": "2026-02-27T07:00:04.778Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -488,7 +526,7 @@
     "thumbnail": "https://i.ytimg.com/vi/0sT6yZ6K3vs/hqdefault.jpg",
     "addedAt": "2026-02-27T07:00:07.408Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -507,7 +545,7 @@
     "thumbnail": "https://i.ytimg.com/vi/QkXSa3I47q0/hqdefault.jpg",
     "addedAt": "2026-02-26T07:00:04.019Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -526,7 +564,7 @@
     "thumbnail": "https://i.ytimg.com/vi/DMpEKKCSQJg/hqdefault.jpg",
     "addedAt": "2026-02-26T07:00:06.821Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -545,7 +583,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zH5bY_3jo4A/hqdefault.jpg",
     "addedAt": "2026-02-25T07:00:05.364Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -564,7 +602,7 @@
     "thumbnail": "https://i.ytimg.com/vi/P-gMtLMlwdQ/hqdefault.jpg",
     "addedAt": "2026-02-25T07:00:08.090Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -583,7 +621,7 @@
     "thumbnail": "https://i.ytimg.com/vi/vF-JYG6S1lU/hqdefault.jpg",
     "addedAt": "2026-02-24T07:00:04.653Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -602,7 +640,7 @@
     "thumbnail": "https://i.ytimg.com/vi/LuzZ2Ry6hyA/hqdefault.jpg",
     "addedAt": "2026-02-23T07:00:07.151Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -621,7 +659,7 @@
     "thumbnail": "https://i.ytimg.com/vi/2wFAgqVx2Kg/hqdefault.jpg",
     "addedAt": "2026-02-23T07:00:04.426Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -640,7 +678,7 @@
     "thumbnail": "https://i.ytimg.com/vi/AL6gpYAVyME/hqdefault.jpg",
     "addedAt": "2026-02-06T07:00:03.931Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -659,7 +697,7 @@
     "thumbnail": "https://i.ytimg.com/vi/N6K04CsoFDI/hqdefault.jpg",
     "addedAt": "2026-02-06T07:00:06.796Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -678,7 +716,7 @@
     "thumbnail": "https://i.ytimg.com/vi/H1vqPrxIVPM/hqdefault.jpg",
     "addedAt": "2026-02-05T07:00:04.772Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -697,7 +735,7 @@
     "thumbnail": "https://i.ytimg.com/vi/mhWWq5iyJ4Y/hqdefault.jpg",
     "addedAt": "2026-02-05T07:00:07.595Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -716,7 +754,7 @@
     "thumbnail": "https://i.ytimg.com/vi/edf1aVjoET8/hqdefault.jpg",
     "addedAt": "2026-02-04T07:00:05.035Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -735,7 +773,7 @@
     "thumbnail": "https://i.ytimg.com/vi/uJyQdr3VeoM/hqdefault.jpg",
     "addedAt": "2026-02-04T07:00:07.798Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -754,7 +792,7 @@
     "thumbnail": "https://i.ytimg.com/vi/-NK5Z7UJWmA/hqdefault.jpg",
     "addedAt": "2026-02-03T07:00:04.033Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -773,7 +811,7 @@
     "thumbnail": "https://i.ytimg.com/vi/GatNyfbZmJA/hqdefault.jpg",
     "addedAt": "2026-02-02T07:00:04.753Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -792,7 +830,7 @@
     "thumbnail": "https://i.ytimg.com/vi/w2wMfX-CSxg/hqdefault.jpg",
     "addedAt": "2026-02-02T07:00:07.548Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -811,7 +849,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZbUA4k2g20U/hqdefault.jpg",
     "addedAt": "2026-01-30T07:00:04.005Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -830,7 +868,7 @@
     "thumbnail": "https://i.ytimg.com/vi/6FRX7uN8Hhc/hqdefault.jpg",
     "addedAt": "2026-01-30T07:00:06.763Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -849,7 +887,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ejym3W63lyc/hqdefault.jpg",
     "addedAt": "2026-01-29T07:00:04.780Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -868,7 +906,7 @@
     "thumbnail": "https://i.ytimg.com/vi/_N7j2qjYWb0/hqdefault.jpg",
     "addedAt": "2026-01-29T07:00:07.711Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -887,7 +925,7 @@
     "thumbnail": "https://i.ytimg.com/vi/hLxOz4DzH1k/hqdefault.jpg",
     "addedAt": "2026-01-28T07:00:07.430Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -906,45 +944,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ZWCAaJl-1BY/hqdefault.jpg",
     "addedAt": "2026-01-28T07:00:04.670Z",
     "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "aM0TlXE5rYo",
-    "title": "20260127 公視手語新聞 完整版｜顧立雄籲國防特別條例速付委 民眾黨自提版本刪減預算上限",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-01-27T05:00:19Z",
-    "thumbnail": "https://i.ytimg.com/vi/aM0TlXE5rYo/hqdefault.jpg",
-    "addedAt": "2026-01-27T07:00:04.258Z",
-    "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "zM-WucJZ63o",
-    "title": "20260127 公視AI手語天氣報導 ｜東北季風增強伴隨華南雲雨區東移 天氣轉濕冷",
-    "description": "今天東北季風增強，北部及東北部的氣溫下降，而明天受到東北季風的影響，北部及東北部的天氣偏冷，其他地區早晚也會比較冷。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-01-27T01:41:20Z",
-    "thumbnail": "https://i.ytimg.com/vi/zM-WucJZ63o/hqdefault.jpg",
-    "addedAt": "2026-01-27T07:00:07.294Z",
-    "processingStatus": {
-      "lastUpdated": "2026-03-19T07:00:10.083Z",
+      "lastUpdated": "2026-03-20T07:00:09.559Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
