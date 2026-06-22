@@ -1,5 +1,220 @@
 [
   {
+    "id": "Wioj1To-n_E",
+    "title": "20260619 公視手語新聞 完整版｜聰校聾師不足 手語傳承危機 國家語言會議定下5年政策方向",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-19T01:46:49Z",
+    "thumbnail": "https://i.ytimg.com/vi/Wioj1To-n_E/hqdefault.jpg",
+    "addedAt": "2026-06-19T07:00:03.687Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\nWARNING: [youtube] Wioj1To-n_E: nsig extraction failed: Some formats may be missing\n         n = NUxAk3RAUXYQ6-c ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] Wioj1To-n_E: nsig extraction failed: Some formats may be missing\n         n = pd3p_QzLWd13EAN ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] Wioj1To-n_E: nsig extraction failed: Some formats may be missing\n         n = Ot7FASghBQoNlQH ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] Wioj1To-n_E: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] Wioj1To-n_E: nsig extraction failed: Some formats may be missing\n         n = Edhwp-UUJvhjIly ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] Wioj1To-n_E: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] Wioj1To-n_E: Requested format is not available. Use --list-formats for a list of available formats\n",
+      "errorAt": "2026-06-19T07:00:20.657Z"
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "sGm8TczWttY",
+    "title": "20260619 公視AI手語天氣報導｜今各地晴到多雲 午後大台北.東北部雷陣雨",
+    "description": "今天今天台灣各地及澎湖、金門、馬祖大多是晴到多雲，午後大台北、東北部地區及其他山區會有局部短暫雷陣雨，山區會有局部較大雨勢發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-19T01:44:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/sGm8TczWttY/hqdefault.jpg",
+    "addedAt": "2026-06-19T07:00:06.823Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": true,
+      "needsWhisperProcessing": true,
+      "needsClassification": true,
+      "whisperProcessed": false,
+      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\nWARNING: [youtube] sGm8TczWttY: nsig extraction failed: Some formats may be missing\n         n = BgSM6utW0TeXlyn ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] sGm8TczWttY: Some tv client https formats have been skipped as they are missing a url. YouTube may have enabled the SABR-only or Server-Side Ad Placement experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] sGm8TczWttY: nsig extraction failed: Some formats may be missing\n         n = XdnyfVYZlhZwP2s ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] sGm8TczWttY: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] sGm8TczWttY: nsig extraction failed: Some formats may be missing\n         n = NiD8R9udpkwsT9p ; player = https://www.youtube.com/s/player/ac678d18/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] sGm8TczWttY: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] sGm8TczWttY: Requested format is not available. Use --list-formats for a list of available formats\n",
+      "errorAt": "2026-06-19T07:00:35.860Z"
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "gL3QlIrMBr4",
+    "title": "20260618公視手語新聞 完整版（無網路版權內容除外）｜美伊19日瑞士簽諒解備忘錄 14點協議內容曝光",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-18T02:31:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/gL3QlIrMBr4/hqdefault.jpg",
+    "addedAt": "2026-06-18T07:00:03.803Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "rsW8Ueki8vc",
+    "title": "20260617 公視手語新聞 完整版｜IG、Threads帳號停權災情擴大 Meta誤判＂未滿13歲＂",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-17T02:22:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/rsW8Ueki8vc/hqdefault.jpg",
+    "addedAt": "2026-06-17T07:00:05.353Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "OeV4QOQENRU",
+    "title": "20260617 公視AI手語天氣報導｜西南風影響 水氣仍多 留意局部雷雨",
+    "description": "今天受到西南風影響，台灣中南部地區及澎湖、金門、馬祖仍然會有局部短暫陣雨或雷雨，其他地區則是多雲，午後會有局部短暫雷陣雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-17T01:46:24Z",
+    "thumbnail": "https://i.ytimg.com/vi/OeV4QOQENRU/hqdefault.jpg",
+    "addedAt": "2026-06-17T07:00:08.139Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "lZfFwE7Iw3k",
+    "title": "20260616 公視手語新聞 完整版｜美伊停火達共識 6／19瑞士簽諒解備忘錄",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-16T02:46:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/lZfFwE7Iw3k/hqdefault.jpg",
+    "addedAt": "2026-06-16T07:00:04.342Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "BF9vGeHyLDw",
+    "title": "20260616 公視AI手語天氣報導｜鋒面位於北部海面 西南風影響 留意雷雨及較劇烈天氣",
+    "description": "今天和明天受到鋒面逐漸遠離及西南風的影響；今天的環境水氣仍然偏多，台灣中南部地區會有短暫陣雨或局部雷雨，並且會有局部大雨發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-16T01:43:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/BF9vGeHyLDw/hqdefault.jpg",
+    "addedAt": "2026-06-16T07:00:07.359Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "VOskZ9VhSzc",
+    "title": "20260615 公視手語新聞 完整版｜首屆台灣手語貢獻獎 顧玉山獲殊榮",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-15T03:20:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/VOskZ9VhSzc/hqdefault.jpg",
+    "addedAt": "2026-06-15T07:00:04.430Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "RF0xxsVo3rc",
+    "title": "20260615 公視AI手語天氣報導｜鋒面位於北部海面 西南風影響 留意雷雨及較劇烈天氣",
+    "description": "今天鋒面位於台灣北部海面、並且受到西南風影響，台灣中南部地區及澎湖、金門、馬祖會有陣雨或雷雨，並且會有局部大雨或短延時豪雨發生的機率，北部及東北部地區則會有短暫陣雨或雷雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-15T01:36:53Z",
+    "thumbnail": "https://i.ytimg.com/vi/RF0xxsVo3rc/hqdefault.jpg",
+    "addedAt": "2026-06-15T07:00:07.296Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "wgj6Acb0vJo",
+    "title": "20260612 公視手語新聞 完整版｜政院加重毒駕刑責草案出爐 累犯致死者最重可判無期徒刑",
+    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-12T02:43:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/wgj6Acb0vJo/hqdefault.jpg",
+    "addedAt": "2026-06-12T07:00:04.332Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
+    "id": "MO1RNn5Je1I",
+    "title": "20260612 公視AI手語天氣報導｜鋒面影響 西半部留意強降雨 晚起雨勢緩",
+    "description": "今天受到鋒面影響，台灣西半部地區有陣雨或局部雷雨，並且會有局部大雨發生的機率，其他地區及澎湖、金門、馬祖則會有短暫陣雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+    "publishedAt": "2026-06-12T01:51:41Z",
+    "thumbnail": "https://i.ytimg.com/vi/MO1RNn5Je1I/hqdefault.jpg",
+    "addedAt": "2026-06-12T07:00:07.288Z",
+    "processingStatus": {
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
+    },
+    "stats": {
+      "transcriptSegments": 0,
+      "signLanguageGroups": 0,
+      "hasSignLanguage": false
+    }
+  },
+  {
     "id": "iF7lUueT1ec",
     "title": "20260611公視手語新聞 完整版（無網路版權內容除外）｜台灣總人口連29個月負成長 5月新生兒僅6832人",
     "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
@@ -7,13 +222,10 @@
     "thumbnail": "https://i.ytimg.com/vi/iF7lUueT1ec/hqdefault.jpg",
     "addedAt": "2026-06-11T07:00:04.714Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.498Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/ce74690f/player_ias.vflset/en_US/base.js\nWARNING: [youtube] iF7lUueT1ec: nsig extraction failed: Some formats may be missing\n         n = 4WfnPTxU_Y6-ZH_ ; player = https://www.youtube.com/s/player/ce74690f/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] iF7lUueT1ec: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] iF7lUueT1ec: nsig extraction failed: Some formats may be missing\n         n = 7dfT1_NGKB3jXcH ; player = https://www.youtube.com/s/player/ce74690f/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] iF7lUueT1ec: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 96. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 95. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 94. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 92. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] iF7lUueT1ec: Requested format is not available. Use --list-formats for a list of available formats\n",
-      "errorAt": "2026-06-11T07:00:21.242Z"
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "stats": {
       "transcriptSegments": 0,
@@ -29,13 +241,10 @@
     "thumbnail": "https://i.ytimg.com/vi/YLDZ8aIawmU/hqdefault.jpg",
     "addedAt": "2026-06-11T07:00:07.495Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.498Z",
-      "isNew": true,
-      "needsWhisperProcessing": true,
-      "needsClassification": true,
-      "whisperProcessed": false,
-      "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/ce74690f/player_ias.vflset/en_US/base.js\nWARNING: [youtube] YLDZ8aIawmU: nsig extraction failed: Some formats may be missing\n         n = fSV_SqwSrg-Tsl8 ; player = https://www.youtube.com/s/player/ce74690f/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] YLDZ8aIawmU: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] YLDZ8aIawmU: nsig extraction failed: Some formats may be missing\n         n = M22DmwRaRAvYxWe ; player = https://www.youtube.com/s/player/ce74690f/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] YLDZ8aIawmU: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 301. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 300. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 93. Skipping...\nERROR: \r[download] Got error: HTTP Error 403: Forbidden\nERROR: fragment 1 not found, unable to continue\nWARNING: Unable to download format 91. Skipping...\nERROR: [youtube] YLDZ8aIawmU: Requested format is not available. Use --list-formats for a list of available formats\n",
-      "errorAt": "2026-06-11T07:00:35.281Z"
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
+      "isNew": false,
+      "needsWhisperProcessing": false,
+      "needsClassification": false
     },
     "stats": {
       "transcriptSegments": 0,
@@ -51,7 +260,7 @@
     "thumbnail": "https://i.ytimg.com/vi/LAO23iec8Nk/hqdefault.jpg",
     "addedAt": "2026-06-10T07:00:04.006Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.498Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -70,7 +279,7 @@
     "thumbnail": "https://i.ytimg.com/vi/g9sIPDFOEOY/hqdefault.jpg",
     "addedAt": "2026-06-10T07:00:06.778Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -89,7 +298,7 @@
     "thumbnail": "https://i.ytimg.com/vi/j1knoGVn-i0/hqdefault.jpg",
     "addedAt": "2026-06-09T07:00:04.094Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -108,7 +317,7 @@
     "thumbnail": "https://i.ytimg.com/vi/n-IIUfBbutQ/hqdefault.jpg",
     "addedAt": "2026-06-09T07:00:06.933Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -127,7 +336,7 @@
     "thumbnail": "https://i.ytimg.com/vi/knUeo7lMyjs/hqdefault.jpg",
     "addedAt": "2026-06-08T07:00:04.410Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -146,7 +355,7 @@
     "thumbnail": "https://i.ytimg.com/vi/RhuHwSckeUQ/hqdefault.jpg",
     "addedAt": "2026-06-08T07:00:07.287Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -165,7 +374,7 @@
     "thumbnail": "https://i.ytimg.com/vi/iqS6bU_0HJU/hqdefault.jpg",
     "addedAt": "2026-06-05T07:00:04.332Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -184,7 +393,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Q792o-SxSMI/hqdefault.jpg",
     "addedAt": "2026-06-05T07:00:07.181Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -203,7 +412,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Hqdf1LIW_Jg/hqdefault.jpg",
     "addedAt": "2026-06-04T07:00:04.238Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -222,7 +431,7 @@
     "thumbnail": "https://i.ytimg.com/vi/LvmYxlc8Y44/hqdefault.jpg",
     "addedAt": "2026-06-03T07:00:05.454Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -241,7 +450,7 @@
     "thumbnail": "https://i.ytimg.com/vi/G-wtFyXl8HQ/hqdefault.jpg",
     "addedAt": "2026-06-03T07:00:08.635Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -260,7 +469,7 @@
     "thumbnail": "https://i.ytimg.com/vi/mIujJTq5CUo/hqdefault.jpg",
     "addedAt": "2026-06-02T07:00:03.779Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -279,7 +488,7 @@
     "thumbnail": "https://i.ytimg.com/vi/B0zMOy0qNQQ/hqdefault.jpg",
     "addedAt": "2026-06-02T07:00:06.291Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -298,7 +507,7 @@
     "thumbnail": "https://i.ytimg.com/vi/LmCZluJF418/hqdefault.jpg",
     "addedAt": "2026-06-01T07:00:04.458Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -317,7 +526,7 @@
     "thumbnail": "https://i.ytimg.com/vi/oQMT4tmdv9k/hqdefault.jpg",
     "addedAt": "2026-06-01T07:00:07.601Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -336,7 +545,7 @@
     "thumbnail": "https://i.ytimg.com/vi/s6ePkXdRCt8/hqdefault.jpg",
     "addedAt": "2026-05-29T07:00:06.289Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -355,7 +564,7 @@
     "thumbnail": "https://i.ytimg.com/vi/eylpaX1hhTc/hqdefault.jpg",
     "addedAt": "2026-05-29T07:00:09.382Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -374,7 +583,7 @@
     "thumbnail": "https://i.ytimg.com/vi/T3xfF3TGKjA/hqdefault.jpg",
     "addedAt": "2026-05-28T07:00:04.512Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -393,7 +602,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Sokt9nkCnmo/hqdefault.jpg",
     "addedAt": "2026-05-28T07:00:07.478Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -412,7 +621,7 @@
     "thumbnail": "https://i.ytimg.com/vi/TN5Lddq1s6w/hqdefault.jpg",
     "addedAt": "2026-05-27T07:00:04.781Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -431,7 +640,7 @@
     "thumbnail": "https://i.ytimg.com/vi/OYn0FGaufhw/hqdefault.jpg",
     "addedAt": "2026-05-27T07:00:07.755Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -450,7 +659,7 @@
     "thumbnail": "https://i.ytimg.com/vi/qU-S5DsjjiU/hqdefault.jpg",
     "addedAt": "2026-05-26T07:00:05.184Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -469,7 +678,7 @@
     "thumbnail": "https://i.ytimg.com/vi/sT3Sprek9nw/hqdefault.jpg",
     "addedAt": "2026-05-26T07:00:07.966Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -488,7 +697,7 @@
     "thumbnail": "https://i.ytimg.com/vi/oxcM7UEKp2U/hqdefault.jpg",
     "addedAt": "2026-05-25T07:00:04.681Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -507,7 +716,7 @@
     "thumbnail": "https://i.ytimg.com/vi/KE79ZJj-2pA/hqdefault.jpg",
     "addedAt": "2026-05-25T07:00:07.531Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -526,7 +735,7 @@
     "thumbnail": "https://i.ytimg.com/vi/fL9w3Y5yc9g/hqdefault.jpg",
     "addedAt": "2026-05-22T07:00:04.235Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -545,7 +754,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Bd17EBbD79E/hqdefault.jpg",
     "addedAt": "2026-05-22T07:00:07.200Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -564,7 +773,7 @@
     "thumbnail": "https://i.ytimg.com/vi/TF7JumweyoU/hqdefault.jpg",
     "addedAt": "2026-05-21T07:00:05.279Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -583,7 +792,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ce7nzqcz1bE/hqdefault.jpg",
     "addedAt": "2026-05-21T07:00:08.163Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -602,7 +811,7 @@
     "thumbnail": "https://i.ytimg.com/vi/4TXs2l34CJE/hqdefault.jpg",
     "addedAt": "2026-05-20T07:00:04.758Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -621,7 +830,7 @@
     "thumbnail": "https://i.ytimg.com/vi/gw_PeEgkFtw/hqdefault.jpg",
     "addedAt": "2026-05-20T07:00:07.707Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -640,7 +849,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ly9Fo_WP9s0/hqdefault.jpg",
     "addedAt": "2026-05-19T07:00:04.985Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -659,7 +868,7 @@
     "thumbnail": "https://i.ytimg.com/vi/GP1ak4YcniU/hqdefault.jpg",
     "addedAt": "2026-05-19T07:00:07.692Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -678,7 +887,7 @@
     "thumbnail": "https://i.ytimg.com/vi/3772z7VGNrI/hqdefault.jpg",
     "addedAt": "2026-05-18T07:00:04.496Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -697,7 +906,7 @@
     "thumbnail": "https://i.ytimg.com/vi/i_cYf5jm7r4/hqdefault.jpg",
     "addedAt": "2026-05-15T07:00:04.271Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -716,7 +925,7 @@
     "thumbnail": "https://i.ytimg.com/vi/gj9I2rjOGA0/hqdefault.jpg",
     "addedAt": "2026-05-14T07:00:05.198Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
@@ -735,216 +944,7 @@
     "thumbnail": "https://i.ytimg.com/vi/giJiJ8Xylfg/hqdefault.jpg",
     "addedAt": "2026-05-14T07:00:08.038Z",
     "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "hVEjvLgjE14",
-    "title": "20260513 公視手語新聞 完整版｜賴清德拍板 三班護病比明年5月20日上路",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-13T05:10:56Z",
-    "thumbnail": "https://i.ytimg.com/vi/hVEjvLgjE14/hqdefault.jpg",
-    "addedAt": "2026-05-13T07:00:04.975Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "hzruzCEUtyg",
-    "title": "20260513 公視AI手語天氣報導｜鋒面影響 天氣不穩定 北部局部大雨",
-    "description": "今天和明天受到滯留鋒面影響；今天台灣北部地區會有陣雨或局部雷雨，中部、東半部地區及金門、馬祖則有局部短暫陣雨或雷雨，北部地區及金門還會有局部大雨發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-13T01:57:19Z",
-    "thumbnail": "https://i.ytimg.com/vi/hzruzCEUtyg/hqdefault.jpg",
-    "addedAt": "2026-05-13T07:00:07.820Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "wXAo_zXffcs",
-    "title": "20260512 公視手語新聞 完整版｜花蓮林田山眷舍大火 3棟受波及幸無傷",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-12T05:21:17Z",
-    "thumbnail": "https://i.ytimg.com/vi/wXAo_zXffcs/hqdefault.jpg",
-    "addedAt": "2026-05-12T07:00:04.639Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "4K7alTlv1k4",
-    "title": "20260512 公視AI手語天氣報導｜滯留鋒面建立、逐漸接近 各地天氣轉不穩定",
-    "description": "今天和明天受到滯留鋒面的影響，今天台灣東部及東南部地區會有局部短暫陣雨，中部以北、東北部地區以及金門、馬祖會有零星短暫陣雨，其他地區及澎湖則是多雲。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-12T01:41:17Z",
-    "thumbnail": "https://i.ytimg.com/vi/4K7alTlv1k4/hqdefault.jpg",
-    "addedAt": "2026-05-12T07:00:07.610Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "y7-i-iNeeCA",
-    "title": "20260511 公視手語新聞 完整版（無網路版權內容除外）｜台南研醫明診所也涉裝針孔 檢警介入調查、負責人交保",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-11T02:51:09Z",
-    "thumbnail": "https://i.ytimg.com/vi/y7-i-iNeeCA/hqdefault.jpg",
-    "addedAt": "2026-05-11T07:00:04.330Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "lbWUW-R1FOw",
-    "title": "20260508 公視手語新聞 完整版｜醫美診所涉針孔偷拍案 愛爾麗集團致歉允全面退費",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-08T02:55:31Z",
-    "thumbnail": "https://i.ytimg.com/vi/lbWUW-R1FOw/hqdefault.jpg",
-    "addedAt": "2026-05-08T07:00:04.434Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "4763z-W63uE",
-    "title": "20260508 公視AI手語天氣報導｜鋒面通過 東北季風稍增強 迎風面北東易降雨",
-    "description": "今天受到鋒面通過及東北季風稍微增強的影響，氣溫稍微下降；台灣北部地區及金門、馬祖會有短暫陣雨或局部雷雨，東半部地區及澎湖則會有局部短暫陣雨或雷雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-08T01:37:21Z",
-    "thumbnail": "https://i.ytimg.com/vi/4763z-W63uE/hqdefault.jpg",
-    "addedAt": "2026-05-08T07:00:07.259Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "cZ49cpz7zfI",
-    "title": "20260507 公視手語新聞 完整版｜愛爾麗診所涉裝針孔 總裁常如山遭拘提",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-07T04:39:04Z",
-    "thumbnail": "https://i.ytimg.com/vi/cZ49cpz7zfI/hqdefault.jpg",
-    "addedAt": "2026-05-07T07:00:05.347Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "IU7WzVUc6M4",
-    "title": "20260507 公視AI手語天氣報導｜多雲到晴 午後局部短暫陣雨 感受偏熱 防曬補水",
-    "description": "今天台灣各地及澎湖、金門、馬祖大多是多雲到晴，只有恆春半島有零星短暫陣雨，午後東半部、大台北地區及其他山區會有局部短暫陣雨，晚間開始東部及東南部地區仍然會有局部短暫陣雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-07T01:36:51Z",
-    "thumbnail": "https://i.ytimg.com/vi/IU7WzVUc6M4/hqdefault.jpg",
-    "addedAt": "2026-05-07T07:00:08.546Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "W2nBgho0IeA",
-    "title": "20260506 公視手語新聞 完整版｜蕭美琴用裝鐵窗喻軍購 每人每年6千元 生命無價",
-    "description": "詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-06T02:03:39Z",
-    "thumbnail": "https://i.ytimg.com/vi/W2nBgho0IeA/hqdefault.jpg",
-    "addedAt": "2026-05-06T07:00:05.095Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
-      "isNew": false,
-      "needsWhisperProcessing": false,
-      "needsClassification": false
-    },
-    "stats": {
-      "transcriptSegments": 0,
-      "signLanguageGroups": 0,
-      "hasSignLanguage": false
-    }
-  },
-  {
-    "id": "TVSOxUfWUt0",
-    "title": "20260506 公視AI手語天氣報導｜西半部漸轉多雲到晴 東半部雲多偶雨 氣溫回升",
-    "description": "今天開始氣溫回升；今天和明天台灣東半部地區、恆春半島及澎湖會有局部短暫陣雨，其他地區及金門、馬祖則是多雲到晴，午後各地山區會有局部短暫陣雨。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
-    "publishedAt": "2026-05-06T01:53:31Z",
-    "thumbnail": "https://i.ytimg.com/vi/TVSOxUfWUt0/hqdefault.jpg",
-    "addedAt": "2026-05-06T07:00:08.060Z",
-    "processingStatus": {
-      "lastUpdated": "2026-06-11T07:00:09.499Z",
+      "lastUpdated": "2026-06-19T07:00:08.825Z",
       "isNew": false,
       "needsWhisperProcessing": false,
       "needsClassification": false
