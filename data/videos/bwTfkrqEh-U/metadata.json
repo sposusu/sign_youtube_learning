@@ -1,0 +1,17 @@
+{
+  "id": "bwTfkrqEh-U",
+  "title": "20260706 公視AI手語天氣報導｜晴朗炎熱防曬補水 北部、南投及各山區留意午後降雨",
+  "description": "今天臺灣各地及澎湖、金門、馬祖大多為晴到多雲，僅東南部地區及恆春半島有零星短暫陣雨，午後北部、南投地區及其他山區有局部短暫雷陣雨。\n\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2026-07-06T01:48:53Z",
+  "thumbnail": "https://i.ytimg.com/vi/bwTfkrqEh-U/hqdefault.jpg",
+  "addedAt": "2026-07-06T07:00:05.177Z",
+  "processingStatus": {
+    "lastUpdated": "2026-07-06T07:00:09.884Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": false,
+    "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/4918c89a/player_ias.vflset/en_US/base.js\nWARNING: [youtube] bwTfkrqEh-U: nsig extraction failed: Some formats may be missing\n         n = wGNFr3Ne-jvZ_09 ; player = https://www.youtube.com/s/player/4918c89a/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] bwTfkrqEh-U: nsig extraction failed: Some formats may be missing\n         n = dV3wc2B423yFRMD ; player = https://www.youtube.com/s/player/4918c89a/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] bwTfkrqEh-U: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] bwTfkrqEh-U: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] bwTfkrqEh-U: Requested format is not available. Use --list-formats for a list of available formats\n",
+    "errorAt": "2026-07-06T07:00:15.173Z"
+  }
+}
