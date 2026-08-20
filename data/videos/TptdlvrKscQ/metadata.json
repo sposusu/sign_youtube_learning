@@ -6,12 +6,9 @@
   "thumbnail": "https://i.ytimg.com/vi/TptdlvrKscQ/hqdefault.jpg",
   "addedAt": "2026-08-19T07:00:05.388Z",
   "processingStatus": {
-    "lastUpdated": "2026-08-19T07:00:10.332Z",
-    "isNew": true,
-    "needsWhisperProcessing": true,
-    "needsClassification": true,
-    "whisperProcessed": false,
-    "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] Falling back to generic n function search\n         player = https://www.youtube.com/s/player/3891b194/player_ias.vflset/en_US/base.js\nWARNING: [youtube] TptdlvrKscQ: nsig extraction failed: Some formats may be missing\n         n = 4Ag4eyw-j0nnNSQ ; player = https://www.youtube.com/s/player/3891b194/player_ias.vflset/en_US/base.js\n         Please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\nWARNING: [youtube] TptdlvrKscQ: Some tv client https formats have been skipped as they are missing a url. YouTube may have enabled the SABR-only or Server-Side Ad Placement experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] TptdlvrKscQ: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] TptdlvrKscQ: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] TptdlvrKscQ: Requested format is not available. Use --list-formats for a list of available formats\n",
-    "errorAt": "2026-08-19T07:00:31.095Z"
+    "lastUpdated": "2026-08-20T07:00:08.509Z",
+    "isNew": false,
+    "needsWhisperProcessing": false,
+    "needsClassification": false
   }
 }
