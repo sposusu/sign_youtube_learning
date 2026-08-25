@@ -1,0 +1,17 @@
+{
+  "id": "r8V_QvNTH4w",
+  "title": "20260825 公視AI手語天氣報導｜水氣仍多 嘉義以南、東半部及北海岸留意局部大雨",
+  "description": "今天受到低壓帶影響，水氣仍然比較多，臺灣嘉義以南、東半部地區及澎湖、金門、馬祖會有局部短暫陣雨或雷雨，並且容易有局部大雨發生，清晨基隆北海岸也會有局部大雨發生的機率。接著來看各地的詳細資料。\n\n詳細新聞內容請見【公視新聞網】 https://news.pts.org.tw\n\n-\n由台灣公共電視新聞部製播，提供每日正確、即時的新聞內容及多元觀點。\n因網路播映權限制，完整版影片內容可能與電視版略有不同。\n\n■ 按讚【公視新聞網FB】https://www.facebook.com/pnnpts\n■ 訂閱【公視新聞網IG】https://www.instagram.com/pts.news/\n■ 追蹤【公視新聞網TG】https://t.me/PTS_TW_NEWS\n■ 點擊【公視新聞網】https://news.pts.org.tw\n\n#公視新聞 #即時新聞",
+  "publishedAt": "2026-08-25T02:16:43Z",
+  "thumbnail": "https://i.ytimg.com/vi/r8V_QvNTH4w/hqdefault.jpg",
+  "addedAt": "2026-08-25T07:00:08.480Z",
+  "processingStatus": {
+    "lastUpdated": "2026-08-25T07:00:10.482Z",
+    "isNew": true,
+    "needsWhisperProcessing": true,
+    "needsClassification": true,
+    "whisperProcessed": false,
+    "processingError": "Command failed with code 1: /Users/rohan/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\nDeprecated Feature: Support for Python version 3.9 has been deprecated. Please update to Python 3.10 or above\nWARNING: [youtube] r8V_QvNTH4w: Some web_safari client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nWARNING: [youtube] r8V_QvNTH4w: Some web client https formats have been skipped as they are missing a url. YouTube is forcing SABR streaming for this client. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details\nERROR: [youtube] r8V_QvNTH4w: The page needs to be reloaded.\n",
+    "errorAt": "2026-08-25T07:00:22.444Z"
+  }
+}
